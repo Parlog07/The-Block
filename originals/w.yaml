@@ -1,0 +1,587 @@
+- name: War Thunder
+  external:
+    website: 'http://warthunder.com/'
+    wikipedia: War Thunder
+  platforms:
+  - Linux
+  - OSX
+  - PlayStation 4
+  - PlayStation 5
+  - Windows
+  - Xbox One
+  - Xbox Series S/X
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Flight Simulator
+    - Vehicular Combat
+    themes:
+    - Modern Military
+    - Vietnam
+    - World War I
+    - World War II
+
+- name: War Worlds
+  external:
+    website: 'https://www.war-worlds.com/'
+  platforms:
+  - Android
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: 'Warcraft 2000'
+  names:
+  - 'Warcraft 2000: Nuclear Epidemic'
+  external:
+    website: 'https://www.myabandonware.com/game/warcraft-2000-nuclear-epidemic-bip'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Medieval
+    - Sci-Fi
+
+- name: Warcraft II
+  external:
+    wikipedia: Warcraft II
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Warcraft III
+  external:
+    wikipedia: Warcraft III
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: 'Warcraft: Orcs & Humans'
+  external:
+    wikipedia: 'Warcraft: Orcs & Humans'
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Warfare Incorporated
+  external:
+    website: 'http://www.warfareincorporated.com/'
+    wikipedia: Warfare Incorporated
+  platforms:
+  - Android
+  - iOS
+  - Web
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: 'Warhammer 40,000: Chaos Gate'
+  external:
+    wikipedia: 'Warhammer 40,000: Chaos Gate'
+  meta:
+    genres:
+    - 'Turn-Based Tactics'
+    themes:
+    - Sci-Fi
+  platforms:
+  - Windows
+
+- name: Wario Land 3
+  external:
+    wikipedia: Wario Land 3
+  meta:
+    genres:
+    - Platform
+
+- name: WarioWare
+  external:
+    wikipedia: Wario (series)#WarioWare series
+  meta:
+    genres:
+    - Arcade
+    - Compilation
+
+- name: Warlords II
+  external:
+    wikipedia: Warlords (game series)#Warlords II
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Warrior Kings
+  external:
+    wikipedia: Warrior Kings
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Wars of Napoleon
+  external:
+    website: 'https://hutsellgames.com/wars-of-napoleon/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+
+- name: Warsong
+  external:
+    wikipedia: Warsong
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Fantasy
+
+- name: Warzone 2100
+  external:
+    wikipedia: Warzone 2100
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: WaterRace
+  external:
+    website: >-
+      https://web.archive.org/web/20140420200225/http://www.polhosting.info/web-archives/french-touch/waterrace/
+    wikipedia: WaterRace
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Racing
+
+- name: Waxworks
+  external:
+    website: https://www.mobygames.com/game/1269
+    wikipedia: Waxworks (1992 video game)
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+    - Horror
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Weather War
+  external:
+    website: 'https://www.mobygames.com/game/38874/weather-war/'
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Turn-Based Tactics
+
+- name: Wetlands
+  external:
+    website: https://www.mobygames.com/game/862
+    wikipedia: Wetlands (video game)
+  meta:
+    genres:
+    - Action
+    - Shooter
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+  - OSX
+  - Windows
+
+- name: Where in the World Is Carmen Sandiego? (1985)
+  external:
+    wikipedia: Where in the World Is Carmen Sandiego? (1985)
+  meta:
+    genres:
+    - Puzzle
+
+- name: The White Chamber
+  external:
+    website: https://www.mobygames.com/game/17172
+    wikipedia: The White Chamber
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Anime
+    - Sci-Fi
+    - Horror
+  platforms:
+  - OSX
+  - Windows
+
+- name: 'Will Fight for Food: Super Actual Sellout: Game of the Hour'
+  external:
+    website: 'https://pyrodactyl.com/will-fight-for-food/'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: Willow
+  external:
+    wikipedia: Willow (arcade game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Willy the Worm
+  external:
+    website: 'https://www.mobygames.com/game/896/willy-the-worm/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: 'Wing Commander: Privateer'
+  external:
+    wikipedia: 'Wing Commander: Privateer'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: Wing Commander series
+  external:
+    wikipedia: Wing Commander (franchise)
+  meta:
+    genres:
+    - Action
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: Winnie the Pooh in the Hundred Acre Wood
+  external:
+    website: https://www.mobygames.com/game/7274
+    wikipedia: Winnie the Pooh in the Hundred Acre Wood
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - Commodore 64
+  - DOS
+
+- name: Wipeout
+  external:
+    website: https://web.archive.org/web/19961022191554/http://www.psygnosis.com/games/wipeout.html
+    wikipedia: Wipeout (video game)
+  platforms:
+  - Android
+  - DOS
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Saturn
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Sci-Fi
+
+- name: Witchaven
+  external:
+    wikipedia: Witchaven
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    - RPG
+    themes:
+    - Medieval
+
+- name: 'Witchaven II: Blood Vengeance'
+  external:
+    website: >-
+      https://web.archive.org/20070623181131/http://www.awegames.com/witch2page.html
+    wikipedia: 'Witchaven II: Blood Vengeance'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    - RPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: The Witcher
+  external:
+    wikipedia: The Witcher (video game)
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Wizard
+  external:
+    website: 'https://www.atarimania.com/game-atari-2600-vcs-wizard_11885.html'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Arcade
+
+- name: The Wizard and the Princess
+  names:
+  - 'Hi-Res Adventure #2'
+  - Wizard and the Princess
+  external:
+    website: https://www.mobygames.com/game/1761
+    wikipedia: Wizard and the Princess
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - FM Towns
+  - PC-98
+
+- name: Wizard of Wor
+  external:
+    website: 'https://www.mobygames.com/game/10745/wizard-of-wor/'
+    wikipedia: Wizard of Wor
+  platforms:
+  - Arcade
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+    themes:
+    - Medieval
+
+- name: Wizardry
+  external:
+    wikipedia: Wizardry
+  meta:
+    genres:
+    - RPG
+
+- name: 'Wizardry V: Heart of the Maelstrom'
+  external:
+    website: 'https://www.mobygames.com/game/wizardry-v-heart-of-the-maelstrom'
+    wikipedia: 'Wizardry V: Heart of the Maelstrom'
+  platforms:
+  - Apple II
+  - Commodore 64
+  - FM Towns
+  - PC-98
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Wolfenstein 3D
+  external:
+    website: https://www.mobygames.com/game/306/wolfenstein-3d/
+    wikipedia: Wolfenstein 3D
+  platforms:
+  - Acorn 32-bit
+  - Classic Mac OS
+  - DOS
+  - Game Boy
+  - iOS
+  - PC-98
+  - PlayStation 3
+  - Web
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - FPS
+
+- name: 'Wolfenstein: Enemy Territory'
+  external:
+    website: >-
+      https://web.archive.org/web/20061231053225/http://games.activision.com/games/wolfenstein/
+    wikipedia: 'Wolfenstein: Enemy Territory'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - World War II
+
+- name: Wonderland
+  external:
+    website: https://www.mobygames.com/game/97
+    wikipedia: Wonderland (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Atari
+  - DOS
+
+- name: Word Whiz
+  external:
+    website: 'https://www.mobygames.com/game/14272/word-whiz/'
+    wikipedia: 'List_of_minor_Apogee_Software_video_games#Word_Whiz'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Educational
+
+- name: Wordle
+  external:
+    website: 'https://www.nytimes.com/games/wordle/'
+    wikipedia: Wordle
+  meta:
+    genres:
+    - Puzzle
+
+- name: World Builder
+  external:
+    wikipedia: World Builder
+  platforms:
+  - Classic Mac OS
+  meta:
+    subgenres:
+    - Point and click
+
+- name: World in Conflict
+  external:
+    website: >-
+      https://web.archive.org/web/20190613001643/http://worldinconflict.us.ubi.com/
+    wikipedia: World in Conflict
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Tactics
+
+- name: World of Goo
+  external:
+    wikipedia: World of Goo
+  meta:
+    genres:
+    - Puzzle
+
+- name: World of Warcraft
+  external:
+    wikipedia: World of Warcraft
+  meta:
+    genres:
+    - MMORPG
+    subgenres: []
+    themes:
+    - Fantasy
+
+- name: World Train Royale
+  external:
+    website: 'https://web.archive.org/web/20160401233353/http://versus-software.com/wtr/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+
+- name: World War II In Western Europe
+  external:
+    website: 'https://hutsellgames.com/world-war-ii/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - World War II
+
+- name: 'Worlds of Ultima: The Savage Empire'
+  external:
+    wikipedia: 'Worlds of Ultima: The Savage Empire'
+  meta:
+    genres:
+    - RPG
+
+- name: Worms Series
+  external:
+    wikipedia: Worms (series)
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Worms?
+  external:
+    website: 'https://www.mobygames.com/game/65383/worms/'
+    wikipedia: Worms?
+  platforms:
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle
+
+- name: WWII GI
+  external:
+    wikipedia: WWII GI
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - World War II

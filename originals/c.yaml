@@ -1,0 +1,1516 @@
+- name: C-Dogs
+  external:
+    wikipedia: C-Dogs
+  meta:
+    genres:
+    - Shmup
+    subgenres:
+    - Run and gun
+
+- name: Cadaver
+  external:
+    wikipedia: Cadaver (video game)
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Caesar III
+  external:
+    wikipedia: Caesar III
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    subgenres:
+    - City Building
+    themes:
+    - Management
+
+- name: Cairo ShootOut!
+  external:
+    website: 'https://macintoshgarden.org/games/cairo-shootout'
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Arcade
+
+- name: California Watersports
+  external:
+    website: 'https://www.mobygames.com/game/162437/california-watersports/'
+  platforms:
+  - PlayStation
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Surfing
+
+- name: Call to Power II
+  external:
+    wikipedia: Call to Power II
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Canabalt
+  external:
+    website: 'https://canabalt.com/'
+    wikipedia: Canabalt
+  platforms:
+  - Android
+  - Classic Mac OS
+  - Commodore 64
+  - iOS
+  - Linux
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Web
+  - Windows
+  meta:
+    genres:
+    - Platform
+
+- name: Candy Crisis
+  names:
+  - Skittles
+  external:
+    website: 'https://candycrisis.sourceforge.net/'
+  platforms:
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Puzzle
+
+- name: Candy Crush Saga
+  external:
+    wikipedia: Candy Crush Saga
+  meta:
+    genres:
+    - Puzzle
+
+- name: Cannon Fodder
+  external:
+    wikipedia: Cannon Fodder (series)
+  meta:
+    genres:
+    - Action
+    - Shmup
+
+- name: Captain America and The Avengers
+  names:
+  - キャプテンアメリカアンドジアベンジャーズ
+  external:
+    wikipedia: Captain America and The Avengers
+  platforms:
+  - Arcade
+  - Game Boy
+  - Game Gear
+  - Genesis
+  - NES
+  - SNES
+  meta:
+    genres:
+    - Platform
+    - Shooter
+
+- name: Captain Blood
+  names:
+  - 'Age of Pirates: Captain Blood'
+  external:
+    wikipedia: 'Age of Pirates: Captain Blood'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: 'Captain Tsubasa II: Super Striker'
+  names:
+  - キャプテン翼 II スーパーストライカー
+  external:
+    website: 'https://www.mobygames.com/game/211089/captain-tsubasa-ii-super-striker/'
+    wikipedia: 'Captain Tsubasa Vol. II: Super Striker'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+    themes:
+    - Anime
+
+- name: Carmageddon
+  external:
+    wikipedia: Carmageddon
+  meta:
+    genres:
+    - Racing
+
+- name: Carnivores 2
+  external:
+    website: >-
+      https://web.archive.org/web/20100222025009/https://www.action-forms.com/games/carnivores2/index.htm
+    wikipedia: Carnivores 2
+  platforms:
+  - Android
+  - iOS
+  - PlayStation 3
+  - PSP
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Sports
+
+- name: Carrier Command
+  external:
+    wikipedia: Carrier Command
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Real-Time Strategy
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Cart Life
+  external:
+    wikipedia: Cart Life
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+
+- name: Castle of the Winds
+  external:
+    wikipedia: Castle of the Winds
+  meta:
+    genres:
+    - Roguelike
+
+- name: Castle of Dr. Brain
+  external:
+    website: https://www.mobygames.com/game/1523
+    wikipedia: Castle of Dr. Brain
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    - Puzzle
+    subgenres:
+    - Point and click
+    themes: []
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+  - PC-98
+
+- name: Castlequest
+  external:
+    website: 'https://www.mobygames.com/game/219631/castlequest/'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+
+- name: Castlevania
+  names:
+  - Akumajō Dracula
+  - 悪魔城ドラキュラ
+  external:
+    website: 'https://www.mobygames.com/game/2062/castlevania/'
+    wikipedia: Castlevania (1986 video game)
+  platforms:
+  - 3DS
+  - Amiga
+  - Arcade
+  - Commodore 64
+  - DOS
+  - GBA
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Wii
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Horror
+
+- name: The Castles of Dr. Creep
+  external:
+    wikipedia: The Castles of Dr. Creep
+  meta:
+    genres:
+    - Arcade
+
+- name: "Castlevania III: Dracula's Curse"
+  external:
+    website: 'https://www.mobygames.com/game/7415/castlevania-iii-draculas-curse/'
+    wikipedia: "Castlevania III: Dracula's Curse"
+  platforms:
+  - 3DS
+  - NES
+  - Wii
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Horror
+
+- name: Cataclysm
+  external:
+    website: http://cataclysmrl.blogspot.com/
+  meta:
+    genres:
+    - Roguelike
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Catacomb
+  names:
+  - Catacomb II
+  external:
+    wikipedia: Catacomb (video game)
+  meta:
+    genres:
+    - Action
+    - TPS
+    themes:
+    - Fantasy
+
+- name: Catacomb 3-D
+  names:
+  - Catacomb Adventure Series
+  external:
+    wikipedia: Catacomb 3-D
+  meta:
+    genres:
+    - Action
+    - FPS
+    themes:
+    - Fantasy
+
+- name: Cave Story
+  external:
+    wikipedia: Cave Story
+  meta:
+    genres:
+    - Adventure
+    - Platform
+    themes:
+    - Sci-Fi
+  names:
+  - Doukutsu Monogatari
+
+- name: The Caverns of Freitag
+  external:
+    website: >-
+      https://crpgaddict.blogspot.com/2014/01/game-130-caverns-of-freitag-1982.html
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: Celeste Classic
+  names:
+  - Celeste
+  external:
+    wikipedia: Celeste (video game)
+  platforms:
+  - Linux
+  - Classic Mac OS
+  - Windows
+  - Nintendo Switch
+  - PlayStation 4
+  - Xbox One
+  meta:
+    genres:
+    - Platform
+
+- name: Centipede
+  external:
+    website: 'https://www.mobygames.com/game/141/centipede/'
+    wikipedia: Centipede (video game)
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Fantasy
+
+- name: Chain Reaction
+  external:
+    website: 'https://www.mobygames.com/game/70827/chain-reaction/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Strategy
+
+- name: 'Chaos: The Battle of Wizards'
+  external:
+    website: 'https://www.mobygames.com/game/16724/chaos/'
+    wikipedia: 'Chaos: The Battle of Wizards'
+  platforms:
+  - Android
+  - iOS
+  - ZX Spectrum
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Fantasy
+
+- name: Chaos;Head
+  names:
+  - Chaos;Head Noah
+  external:
+    website: 'https://www.nitroplus.co.jp/pc/lineup/into_15/top.php'
+    wikipedia: Chaos;Head
+  platforms:
+  - Android
+  - iOS
+  - Nintendo Switch
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Visual Novel
+    themes:
+    - Anime
+
+- name: 'Chasm: The Rift'
+  names:
+  - 'Chasm: The Shadow Zone'
+  external:
+    website: 'https://www.mobygames.com/game/2691'
+    wikipedia: 'Chasm: The Rift'
+  platforms:
+  - DOS
+  - Nintendo Switch
+  - PlayStation 4
+  - PlayStation 5
+  - Windows
+  - Xbox One
+  - Xbox Series S/X
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Checkered Flag
+  external:
+    website: https://www.mobygames.com/game/6738/checkered-flag/
+    wikipedia: Checkered Flag (1994 video game)
+  platforms:
+  - Atari
+  - Jaguar
+  meta:
+    genres:
+    - Racing
+
+- name: 'Chewy: Esc from F5'
+  external:
+    website: https://www.mobygames.com/game/2339
+    wikipedia: 'Chewy: Esc from F5'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+
+- name: Chimaera
+  external:
+    website: 'http://www.mipmip.org/chimaera/'
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+
+- name: Chip's Challenge
+  external:
+    website: https://www.mobygames.com/game/5012/chips-challenge/
+    wikipedia: Chip's Challenge
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - Genesis
+  - Lynx
+  - Nintendo Switch
+  - SNES
+  - Windows
+  - ZX Spectrum
+  meta:
+    genres:
+    - Puzzle
+
+- name: Chivalry is Not Dead
+  external:
+    website: https://wiki.scummvm.org/index.php?title=Chivalry_is_NOT_Dead
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Medieval
+  platforms:
+  - Windows
+
+- external:
+    website: https://www.mobygames.com/game/45110
+    wikipedia: Chop Suey (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  name: Chop Suey
+  platforms:
+  - Classic Mac OS
+  - Web
+  - Windows
+
+- name: Chris Sawyer's Locomotion
+  external:
+    wikipedia: Chris Sawyer's Locomotion
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Strategy
+    - Simulation
+    themes:
+    - Management
+
+- name: Chrono Trigger
+  external:
+    website: 'https://chronotrigger.square-enix-games.com/en-US'
+    wikipedia: Chrono Trigger
+  platforms:
+  - DS
+  - PlayStation
+  - SNES
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - RPG
+    themes:
+    - Anime
+    - Fantasy
+
+- name: ChuChu Rocket!
+  external:
+    website: 'https://web.archive.org/web/20051231231525/http://chu-chu.dricas.ne.jp/'
+    wikipedia: ChuChu Rocket!
+  platforms:
+  - Android
+  - Dreamcast
+  - Game Boy
+  - iOS
+  - Wii
+  meta:
+    genres:
+    - Puzzle
+    - Action
+
+- name: Chuckie Egg
+  external:
+    website: 'https://www.mobygames.com/game/16344/chuckie-egg/'
+    wikipedia: Chuckie Egg
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Android
+  - Atari
+  - Commodore 64
+  - DOS
+  - MSX
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+
+- name: Circus Atari
+  external:
+    wikipedia: Circus (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: City Connection
+  names:
+  - Cruisin'
+  external:
+    website: 'https://www.mobygames.com/game/8334/cruisin/'
+    wikipedia: City Connection
+  platforms:
+  - 3DS
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Wii
+  meta:
+    genres:
+    - Platform
+    - Racing
+
+- name: Civil War Battleset
+  external:
+    website: 'https://hutsellgames.com/civil-war-battleset/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Civil War
+
+- name: Civil War Strategy
+  external:
+    website: 'https://hutsellgames.com/civil-war-strategy/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Civil War
+
+- name: Civilization
+  external:
+    wikipedia: Civilization (video game)
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+
+- name: Civilization II
+  external:
+    wikipedia: Civilization II
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+
+- name: Civilization III
+  external:
+    website: 'https://civilization.2k.com/civ-iii/'
+    wikipedia: Civilization III
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+
+- name: Civilization V
+  external:
+    wikipedia: Civilization V
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+
+- name: Claim Jumper
+  names:
+  - Gold Rush
+  external:
+    website: 'https://ataridogdaze.com/claimjumper/claimjumper.shtml'
+    wikipedia: Claim Jumper (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+    themes:
+    - Western
+
+- name: Clandestiny
+  external:
+    website: https://www.mobygames.com/game/2154
+    wikipedia: Clandestiny
+  meta:
+    genres:
+    - Puzzle
+    subgenres:
+    - Point and click
+  platforms:
+  - Windows
+
+- name: Clannad
+  external:
+    website: 'http://key.visualarts.gr.jp/product/clannad/'
+    wikipedia: Clannad (video game)
+  platforms:
+  - Android
+  - Mobile
+  - Nintendo Switch
+  - PlayStation 2
+  - PlayStation 3
+  - PlayStation 4
+  - PlayStation Vita
+  - Windows
+  - Xbox 360
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Anime
+
+- name: Claw
+  external:
+    wikipedia: Claw (video game)
+  meta:
+    genres:
+    - Platform
+
+- name: Clickomania!
+  external:
+    website: 'https://www.clickomania.ch/click/ClassicClickD.html'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Cliffhanger
+  external:
+    wikipedia: Cliffhanger (video game)
+  platforms:
+  - Amiga
+  - Game Boy
+  - Game Gear
+  - Genesis
+  - NES
+  - Sega CD
+  - SNES
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: The Clue!
+  names:
+  - Der Clou!
+  external:
+    website: 'https://www.mobygames.com/game/2568/the-clue/'
+    wikipedia: The Clue!
+  platforms:
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    - Simulation
+
+- name: Clonk
+  external:
+    wikipedia: Clonk
+  meta:
+    genres:
+    - Action
+    - Platform
+    - Real-Time Strategy
+
+- name: Club Drive
+  external:
+    website: 'https://www.mobygames.com/game/6721/club-drive/'
+    wikipedia: Club Drive
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Racing
+
+- name: 'Code-Name: Iceman'
+  external:
+    website: https://www.mobygames.com/game/436
+    wikipedia: 'Codename: ICEMAN'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Espionage
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Windows
+
+- name: Colobot
+  names:
+  - Colonize with Bots
+  external:
+    wikipedia: Colobot
+  platforms:
+  - Windows
+  - Linux
+  meta:
+    genres:
+    - Educational
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: The Colonel's Bequest
+  names:
+  - 'Laura Bow: The Colonel''s Bequest'
+  external:
+    website: https://www.mobygames.com/game/461
+    wikipedia: The Colonel%27s Bequest
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Windows
+
+- name: The Colony
+  external:
+    website: 'https://www.mobygames.com/game/3489/the-colony/'
+    wikipedia: The Colony (video game)
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - DOS
+  meta:
+    genres:
+    - Adventure
+    - FPS
+    - Puzzle
+    themes:
+    - Sci-Fi
+
+- name: Coloris
+  external:
+    website: https://www.mobygames.com/game/amiga/coloris_
+  meta:
+    genres:
+    - Puzzle
+
+- name: Colossal Cave Adventure
+  external:
+    website: 'https://rickadams.org/adventure/'
+    wikipedia: Colossal Cave Adventure
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+
+- name: Columns
+  external:
+    wikipedia: Columns (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Combat
+  external:
+    website: 'https://www.mobygames.com/game/8851/combat/'
+    wikipedia: Combat (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Command & Conquer
+  external:
+    wikipedia: Command & Conquer
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Modern Military
+
+- name: 'Command & Conquer: Generals'
+  external:
+    wikipedia: 'Command & Conquer: Generals'
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+    - Modern Military
+
+- name: 'Command & Conquer: Red Alert'
+  external:
+    wikipedia: 'Command & Conquer: Red Alert'
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Modern Military
+
+- name: 'Command & Conquer: Red Alert 2'
+  external:
+    website: >-
+      https://web.archive.org/web/20020406002705/http://westwood.ea.com/games/ccuniverse/redalert2/index.html
+    wikipedia: 'Command & Conquer: Red Alert 2'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Modern Military
+
+- name: 'Command & Conquer: Renegade'
+  external:
+    wikipedia: 'Command & Conquer: Renegade'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - TPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Modern Military
+    - Sci-Fi
+
+- name: Commander Keen Series
+  external:
+    wikipedia: Commander Keen
+  meta:
+    genres:
+    - Platform
+
+- name: Commando
+  external:
+    wikipedia: Commando (video game)
+  meta:
+    genres:
+    - Shmup
+
+- name: Company of Heroes
+  external:
+    wikipedia: Company of Heroes
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - World War II
+
+- name: Company of Heroes 2
+  external:
+    wikipedia: Company of Heroes 2
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - World War II
+
+- name: Conflict in Vietnam
+  external:
+    website: https://www.mobygames.com/game/conflict-in-vietnam
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - Vietnam
+
+- name: 'Conquest: Frontier Wars'
+  external:
+    website: 'https://web.archive.org/web/20050308011901/http://conquest.ubi.com/'
+    wikipedia: 'Conquest: Frontier Wars'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: 'Conquests of Camelot: The Search for the Grail'
+  external:
+    website: https://www.mobygames.com/game/1408
+    wikipedia: 'Conquests of Camelot: The Search for the Grail'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Windows
+
+- name: 'Conquests of the Longbow: The Legend of Robin Hood'
+  external:
+    website: https://www.mobygames.com/game/1967
+    wikipedia: 'Conquests of the Longbow: The Legend of Robin Hood'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Medieval
+  platforms:
+  - Amiga
+  - DOS
+  - Windows
+
+- name: Contra
+  external:
+    wikipedia: Contra (video game)
+  meta:
+    genres:
+    - Platform
+
+- name: Contra Force
+  external:
+    website: 'https://www.mobygames.com/game/15171/contra-force/'
+    wikipedia: Contra Force
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    subgenres:
+    - Run and gun
+
+- name: Cookie Clicker
+  external:
+    wikipedia: Cookie Clicker
+  meta:
+    genres:
+    - Arcade
+
+- name: Corncob 3D
+  names:
+  - 'Corncob 3-D: The Other Worlds Campaign'
+  external:
+    website: 'http://tidegear.net/corncob/'
+    wikipedia: Pie_in_the_Sky_(game_engine)#Corncob_3D
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: 'Corridor 8: Galactic Wars'
+  external:
+    website: 'https://www.igdb.com/games/corridor-8-galactic-wars'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Corruption
+  external:
+    website: https://www.mobygames.com/game/1029
+    wikipedia: Corruption (1988 video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+
+- name: Cortex Command
+  external:
+    website: http://tradestar.datarealms.com/games.html
+    wikipedia: Cortex Command
+  meta:
+    genres:
+    - Action
+    - Real-Time Tactics
+    themes:
+    - Sci-Fi
+
+- name: Cosmic Ark
+  external:
+    website: 'https://www.atarimania.com/pgesoft.awp?soft=6775'
+    wikipedia: Cosmic Ark
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+
+- name: Cosmic Kidnap
+  external:
+    website: 'https://www.mobygames.com/game/85916/cosmic-kidnap/'
+  meta:
+    genres:
+    - Action
+    themes:
+    - Sci-Fi
+
+- name: Cosmo's Cosmic Adventure
+  external:
+    website: https://3drealms.com/catalog/cosmos-cosmic-adventure_37/
+    wikipedia: Cosmo's Cosmic Adventure
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+
+- name: Counter-Strike
+  external:
+    wikipedia: Counter-Strike (video game)
+  meta:
+    genres:
+    - FPS
+
+- name: Crack'ed
+  external:
+    website: 'https://www.mobygames.com/game/11238/cracked/'
+    wikipedia: Crack'ed
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Cranston Manor
+  names:
+  - 'Hi-Res Adventure #3'
+  external:
+    website: https://www.mobygames.com/game/15281
+    wikipedia: Cranston Manor
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+  platforms:
+  - Apple II
+  - FM Towns
+  - PC-98
+
+- name: Crash Team Racing
+  external:
+    website: 'https://www.mobygames.com/game/ctr-crash-team-racing'
+    wikipedia: Crash Team Racing
+  platforms:
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Motorsports
+
+- name: Crazee Rider
+  external:
+    website: 'https://www.mobygames.com/game/46538/crazee-rider/'
+    wikipedia: Crazee Rider
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Motorsports
+
+- name: Crazy Cars
+  external:
+    wikipedia: Titus Software
+  meta:
+    genres:
+    - Racing
+
+- name: Creatures
+  external:
+    wikipedia: Creatures (video game)
+  meta:
+    genres:
+    - Simulation
+
+- name: Crescent
+  names:
+  - クレセント
+  external:
+    website: 'https://vndb.org/v8830'
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: 'The Crimson Crown: Further Adventures in Transylvania'
+  external:
+    website: https://www.mobygames.com/game/86
+    wikipedia: Transylvania (series)#The Crimson Crown - Further Adventures in Transylvania
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - PC-98
+
+- name: Crimsonland
+  external:
+    wikipedia: Crimsonland
+  meta:
+    genres:
+    - Shmup
+
+- name: Cro-Mag Rally
+  external:
+    website: 'https://www.pangeasoft.net/cromag/index.html'
+    wikipedia: Cro-Mag Rally
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - OSX
+  - Xbox 360
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Prehistoric
+
+- name: CROBOTS
+  external:
+    website: 'https://corewar.co.uk/crobots.htm'
+    wikipedia: Crobots
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Strategy
+
+- name: Crossbow
+  external:
+    website: 'https://www.arcade-museum.com/Videogame/crossbow'
+    wikipedia: Crossbow (video game)
+  platforms:
+  - Arcade
+  - Atari
+  - Commodore 64
+  - DOS
+  meta:
+    genres:
+    - Shooter
+
+- name: Crossfire
+  external:
+    wikipedia: Crossfire (1981 video game)
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Crossfire (Cruising)
+  external:
+    website: 'https://www.mobygames.com/game/25075/crossfire/'
+  platforms:
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - Puzzle
+
+- name: Cruis'n USA
+  external:
+    website: 'https://www.mobygames.com/game/3587/cruisn-usa/'
+    wikipedia: Cruis'n USA
+  platforms:
+  - Arcade
+  - N64
+  - Wii
+  meta:
+    genres:
+    - Racing
+
+- name: Cruise for a Corpse
+  external:
+    website: https://www.mobygames.com/game/2264
+    wikipedia: Cruise for a Corpse
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: Crusade in Europe
+  external:
+    wikipedia: Crusade in Europe (video game)
+    website: https://www.mobygames.com/game/crusade-in-europe
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - World War II
+
+- name: 'Crusader: No Remorse'
+  external:
+    website: https://www.mobygames.com/game/851
+    wikipedia: 'Crusader: No Remorse'
+  meta:
+    genres:
+    - Action
+    - Shooter
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+  - OSX
+  - PlayStation
+  - Saturn
+  - Windows
+
+- name: Crystal Castles
+  external:
+    website: 'https://spectrumcomputing.co.uk/entry/0001179'
+    wikipedia: Crystal Castles (video game)
+  platforms:
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Windows
+  - Xbox 360
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+
+- name: Crystal Caves
+  external:
+    wikipedia: Crystal Caves
+  meta:
+    genres:
+    - Platform
+
+- name: Crystal Mines
+  external:
+    website: 'https://www.mobygames.com/game/7320/crystal-mines/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Puzzle
+
+- name: Crystal Quest
+  external:
+    wikipedia: Crystal Quest
+  meta:
+    genres:
+    - Arcade
+
+- name: Crystalis
+  external:
+    website: 'https://www.mobygames.com/game/11147/crystalis/'
+    wikipedia: Crystalis
+  platforms:
+  - Game Boy
+  - NES
+  - Nintendo Switch
+  meta:
+    genres:
+    - RPG
+    subgenres:
+    - Action RPG
+    themes:
+    - Fantasy
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: 'Cube 2: Sauerbraten'
+  external:
+    wikipedia: 'Cube 2: Sauerbraten'
+  meta:
+    genres:
+    - FPS
+    subgenres: []
+    themes: []
+
+- name: 'Cube World'
+  external:
+    wikipedia: 'Cube World'
+  meta:
+    genres:
+    - RPG
+
+- name: The Curse of Monkey Island
+  external:
+    website: https://www.mobygames.com/game/547
+    wikipedia: The Curse of Monkey Island
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - OSX
+  - Windows
+
+- name: Curse of the Azure Bonds
+  external:
+    wikipedia: Curse of the Azure Bonds
+  meta:
+    genres:
+    - RPG
+
+- name: Cyberdogs
+  external:
+    website: 'https://www.mobygames.com/game/1055/cyberdogs/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Run and gun
+    themes:
+    - Sci-Fi
+
+- name: Cylindrix
+  external:
+    website: >-
+      https://web.archive.org/web/20041118203101/http://www.hardgeus.com/cylindrix/oldcylindrix/
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Cybermorph
+  external:
+    website: 'https://www.mobygames.com/game/6684/cybermorph/'
+    wikipedia: Cybermorph
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Cytadela
+  external:
+    website: https://www.ppa.pl/gry/cytadela.html
+  meta:
+    genres:
+    - FPS

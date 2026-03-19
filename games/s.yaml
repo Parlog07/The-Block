@@ -1,0 +1,6475 @@
+- name: SanAndreasUnity
+  type: remake
+  originals:
+  - 'Grand Theft Auto: San Andreas'
+  repo: https://github.com/in0finite/SanAndreasUnity
+  development: halted
+  langs:
+  - C#
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  frameworks:
+  - Unity
+  licenses:
+  - MIT
+  content: commercial
+  info: Open source recreation of GTA San Andreas in Unity
+  added: 2019-08-05
+  updated: 2023-10-18
+  images:
+  - https://cloud.githubusercontent.com/assets/557828/24571348/d964f098-1670-11e7-8759-0160dbf5bcb5.png
+  - https://cloud.githubusercontent.com/assets/557828/24571349/d96b7c24-1670-11e7-997d-ae15913481f8.png
+  - https://camo.githubusercontent.com/093f3ed9a89c1a7b068c35ec99814929b56b20074fed02ac34d55db53c8efdac/68747470733a2f2f692e696d6775722e636f6d2f48583937386d722e706e67
+  video:
+    youtube: PItR-0FF7JI
+
+- name: sandspiel
+  originals:
+  - Powder Game
+  status: playable
+  type: clone
+  repo: https://github.com/maxbittker/sandspiel
+  url: https://sandspiel.club/
+  development: sporadic
+  content: open
+  langs:
+  - Rust
+  - JavaScript
+  frameworks:
+  - WebGL
+  licenses:
+  - MIT
+  added: 2019-11-15
+  updated: 2023-10-20
+  images:
+  - https://raw.githubusercontent.com/MaxBittker/sandspiel/master/Screenshot.png
+
+- name: Saper 3D
+  originals:
+  - Saper
+  type: similar
+  repo: 'https://sourceforge.net/projects/saper3d/'
+  feed: 'https://sourceforge.net/p/saper3d/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2025-11-26
+  updated: 2025-11-26
+  images:
+  - 'https://a.fsdn.com/con/app/proj/saper3d/screenshots/146586.jpg'
+  - 'https://a.fsdn.com/con/app/proj/saper3d/screenshots/146594.jpg'
+  - 'https://a.fsdn.com/con/app/proj/saper3d/screenshots/146588.jpg'
+  - 'https://a.fsdn.com/con/app/proj/saper3d/screenshots/146590.jpg'
+  - 'https://a.fsdn.com/con/app/proj/saper3d/screenshots/146592.jpg'
+
+- name: Sapter
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/finalclass/sapter'
+  url: 'https://crates.io/crates/sapter'
+  feed: 'https://github.com/finalclass/sapter/releases.atom'
+  development: halted
+  status: playable
+  langs:
+  - Rust
+  frameworks:
+  - ruscii
+  licenses:
+  - MIT
+  added: 2025-09-28
+  updated: 2025-09-28
+  images:
+  - 'https://raw.githubusercontent.com/finalclass/sapter/master/screenshot1.png'
+  - 'https://raw.githubusercontent.com/finalclass/sapter/master/screenshot2.png'
+
+- name: Sasteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: >-
+    https://mirrors.slackware.com/slackware/slackware-4.0/source/y/sastroid/sast1.5-src.tar.gz.mirrorlist
+  url: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/asteroids/sast1.5.README
+  development: halted
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SVGALib
+  licenses:
+  - Custom
+  info: A port of Xasteroids to run under svgalib, then rewrote it in C++.
+  added: 2025-09-15
+  updated: 2025-09-15
+
+- name: Savage Wheels
+  originals:
+  - Destruction Derby
+  type: similar
+  repo: 'https://github.com/kenamick/savagewheels'
+  url: 'https://kenamick.itch.io/savage-wheels'
+  feed: 'https://github.com/kenamick/savagewheels/releases.atom'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - MIT
+  added: 2025-07-09
+  updated: 2025-07-09
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMjQyNTUvOTYzNzIucG5n/original/iyY%2BTp.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjQyNTUvOTYzNzMucG5n/original/2dE4Ju.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjQyNTUvOTYzNzQucG5n/original/vvSwjG.png'
+  - >-
+    https://camo.githubusercontent.com/27f146e471cb9e06a14ac48e2c7dd7a829de258901bd62c0518126fb8581e32d/687474703a2f2f692e696d6775722e636f6d2f303968386a314d2e6a7067
+
+- name: 'Savage: The Battle for Newerth'
+  originals:
+  - 'Savage: The Battle for Newerth'
+  type: official
+  repo: https://github.com/mrhappyasthma/Savage-Battle-For-Newerth
+  url: https://archive.org/details/Savage_The_Battle_for_Newerth_source_code
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2025-11-27
+  updated: 2025-11-27
+  images:
+  - https://archive.org/download/Savage_The_Battle_for_Newerth_source_code/maxresdefault.jpg
+
+- name: Saving Sue
+  originals:
+  - Frogger
+  type: clone
+  repo: 'https://github.com/garu/Games-SavingSue'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Perl
+  frameworks:
+  - SDL
+  licenses:
+  - CC0
+  - CC-BY-NC-ND
+  - CC-BY-NC-SA
+  - CC-BY-SA
+  added: 2025-10-12
+  updated: 2025-10-12
+  images:
+  - https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPORuuCsrQM_pjJVnABOnt9WoSeS_I7jo2o0L-BV21h_wNRUMgTx9mbYHmA3J0AYrxkpLrw2s83HWkNxnSkbVXyeiELxWFEQ_LVLep_-pck7yU0aRMyMaNmZ_QXj4dPLmiRLv5jNaLGTA/s400/savingsue1.png
+  - https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx_9sJM8V3wdeIQzH4Cp072dWSyLaGNvqoZmFwT95Eo0KVH_Dd7Bm8VtnpsjkyXJWV76aRiT-NZOIFSY4TBPx2gw3WRuCmKbsLA5y-pBpylYzP3gg8ezvlSJKib2YHNg2jlaEKsOTfu0/s400/savingsue2.png
+
+- name: SBSPSS
+  originals:
+  - 'SpongeBob SquarePants: SuperSponge'
+  type: official
+  repo: 'https://github.com/hellfire3d/SBSPSS'
+  url: >-
+    https://web.archive.org/web/20191113200652/https://assemblergames.com/threads/spongebob-squarepants-supersponge-prototypes-ps1.62009/
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2026-03-05
+  updated: 2026-03-05
+
+- name: Scalar
+  originals:
+  - Pandora's Box
+  type: clone
+  repo: 'https://sourceforge.net/projects/scalar/'
+  url: 'https://scalar.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/scalar/rss?path=/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-08-25
+  updated: 2025-08-25
+  images:
+  - 'https://scalar.sourceforge.net/sc000.png'
+  - 'https://scalar.sourceforge.net/sc001.png'
+  - 'https://scalar.sourceforge.net/sc002.png'
+  - 'https://os4depot.net/filedata/snapshot/1193_1_snap.jpg'
+
+- name: sccopter
+  langs:
+  - C++
+  licenses:
+  - MIT
+  frameworks:
+  - OpenGL
+  development: halted
+  originals:
+  - SimCopter
+  repo: https://github.com/fr0zi/sccopter
+  status: unplayable
+  type: remake
+  added: 2016-01-10
+  updated: 2023-10-22
+  images:
+  - https://raw.githubusercontent.com/fr0zi/sccopter/master/Refs/milestone_1_full_terrain_data.png
+
+- name: Scheddy Kong Racing
+  originals:
+  - Diddy Kong Racing
+  type: remake
+  repo: 'https://gitlab.com/ryandwyer/scheddy-kong-racing'
+  feed: 'https://gitlab.com/ryandwyer/scheddy-kong-racing.atom'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Split-screen
+  content: commercial
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - As-is
+  added: 2025-12-13
+  updated: 2025-12-13
+
+- name: Scorch Went Bonkers
+  originals:
+  - Scorched Earth
+  type: similar
+  url: 'https://wasyl.eu/games/scorch-went-bonkers.html'
+  development: complete
+  status: playable
+  multiplayer:
+  - Local
+  content: open
+  langs:
+  - C++
+  licenses:
+  - Zlib
+  info: A real-time version of Scorched Earth.
+  added: 2025-10-07
+  updated: 2025-10-07
+  images:
+  - 'https://wasyl.eu/assets/images/swb-3-full.jpg'
+  - 'https://wasyl.eu/assets/images/swb-1-full.jpg'
+  - 'https://wasyl.eu/assets/images/swb-2-full.jpg'
+
+- name: Scorched Earth 2000
+  originals:
+  - Scorched Earth
+  type: remake
+  repo: https://sourceforge.net/projects/scorch/
+  url: 'http://www.scorch2000.com/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - Hotseat
+  content: free
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  added: '2025-06-11'
+  updated: '2025-06-11'
+  images:
+  - https://www.happypenguin.altervista.org/screenshots/funky1.jpg
+
+- name: Scorched Moon
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Moonbase Commander
+  status: unplayable
+  repo: https://github.com/Scorched-Moon/client
+  url: https://scorched-moon.github.io
+  type: remake
+  added: 2015-06-24
+  updated: 2020-08-25
+
+- name: Scorched3D
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  originals:
+  - Scorched Earth
+  status: playable
+  multiplayer:
+  - Online
+  - Competitive
+  - Hotseat
+  repo: https://sourceforge.net/projects/scorched3d/
+  type: clone
+  added: 2015-04-06
+  updated: 2022-02-03
+  url: http://www.scorched3d.co.uk/
+  images:
+  - https://a.fsdn.com/con/app/proj/scorched3d/screenshots/6702.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/scorched3d/screenshots/8943.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/scorched3d/screenshots/6704.jpg/max/max/1
+  video:
+    youtube: qyf8sghZOZ0
+
+- name: Scram
+  originals:
+  - Scram
+  type: official
+  repo: 'https://www.erasmatazz.com/library/source-code/scram-from-original-gamelst.txt'
+  url: 'https://www.erasmatazz.com/library/source-code/source-code-for-scram.html'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-08
+  updated: 2025-11-08
+
+- name: SCSharp
+  langs:
+  - C#
+  frameworks:
+  - .NET
+  - SDL
+  licenses:
+  - MIT
+  content: commercial
+  development: halted
+  originals:
+  - StarCraft
+  repo: https://github.com/toshok/scsharp
+  status: unplayable
+  type: remake
+  added: 2021-01-07
+  updated: 2021-01-07
+  video:
+    youtube: nmYxGlAo-s0
+
+- name: ScummVM
+  images:
+  - https://www.scummvm.org/data/screenshots/wintermute/ritter/ritter_win_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/toltecs/toltecs/toltecs_dos_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/groovie/t7g/t7g_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gob/bargon/bargon_dos_fr_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/bbvs/bbvs/bbvs_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/sky/sky/sky_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/bickadoodle/bickadoodle_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gob/woodruff/woodruff_win_en_1_5_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/thinker1/thinker1_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/bladerunner/bladerunner/bladerunner_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/tsage/blueforce/blueforce_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sword1/sword1/sword1_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/tucker/tucker/tucker_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/arttime/arttime_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/chivalry/chivalry_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/groovie/clandestiny/clandestiny_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/laurabow/laurabow_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/cruise/cruise/cruise_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/composer/darby/darby_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/deadcity/deadcity_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/dirtysplit/dirtysplit_win_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/tinsel/dw/dw_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/draci/draci/draci_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/drascula/drascula/drascula_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/dreamweb/dreamweb/dreamweb_dos_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/freescape/driller/driller_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/illusions/duckman/duckman_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/ecoquest/ecoquest_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agos/elvira1/elvira1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/escapemansion/escapemansion_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/kyra/eob/eob_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gob/fascination/fascination_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/activity/activity_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agos/feeble/feeble_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/5ld/5ld_win_en_1_2_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/5ma/5ma_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/queen/queen/queen_amiga_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/freddi/freddi_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/freddypharkas/freddypharkas_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/ngi/fullpipe/fullpipe_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/ft/ft_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/cine/fw/fw_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/gk1/gk1_win_fr_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/gob/geisha/geisha_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gob/gob1/gob1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/helga/helga_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/adl/hires1/hires1_apple2_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/hopkins/hopkins/hopkins_linux_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/hoyle1/hoyle1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/hdb/hdb/hdb_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/saga/ihnm/ihnm_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/pegasus/pegasus/pegasus_mac_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/lab/lab/lab_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/atlantis/atlantis_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/saga/ite/ite_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/kq1/kq1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/made/lgop2/lgop2_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/kyra/kyra1/kyra1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/lsl1/lsl1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/airport/airport_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/lighthouse/lighthouse_dos_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/twine/lba/lba_dos_en_1_0_full.png
+  - https://www.scummvm.org/data/screenshots/gob/littlered/littlered_dos_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/stark/tlj/tlj_win_en_1_0_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/loom/loom_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sherlock/rosetattoo/rosetattoo_dos_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/gob/lit/lit_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/lure/lure/lure_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/composer/babayaga/babayaga_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/made/manhole/manhole_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/mh1/mh1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/maniac/maniac_amiga_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/hypno/sinistersix/sinistersix_dos_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/xeen/cloudsofxeen/cloudsofxeen_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/agi/mixedup/mixedup_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/mortevielle/mortevielle/mortevielle_dos_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/mohawk/mystme/mystme_win_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/pajama/pajama_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/phantasmagoria/phantasmagoria_dos_fr_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/plumbers/plumbers/plumbers_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/pq1/pq1_amiga_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gob/ween/ween_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/balloon/balloon_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/sci/rama/rama_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/mads/nebular/nebular_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/neverhood/neverhood/neverhood_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/trecision/nl/nl_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/parallaction/nippon/nippon_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/tsage/ringworld/ringworld_dos_es_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/made/rodney/rodney_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/rosemary/rosemary_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/cge2/sfinx/sfinx_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/agos/dimp/dimp_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/cge/soltys/soltys_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/sq1/sq1_dos_en_1_2_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/chase/chase_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/teenagent/teenagent/teenagent_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/groovie/tlc/tlc_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/titanic/titanic/titanic_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/tony/tony/tony_win_de_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/toon/toon/toon_win_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/touche/touche/touche_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/gnap/gnap/gnap_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/gob/urban/urban_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/agi/qfg1/qfg1_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/cryomni3d/versailles/versailles_win_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/agos/waxworks/waxworks_dos_en_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/hypno/wetlands/wetlands_dos_en_1_10_full.png
+  - https://www.scummvm.org/data/screenshots/wintermute/twc/twc_win_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/scumm/zak/zak_c64_de_1_1_full.png
+  - https://www.scummvm.org/data/screenshots/zvision/znemesis/znemesis_dos_de_1_10_full.png
+  info: List of supported games <a href="https://scummvm.org/compatibility/">is here</a>
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  development: very active
+  originals:
+  - SCUMM
+  - The 11th Hour
+  - '1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde'
+  - 3 Skulls of the Toltecs
+  - The 7th Guest
+  - A Golden Wake
+  - Adibou
+  - 'Amazon: Guardians of Eden'
+  - Arthur's Birthday
+  - Astro Chicken
+  - Backyard Baseball
+  - Backyard Football
+  - Bargon Attack
+  - 'The Beast Within: A Gabriel Knight Mystery'
+  - Beavis and Butt-Head in Virtual Stupidity
+  - Beneath a Steel Sky
+  - The Berenstain Bears Get in a Fight
+  - The Berenstain Bears In The Dark
+  - Bickadoodle
+  - Big Thinkers! 1st Grade
+  - Big Thinkers! Kindergarten
+  - The Bizarre Adventures of Woodruff and the Schnibble
+  - The Black Cauldron
+  - Blackwell
+  - Blade Runner
+  - Blazing Dragons
+  - Blue Force
+  - Blue's 123 Time Activities
+  - Blue's ABC Time Activities
+  - Blue's Birthday Adventure
+  - Blue's Reading Time Activities
+  - 'Broken Sword: The Shadow of the Templars'
+  - 'Broken Sword II: The Smoking Mirror'
+  - 'Broken Sword 2.5: The Return of the Templars'
+  - Bud Tucker in Double Trouble
+  - Castle of Dr. Brain
+  - 'Chewy: Esc from F5'
+  - Chivalry is Not Dead
+  - Chop Suey
+  - Clandestiny
+  - 'Code-Name: Iceman'
+  - The Colonel's Bequest
+  - 'Conquests of Camelot: The Search for the Grail'
+  - 'Conquests of the Longbow: The Legend of Robin Hood'
+  - Corruption
+  - Cranston Manor
+  - 'The Crimson Crown: Further Adventures in Transylvania'
+  - Cruise for a Corpse
+  - 'Crusader: No Remorse'
+  - The Curse of Monkey Island
+  - The Dagger of Amon Ra
+  - Darby the Dragon
+  - The Dark Crystal
+  - Day of the Tentacle
+  - Dead City
+  - Decisions of the Elders
+  - The Dig
+  - Dirty Split
+  - Discworld
+  - Discworld II
+  - Donald Duck's Playground
+  - Dr. Seuss's ABC
+  - Dragon History
+  - DreamWeb
+  - Driller
+  - 'Dráscula: The Vampire Strikes Back'
+  - 'Duckman: The Graphic Adventures of a Private Dick'
+  - Eastern Mind
+  - 'EcoQuest: The Search for Cetus'
+  - 'Elvira: Mistress of the Dark'
+  - 'Elvira II: The Jaws of Cerberus'
+  - Escape from the Mansion
+  - Eye of the Beholder
+  - Eye of the Beholder II
+  - Fascination
+  - Fatty Bear's Birthday Surprise
+  - Fatty Bear's FunPack
+  - The Feeble Files
+  - Fish!
+  - Five Lethal Demons
+  - Five Magical Amulets
+  - Flight of the Amazon Queen
+  - Freddi Fish and the Case of the Missing Kelp Seeds
+  - 'Freddi Fish 2: The Case of the Haunted Schoolhouse'
+  - 'Freddi Fish 3: The Case of the Stolen Conch Shell'
+  - 'Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch'
+  - 'Freddi Fish 5: The Case of the Creature of Coral Cove'
+  - Freddi Fish and Luther's Maze Madness
+  - Freddi Fish and Luther's Water Worries
+  - 'Freddy Pharkas: Frontier Pharmacist'
+  - Full Pipe
+  - Full Throttle
+  - Future Wars
+  - 'Gabriel Knight: Sins of the Fathers'
+  - "Ganbare! Inuchan: Rock'n Roll Edition"
+  - 'Ganbare! Inuchan: Trip Around the World'
+  - Geisha
+  - Gobliiins
+  - 'Gobliins 2: The Prince Buffoon'
+  - Goblins Quest 3
+  - Gold Rush!
+  - Green Eggs and Ham
+  - Gregory and the Hot Air Balloon
+  - The Griffon Legend
+  - Grim Fandango
+  - The Guild of Thieves
+  - Hades Challenge
+  - 'Halls of the Dead: Faery Tale Adventure II'
+  - Harry and the Haunted House
+  - Helga Deep In Trouble
+  - Hopkins FBI
+  - Hoyle Classic Card Games
+  - Hoyle Classic Games
+  - Hoyle Solitaire
+  - 'Hoyle''s Official Book of Games: Volume 1'
+  - 'Hoyle''s Official Book of Games: Volume 2'
+  - 'Hoyle''s Official Book of Games: Volume 3'
+  - 'Hugo II: Whodunit?'
+  - 'Hugo III: Jungle of Doom'
+  - Hugo's House of Horrors
+  - Hyperspace Delivery Boy!
+  - I Have No Mouth, and I Must Scream
+  - Indiana Jones and the Fate of Atlantis
+  - 'Indiana Jones and the Last Crusade: The Graphic Adventure'
+  - Inherit the Earth
+  - The Island of Dr. Brain
+  - Jinxter
+  - Jones in the Fast Lane
+  - 'The Journeyman Project: Pegasus Prime'
+  - 'The Journeyman Project 2: Buried in Time'
+  - Just Grandma and Me
+  - Kathy Rain
+  - King's Quest I
+  - King's Quest II
+  - King's Quest III
+  - King's Quest IV
+  - King's Quest V
+  - King's Quest VI
+  - King's Quest VII
+  - L-ZONE
+  - The Labyrinth of Time
+  - 'Lands of Lore: The Throne of Chaos'
+  - Leather Goddesses 2
+  - The Legend of Kyrandia
+  - 'The Legend of Kyrandia: Hand of Fate'
+  - 'The Legend of Kyrandia: Malcolm''s Revenge'
+  - Leisure Suit Larry 1
+  - Leisure Suit Larry 2
+  - Leisure Suit Larry 3
+  - Leisure Suit Larry 5
+  - Leisure Suit Larry 6
+  - Leisure Suit Larry 7
+  - Let's Explore the Airport
+  - Let's Explore the Farm
+  - Let's Explore the Jungle
+  - 'Lighthouse: The Dark Being'
+  - Little Big Adventure
+  - Little Monster at School
+  - The Longest Journey
+  - Loom
+  - The Lost Files of Sherlock Holmes
+  - 'The Lost Files of Sherlock Holmes: Case of the Rose Tattoo'
+  - Lost in Time
+  - Lost Secret of the Rainforest
+  - Lure of the Temptress
+  - Magic Tales
+  - Majestic
+  - The Manhole
+  - 'Manhunter: New York'
+  - 'Manhunter 2: San Francisco'
+  - Maniac Mansion
+  - Marc Brown's Arthur's Teacher Trouble
+  - 'Marvel Comics Spider-Man: The Sinister Six'
+  - Mickey's Space Adventure
+  - Might and Magic
+  - 'Might and Magic IV: Clouds of Xeen'
+  - 'Might and Magic V: Darkside of Xeen'
+  - Mission Asteroid
+  - Mission Supernova
+  - Mitsumasa Anno's Four Seasons in Pepperon
+  - Mixed Up Fairy Tales
+  - Mixed-Up Mother Goose
+  - 'Monkey Island 2: LeChuck''s Revenge'
+  - Mortville Manor
+  - Muppet Treasure Island
+  - Myst
+  - 'Myst III: Exile'
+  - Mystery House
+  - Myth
+  - 'Nancy Drew: Secrets Can Kill'
+  - Nemurenu Yoru no Chiisana O-Hanashi
+  - The Neverhood
+  - The New Kid on the Block
+  - 'Nightlong: Union City Conspiracy'
+  - Nippon Safes, Inc.
+  - Obsidian
+  - 'Once Upon A Time: Little Red Riding Hood'
+  - Oo-Topos
+  - Operation Stealth
+  - Over-Ring-Under
+  - 'Pajama Sam 2: Thunder and Lightning Aren''t so Frightening'
+  - 'Pajama Sam 3: You Are What You Eat From Your Head To Your Feet'
+  - Pajama Sam's Lost & Found
+  - Pajama Sam's Sock Works
+  - 'Pajama Sam: Games to Play on Any Day'
+  - 'Pajama Sam: No Need to Hide When It''s Dark Outside'
+  - The Pawn
+  - Pepper's Adventures in Time
+  - Personal Nightmare
+  - Phantasmagoria
+  - Phantasmagoria 2
+  - 'The Pink Panther: Hokus Pokus Pink'
+  - 'The Pink Panther: Passport to Peril'
+  - Playtoons
+  - Plumbers Don't Wear Ties
+  - Police Quest
+  - Police Quest II
+  - Police Quest III
+  - Police Quest IV
+  - 'Police Quest: SWAT'
+  - Primordia
+  - Private Eye
+  - The Prophecy
+  - Putt-Putt Enters the Race
+  - Putt-Putt Goes to the Moon
+  - Putt-Putt Joins the Circus
+  - Putt-Putt Joins the Parade
+  - Putt-Putt Saves the Zoo
+  - Putt-Putt Travels Through Time
+  - Putt-Putt and Fatty Bear's Activity Pack
+  - Putt-Putt and Pep's Balloon-O-Rama
+  - Putt-Putt and Pep's Dog on a Stick
+  - Putt-Putt's Fun Pack
+  - 'Quest for Glory: So You Want To Be A Hero'
+  - 'Quest for Glory II: Trial by Fire'
+  - 'Quest for Glory III: Wages of War'
+  - Quest for Glory IV
+  - Rama
+  - 'Reah: Face the Unknown'
+  - Red Comrades Save the Galaxy
+  - Red Comrades 2
+  - Resonance
+  - Return to Ringworld
+  - Return to Zork
+  - Rex Nebular and the Cosmic Gender Bender
+  - 'Ringworld: Revenge of the Patriarch'
+  - Riven
+  - Rodney's Funscreen
+  - Rosemary
+  - Ruff's Bone
+  - 'Sam & Max: Hit the Road'
+  - Sanitarium
+  - 'Schizm: Mysterious Journey'
+  - The Secret of Monkey Island
+  - 'The Seven Colors: Legend of PSY・S City'
+  - Sfinx
+  - Shardlight
+  - Sheila Rae, the Brave
+  - The Shivah
+  - Shivers
+  - Simon the Sorcerer
+  - 'Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe'
+  - Simon the Sorcerer's Puzzle Pack
+  - Slater & Charlie Go Camping
+  - Soldier Boyz
+  - Sołtys
+  - Space Quest I
+  - Space Quest II
+  - Space Quest III
+  - Space Quest IV
+  - Space Quest V
+  - Space Quest 6
+  - Space Quest IV.5
+  - 'Space Quest: Incinerations'
+  - 'Space Quest: Vohaul Strikes Back'
+  - Spaceship Warlock
+  - Spy Fox in "Cheese Chase"
+  - Spy Fox in "Dry Cereal"
+  - Spy Fox in "Hold the Mustard"
+  - Spy Fox 2
+  - Spy Fox 3
+  - Starship Titanic
+  - Stellaluna
+  - Syberia
+  - Syberia II
+  - Technobabylon
+  - Teen Agent
+  - Tender Loving Care
+  - Time Gal
+  - Time Zone
+  - Tony Tough and the Night of Roasted Moths
+  - Toonstruck
+  - Torin's Passage
+  - The Tortoise and the Hare
+  - 'Touché: The Adventures of the Fifth Musketeer'
+  - Transylvania
+  - Troll's Tale
+  - U.F.O.s
+  - Ultima IV
+  - Ultima VI
+  - Ultima VIII
+  - Ulysses and the Golden Fleece
+  - Uncle Henry's Playhouse
+  - Urban Runner
+  - Waxworks
+  - Wetlands
+  - The White Chamber
+  - Winnie the Pooh in the Hundred Acre Wood
+  - The Wizard and the Princess
+  - The Vampire Diaries
+  - Versailles 1685
+  - Voyeur
+  - Wonderland
+  - Zak McKracken and the Alien Mindbenders
+  - 'Zork: Grand Inquisitor'
+  - Zork Nemesis
+  repo: https://github.com/scummvm/scummvm
+  status: playable
+  type: remake
+  url: https://scummvm.org/
+  added: 2011-06-12
+  updated: 2024-07-17
+
+- name: SDL Asteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://code.google.com/archive/p/sdlasteroids/'
+  url: 'https://happypenguin.altervista.org/sheet.php?gameid=2522'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  added: 2025-10-14
+  updated: 2025-10-14
+  images:
+  - 'https://happypenguin.altervista.org/screenshots/SDL_Asteroids.jpg'
+
+- name: SDL Asylum
+  images:
+  - https://a.fsdn.com/con/app/proj/sdl-asylum/screenshots/136705.jpg
+  - https://a.fsdn.com/con/app/proj/sdl-asylum/screenshots/134775.jpg
+  - https://a.fsdn.com/con/app/proj/sdl-asylum/screenshots/136451.jpg
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Asylum
+  status: playable
+  repo: https://sourceforge.net/projects/sdl-asylum/
+  type: remake
+  added: 2015-04-17
+  updated: 2022-08-05
+  url: https://sdl-asylum.sourceforge.net/
+
+- name: SDL-Ball
+  originals:
+  - DX-Ball
+  type: clone
+  repo: 'https://github.com/DusteDdk/SDL-Ball'
+  url: 'https://sdl-ball.sourceforge.net/'
+  feed: 'https://github.com/DusteDdk/SDL-Ball/releases.atom'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL3
+  added: 2025-08-26
+  updated: 2025-08-26
+  images:
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot0.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot1.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot2.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot3.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot4.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot5.jpg'
+  - 'https://sdl-ball.sourceforge.net/ss/screenshot6.jpg'
+
+- name: SDL Bomber
+  frameworks:
+  - SDL
+  images:
+  - https://www.linuxmotors.com/linux/SDL_bomber/bomber.gif
+  langs:
+  - C
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Bomberman
+  repo: https://www.linuxmotors.com/linux/SDL_bomber/downloads/
+  status: playable
+  type: remake
+  added: 2014-01-12
+  updated: 2020-08-25
+  url: https://www.linuxmotors.com/linux/SDL_bomber/
+
+- name: SDL Pong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://github.com/MartGon/SDLPong'
+  url: 'https://defu.itch.io/sdl-pong'
+  feed: 'https://github.com/MartGon/SDLPong/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Local
+  - LAN
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2025-10-23
+  updated: 2025-10-23
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMjg2MjExLzEzOTM3NTEucG5n/original/3mxYqE.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjg2MjExLzEzOTM3NTMucG5n/original/AsVv23.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjg2MjExLzEzOTM3NTQucG5n/original/4exjOg.png'
+
+- name: SDL Sasteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://sourceforge.net/projects/sdlsas/'
+  url: 'https://sdlsas.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/sdlsas/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2025-09-19
+  updated: 2025-09-19
+  images:
+  - 'https://sdlsas.sourceforge.net/sasshot2.jpg'
+
+- name: SDL Sopwith
+  images:
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-win7.png
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-linux-xfce.png
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-macos.png
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-haiku.png
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-netbsd.png
+  - https://fragglet.github.io/sdl-sopwith/sshot/sopwith-multi.png
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: open
+  development: sporadic
+  originals:
+  - Sopwith
+  repo: https://github.com/fragglet/sdl-sopwith
+  feed: https://github.com/fragglet/sdl-sopwith/releases.atom
+  status: playable
+  multiplayer:
+  - Online
+  - Competitive
+  type: remake
+  added: 2014-03-17
+  updated: 2023-02-04
+  url: https://fragglet.github.io/sdl-sopwith/
+
+- name: SDL Tunneler
+  originals:
+  - Tunneler
+  type: clone
+  repo: 'https://github.com/guyromm/tunneler'
+  url: 'https://users.jyu.fi/~tvkalvas/code/tunneler/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Split-screen
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-07-16
+  updated: 2025-07-16
+  images:
+  - 'https://users.jyu.fi/~tvkalvas/code/tunneler/tunneler_shot.png'
+
+- name: SDL2-Breakout
+  originals:
+  - Breakout
+  type: clone
+  repo: 'https://github.com/toivjon/sdl2-breakout'
+  url: 'https://toivjon.wordpress.com/2017/07/19/sdl2-breakout/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Hotseat
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2026-01-10
+  updated: 2026-01-10
+  images:
+  - https://raw.githubusercontent.com/toivjon/sdl2-breakout/master/screenshots/welcome-scene.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-breakout/master/screenshots/court-scene.png
+  - https://toivjon.wordpress.com/wp-content/uploads/2017/07/sdl2-breakout.png
+
+- name: sdl2-pong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://github.com/toivjon/sdl2-pong'
+  url: https://toivjon.wordpress.com/2017/06/20/sdl2-pong/
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2025-12-03
+  updated: 2025-12-03
+  images:
+  - https://raw.githubusercontent.com/toivjon/sdl2-pong/master/screenshots/welcome-scene.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-pong/master/screenshots/court-scene.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-pong/master/screenshots/endgame-scene.png
+  video:
+    youtube: lXs4EDC0KEE
+
+- name: SDL2-Space-Invaders
+  originals:
+  - Space Invaders
+  type: remake
+  repo: 'https://github.com/toivjon/sdl2-space-invaders'
+  url: 'https://toivjon.wordpress.com/2017/10/22/sdl2-space-invaders/'
+  development: complete
+  status: playable
+  multiplayer:
+  - Hotseat
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2025-12-24
+  updated: 2025-12-24
+  images:
+  - https://toivjon.wordpress.com/wp-content/uploads/2017/10/fda.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-space-invaders/master/screenshots/welcome-scene.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-space-invaders/master/screenshots/playplayer-scene.png
+  - https://raw.githubusercontent.com/toivjon/sdl2-space-invaders/master/screenshots/ingame-scene.png
+
+- name: SDLAsteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://github.com/RanakOFour/SDLAsteroids'
+  feed: 'https://github.com/RanakOFour/SDLAsteroids/releases.atom'
+  development: sporadic
+  status: semi-playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  added: 2025-10-17
+  updated: 2025-10-17
+
+- name: SDLInvaders
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://sourceforge.net/projects/sdlinvaders/'
+  url: 'https://www.nielsweber.de/2005/07/25/sdlinvaders/'
+  feed: 'https://www.nielsweber.de/2005/07/25/sdlinvaders/feed/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-08-09
+  updated: 2025-08-09
+  images:
+  - https://dl.openhandhelds.org/dingoo/screenshots/SDLInvaders1.0.jpeg
+
+- name: SDLPAL
+  originals:
+  - The Legend of Sword and Fairy
+  type: remake
+  repo: 'https://github.com/sdlpal/sdlpal'
+  url: 'https://sdlpal.github.io/sdlpal/'
+  feed: 'https://github.com/sdlpal/sdlpal/releases.atom'
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - SDL2
+  - SDL3
+  licenses:
+  - GPL3
+  info: SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
+  added: 2026-02-17
+  updated: 2026-02-17
+  images:
+  - 'https://pyra-handheld.com/boards/attachments/sdlpal4_png_750x750_q85-jpg.1709/'
+  - 'https://pyra-handheld.com/boards/attachments/sdlpal2_png_750x750_q85-jpg.1710/'
+  - 'https://archive.org/download/SDLPAL/SDLA00448_00000.png'
+  - 'https://dlhb.gamebrew.org/switchhomebrews/sdlpalnx2.png'
+  - 'https://dlhb.gamebrew.org/vitahomebrews/sdlpalvita4.png'
+  - 'https://dlhb.gamebrew.org/vitahomebrews/sdlpalvita5.png'
+  - 'https://dlhb.gamebrew.org/vitahomebrews/sdlpalvita6.png'
+
+- name: SDLPoP
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  content: free
+  development: sporadic
+  originals:
+  - Prince of Persia
+  repo: https://github.com/NagyD/SDLPoP
+  status: playable
+  type: remake
+  added: 2015-05-30
+  updated: 2023-10-23
+  url: https://www.popot.org/get_the_games.php?game=SDLPoP
+  info: based on the disassembly of the DOS version, extended with new features.
+  images:
+  - https://www.popot.org/get_the_games/images/SDLPoP_1_big.png
+  - https://www.popot.org/get_the_games/images/SDLPoP_2_big.png
+  - https://www.popot.org/get_the_games/images/SDLPoP_3_big.png
+
+- name: SDLRoids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://sourceforge.net/projects/sdlroids/'
+  url: 'https://web.archive.org/web/20090107044741/http://eongames.com/games/sdlroids/'
+  feed: 'https://sourceforge.net/p/sdlroids/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  info: Based on xhyperoid.
+  added: 2025-10-29
+  updated: 2025-10-29
+  images:
+  - https://web.archive.org/web/20060721193732if_/http://eongames.com:80/img/sdlroids.gif
+
+- name: Sea Defender
+  originals:
+  - Missile Command
+  type: clone
+  repo: 'https://github.com/snoutmate/Sea-Defender'
+  url: 'https://www.pouet.net/prod.php?which=54272'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - MIT
+  added: 2025-08-18
+  updated: 2025-08-18
+  images:
+  - 'https://content.pouet.net/files/screenshots/00054/00054272.jpg'
+
+- name: Sea-Wolf
+  type: remake
+  originals:
+  - Sea Wolf
+  repo: https://github.com/DanJP2016/Sea-Wolf
+  development: complete
+  status: playable
+  langs:
+  - JavaScript
+  frameworks:
+  - Phaser
+  licenses:
+  - MIT
+  content: free
+  added: 2019-05-09
+  updated: 2025-06-01
+
+- name: Seachase
+  originals:
+  - Sea Chase
+  type: official
+  repo: 'https://github.com/savetz/edfries-seachase'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - MIT
+  added: 2025-12-25
+  updated: 2025-12-25
+  images:
+  - https://raw.githubusercontent.com/savetz/edfries-seachase/main/Resources/Title.jpg
+
+- name: SeaDefender
+  originals:
+  - Seaquest
+  type: remake
+  repo: 'https://github.com/HelamanWarrior/SeaDefender'
+  url: 'https://plug-world.com/posts/seadefender/'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - As-is
+  added: 2025-10-27
+  updated: 2025-10-27
+  images:
+  - https://raw.githubusercontent.com/HelamanWarrior/SeaDefender/main/misc/sea-quest-remake-title.gif
+  - https://raw.githubusercontent.com/HelamanWarrior/SeaDefender/main/misc/seadefender-1.gif
+  - https://raw.githubusercontent.com/HelamanWarrior/SeaDefender/main/misc/seadefender-2.gif
+  - https://plug-world.com/images/posts/seadefender/tutorial-shark-killing.gif
+  - https://plug-world.com/images/posts/seadefender/lazer-shark.gif
+  - https://plug-world.com/images/posts/seadefender/high-score-screen.gif
+
+- name: Seafood Berserker!
+  originals:
+  - Fruit Ninja
+  type: clone
+  repo: 'https://github.com/quaap/SeafoodBerserker'
+  url: 'https://quaap.com/D/SeafoodBerserker'
+  feed: 'https://github.com/quaap/SeafoodBerserker/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Java
+  licenses:
+  - GPL3
+  added: '2024-12-12'
+  updated: '2024-12-12'
+  video:
+    youtube: _1qAJ96vnpQ
+
+- name: Secret Agent Remake
+  originals:
+  - Secret Agent
+  type: remake
+  repo: https://sourceforge.net/projects/secretagentremake/
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Java
+  frameworks:
+  - OpenGL
+  licenses:
+  - As-is
+  info: 'Remake of old game Secret Agent (more weapons, better AI)'
+  added: 2021-09-12
+  updated: 2021-09-12
+  images:
+  - >-
+    https://a.fsdn.com/con/app/proj/secretagentremake/screenshots/sam3.png/max/max/1
+  - >-
+    https://a.fsdn.com/con/app/proj/secretagentremake/screenshots/sam2.png/max/max/1
+  - >-
+    https://a.fsdn.com/con/app/proj/secretagentremake/screenshots/sam4.png/max/max/1
+
+- name: The Secret Chronicles of Dr. M.
+  langs:
+  - C++
+  frameworks:
+  - SFML
+  licenses:
+  - GPL3
+  content: free
+  development: sporadic
+  originals:
+  - Mario World
+  status: playable
+  repo: https://github.com/secretchronicles/TSC
+  type: remake
+  added: 2018-10-06
+  updated: 2025-06-02
+  url: https://secretchronicles.org
+  images:
+  - https://secretchronicles.org/assets/screenshots/1.png
+  - https://secretchronicles.org/assets/screenshots/2.png
+  - https://secretchronicles.org/assets/screenshots/3.png
+  - https://secretchronicles.org/assets/screenshots/4.png
+  - https://secretchronicles.org/assets/screenshots/5.png
+  - https://secretchronicles.org/assets/screenshots/6.png
+  - https://secretchronicles.org/assets/screenshots/7.png
+  - https://secretchronicles.org/assets/screenshots/8.png
+
+- name: Secret Maryo Chronicles
+  info: 'SMC is no longer under active development. However, there is now a new game based on SMC: https://github.com/secretchronicles/TSC'
+  images:
+  - https://upload.wikimedia.org/wikipedia/commons/d/da/SMC15PromoShot.png
+  - https://upload.wikimedia.org/wikipedia/commons/6/68/Smc-4-v2.0.png
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Mario World
+  status: playable
+  repo: https://github.com/FluXy/SMC
+  type: remake
+  added: 2011-06-04
+  updated: 2018-10-06
+  url: http://secretmaryo.org/
+
+- name: Secret Scout in the Temple of Demise Source Code
+  originals:
+  - Secret Scout in the Temple of Demise
+  type: official
+  url: 'https://www.romhacking.net/documents/561/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-14
+  updated: 2026-01-14
+
+- name: SecretScout
+  originals:
+  - Secret Scout in the Temple of Demise
+  type: remake
+  repo: 'https://github.com/Evenball-8bit/SecretScout'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-20
+  updated: 2026-01-20
+
+- name: Sega Genesis Cliff Hanger
+  originals:
+  - Cliffhanger
+  type: official
+  repo: 'https://shrigley.com/source_code_archive/#:~:text=Cliff%20Hanger'
+  url: 'https://www.romhacking.net/documents/593/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-07
+  updated: 2026-01-07
+
+- name: Sega Genesis Gargoyles
+  originals:
+  - Gargoyles
+  type: official
+  repo: 'https://shrigley.com/source_code_archive/#:~:text=Gargoyles'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-13
+  updated: 2026-01-13
+
+- name: sensitive-js
+  images:
+  - https://raw.githubusercontent.com/bylexus/sensitive-js/master/screen-remake.png
+  langs:
+  - JavaScript
+  frameworks:
+  - Phaser
+  licenses:
+  - ISC
+  content: open
+  development: halted
+  originals:
+  - Sensitive
+  status: semi-playable
+  repo: https://github.com/bylexus/sensitive-js
+  type: remake
+  added: 2017-04-27
+  updated: 2017-04-27
+
+- name: The Sentinel on the BBC Micro
+  originals:
+  - The Sentinel
+  type: remake
+  repo: 'https://github.com/markmoxon/the-sentinel-source-code-bbc-micro'
+  url: 'https://thesentinel.bbcelite.com/'
+  development: very active
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-13
+  updated: 2026-01-13
+  images:
+  - 'https://thesentinel.bbcelite.com/images/general/TheSentinel.png'
+
+- name: Serious Engine
+  originals:
+  - 'Serious Sam: The First Encounter'
+  - 'Serious Sam: The Second Encounter'
+  type: official
+  repo: https://github.com/Croteam-official/Serious-Engine
+  url: 'http://www.croteam.com/technology/'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  licenses:
+  - GPL2
+  added: 2023-03-08
+  updated: 2023-03-08
+  images:
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TSE_5.jpg'
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TFE_1.jpg'
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TFE_6.jpg'
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TFE_5.jpg'
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TSE_1.jpg'
+  - 'https://www.croteam.com/wp-content/uploads/2014/10/Engine1_TSE_4.jpg'
+
+- name: SeriousSamClassic
+  originals:
+  - 'Serious Sam: The First Encounter'
+  - 'Serious Sam: The Second Encounter'
+  type: remake
+  repo: https://github.com/tx00100xt/SeriousSamClassic
+  feed: https://github.com/tx00100xt/SeriousSamClassic/releases.atom
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  added: 2023-02-12
+  updated: 2025-06-06
+  images:
+  - https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic/main/Images/samxplus_1.png
+  - https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic/main/Images/samxplus_2.png
+  - https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic/main/Images/samxplus_3.png
+  
+- name: Serious-Sam-Android
+  info: 'A port of Serious Sam: the Second Encounter to Android. There is also a fork for the Pandora.'
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  - OpenGL
+  licenses:
+  - GPL2
+  originals:
+  - 'Serious Sam: The Second Encounter'
+  development: halted
+  status: playable
+  content: commercial
+  repo: https://github.com/aarcangeli/Serious-Sam-Android
+  type: remake
+  added: 2021-10-25
+  updated: 2025-06-06
+  video:
+    youtube: mhUad2YaE3Y
+
+- name: 'Serious Sam Classic: Vulkan'
+  originals:
+  - 'Serious Sam: The First Encounter'
+  - 'Serious Sam: The Second Encounter'
+  type: remake
+  repo: https://github.com/tx00100xt/SeriousSamClassic-VK
+  feed: https://github.com/tx00100xt/SeriousSamClassic-VK/releases.atom
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  - Online
+  - LAN
+  - Split-screen
+  - Co-op
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - Vulkan
+  licenses:
+  - GPL2
+  added: 2023-04-15
+  updated: 2025-06-07
+  images:
+  - https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samxplus_1.png
+  - 'https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samxplus_2.png'
+  - 'https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samxplus_3.png'
+  - 'https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samvulkan_1.png'
+  - 'https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samvulkan_2.png'
+  - 'https://raw.githubusercontent.com/tx00100xt/SeriousSamClassic-VK/main/Images/samvulkan_3.png'
+  video:
+    youtube: LWPvCxcFCEM
+
+- name: 'Seven Kingdoms: Ancient Adversaries'
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: free
+  development: active
+  originals:
+  - Seven Kingdoms
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  - Competitive
+  repo: https://sourceforge.net/projects/skfans/
+  type: remake
+  url: https://7kfans.com
+  feed: https://7kfans.com/rss.xml
+  added: 2011-06-15
+  updated: 2023-10-24
+  video:
+    youtube: nRE3HX1Tx3g
+
+- name: Seven Tiles
+  originals:
+  - 7 Colors
+  type: clone
+  repo: 'https://www.ticalc.org/archives/files/fileinfo/304/30409.html'
+  url: >-
+    https://web.archive.org/web/20090215065023/https://membres.lycos.fr/ximoon/#:~:text=Seven%20Tiles
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-04
+  updated: 2026-02-04
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/379/37959.gif'
+
+- name: Severed Chains
+  originals:
+  - The Legend of Dragoon
+  type: clone
+  repo: https://github.com/Legend-of-Dragoon-Modding/Severed-Chains
+  url: https://legendofdragoon.org/projects/severed-chains/
+  feed: https://legendofdragoon.org/feed/
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  frameworks:
+  - LWJGL
+  licenses:
+  - AGPL3
+  info: >-
+    Severed Chains is an unofficial port of Legend of Dragoon for PC and
+    SteamDeck, created by Monoxide. The game runs faster, leaner, and has breakout
+    modding capabilities. Experience the game in 4K, 60FPS, and true widescreen.
+    Has many quality-of-life improvements, as well as accessibility options. Only
+    works with the North American release of LoD at this time.
+  added: 2025-07-05
+  updated: 2025-07-05
+  images:
+  - 'https://legendofdragoon.org/wp-content/uploads/CS_Hoax6-1536x864.webp'
+  - 'https://legendofdragoon.org/wp-content/uploads/CS_Hoax7-1536x864.webp'
+  - 'https://legendofdragoon.org/wp-content/uploads/SE_ChainGrapple1-768x432.webp'
+  video:
+    youtube: isAC2LlwJEM
+
+- name: sfall
+  development: active
+  info: sfall is a set of engine modifications for the classic game Fallout 2 in the form of a DLL, which modifies executable in memory without changing anything in EXE file itself.
+  langs:
+  - C++
+  - C
+  - C#
+  frameworks:
+  - DirectX
+  licenses:
+  - GPL3
+  content: commercial
+  originals:
+  - Fallout 2
+  repo: https://github.com/phobos2077/sfall
+  url: https://sfall-team.github.io/sfall/
+  status: N/A
+  type: tool
+  added: 2018-06-20
+  updated: 2025-06-08
+  images:
+  - https://u.cubeupload.com/NovaRain/sfalldemo1.png
+  - https://u.cubeupload.com/NovaRain/sfalldemo2.png
+
+- name: sh3redux
+  originals:
+  - Silent Hill 3
+  type: remake
+  repo: https://github.com/Palm-Studios/sh3redux
+  url: https://sh3redux.blogspot.com
+  feed: https://sh3redux.blogspot.com/feeds/posts/default
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - OpenGL
+  licenses:
+  - GPL3
+  info: SILENT HILL 3 Engine Remake in OpenGL and C++
+  added: 2020-12-03
+  updated: 2020-12-03
+  images:
+  - >-
+    https://2.bp.blogspot.com/-Y84Ml-Y_vwA/WYxpVeu5mUI/AAAAAAAAAcM/Un6um3dMju41WS06YiwF0lXQ7tTinqMkQCLcBGAs/s1600/texture.png
+  - >-
+    https://2.bp.blogspot.com/-QzagT9JWbY4/WVSqo6eUR5I/AAAAAAAAAbU/BrK4OoyGWfMh5JVYxZf8mILI7MiCgySCgCPcBGAYYCw/s1600/font_test.png
+  - >-
+    https://4.bp.blogspot.com/-a-PRIyb1wl4/WLIv_inQPkI/AAAAAAAAAZk/5n5VFU5V1sk_YZd20LY44sGZQXLerl9qACLcB/s1600/output2.png
+
+- name: Shadow of the Blitz
+  originals:
+  - Shadow of the Beast
+  type: remake
+  url: 'https://glop.org/sotb/'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - As-is
+  added: 2025-12-12
+  updated: 2025-12-12
+  images:
+  - 'https://glop.org/gfx/sotb.gif'
+
+- name: Shadow Pong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://sourceforge.net/projects/shadow-pong/'
+  feed: 'https://sourceforge.net/p/shadow-pong/news/feed.rss'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - BSD
+  added: 2025-10-07
+  updated: 2025-10-07
+  images:
+  - 'https://a.fsdn.com/con/app/proj/shadow-pong/screenshots/80936.jpg'
+
+- name: Shadow Warrior
+  originals:
+  - Shadow Warrior
+  type: official
+  repo: 'https://github.com/dos-games/vanilla-shadow_warrior'
+  url: >-
+    https://web.archive.org/web/20160303204143/http://legacy.3drealms.com/news/2005/04/shadow_warrior_12.html
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - Build
+  licenses:
+  - GPL2
+  added: 2025-11-24
+  updated: 2025-11-24
+
+- name: shadow-of-the-beast-html5
+  frameworks:
+  - PandaJS
+  langs:
+  - JavaScript
+  licenses:
+  - Apache
+  development: halted
+  originals:
+  - Shadow of the Beast
+  status: unplayable
+  repo: https://github.com/spleennooname/shadow-of-the-beast-html5
+  url: https://spleennooname.github.io/shadow-of-the-beast-html5/
+  type: remake
+  added: 2017-04-04
+  updated: 2017-04-04
+
+- name: shadowgrounds
+  langs:
+  - C++
+  licenses:
+  - Custom
+  development: halted
+  originals:
+  - 'Shadowgrounds: Survivor'
+  status: unplayable
+  repo: https://github.com/vayerx/shadowgrounds
+  type: remake
+  added: 2015-04-14
+  updated: 2022-07-04
+
+- name: Shamus
+  originals:
+  - Shamus
+  type: remake
+  repo: 'https://github.com/denix666/shamus'
+  feed: 'https://github.com/denix666/shamus/releases.atom'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Rust
+  frameworks:
+  - macroquad
+  licenses:
+  - MIT
+  added: 2025-11-29
+  updated: 2025-11-29
+  images:
+  - 'https://raw.githubusercontent.com/denix666/shamus/main/docs/gameplay.png'
+
+- name: Shandalar
+  originals:
+  - 'Magic: The Gathering'
+  type: remake
+  repo: 'https://github.com/ShandalarMagic/Shandalar'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Shandalar abandonware updated with 2015 magic cards
+  added: '2025-04-02'
+  updated: '2025-04-02'
+  video:
+    youtube: fNbLpy_M-ug
+
+- name: SharpMC
+  originals:
+  - Minecraft
+  type: remake
+  repo: 'https://github.com/SharpMC/SharpMC'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Online
+  langs:
+  - 'C#'
+  frameworks:
+  - Mono
+  licenses:
+  - MIT
+  info: 'A MineCraft server in C#'
+  added: 2026-02-28
+  updated: 2026-02-28
+
+- name: SharpMC-Rewritten
+  originals:
+  - Minecraft
+  type: remake
+  repo: 'https://github.com/SharpMC/SharpMC-Rewritten'
+  development: halted
+  status: unplayable
+  multiplayer:
+  - Online
+  langs:
+  - 'C#'
+  licenses:
+  - MIT
+  info: A rewritten version of SharpMC for Minecraft Java Edition 1.11
+  added: 2026-02-28
+  updated: 2026-02-28
+
+- name: shin
+  originals:
+  - 'Umineko: When They Cry Saku'
+  type: remake
+  repo: https://github.com/dcnick3/shin
+  development: active
+  status: semi-playable
+  feed: https://github.com/DCNick3/shin/releases.atom
+  content: commercial
+  langs:
+  - Rust
+  licenses:
+  - MPL
+  added: 2023-06-23
+  updated: 2023-10-25
+  images:
+  - 'https://raw.githubusercontent.com/DCNick3/shin/master/screenshot.png'
+
+- name: Shining Force 2 Reverse Engineer (SF2RE)
+  info: reverse engineering project
+  langs:
+  - C
+  licenses:
+  - As-is
+  development: sporadic
+  originals:
+  - Shining Force II
+  status: unplayable
+  repo: https://github.com/ShiningForceCentral/SF2RE
+  type: remake
+  added: 2015-05-10
+  updated: 2015-05-10
+
+- name: Shining Soul Remake
+  frameworks:
+  - pygame
+  langs:
+  - Python
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Shining Soul
+  status: unplayable
+  repo: https://github.com/CharlieIsMyName/ShiningSoulRemake
+  type: remake
+  added: 2016-04-11
+  updated: 2022-12-08
+  images:
+  - https://camo.githubusercontent.com/b3b143b465cd63fc763afb5886489ac4e54d158e345b9746e9c0ee73c4a71b77/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f647177796a6e7a67692f696d6167652f75706c6f61642f76313437333730393539302f305f6d76777a6e712e706e67
+  - https://camo.githubusercontent.com/008dde4ba4a26e0a488e9109297c6364944c8d258487c5bca17be730c3a20461/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f647177796a6e7a67692f696d6167652f75706c6f61642f76313437333730393539302f315f6e31696170352e706e67
+  - https://camo.githubusercontent.com/ed0697f38c1dc5986bb26830ce7e8478a101d05dad24d31704220fcea8455e6d/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f647177796a6e7a67692f696d6167652f75706c6f61642f76313437333730393539302f325f796a66766b712e706e67
+  - https://camo.githubusercontent.com/d446f9207ca19823bfc26caca26b97635ed6c41690bd84a60455080055b7cb94/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f647177796a6e7a67692f696d6167652f75706c6f61642f76313437333730393539302f335f7a7435636e352e706e67
+
+- name: Ship of Harkinian
+  originals:
+  - 'The Legend of Zelda: Ocarina of Time'
+  type: remake
+  repo: https://github.com/HarbourMasters/Shipwright
+  feed: https://github.com/HarbourMasters/Shipwright/releases.atom
+  url: https://www.shipofharkinian.com/
+  development: active
+  status: playable
+  content: commercial
+  licenses:
+  - As-is
+  langs:
+  - C
+  - C++
+  frameworks:
+  - SDL2
+  - OpenGL
+  info: >-
+    An enhanced an improved PC port of the original Ocarina of Time based 
+    on the reverse-engineering work done by the OOT decompilation project.
+  added: 2022-08-29
+  updated: 2025-06-12
+  video:
+    youtube: 4ZNIE5xwjsY
+
+- name: Shippy 1984
+  originals:
+  - Space Invaders
+  - Galaxians
+  type: similar
+  repo: 'https://github.com/dulsi/shippy1984'
+  url: 'https://identicalsoftware.com/shippy1984/'
+  feed: 'https://github.com/dulsi/shippy1984/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - CC0
+  - CC-BY
+  - CC-BY-SA
+  - GPL2
+  added: 2025-10-17
+  updated: 2025-10-17
+  images:
+  - 'https://identicalsoftware.com/shippy1984/shot_cute.gif'
+  - 'https://identicalsoftware.com/shippy1984/shot_cute2.gif'
+  - 'https://identicalsoftware.com/shippy1984/shot_cute3.gif'
+
+- name: shiromino
+  originals:
+  - 'Tetris: The Grand Master'
+  type: clone
+  repo: https://github.com/shiromino/shiromino
+  feed: https://github.com/shiromino/shiromino/releases.atom
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2022-12-28
+  updated: 2022-12-28
+  images:
+  - 'https://tetris.wiki/images/f/fa/Shiromino_title.jpg'
+  - 'https://tetris.wiki/images/1/10/Shiromino_ingame.jpg'
+
+- name: Shockolate
+  development: sporadic
+  frameworks:
+  - SDL2
+  images:
+  - https://i.imgur.com/kbVWQj4.gif
+  info: 'Needs game data from System Shock: Enhanced Edition'
+  langs:
+  - C
+  licenses:
+  - GPL3
+  content: commercial
+  originals:
+  - System Shock
+  repo: https://github.com/Interrupt/systemshock
+  feed: https://github.com/Interrupt/systemshock/releases.atom
+  status: playable
+  type: remake
+  added: 2018-06-15
+  updated: 2023-10-27
+
+- name: Shrek 2 Remake
+  originals:
+  - Shrek 2
+  type: remake
+  repo: 'https://github.com/Kaboms/Shrek-2-Remake'
+  development: active
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - Unreal Engine 5
+  licenses:
+  - Unlicense
+  added: '2025-05-02'
+  updated: '2025-05-02'
+  images:
+  - 'https://leonardo.osnova.io/ea041c42-6347-55ce-849d-28f603159594'
+  - 'https://leonardo.osnova.io/784ffe7a-530a-5f0f-8623-9e75d6c4da60'
+  - 'https://leonardo.osnova.io/3ab96e0e-ce06-51d3-8427-ffc8e746cf30'
+  - 'https://leonardo.osnova.io/8ae2b7e0-ee2c-5222-8b1e-bd432418e96f'
+  - 'https://leonardo.osnova.io/6e4c86dd-18c7-5332-9e25-9231e6aae44b'
+  video:
+    youtube: jm-D_JZj_XI
+
+- name: Shufflepuck for Apple II
+  originals:
+  - Shufflepuck Café
+  type: remake
+  repo: https://github.com/colinleroy/a2tools
+  url: 'https://www.colino.net/wordpress/en/shufflepuck-cafe-for-apple-ii/'
+  development: complete
+  status: playable
+  multiplayer:
+  - LAN
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - GPL3
+  added: '2025-09-11'
+  updated: '2025-09-11'
+  images:
+  - 'https://www.colino.net/wordpress/wp-content/uploads/shufflepuck-cafe-bar.png'
+  - 'https://www.colino.net/wordpress/wp-content/uploads/shufflepuck-cafe-game.png'
+  video:
+    youtube: Z8x14hi5sSE
+
+- name: Shulkr
+  originals:
+  - Minecraft
+  type: tool
+  repo: 'https://github.com/clabe45/shulkr'
+  feed: 'https://github.com/clabe45/shulkr/releases.atom'
+  development: halted
+  status: N/A
+  langs:
+  - Python
+  licenses:
+  - Apache
+  info: >-
+    A tool that decompiles multiple versions of Minecraft and commits each version
+    to Git.
+  added: 2025-08-19
+  updated: 2025-08-19
+
+- name: 'Siege of Avalon : Open Source'
+  images:
+  - https://soaos.sourceforge.net/images/shots/SOACH6d.jpg
+  - https://soaos.sourceforge.net/images/shots/scrshot7.jpg
+  - https://soaos.sourceforge.net/images/shots/screen3.jpg
+  langs:
+  - Delphi
+  frameworks:
+  - SDL
+  licenses:
+  - LGPL2
+  content: free
+  development: halted
+  originals:
+  - Siege of Avalon
+  status: unplayable
+  repo: https://github.com/CartBlanche/Siege-of-Avalon-Open-Source
+  type: remake
+  added: 2015-04-08
+  updated: 2025-06-15
+  url: https://soaos.sourceforge.net/
+
+- name: Siege Studio
+  originals:
+  - Starsiege
+  - 'Metaltech: Earthsiege'
+  - Earthsiege 2
+  type: tool
+  repo: https://github.com/open-siege/siege-studio
+  url: https://store.steampowered.com/app/3193420/Siege_Studio/
+  feed: 'https://github.com/open-siege/open-siege/releases.atom'
+  development: sporadic
+  status: N/A
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - MIT
+  info: >-
+    Siege Studio is a desktop application for previewing, modifying and converting reverse engineered file formats for games such as Earthsiege, Starsiege and other games from the 90s.
+  added: 2023-04-07
+  updated: 2025-12-10
+
+- name: 'Signus: The Artefact Wars'
+  type: remake
+  originals:
+  - 'Signus: The Artefact Wars'
+  repo: https://github.com/signus-game/signus
+  development: complete
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: open
+  info: Complete source port of the original game
+  added: 2021-11-12
+  updated: 2021-11-12
+  video:
+    youtube: SHhLHVwoLFA
+
+- name: Silent Hill 2 Enhanced Edition
+  originals:
+  - Silent Hill 2
+  status: N/A
+  type: tool
+  repo: https://github.com/elishacloud/Silent-Hill-2-Enhancements
+  feed: https://github.com/elishacloud/Silent-Hill-2-Enhancements/releases.atom
+  url: https://enhanced.townofsilenthill.com/SH2/
+  development: active
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  licenses:
+  - Zlib
+  info: A project designed to enhance Silent Hill 2 graphics and audio for the PC.
+  added: 2019-11-15
+  updated: 2025-06-17
+  video:
+    youtube: 6v1USVhtfjQ
+  images:
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_01.png
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_02.png
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_03.png
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_04.png
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_05.png
+  - https://enhanced.townofsilenthill.com/SH2/images/aboutBeauty/beauty_06.png
+
+- name: Simitone
+  type: remake
+  originals:
+  - The Sims
+  repo: https://github.com/riperiperi/Simitone
+  feed: https://github.com/riperiperi/Simitone/releases.atom
+  development: sporadic
+  status: semi-playable
+  langs:
+  - C#
+  frameworks:
+  - .NET
+  licenses:
+  - MPL
+  content: commercial
+  info: Simitone is a singleplayer only version of FreeSO.
+  added: 2019-09-17
+  updated: 2025-06-17
+  images:
+  - https://user-images.githubusercontent.com/6294155/68995217-112b2680-0883-11ea-9f92-1acc839a7ec0.png
+
+- name: Simon
+  originals:
+  - Simon
+  type: clone
+  url: 'https://www.oligalma.com/en/downloads/java/simon'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Java
+  licenses:
+  - GPL3
+  added: 2025-07-23
+  updated: 2025-07-23
+  images:
+  - 'https://www.oligalma.com/downloads/java/simon/extra/screenshot1.jpg'
+
+- name: Simple Sokoban
+  originals:
+  - Sokoban
+  type: clone
+  url: 'https://mateusz.fr/simplesok/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  - MIT
+  added: 2025-09-19
+  updated: 2025-09-19
+  images:
+  - 'https://mateusz.fr/simplesok/simplesok-snapshot.png'
+
+- name: Simplevaders
+  originals:
+  - Space Invaders
+  type: clone
+  url: 'https://dusted.dk/pages/simplevaders/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL3
+  added: 2025-09-10
+  updated: 2025-09-10
+  images:
+  - 'https://dusted.dk/pages/simplevaders/1.jpg'
+  - 'https://dusted.dk/pages/simplevaders/2.jpg'
+  - 'https://dusted.dk/pages/simplevaders/3.jpg'
+  - 'https://dusted.dk/pages/simplevaders/4.jpg'
+  - 'https://dusted.dk/pages/simplevaders/5.jpg'
+  - 'https://dusted.dk/pages/simplevaders/6.jpg'
+  video:
+    youtube: cvGnvw4gLvw
+
+- name: SimUnity2
+  originals:
+  - The Sims 2
+  type: remake
+  repo: https://github.com/LazyDuchess/SimUnity2
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - C#
+  frameworks:
+  - Unity
+  licenses:
+  - As-is
+  added: 2021-10-22
+  updated: 2023-10-29
+  info: Succeeded by OpenTS2
+  images:
+  - https://camo.githubusercontent.com/0ad91f5360b892bc22c86f66fab78b0208e5f33077e599d74b3e11b04fb7f99b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3437393836343834303831313138343132382f3636373431323836333432313531333735392f756e6b6e6f776e2e706e67
+
+- name: Simutrans
+  images:
+  - https://www.simutrans.com/images/paksets/pak128.cs.png
+  - https://www.simutrans.com/images/paksets/pak128.german.png
+  - https://www.simutrans.com/images/paksets/pak64.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - Artistic
+  content: open
+  development: very active
+  originals:
+  - Transport Tycoon
+  repo: https://github.com/simutrans/simutrans
+  status: playable
+  multiplayer:
+  - Online
+  type: clone
+  url: https://www.simutrans.com/en/
+  added: 2011-06-03
+  updated: 2025-06-18
+  info: content "paksets" come in a variety of licenses
+  video:
+    youtube: e8Wp7rxVg88
+
+- name: SiN Gold Game Source
+  originals:
+  - SiN
+  type: official
+  repo: 'https://github.com/NightDive-Studio/sin-ex-game'
+  url: >-
+    https://www.reddit.com/r/linux_gaming/comments/p1bsr5/sin_golds_90s_fps_source_code_has_been_released/
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - Quake II engine
+  licenses:
+  - Custom
+  added: 2025-12-06
+  updated: 2025-12-06
+
+- name: Sine
+  frameworks:
+  - SFML
+  images:
+  - https://github.com/slx7R4GDZM/Sine/blob/master/Media/In-game.png?raw=true
+  - https://github.com/slx7R4GDZM/Sine/blob/master/Media/High-score-entry.png?raw=true
+  langs:
+  - C++
+  licenses:
+  - MIT
+  content: open
+  development: halted
+  originals:
+  - Asteroids
+  repo: https://github.com/slx7R4GDZM/Sine
+  status: semi-playable
+  type: remake
+  added: 2016-10-30
+  updated: 2023-10-30
+
+- name: sissyfight
+  originals:
+  - SiSSYFiGHT 2000
+  type: official
+  repo: 'https://github.com/moonmilk/sissyfight'
+  url: 'https://www.kickstarter.com/projects/1805029723/sissyfight-2000-returns'
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: free
+  langs:
+  - JavaScript
+  - HTML
+  - CSS
+  frameworks:
+  - SockJS
+  - CreateJS
+  licenses:
+  - CC-BY
+  - MIT
+  info: Sissyfight 2000 Returns is a revival of the 1999 multiplayer game SiSSYFiGHT 2000.
+  added: 2026-01-20
+  updated: 2026-01-20
+
+- name: Skifree-HTML5-clone
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - SkiFree
+  status: semi-playable
+  repo: https://github.com/andymason/Skifree-HTML5-clone
+  type: remake
+  added: 2015-06-18
+  updated: 2015-06-18
+
+- name: skifree.js
+  langs:
+  - JavaScript
+  licenses:
+  - MIT
+  content: free
+  development: halted
+  originals:
+  - SkiFree
+  status: semi-playable
+  repo: https://github.com/basicallydan/skifree.js
+  url: https://basicallydan.github.io/skifree.js/
+  type: remake
+  added: 2015-05-02
+  updated: 2023-10-31
+  info: This is a work in progress JavaScript port of the popular 1991 PC game SkiFree
+  images:
+  - https://danhough.com/img/skifree.gif
+
+- name: Skin Deep
+  originals:
+  - Skin Deep
+  type: official
+  repo: 'https://github.com/blendogames/SkinDeep'
+  url: 'https://blendogames.com/news/post/2025-06-26-skindeepsourcecode/'
+  development: complete
+  status: playable
+  content: commercial
+  frameworks:
+  - id Tech 4
+  licenses:
+  - GPL3
+  added: 2026-02-11
+  updated: 2026-02-11
+  video:
+    youtube: qUMPe-hns_Q
+
+- name: Skladnik
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://invent.kde.org/games/skladnik'
+  url: 'https://apps.kde.org/skladnik/'
+  feed: 'https://apps.kde.org/skladnik/index.xml'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - Qt
+  licenses:
+  - GPL2
+  added: 2025-08-06
+  updated: 2025-08-06
+  images:
+  - 'https://cdn.kde.org/screenshots/skladnik/skladnik.png'
+
+- name: Skool Daze disassembly
+  originals:
+  - Skool Daze
+  type: remake
+  repo: 'https://github.com/skoolkid/skooldaze'
+  url: 'https://skoolkid.gitlab.io/skooldaze/'
+  development: complete
+  status: playable
+  langs:
+  - Skool
+  licenses:
+  - As-is
+  added: 2026-03-14
+  updated: 2026-03-14
+
+- name: skproject
+  originals:
+  - 'Dungeon Master II: The Legend of Skullkeep'
+  type: remake
+  repo: 'https://github.com/gbsphenx/skproject'
+  feed: 'https://github.com/gbsphenx/skproject/releases.atom'
+  development: very active
+  status: playable
+  content: free
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2026-02-04
+  updated: 2026-02-04
+  images:
+  - https://web.archive.org/web/20260106184243if_/http://dmweb.free.fr/files/Clone,SKWIN,Windows,Screenshot.png
+
+- name: SKye
+  originals:
+  - Kye
+  type: clone
+  url: 'https://www.ticalc.org/archives/files/fileinfo/337/33785.html'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - GPL2
+  added: 2026-02-08
+  updated: 2026-02-08
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/455/45583.gif'
+  - 'https://www.ticalc.org/archives/files/ss/455/45582.gif'
+  - 'https://www.ticalc.org/archives/files/ss/455/45585.gif'
+  - 'https://www.ticalc.org/archives/files/ss/455/45584.gif'
+
+- name: SkyRacer
+  originals:
+  - SkyRoads
+  type: similar
+  repo: 'https://www.calculatorti.com/ti-games/ti-89/asm/skyracer/'
+  url: http://www.malcolm-s.net/ti/skyracer/
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  licenses:
+  - Custom
+  added: 2026-01-04
+  updated: 2026-01-08
+  images:
+  - 'https://www.calculatorti.com/media/images/programs/skyracer.jpg'
+
+- name: SLADE
+  originals:
+  - Doom
+  type: tool
+  status: N/A
+  repo: https://github.com/sirjuddington/SLADE
+  url: https://slade.mancubus.net/
+  development: active
+  content: swappable
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  info: SLADE3 is a modern editor for Doom-engine based games and source ports.
+  added: 2019-08-26
+  updated: 2019-08-26
+  images:
+  - https://slade.mancubus.net/shots/gfx.png
+  - https://slade.mancubus.net/shots/map.png
+  - https://slade.mancubus.net/shots/map3d.png
+
+- name: Slaine
+  originals:
+  - Sláine
+  type: official
+  repo: 'https://github.com/milkeybabes/Slaine'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Slaine C64 Source Code.
+  added: 2026-01-16
+  updated: 2026-01-16
+  images:
+  - 'https://www.vintageisthenewold.com/wp-content/uploads/2019/05/slaine_01.gif'
+
+- name: SLASH'EM
+  images:
+  - https://i0.wp.com/www.linuxlinks.com/wp-content/uploads/2017/12/Screenshot-SlashEM.png
+  langs:
+  - C
+  frameworks:
+  - Allegro
+  licenses:
+  - NGPL
+  development: halted
+  originals:
+  - NetHack
+  status: playable
+  info: SLASH'EM (SuperLotsaAddedStuffHack - Extended Magic) is a variant of Nethack.
+  repo: https://sourceforge.net/projects/slashem/
+  type: clone
+  added: 2015-04-11
+  updated: 2025-06-21
+  url: http://www.slashem.org/
+
+- name: SLF
+  originals:
+  - Super Lemonade Factory
+  type: remake
+  repo: 'https://github.com/initials/SLF'
+  development: halted
+  status: unplayable
+  content: free
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - As-is
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: SLF_AIR_SOURCE
+  originals:
+  - Super Lemonade Factory
+  type: official
+  repo: 'https://github.com/initials/SLF_AIR_SOURCE'
+  url: >-
+    https://web.archive.org/web/20250610022853/http://initialscommand.com/main/?p=656
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - ActionScript
+  frameworks:
+  - Adobe AIR
+  licenses:
+  - MIT
+  info: Super Lemonade Factory written for Adobe AIR.
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: SLF_SOURCE
+  originals:
+  - Super Lemonade Factory
+  type: official
+  repo: 'https://github.com/initials/SLF_SOURCE'
+  url: >-
+    https://web.archive.org/web/20121124114024/http://initialscommand.com/main/?p=656
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Objective-C
+  licenses:
+  - MIT
+  info: iOS Version of Super Lemonade Factory.
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: SliJewel
+  originals:
+  - Bejeweled
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliJewel'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Bejeweled game clone written in Turbo Delphi. Configurable board size and number of colours.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81442796-26b34600-916c-11ea-87ed-c44b69d627f9.png'
+
+- name: SliLights
+  originals:
+  - Lights Out
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliLights'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Lights Out game clone written in Turbo Delphi. 100 levels built in (50 classic + 50 Lights Out 2000) and random levels generator.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/94176651-4edbe100-fe90-11ea-80c1-e5adc69b3a50.png'
+
+- name: SliLumns
+  originals:
+  - Columns
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliLumns'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Columns game clone written in Turbo Delphi. Configurable starting difficulty and speed.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81442889-56fae480-916c-11ea-8f29-5567d4d4a2ae.png'
+
+- name: Slime Volleyball
+  langs:
+  - C++
+  licenses:
+  - BSD
+  development: complete
+  content: free
+  info: reverse-compiled and ported
+  originals:
+  - Slime Volleyball
+  multiplayer:
+  - Competitive
+  - Local
+  repo: https://github.com/highfestiva/life
+  status: playable
+  type: clone
+  added: 2019-06-07
+  updated: 2025-06-23
+  url: https://pixeldoctrine.com/old/index.html
+  video:
+    youtube: 3ckvPnatwPs
+
+- name: SliMind
+  originals:
+  - Mastermind
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliMind'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Master Mind game clone written in Turbo Delphi. Configurable number of pegs, colours, max attempts, repeat colours yes/no.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81473895-c66ae580-91f9-11ea-9dad-30216f750818.png'
+
+- name: SliMine
+  originals:
+  - Minesweeper
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliMine'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Minesweeper game clone written in Turbo Delphi. Configurable board size and number of mines.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81442492-98d75b00-916b-11ea-9660-6e55f1949557.png'
+
+- name: SliPeg
+  originals:
+  - Peg Solitaire
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliPeg'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Peg Solitaire game clone written in Turbo Delphi. English and European boards.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81443347-2cf5f200-916d-11ea-8f25-5a3db86b7749.png'
+  
+- name: SliSame
+  originals:
+  - SameGame
+  type: remake
+  repo: https://github.com/cricri-pingouin/SliSame
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Same Game clone written in Turbo Delphi. Configurable number of colours and board size.'
+  added: 2022-10-29
+  updated: 2022-10-29
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81443622-a7bf0d00-916d-11ea-9e60-f4d2b672943f.png'
+
+- name: SliSnake
+  originals:
+  - Snake
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliSnake'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Snake game clone written in Turbo Delphi. Configurable room size and speed, joystick support.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81443921-359af800-916e-11ea-841b-efdf9ae4ede0.png'
+
+- name: SliTris
+  originals:
+  - Tetris
+  type: remake
+  repo: 'https://github.com/cricri-pingouin/SliTris'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Delphi
+  licenses:
+  - GPL3
+  info: 'A Tetris game clone written in Turbo Delphi. Configurable starting difficulty and speed.'
+  added: 2022-10-17
+  updated: 2022-10-17
+  images:
+  - 'https://user-images.githubusercontent.com/64480118/81442665-efdd3000-916b-11ea-8aba-af1efc3e6b96.png'
+
+- name: sm64ex
+  originals:
+  - Super Mario 64
+  type: remake
+  repo: https://github.com/sm64pc/sm64ex
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - As-is
+  added: 2021-07-08
+  updated: 2021-07-08
+  info: Fork of sm64-port with additional features.
+  video:
+    youtube: iwBCFY7FqlU
+
+- name: Small Games Collection
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://sourceforge.net/projects/smallgamesc/'
+  feed: 'https://sourceforge.net/p/smallgamesc/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Java
+  frameworks:
+  - Swing
+  licenses:
+  - GPL2
+  added: 2025-10-28
+  updated: 2025-10-28
+  images:
+  - 'https://a.fsdn.com/con/app/proj/smallgamesc/screenshots/45224.jpg'
+  - 'https://a.fsdn.com/con/app/proj/smallgamesc/screenshots/68559.jpg'
+
+- name: smb
+  originals:
+  - Super Methane Brothers
+  type: remake
+  repo: 'https://github.com/capehill/smb'
+  url: 'https://os4depot.net/?function=showfile&file=game/platform/smb_sdl2.lha'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  info: Super Methane Bros for AmigaOS 4 / SDL2.
+  added: 2025-12-02
+  updated: 2025-12-02
+
+- name: smb1-disasm
+  originals:
+  - Super Mario Bros.
+  type: remake
+  repo: 'https://github.com/laura240406/smb1-disasm'
+  development: halted
+  status: playable
+  multiplayer:
+  - Local
+  - Hotseat
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-15
+  updated: 2026-03-15
+
+- name: smb3
+  originals:
+  - Super Mario Bros. 3
+  type: remake
+  repo: 'https://github.com/captainsouthbird/smb3'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  - Hotseat
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Disassembly of Super Mario Bros 3
+  added: 2026-03-04
+  updated: 2026-03-04
+
+- name: smines
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/BBaoVanC/smines'
+  url: 'https://aur.archlinux.org/packages/smines-git'
+  feed: 'https://github.com/BBaoVanC/smines/releases.atom'
+  development: sporadic
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  licenses:
+  - GPL3
+  added: 2025-08-25
+  updated: 2025-08-25
+
+- name: smw
+  originals:
+  - Super Mario
+  type: remake
+  repo: https://github.com/snesrev/smw
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  info: reverse engineered clone of Super Mario World, requires ROM
+  added: 2025-06-03
+  updated: 2025-06-03
+  video:
+    youtube: Ft0Gp-1Tsjc
+
+- name: snake
+  licenses:
+  - WTFPL
+  images:
+  - https://raw.githubusercontent.com/spypunk/snake/master/img/screenshot.png
+  langs:
+  - Java
+  development: halted
+  originals:
+  - Snake
+  repo: https://github.com/spypunk/snake
+  status: playable
+  type: remake
+  added: 2016-09-14
+  updated: 2023-11-01
+
+- name: Snake game for Arduino
+  originals:
+  - Snake
+  type: clone
+  repo: 'https://github.com/sadreactonly/Snake-game-for-Arduino'
+  url: 'https://projecthub.arduino.cc/sadreactonly/snake-game-on-nokia-5510-lcd-ea381a'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - AdafruitPCD8544
+  - AdafruitGFX
+  licenses:
+  - As-is
+  added: 2025-11-10
+  updated: 2025-11-10
+  images:
+  - 'https://projects.arduinocontent.cc/03ee0611-e9b9-4268-ac7d-e3bac2708bc3.jpg'
+  - 'https://projects.arduinocontent.cc/8114b0c2-8342-47c8-bf55-a16f9a0b96e0.jpg'
+  - 'https://projects.arduinocontent.cc/e96a6d5f-2b86-43a3-ac97-8d04388dcaa1.jpg'
+  - 'https://projects.arduinocontent.cc/d10e9c35-88c7-4217-8859-9b0318b333c6.jpg'
+  - 'https://projects.arduinocontent.cc/fda9b396-316e-411c-bd3c-0e40c4f12e8e.jpg'
+
+- name: Snake in JavaScript
+  originals:
+  - Snake
+  type: clone
+  repo: 'https://github.com/lostjared/Snake.JavaScript'
+  url: 'https://lostsidedead.biz/snake/'
+  development: complete
+  status: playable
+  langs:
+  - JavaScript
+  licenses:
+  - Unlicense
+  added: 2025-11-25
+  updated: 2025-11-25
+  images:
+  - 'https://raw.githubusercontent.com/lostjared/Snake.JavaScript/main/snake.jpg'
+
+- name: Snake LED Matrix Game
+  originals:
+  - Snake
+  type: clone
+  url: 'https://projecthub.arduino.cc/Hunter1234/snake-led-matrix-game-59f6ae'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2025-12-25
+  updated: 2025-12-25
+  images:
+  - https://projects.arduinocontent.cc/cover-images/54d5ba7e-cba3-40d5-8cf3-2dc726ffd6c7.png
+
+- name: Snake-in-LabVIEW
+  originals:
+  - Snake
+  type: clone
+  repo: 'https://github.com/mrhappyasthma/Snake'
+  development: complete
+  status: playable
+  langs:
+  - LabVIEW
+  licenses:
+  - As-is
+  added: 2026-01-03
+  updated: 2026-01-03
+  images:
+  - 'https://i.imgur.com/24w6MAR.png'
+
+- name: Snarf
+  originals:
+  - Snarf
+  type: official
+  url: 'https://www.classicdosgames.com/game/Snarf.html'
+  development: sporadic
+  status: playable
+  langs:
+  - C
+  licenses:
+  - Custom
+  content: free
+  added: 2026-02-03
+  updated: 2026-02-03
+  images:
+  - 'https://www.classicdosgames.com/images/screenshots/ega10/Snarf.png'
+
+- name: SNES Gargoyles prototype
+  originals:
+  - Gargoyles
+  type: official
+  repo: 'https://shrigley.com/source_code_archive/#:~:text=Gargoyles%20Prototype'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Unreleased SNES Prototype.
+  added: 2026-01-13
+  updated: 2026-01-13
+
+- name: Snipes
+  development: complete
+  frameworks:
+  - SDL2
+  info: reverse-engineered from original binary, aims for 100% logic compatibility with original game
+  langs:
+  - C++
+  licenses:
+  - Custom
+  content: free
+  originals:
+  - Snipes
+  repo: https://github.com/Davidebyzero/Snipes
+  status: playable
+  type: remake
+  added: 2017-04-04
+  updated: 2017-04-04
+  url: https://www.vogons.org/viewtopic.php?t=49073
+  images:
+  - https://kingbird.myphotos.cc/1bc763733d48b46534d219b0fc8ddf71/Snipes%20port%20%2B%20ConEmu%20screenshot.png
+  - https://kingbird.myphotos.cc/9c8a600b6df5d251fc199092b8b0d7d9/Snipes%20port%20%2B%20ConEmu%20screenshot%20with%20omniview.png
+  - https://kingbird.myphotos.cc/581b9f191f9e7e990a94cbaf7da2ae36/Snipes%20port%20%2B%20ConEmu%20screenshot%20-%20beat%20level%20Z9.png
+
+- name: Sokoban
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/denix666/sokoban/'
+  feed: 'https://github.com/denix666/sokoban/releases.atom'
+  development: sporadic
+  status: semi-playable
+  content: open
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2026-01-21
+  updated: 2026-01-21
+  images:
+  - https://raw.githubusercontent.com/denix666/sokoban/main/screenshots/screenshot1.png
+
+- name: Sokoban for HP48 and HP49G
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://www.hpcalc.org/details/4556'
+  url: >-
+    https://web.archive.org/web/20030206062540/http://www.fi.tartu.ee/danli97/#:~:text=Sokoban,-1
+  development: halted
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-22
+  updated: 2026-02-22
+  images:
+  - 'https://www.hpcalc.org/hp49/games/misc/sshots/sokobandl.png'
+
+- name: Sokoban(g)
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/obfusk/sokobang'
+  url: 'https://sokobang.obfusk.dev/'
+  feed: 'https://github.com/obfusk/sokobang/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - HTML
+  - CoffeeScript
+  licenses:
+  - AGPL3
+  added: 2025-09-11
+  updated: 2025-09-11
+  images:
+  - 'https://f-droid.org/repo/dev.obfusk.sokobang/en-US/phoneScreenshots/1.png'
+  - 'https://f-droid.org/repo/dev.obfusk.sokobang/en-US/phoneScreenshots/2.png'
+
+- name: sokoban-rs
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/swatteau/sokoban-rs'
+  url: 'https://crates.io/crates/sokoban-rs'
+  feed: 'https://github.com/swatteau/sokoban-rs/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Rust
+  frameworks:
+  - SDL2
+  licenses:
+  - Apache
+  added: 2025-08-21
+  updated: 2025-08-21
+  images:
+  - >-
+    https://raw.githubusercontent.com/swatteau/sokoban-rs/master/assets/image/screenshot.png
+
+- name: Sokobano
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://sourceforge.net/projects/sokobano/'
+  url: 'https://sokobano.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/sokobano/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Java
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2025-10-06
+  updated: 2025-10-06
+  images:
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/209789.jpg'
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/209791.jpg'
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/236310.jpg'
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/209795.jpg'
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/236308.jpg'
+  - 'https://a.fsdn.com/con/app/proj/sokobano/screenshots/209793.jpg'
+
+- name: SokoJS
+  originals:
+  - Box World
+  type: remake
+  repo: 'https://github.com/michbuze/sokojs'
+  url: 'http://buze.michel.chez.com/Boxworld/src.htm'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - JavaScript
+  - HTML
+  licenses:
+  - As-is
+  info: 'Remastered Box World, but lacking the original levels 61 and 62.'
+  added: 2025-10-13
+  updated: 2025-10-13
+
+- name: SokoMize
+  originals:
+  - Sokoban
+  type: clone
+  url: 'https://www.ticalc.org/archives/files/fileinfo/130/13038.html'
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2026-02-25
+  updated: 2026-02-25
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/57/5789.gif'
+  - 'https://www.ticalc.org/archives/files/ss/57/5788.gif'
+  - 'https://www.ticalc.org/archives/files/ss/57/5787.gif'
+  - 'https://www.ticalc.org/archives/files/ss/57/5792.gif'
+  - 'https://www.ticalc.org/archives/files/ss/57/5791.gif'
+  - 'https://www.ticalc.org/archives/files/ss/57/5790.gif'
+
+- name: SokoWorld
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/brettchalupa/sokoworld'
+  url: 'https://brettchalupa.itch.io/sokoworld'
+  feed: 'https://brettchalupa.itch.io/sokoworld/devlog.rss'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - HTML
+  - Rust
+  frameworks:
+  - macroquad
+  licenses:
+  - CC0
+  - CC-BY
+  - Unlicense
+  added: 2025-09-16
+  updated: 2025-09-16
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMjg5MzI4MS8xNzQ3NzUzOS5wbmc=/original/Pez2yD.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjg5MzI4MS8xNzQ3NzU0MC5wbmc=/original/APpin8.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjg5MzI4MS8xNzM3MTgyNi5wbmc=/original/nWUcF9.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjg5MzI4MS8xNzM3MTgyNy5wbmc=/original/MnwIVE.png'
+
+- name: SolarConflict
+  originals:
+  - Spacewar!
+  type: clone
+  repo: https://github.com/jtpalmer/Games-SolarConflict
+  url: 'https://metacpan.org/pod/Games::SolarConflict'
+  feed: 'https://metacpan.org/dist/Games-SolarConflict/releases.rss'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Perl
+  frameworks:
+  - SDL
+  licenses:
+  - PD
+  - CC-BY
+  - CC-BY-SA
+  - MIT
+  added: 2025-09-11
+  updated: 2025-09-11
+
+- name: Solaris Source
+  originals:
+  - Solaris
+  type: official
+  repo: 'https://github.com/webberdebber/solaris-src'
+  url: 'https://www.romhacking.net/documents/510/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Appears to be the original source code of the Atari 2600 game Solaris.
+  added: 2025-11-22
+  updated: 2025-11-26
+  images:
+  - https://www.atarimania.com/2600/screens/solaris.gif
+
+- name: Solarus
+  images:
+  - https://www.solarus-games.org/data/en/entities/page/engine/images/screenshot-quest-editor-01.png
+  - https://www.solarus-games.org/data/en/entities/page/engine/images/screenshot-quest-editor-02.png
+  - https://www.solarus-games.org/data/en/entities/page/engine/images/screenshot-quest-editor-03.png
+  - https://www.solarus-games.org/data/en/entities/page/engine/images/screenshot-quest-editor-04.png
+  langs:
+  - C++
+  - Lua
+  licenses:
+  - GPL3
+  - CC-BY-SA
+  development: active
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  repo: https://gitlab.com/solarus-games/solarus
+  type: clone
+  added: 2013-05-28
+  updated: 2020-08-25
+  url: https://www.solarus-games.org
+  video:
+    youtube: vt07FwzLo9A
+
+- name: SolarWolf
+  images:
+  - https://pygame.org/shredwheat/solarwolf/screen/shot1.jpg
+  - https://pygame.org/shredwheat/solarwolf/screen/shot2.jpg
+  - https://pygame.org/shredwheat/solarwolf/screen/shot3.jpg
+  - https://pygame.org/shredwheat/solarwolf/screen/shot4.jpg
+  - https://pygame.org/shredwheat/solarwolf/screen/shot5.jpg
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - LGPL2
+  content: open
+  originals:
+  - Solar Fox
+  status: playable
+  development: complete
+  type: remake
+  added: 2015-04-25
+  updated: 2022-08-11
+  url: https://pygame.org/shredwheat/solarwolf/index.shtml
+
+- name: Soldank
+  originals:
+  - Soldat
+  type: remake
+  repo: https://github.com/smokku/soldank
+  development: sporadic
+  status: semi-playable
+  multiplayer:
+  - Online
+  - Competitive
+  content: open
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2021-11-10
+  updated: 2025-06-26
+  images:
+  - 'https://raw.githubusercontent.com/smokku/soldank/master/sshot.png'
+
+- name: Son Link's Pong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://github.com/son-link/pong'
+  feed: 'https://github.com/son-link/pong/releases.atom'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Competitive
+  - Local
+  content: open
+  langs:
+  - Lua
+  frameworks:
+  - LÖVE
+  licenses:
+  - GPL3
+  added: 2026-03-14
+  updated: 2026-03-14
+
+- name: Sonic Adventure Toolset
+  originals:
+  - Sonic Adventure
+  type: tool
+  status: N/A
+  repo: https://github.com/X-Hax/sa_tools
+  url: https://github.com/X-Hax/sa_tools/wiki
+  feed: https://github.com/X-Hax/sa_tools/releases.atom
+  development: active
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  licenses:
+  - Multiple
+  info: >-
+    SA Tools is a toolkit for modifying and extracting data from the Sonic
+    Adventure series of games
+  added: 2019-11-27
+  updated: 2019-11-27
+  images:
+  - >-
+    https://github.com/sonicretro/sa_tools/raw/Docs/Documentation/images/project_manager_split_window.png
+  - >-
+    https://github.com/sonicretro/sa_tools/raw/Docs/Documentation/images/SADXLVL2_Editor_Overview.png
+
+- name: Sonic Robo Blast 2
+  images:
+  - https://www.srb2.org/wp-content/uploads/gfz1st.png
+  - https://www.srb2.org/wp-content/uploads/GFZ2.png
+  - https://www.srb2.org/wp-content/uploads/gfz3knux.png
+  langs:
+  - C
+  - Lua
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: free
+  development: sporadic
+  originals:
+  - Sonic the Hedgehog
+  status: playable
+  repo: https://github.com/STJr/SRB2
+  type: similar
+  added: 2014-04-16
+  updated: 2025-06-27
+  url: https://www.srb2.org/
+  info: 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy
+
+- name: Sonic 3 A.I.R.
+  originals:
+  - Sonic the Hedgehog
+  type: remake
+  repo: https://github.com/Eukaryot/sonic3air
+  feed: https://github.com/Eukaryot/sonic3air/releases.atom
+  url: https://sonic3air.org/
+  development: active
+  status: playable
+  multiplayer:
+  - Split-screen
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  added: 2023-07-05
+  updated: 2025-06-29
+  info: A fan-made widescreen remaster of Sonic 3 & Knuckles.
+  images:
+  - 'https://sonic3air.org/images/icecap01.png'
+  - 'https://sonic3air.org/images/skysanctuary01.png'
+
+- name: Sonic-Mania-Decompilation
+  originals:
+  - Sonic the Hedgehog
+  type: remake
+  repo: https://github.com/RSDKModding/Sonic-Mania-Decompilation
+  feed: https://github.com/RSDKModding/Sonic-Mania-Decompilation/releases.atom
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  added: 2023-07-05
+  updated: 2025-06-29
+
+- name: Sopwith
+  originals:
+  - Sopwith
+  type: official
+  repo: >-
+    https://web.archive.org/web/20191211132727/https://davidlclark.com/software-distribution/sopwith-source-code-zip-file
+  url: >-
+    https://archive.ph/20120206011933/http://www.davidlclark.com/index.html?http://www.davidlclark.com/sopwith/sourcecode.html
+  development: complete
+  status: playable
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - GPL3
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: Sopwith 3
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - GPL2
+  originals:
+  - Sopwith
+  status: playable
+  repo: https://sourceforge.net/projects/sopwith3/
+  development: halted
+  type: remake
+  added: 2015-04-13
+  updated: 2022-06-23
+  url: https://www.wingkong.net/sopwith2b/sopwith3.html
+  images:
+  - https://www.wingkong.net/sopwith2b/images/sop3_title.gif
+  - https://www.wingkong.net/sopwith2b/images/sop3_gameplay1.gif
+  - https://www.wingkong.net/sopwith2b/images/sop3_gameplay2.gif
+
+- name: SOS1937
+  originals:
+  - Spirit of Speed 1937
+  type: official
+  repo: 'https://github.com/LemonHaze420/SOS1937'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - As-is
+  info: 'Spirit of Speed: 1937 for Dreamcast.'
+  added: 2026-03-01
+  updated: 2026-03-01
+
+- name: Soul Ride snowboarding simulation
+  originals:
+  - Soul Ride
+  type: official
+  repo: 'https://sourceforge.net/projects/soulride/'
+  url: >-
+    http://www.soulride.com/products/news.html#:~:text=Soul%20Ride%20Engine%20goes%20GPL
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  added: 2025-12-13
+  updated: 2025-12-13
+
+- name: Source SDK 2013
+  originals:
+  - Half-Life 2
+  - 'Half-Life 2: Deathmatch'
+  - Team Fortress 2
+  type: official
+  repo: 'https://github.com/ValveSoftware/source-sdk-2013'
+  url: 'https://developer.valvesoftware.com/wiki/Source_SDK_Base_2013'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - Source
+  licenses:
+  - Custom
+  added: 2025-11-30
+  updated: 2025-11-30
+
+- name: 'Source to Red Dog: Superior Firepower'
+  originals:
+  - 'Red Dog: Superior Firepower'
+  type: official
+  repo: 'https://github.com/mattgodbolt/reddog'
+  development: complete
+  status: playable
+  multiplayer:
+  - Local
+  content: commercial
+  langs:
+  - C
+  - C++
+  licenses:
+  - MIT
+  added: 2025-12-12
+  updated: 2025-12-12
+
+- name: Sourcehold
+  type: remake
+  originals:
+  - Stronghold
+  repo: https://github.com/sourcehold/Sourcehold
+  development: halted
+  status: semi-playable
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  content: commercial
+  added: 2019-06-07
+  updated: 2025-07-01
+  images:
+  - https://repository-images.githubusercontent.com/168694263/0a27e500-7416-11e9-94f8-c9fece573196
+
+- name: Space Ace IIgs
+  originals:
+  - Space Ace
+  type: remake
+  repo: 'https://github.com/Olde-Skuul/spaceaceiigs'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - Zlib
+  info: Space Ace for Apple IIgs.
+  added: 2026-02-04
+  updated: 2026-02-04
+
+- name: Space Engineers
+  originals:
+  - Space Engineers
+  type: official
+  repo: 'https://github.com/KeenSoftwareHouse/SpaceEngineers'
+  url: 'https://www.rockpapershotgun.com/space-engineers-open-source'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: commercial
+  langs:
+  - 'C#'
+  licenses:
+  - Custom
+  added: 2025-11-19
+  updated: 2025-11-19
+
+- name: Space Frontier
+  originals:
+  - Stellar Frontier
+  type: clone
+  repo: 'https://github.com/Zireael07/Space-Frontier'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - MIT
+  added: 2026-02-01
+  updated: 2026-02-01
+
+- name: Space Funky B.O.B.
+  originals:
+  - B.O.B.
+  type: official
+  repo: 'https://github.com/RetailGameSourceCode/BOB'
+  url: >-
+    https://web.archive.org/web/20170618105130/https://wiki.superfamicom.org/snes/show/Space+Funky+B.O.B.
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  content: commercial
+  added: 2026-02-03
+  updated: 2026-02-03
+
+- name: Space Harrier Clone
+  type: remake
+  originals:
+  - Space Harrier
+  repo: https://github.com/BrunoAOR/Space-Harrier-Clone
+  url: https://brunoaor.github.io/Space-Harrier-Clone/
+  development: halted
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  content: free
+  added: 2019-05-08
+  updated: 2019-05-08
+  video:
+    youtube: IEfNoqLfxcs
+
+- name: Space invaders
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/denix666/space-invaders/'
+  url: 'https://games.os.vc/webgames/space-invaders'
+  feed: 'https://github.com/denix666/space-invaders/releases.atom'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2025-09-30
+  updated: 2025-09-30
+  images:
+  - https://raw.githubusercontent.com/denix666/space-invaders/main/screenshots/game-play.png
+
+- name: Space Invaders
+  originals:
+  - Space Invaders
+  type: remake
+  repo: 'https://github.com/johnpitchers/Space-Invaders'
+  url: 'https://spaceinvaders.viperfish.com.au/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  - SCSS
+  frameworks:
+  - BabylonJS
+  - WebGL
+  licenses:
+  - CC0
+  added: 2025-08-14
+  updated: 2025-08-14
+  images:
+  - https://viperfish.com.au/templates/yootheme/cache/69/spaceinvaders2-69c3deef.jpeg
+
+- name: Space Invaders 1978
+  originals:
+  - Space Invaders
+  type: remake
+  url: >-
+    https://web.archive.org/web/20200107094711/https://www.netadelica.com/coding/index.html#:~:text=Space%20Invaders%201978
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - QuickBASIC
+  licenses:
+  - Custom
+  info: A version of Taito's original Space Invaders(TM) for the PC.
+  added: 2025-10-07
+  updated: 2025-10-07
+
+- name: Space Invaders Clone
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/Chaser324/invaders'
+  development: halted
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  licenses:
+  - As-is
+  added: 2025-09-25
+  updated: 2025-09-25
+  images:
+  - https://raw.githubusercontent.com/Chaser324/invaders/refs/heads/master/screenshot-1.png
+  - https://raw.githubusercontent.com/Chaser324/invaders/refs/heads/master/screenshot-2.png
+  - https://raw.githubusercontent.com/Chaser324/invaders/refs/heads/master/screenshot-3.png
+  - https://raw.githubusercontent.com/Chaser324/invaders/refs/heads/master/screenshot-4.png
+
+- name: Space Invaders Emulator
+  originals:
+  - Space Invaders
+  type: remake
+  repo: 'https://github.com/Justin-Credible/space-invaders-emulator'
+  url: 'https://www.justin-credible.net/2020/03/31/space-invaders-emulator/'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  - SDL2
+  licenses:
+  - As-is
+  added: 2025-09-27
+  updated: 2025-09-27
+  images:
+  - https://raw.githubusercontent.com/Justin-Credible/space-invaders-emulator/master/.readme/gameplay.gif
+
+- name: Space Invaders Part II
+  originals:
+  - Space Invaders Part II
+  type: remake
+  repo: 'https://github.com/ianmurfinxyz/space_invaders_part_ii'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  added: 2026-02-05
+  updated: 2026-02-05
+  images:
+  - https://raw.githubusercontent.com/ianmurfinxyz/space_invaders_part_ii/master/img/splash.gif
+  video:
+    youtube: xE6GlXscZvc
+
+- name: Space Invaders Pygame
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/ianmurfinxyz/space_invaders_pygame'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - MIT
+  added: 2026-01-27
+  updated: 2026-01-27
+  images:
+  - https://github.com/ianmurfinxyz/space_invaders_pygame/blob/master/img/gameplay.gif?raw=true
+
+- name: space-invaders-niklas-mueller
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/NiklasMueller2001/space_invaders'
+  url: 'https://pypi.org/project/space-invaders-niklas-mueller/'
+  feed: 'https://pypi.org/rss/project/space-invaders-niklas-mueller/releases.xml'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL3
+  added: 2025-10-24
+  updated: 2025-10-24
+  images:
+  - https://raw.githubusercontent.com/NiklasMueller2001/space_invaders/main/demo_images.gif
+
+- name: space-invaders-pygame
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/Nate-Mina/spaceshooter'
+  url: 'https://pypi.org/project/space-invaders-pygame/'
+  feed: 'https://pypi.org/rss/project/space-invaders-pygame/releases.xml'
+  development: sporadic
+  status: playable
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - As-is
+  added: 2025-10-19
+  updated: 2025-10-19
+
+- name: Space Jockey Disassembly
+  originals:
+  - Space Jockey
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/space_jockey.asm'
+  url: 'https://www.romhacking.net/documents/516/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-09
+  updated: 2025-11-09
+
+- name: Space Nerds In Space
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  - OpenGL
+  licenses:
+  - GPL2
+  content: open
+  development: active
+  originals:
+  - 'Artemis: Spaceship Bridge Simulator'
+  status: playable
+  repo: https://github.com/smcameron/space-nerds-in-space
+  type: similar
+  added: 2015-05-02
+  updated: 2021-10-05
+  url: https://smcameron.github.io/space-nerds-in-space/
+  images:
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-1.png
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-2.png
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-3.png
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-4.png
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-5.png
+  - https://smcameron.github.io/space-nerds-in-space/misc-images/screenshots/small_snis-ss-6.png
+  video:
+    youtube: 3fFl0VH-4zA
+
+- name: Space Opera
+  originals:
+  - Galactic Civilizations
+  - Master of Orion
+  type: similar
+  repo: 'https://sourceforge.net/projects/spaceopera/'
+  url: 'https://spaceopera.sourceforge.net'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  added: '2024-12-24'
+  updated: '2024-12-24'
+  images:
+  - 'https://spaceopera.sourceforge.net/SpaceOperaMain.jpg'
+  - 'https://spaceopera.sourceforge.net/SpaceOpera.jpg'
+  - 'https://spaceopera.sourceforge.net/blue2.jpg'
+  - 'https://spaceopera.sourceforge.net/green3.jpg'
+
+- name: Space_Rocks
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://github.com/kidscancode/space_rocks'
+  feed: 'https://github.com/kidscancode/space_rocks/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - As-is
+  added: 2025-09-27
+  updated: 2025-09-27
+  video:
+    youtube: 6uGvIWrUjBM
+
+- name: Space Station 14
+  type: remake
+  originals:
+  - Space Station 13
+  repo: https://github.com/space-wizards/space-station-14
+  url: https://spacestation14.com
+  feed: https://spacestation14.com/index.xml#feed
+  development: very active
+  status: playable
+  multiplayer:
+  - Online
+  - Competitive
+  - Co-op
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  licenses:
+  - MIT
+  - CC-BY-SA
+  - CC-BY-NC-SA
+  content: swappable
+  info: A continuation of the goon remake of the cult classic
+  added: 2016-10-09
+  updated: 2025-07-02
+  images:
+  - https://spacestation14.com/images/home/gallery-bar.webp
+  - https://spacestation14.com/images/home/gallery-engineering.webp
+  - https://spacestation14.com/images/home/gallery-singulo.webp
+  - https://spacestation14.com/images/home/gallery-nukies.webp
+  - https://spacestation14.com/images/home/gallery-medbay.webp
+  - https://spacestation14.com/images/home/gallery-clown.webp
+
+- name: Space Station 3D
+  originals:
+  - Space Station 13
+  type: clone
+  repo: https://github.com/RE-SS3D/SS3D
+  url: https://ss3d.space
+  feed: https://ss3d.space/atom.xml
+  development: sporadic
+  status: unplayable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - Unity
+  licenses:
+  - CC-BY-NC-SA
+  - MIT
+  info: >-
+    Space Station 3D is an open-source resurrection of *beep's original SS3D, a 3D
+    take on the infamous Space Station 13 (tm).
+  added: 2023-06-17
+  updated: 2025-07-03
+  images:
+  - 'https://ss3d.space/assets/img/art/Brukas/BrukasBar.png'
+  - 'https://ss3d.space/assets/img/art/Bug/BugCult.png'
+  - 'https://ss3d.space/assets/img/art/Bug/Bug_CargoAnimals.png'
+  - 'https://ss3d.space/assets/img/art/Bug/Bug_Spacegiving.png'
+  - 'https://ss3d.space/assets/img/art/Bug/Bug_Halloween2020.png'
+  video:
+    youtube: uzLdgxOBPrc
+
+- name: Spacebase DF-9 v2
+  originals:
+  - Spacebase DF-9
+  type: remake
+  repo: 'https://gitlab.com/derelictgames/spacebase-v2-updated-code'
+  feed: 'https://gitlab.com/derelictgames/spacebase-v2-updated-code.atom'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Lua
+  licenses:
+  - Custom
+  added: 2025-12-13
+  updated: 2025-12-13
+
+- name: SpaceClones
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/L603/SpaceClones'
+  url: 'https://aur.archlinux.org/packages/spaceclones-git/'
+  feed: 'https://github.com/L603/SpaceClones/releases.atom'
+  development: halted
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SFML
+  licenses:
+  - GPL3
+  added: 2025-09-07
+  updated: 2025-09-07
+  images:
+  - https://user-images.githubusercontent.com/39320840/69807595-af888780-11b3-11ea-8aaa-e94eb0491656.gif
+
+- name: SpaceTwitch
+  langs:
+  - C#
+  frameworks:
+  - Unity
+  licenses:
+  - As-is
+  content: free
+  development: halted
+  originals:
+  - Tempest
+  status: semi-playable
+  repo: https://github.com/KirbyAu2/SpaceTwitch
+  url: https://www.kongregate.com/games/KirbyAu/space-twitch
+  type: remake
+  added: 2015-04-06
+  updated: 2022-02-04
+
+- name: SpaceCadetPinball
+  originals:
+  - Full Tilt! Pinball
+  type: remake
+  repo: https://github.com/k4zmu2a/SpaceCadetPinball
+  url: https://alula.github.io/SpaceCadetPinball/
+  feed: https://github.com/k4zmu2a/SpaceCadetPinball/releases.atom
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  info: Reverse engineering of 3D Pinball for Windows – Space Cadet
+  added: 2021-10-16
+  updated: 2025-07-06
+  video:
+    youtube: sAUu-Dl01OE
+
+- name: SpaceEggs Disassembly
+  originals:
+  - Space Eggs
+  type: remake
+  url: 'https://6502disassembly.com/a2-space-eggs/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-08
+  updated: 2026-01-08
+  images:
+  - https://6502disassembly.com/a2-space-eggs/images/title.gif
+  - https://6502disassembly.com/a2-space-eggs/images/action.gif
+
+- name: SpaceInvaders
+  originals:
+  - Space Invaders
+  type: similar
+  repo: 'https://github.com/ivanperez-keera/SpaceInvaders'
+  url: 'https://hackage.haskell.org/package/SpaceInvaders'
+  feed: 'https://hackage.haskell.org/package/SpaceInvaders.rss'
+  development: halted
+  status: playable
+  langs:
+  - Haskell
+  frameworks:
+  - Yampa
+  licenses:
+  - BSD
+  added: 2025-08-29
+  updated: 2025-08-29
+  images:
+  - >-
+    https://raw.githubusercontent.com/ivanperez-keera/SpaceInvaders/refs/heads/develop/screenshots/gameplay.gif
+
+- name: SpaceInvaders (2014)
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/StrykerKKD/SpaceInvaders'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  frameworks:
+  - Phaser
+  licenses:
+  - MIT
+  added: 2025-10-27
+  updated: 2025-10-27
+
+- name: Space-rangers
+  frameworks:
+  - XNA
+  langs:
+  - C#
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Space Rangers
+  status: unplayable
+  repo: https://github.com/markevich/Space-rangers
+  type: remake
+  added: 2015-05-28
+  updated: 2015-05-28
+
+- name: spaceroads
+  frameworks:
+  - OGRE
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - SkyRoads
+  status: unplayable
+  repo: https://github.com/sebhd/spaceroads
+  type: remake
+  added: 2015-05-28
+  updated: 2015-05-28
+
+- name: spacewar-sdl
+  originals:
+  - Spacewar!
+  type: clone
+  repo: 'https://sourceforge.net/projects/spacewar-sdl/'
+  feed: 'https://sourceforge.net/projects/spacewar-sdl/rss?path=/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-09-24
+  updated: 2025-09-24
+
+- name: Spacewars
+  originals:
+  - Spacewar!
+  type: remake
+  repo: 'https://github.com/spotzero/spacewars'
+  feed: 'https://github.com/spotzero/spacewars/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - Rust
+  frameworks:
+  - Amethyst
+  - SDL2
+  licenses:
+  - CC-BY-NC-ND
+  - CC-BY-NC-SA
+  - GPL3
+  added: 2025-08-20
+  updated: 2025-08-20
+  images:
+  - 'https://github.com/spotzero/spacewars/raw/master/preview.gif'
+
+- name: Spacewar
+  originals:
+  - Spacewar!
+  type: clone
+  repo: 'https://github.com/kanaka/spacewar/'
+  url: 'https://kanaka.github.io/spacewar'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  - Phaser
+  licenses:
+  - LGPL2
+  added: 2026-03-08
+  updated: 2026-03-08
+  images:
+  - 'https://raw.githubusercontent.com/kanaka/spacewar/gh-pages/data/spacewar1.png'
+  - 'https://raw.githubusercontent.com/kanaka/spacewar/gh-pages/data/spacewar2.png'
+
+- name: Spacewar!
+  originals:
+  - Spacewar!
+  type: official
+  repo: 'https://spacewar.oversigma.com/readme.html'
+  url: 'https://spacewar.oversigma.com/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - Custom
+  info: >-
+    One of the most important and influential games in the early history of video
+    games, developed in the PDP-1 computer's assembly language.
+  added: 2025-07-28
+  updated: 2025-07-28
+  video:
+    youtube: iymD9eysqXo
+
+- name: Spearmint
+  originals:
+  - Quake 3
+  type: remake
+  repo: 'https://github.com/clover-moe/spearmint'
+  url: 'https://clover.moe/spearmint'
+  feed: 'https://github.com/clover-moe/spearmint/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - GPL3
+  added: 2025-11-25
+  updated: 2025-11-25
+  images:
+  - 'https://clover.moe/wp-content/uploads/2025/03/q3a-screenshot-small.jpg'
+
+- name: Spectalum
+  originals:
+  - Eye of the Beholder II
+  type: remake
+  repo: 'https://sourceforge.net/projects/spectalum/'
+  url: 'https://www.eob2remake.com/'
+  feed: 'https://sourceforge.net/p/spectalum/activity/feed'
+  development: halted
+  status: semi-playable
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - Custom
+  added: 2025-11-28
+  updated: 2025-11-28
+  images:
+  - 'https://www.eob2remake.com/shot_1.png'
+  - 'https://www.eob2remake.com/shot_2.png'
+  - 'https://www.eob2remake.com/shot_3.png'
+  - 'https://www.eob2remake.com/shot_4.png'
+
+- name: Speed Haste Game Source Code
+  originals:
+  - Speed Haste
+  type: official
+  repo: 'https://github.com/TheJare/SpeedHasteSrc'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - PD
+  added: 2025-12-14
+  updated: 2025-12-14
+
+- name: Speedball 2
+  images:
+  - https://eab.abime.net/attachment.php?s=559a07f19493c7257cc65f34de09c88e&attachmentid=29568&d=1317823782
+  info: reverse engineered prototype
+  langs:
+  - C#
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Speedball 2
+  status: semi-playable
+  type: remake
+  added: 2015-04-05
+  updated: 2015-04-05
+  url: http://bringerp.free.fr/RE/Speedball2/remake.php5
+  
+- name: Spelling Bee
+  images:
+  - https://raw.githubusercontent.com/ConorSheehan1/spelling-bee/main/.github/images/spelling-bee.png
+  - https://raw.githubusercontent.com/ConorSheehan1/spelling-bee/main/.github/images/spelling-bee-dark.png
+  langs:
+  - JavaScript
+  frameworks:
+  - Vue.js
+  licenses:
+  - MIT
+  development: sporadic
+  originals:
+  - Spelling Bee
+  repo: https://github.com/ConorSheehan1/spelling-bee
+  status: playable
+  type: clone
+  added: 2022-08-20
+  updated: 2025-08-23
+  url: https://spelling-b.netlify.app
+
+- name: Spelunky Classic HD HTML5
+  originals:
+  - Spelunky Classic
+  type: clone
+  repo: https://github.com/yancharkin/SpelunkyClassicHDhtml5
+  url: https://yancharkin.github.io/SpelunkyClassicHDhtml5/
+  feed: https://github.com/yancharkin/SpelunkyClassicHDhtml5/releases.atom
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - JavaScript
+  licenses:
+  - Custom
+  added: 2023-12-21
+  updated: 2023-12-21
+  images:
+  - https://github.com/yancharkin/SpelunkyClassicHDhtml5/raw/main/src/pwa/assets/screenshots/screenshot_02.png
+
+- name: SpelunkyPSP
+  originals:
+  - Spelunky Classic
+  type: remake
+  repo: 'https://github.com/dbeef/spelunky-psp'
+  url: https://dbeef.github.io/spelunky-psp/
+  development: sporadic
+  status: semi-playable
+  multiplayer:
+  - Local
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - OpenGL
+  - EnTT
+  licenses:
+  - Custom
+  info: It’s a complete rewrite from scratch.
+  updated: 2023-12-28
+  video:
+    youtube: eKG-O0Q9Q88
+
+- name: Spherical Snake
+  originals:
+  - Snake
+  type: similar
+  repo: 'https://github.com/kevinAlbs/SphericalSnake'
+  url: 'https://kevinalbs.com/spherical_snake/'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  - PHP
+  - HTML
+  licenses:
+  - MIT
+  info: Snake game on a sphere
+  added: 2026-03-08
+  updated: 2026-03-08
+  images:
+  - 'https://raw.githubusercontent.com/kevinAlbs/SphericalSnake/master/gameplay.gif'
+
+- name: sphinx-7800
+  originals:
+  - Desert Falcon
+  type: official
+  repo: 'https://github.com/videogamepreservation/sphinx-7800'
+  url: 'https://atarimuseum.ctrl-alt-rees.com/videogames/consoles/7800/games/#:~:text=Sphinx/Nile%20Flyer/Desert%20Falcon'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-12
+  updated: 2026-03-12
+
+- name: Spirit of Speed 2002
+  originals:
+  - Spirit of Speed 1937
+  type: similar
+  repo: 'https://github.com/LemonHaze420/SOS2002_src'
+  development: halted
+  status: unplayable
+  content: free
+  langs:
+  - C++
+  licenses:
+  - As-is
+  info: >-
+    Spirit of Speed ​​2002 is the unreleased sequel to Spirit of Speed ​​1937.
+    Some assets (available at https://github.com/LemonHaze420/SOS2002) are missing,
+    so it is impossible to make it playable.
+  added: 2026-03-08
+  updated: 2026-03-13
+
+- name: splexhd
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Supaplex
+  status: unplayable
+  repo: https://github.com/radu124/splexhd
+  type: remake
+  updated: 2015-05-28
+
+- name: Spludlow Tetris
+  type: clone
+  originals:
+  - Tetris
+  repo: https://www.spludlow.co.uk/Source/Spludlow.Tetris/
+  url: https://tetris.spludlow.co.uk
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  - Split-screen
+  - Competitive
+  langs:
+  - C#
+  licenses:
+  - GPL3
+  content: open
+  updated: 2023-11-03
+  images:
+  - https://tetris.spludlow.co.uk/Default_files/image001.png
+  - https://tetris.spludlow.co.uk/Default_files/image009.png
+  video:
+    youtube: lrjHPQX90gE
+
+- name: Spring
+  images:
+  - https://springrts.com/screenshot.php?id=5673
+  - https://springrts.com/screenshot.php?id=1787
+  - https://springrts.com/screenshot.php?id=2567
+  langs:
+  - C++
+  - Java
+  - Python
+  licenses:
+  - GPL2
+  development: active
+  originals:
+  - Total Annihilation
+  status: playable
+  repo: https://github.com/spring/spring
+  type: remake
+  url: https://springrts.com/
+  updated: 2018-10-06
+  video:
+    youtube: GAM_vcVJiL4
+
+- name: 'Spring: 1944'
+  frameworks:
+  - Spring RTS Engine
+  images:
+  - https://spring1944.net/media/media/large/Screenshot_20170630_122059.png
+  - https://spring1944.net/media/media/large/Screenshot_20170630_145713.png
+  - https://spring1944.net/media/media/large/Screenshot_20170630_113659.png
+  - https://spring1944.net/media/media/large/Screenshot_20171112_215631.png
+  info: Gameplay is a mix of Company of Heroes and Supreme Commander
+  langs:
+  - Lua
+  licenses:
+  - GPL2
+  - CC-BY-NC
+  development: sporadic
+  originals:
+  - Company of Heroes
+  - Company of Heroes 2
+  repo: https://github.com/spring1944/spring1944
+  status: playable
+  type: clone
+  updated: 2020-08-25
+  url: https://spring1944.net
+  video:
+    youtube: 76jFZvpvwoA
+
+- name: SR
+  type: tool
+  status: N/A
+  originals:
+  - Albion
+  - Battle Isle 2220
+  - 'Septerra Core: Legacy of the Creator'
+  - 'Warcraft: Orcs & Humans'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: UFO Defense'
+  repo: https://github.com/M-HT/SR
+  development: active
+  langs:
+  - C
+  - Assembly
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - MIT
+  - GPL2
+  - LGPL2
+  content: commercial
+  info: >-
+    A tool to statically recompile the original game executable to create a
+    Windows or Linux (x86 or ARM) version of the game, including some
+    enhancements
+  updated: 2025-06-21
+
+- name: SRB2Kart
+  originals:
+  - Mario Kart
+  type: clone
+  repo: 'https://github.com/STJr/Kart-Public'
+  url: 'https://wiki.srb2.org/wiki/SRB2Kart'
+  feed: 'https://github.com/STJr/Kart-Public/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  info: >-
+    SRB2Kart is a kart racing mod based on the 3D Sonic the Hedgehog fangame Sonic
+    Robo Blast 2
+  updated: '2022-12-14'
+  images:
+  - 'https://wiki.srb2.org/w/images/a/ac/Srb2kart_title.png'
+  - 'https://wiki.srb2.org/w/images/d/df/MAP01-kart.png'
+  - 'https://wiki.srb2.org/w/images/a/a7/MAP02-kart.png'
+  video:
+    youtube: NGAj9YjaV2M
+
+- name: srceng-android
+  originals:
+  - Half-Life 2
+  - Portal
+  type: remake
+  repo: 'https://github.com/nillerusr/srceng-android'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - ReScript
+  - Java
+  licenses:
+  - As-is
+  info: A reverse-engineer port of the Nvidia Shield version of HL2.
+  updated: 2021-10-13
+  video:
+    youtube: 4ztkCymZmgY
+
+- name: ss13remake
+  originals:
+  - Space Station 13
+  status: unplayable
+  type: remake
+  repo: 'https://github.com/ss13remake/ss13remake'
+  development: halted
+  content: open
+  langs:
+  - 'C#'
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  info: This is a defunct attempt at an SS13 remake
+  updated: '2019-12-09'
+
+- name: SSTPong
+  originals:
+  - Breakout
+  type: clone
+  repo: 'https://sourceforge.net/projects/sstpong/'
+  url: 'https://sstpong.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/sstpong/rss?path=/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Java
+  frameworks:
+  - Swing
+  licenses:
+  - MPL
+  added: 2026-01-13
+  updated: 2026-01-13
+  images:
+  - 'https://a.fsdn.com/con/app/proj/sstpong/screenshots/138131.jpg'
+
+- name: 'Star Control 2: The Ur-Quan Masters'
+  originals:
+  - Star Control 2
+  type: official
+  repo: 'https://github.com/trapexit/3do-star-control-2'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Source code to the original 3DO version of Star Control 2.
+  added: 2025-11-27
+  updated: 2025-11-27
+
+- name: Star Fighter
+  originals:
+  - Star Fighter
+  type: official
+  repo: 'https://github.com/trapexit/3do-star-fighter'
+  url: >-
+    https://www.timeextension.com/news/2024/04/the-source-code-to-star-fighter-3do-has-been-released-online
+  feed: 'https://github.com/trapexit/3do-star-fighter/releases.atom'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Source code and resources to the 1995 3DO title Star Fighter.
+  added: 2025-11-19
+  updated: 2025-11-19
+  video:
+    youtube: WzKK4VeTAW8
+
+- name: Star Fire II
+  originals:
+  - Star Fire
+  type: official
+  repo: 'https://archive.org/details/star-fire-source-code'
+  url: >-
+    https://www.gamingalexandria.com/wp/2020/08/enter-your-initials-preserving-the-source-code-of-star-fire-a-forty-year-old-arcade-game/
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-20
+  updated: 2025-11-20
+  images:
+  - 'https://www.gamingalexandria.com/wp/wp-content/uploads/2020/08/banner.png'
+
+- name: Star Raiders for Atari 800
+  originals:
+  - Star Raiders
+  type: official
+  repo: 'https://github.com/XioNYC/StarRaiders'
+  url: 'https://archive.org/details/AtariStarRaidersSourceCode'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-23
+  updated: 2025-11-23
+
+- name: Star Ruler 2
+  development: complete
+  langs:
+  - C++
+  licenses:
+  - MIT
+  - CC-BY-NC
+  originals:
+  - Star Ruler 2
+  status: playable
+  repo: https://github.com/BlindMindStudios/StarRuler2-Source
+  type: official
+  updated: 2018-07-21
+  video:
+    youtube: 3OFhVtqfDBQ
+
+- name: Star Trek 1971 for Python
+  originals:
+  - Star Trek
+  type: remake
+  repo: 'https://github.com/cosmicr/startrek1971'
+  development: halted
+  status: playable
+  langs:
+  - Python
+  licenses:
+  - MIT
+  added: 2026-02-11
+  updated: 2026-02-11
+
+- name: 'Star Trek Voyager : Elite Force Single Player Game Source'
+  originals:
+  - 'Star Trek: Voyager – Elite Force'
+  type: official
+  repo: >-
+    https://www.moddb.com/games/star-trek-voyager-elite-force/downloads/star-trek-elite-force-singleplayer-source-code
+  url: 'https://www.totallyef.net/news.php/180'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - Custom
+  added: 2025-11-21
+  updated: 2025-11-21
+
+- name: 'Star Wars: The Arcade Game Disassembly'
+  originals:
+  - Star Wars (1983 arcade game)
+  type: remake
+  url: 'https://www.romhacking.net/documents/488/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-10
+  updated: 2026-03-10
+
+- name: star-control2
+  langs:
+  - C++
+  licenses:
+  - MIT
+  development: halted
+  originals:
+  - Star Control 2
+  status: unplayable
+  repo: https://github.com/jjimenezg93/star-control2
+  type: remake
+  updated: 2016-04-11
+
+- name: Star-Wars-III
+  langs:
+  - Python
+  licenses:
+  - GPL2
+  development: complete
+  originals:
+  - Star Wars (1983 arcade game)
+  status: semi-playable
+  repo: https://github.com/abhinandanramesh/Star-Wars-III
+  type: remake
+  updated: 2015-06-01
+
+- name: Stargus
+  originals:
+  - StarCraft
+  type: remake
+  repo: 'https://github.com/Wargus/stargus'
+  url: https://stratagus.com/stargus.html
+  feed: 'https://github.com/Wargus/stargus/releases.atom'
+  development: sporadic
+  status: semi-playable
+  content: commercial
+  langs:
+  - Lua
+  - C++
+  licenses:
+  - GPL2
+  info: StarCraft Mod that allows you to play StarCraft with the Stratagus engine
+  updated: '2019-12-16'
+  images:
+  - https://stratagus.com/img/screenshotStargus.png
+  video:
+    youtube: vO4DxWZhqvc
+
+- name: Starlane Empire
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Ascendancy
+  status: playable
+  repo: https://github.com/karona75/starlane-empire
+  type: remake
+  updated: 2020-08-25
+  images:
+  - https://happypenguin.altervista.org/screenshots/starlane.jpg
+
+- name: Starmaster Disassembly
+  originals:
+  - Starmaster
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/Starmaster.asm'
+  url: 'https://www.biglist.com/lists/stella/archives/200107/msg00074.html'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-11
+  updated: 2025-11-11
+
+- name: 'StarMines: The Next Generation'
+  originals:
+  - Omega Race
+  - Asteroids
+  type: similar
+  repo: 'https://github.com/jkarjala/starmines-tng'
+  url: 'https://smtng.jpkware.com/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - Scala
+  frameworks:
+  - Phaser
+  licenses:
+  - GPL3
+  info: >-
+    StarMines is a space shooter inspired by old classics like Asteroids and Omega
+    Race.
+  updated: '2020-09-21'
+  images:
+  - https://raw.githubusercontent.com/jkarjala/starmines-tng/master/raw/smtng-play3.gif
+  video:
+    youtube: TViAYO-AjdI
+
+- name: StarRaiders
+  originals:
+  - Star Raiders
+  type: remake
+  repo: 'https://github.com/lwiest/StarRaiders'
+  url: 'https://mcfp.felk.cvut.cz/publicDatasets/pocorgtfo/contents/articles/13-02.pdf'
+  feed: 'https://github.com/lwiest/StarRaiders/releases.atom'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    A reverse-engineered, complete, and fully documented assembly language source
+    code of STAR RAIDERS.
+  added: 2025-10-01
+  updated: 2025-10-01
+
+- name: Stars! Nova
+  originals:
+  - Stars!
+  type: clone
+  repo: https://sourceforge.net/projects/stars-nova/
+  url: 'https://sourceforge.net/p/stars-nova/wiki/Home/'
+  development: sporadic
+  status: semi-playable
+  content: open
+  licenses:
+  - CC-BY-SA
+  - GPL2
+  langs:
+  - C#
+  frameworks:
+  - .NET
+  updated: 2021-08-09
+  images:
+  - https://a.fsdn.com/con/app/proj/stars-nova/screenshots/265150.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/stars-nova/screenshots/265144.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/stars-nova/screenshots/265136.jpg/max/max/1
+
+- name: starshatter-open
+  langs:
+  - C++
+  licenses:
+  - BSD
+  development: halted
+  originals:
+  - Starshatter
+  status: playable
+  repo: https://github.com/Luomu/starshatter-open
+  type: remake
+  updated: 2019-04-05
+  url: https://www.hard-light.net/forums/index.php?board=234.0
+  info: Source port of original
+  images:
+  - https://cdn.wcnews.com/newestshots/full/starshatter08.jpg
+  - https://cdn.wcnews.com/newestshots/full/starshatter09.jpg
+  - https://cdn.wcnews.com/newestshots/full/starshatter10.jpg
+
+- name: Starship Commander Disassembly
+  originals:
+  - Starship Commander
+  type: remake
+  url: 'https://6502disassembly.com/a2-starship-cmdr/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-09
+  updated: 2026-01-09
+  images:
+  - 'https://6502disassembly.com/a2-starship-cmdr/images/SC.TITLE.gif'
+  - 'https://6502disassembly.com/a2-starship-cmdr/images/SC.LIFE.gif'
+  - 'https://6502disassembly.com/a2-starship-cmdr/images/SC.ENG.gif'
+  - 'https://6502disassembly.com/a2-starship-cmdr/images/SC.ATTACK.gif'
+
+- name: Stellar 7 Disassembly
+  originals:
+  - Stellar 7
+  type: remake
+  url: 'https://6502disassembly.com/a2-stellar7/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-10
+  updated: 2026-01-10
+  images:
+  - 'https://6502disassembly.com/a2-stellar7/images/prerel_lev1.gif'
+  - 'https://6502disassembly.com/a2-stellar7/images/release_lev1.gif'
+  - 'https://6502disassembly.com/a2-stellar7/images/gir-draxon-action.png'
+
+- name: 'Stellar Conquest 3: Hostile Takeover'
+  originals:
+  - 'Stellar Conquest 3: Hostile Takeover'
+  type: official
+  url: 'http://necrobones.com/games/games1.shtml#:~:text=Stellar%20Conquest%20III'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Pascal
+  licenses:
+  - As-is
+  added: 2025-11-28
+  updated: 2025-11-28
+  images:
+  - https://web.archive.org/web/20230422233604if_/http://necrobones.com/game-img/sc3-0000.gif
+  - https://web.archive.org/web/20230423053657if_/http://necrobones.com/game-img/sc3-0001.gif
+  - https://web.archive.org/web/20230422152858if_/http://necrobones.com/game-img/sc3-0002.gif
+
+- name: Stellar Frontier
+  originals:
+  - Stellar Frontier
+  type: official
+  repo: 'https://archive.org/details/stellar_frontier_source'
+  url: 'https://www.stardock.com/products/sf/download.html'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - C++
+  licenses:
+  - Custom
+  added: 2025-12-11
+  updated: 2025-12-11
+
+- name: StepMania
+  langs:
+  - C++
+  - Lua
+  licenses:
+  - MIT
+  - CC-BY-NC
+  development: sporadic
+  originals:
+  - Dance Dance Revolution
+  repo: https://github.com/stepmania/stepmania
+  status: playable
+  type: clone
+  updated: 2019-08-17
+  url: https://www.stepmania.com
+  images:
+  - https://i.imgur.com/5nlHcWV.png
+  - https://i.imgur.com/zQTr5ww.jpeg
+  - https://i.imgur.com/9wpVUi5.jpeg
+
+- name: Still Yet Another Sokoban
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/davidjoffe/sokoban'
+  url: 'https://grayskygames.com/sokoban.html'
+  feed: 'https://github.com/davidjoffe/sokoban/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-10-08
+  updated: 2025-10-08
+  images:
+  - https://grayskygames.com/sokoban/gallery/SYA%20Sokoban%20%28Level%201%29%20Auto%20Pathfinding%20on%20Mouse%20Click%20Feature.png
+  - https://grayskygames.com/sokoban/gallery/SYA%20Sokoban%20Level%20Selection.png
+  - https://grayskygames.com/sokoban/gallery/SYA%20Sokoban%20on%20Mac%20OS%20X.png
+  - https://grayskygames.com/sokoban/gallery/SYA%20Sokoban.png
+  - https://grayskygames.com/sokoban/gallery/Sokoban%20MorphOS%20Port%20%28Bruno%20Peloille%29%202018-03.jpg
+  video:
+    youtube: SBj4vYDpzGM
+
+- name: Stone Kingdoms
+  originals:
+  - Stronghold
+  type: clone
+  repo: https://gitlab.com/stone-kingdoms/stone-kingdoms
+  development: active
+  status: semi-playable
+  content: commercial
+  langs:
+  - Lua
+  frameworks:
+  - LÖVE
+  licenses:
+  - Apache
+  updated: 2022-06-06
+  images:
+  - https://gitlab.com/stone-kingdoms/stone-kingdoms/-/raw/master/assets/other/screenshot_1.jpg
+
+- name: Stonoid
+  originals:
+  - Breakout
+  type: clone
+  repo: 'https://sourceforge.net/projects/stonoid/'
+  url: 'https://stonoid.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/stonoid/rss?path=/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - FMOD
+  licenses:
+  - GPL2
+  added: 2025-11-05
+  updated: 2025-11-05
+  images:
+  - 'https://stonoid.sourceforge.net/common/img/screenshot-01.jpg'
+  - 'https://stonoid.sourceforge.net/common/img/screenshot-02.jpg'
+  - 'https://stonoid.sourceforge.net/common/img/screenshot-03.jpg'
+
+- name: Storm Engine
+  originals:
+  - 'Sea Dogs: To Each His Own'
+  - Pirates of the Caribbean
+  - 'Age of Pirates 2: City of Abandoned Ships'
+  type: official
+  repo: 'https://github.com/storm-devs/storm-engine'
+  url: https://www.piratesahoy.net/threads/we-have-the-storm-engine.15184/
+  feed: https://github.com/storm-devs/storm-engine/releases.atom
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  licenses:
+  - GPL3
+  info: Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
+  added: 2021-03-26
+  updated: 2025-11-19
+  images:
+  - https://steamuserimages-a.akamaihd.net/ugc/879748394074455443/FD04CEA2434D8DACAD4886AF6A5ADAA54CDE42AA/
+
+- name: Story of a Lost Sky
+  originals:
+  - Fire Emblem Series
+  type: similar
+  repo: https://gitlab.com/osgames/lost-sky
+  url: 'https://www.pygame.org/project-Story+of+a+Lost+Sky-1106-.html'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - PD
+  - CC-BY
+  info: A Strategy RPG game for the Touhou universe.
+  added: 2025-08-04
+  updated: 2025-08-04
+  images:
+  - 'https://www.pygame.org/thumb/45f0c41ad62945152495728e77deed13.jpg'
+  video:
+    youtube: rSFbtVRrh2E
+
+- name: Strange Adventures in Infinte Space (GPL)
+  originals:
+  - Strange Adventures in Infinite Space
+  type: remake
+  repo: 'https://github.com/kuroneko/sais'
+  url: 'https://rich.itch.io/strangeadventures'
+  feed: 'https://github.com/kuroneko/sais/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - CC-BY-NC
+  - GPL3
+  added: 2025-12-18
+  updated: 2025-12-18
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvNzA1NjM5LzM5MDExODkuanBn/original/tNRRva.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNzA1NjM5LzM5MDExOTAuanBn/original/gQyC7Q.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNzA1NjM5LzM5MDExOTEuanBn/original/nysvke.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNzA1NjM5LzM5MDExOTIuanBn/original/ogwGtM.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNzA1NjM5LzM5MDI4MTYuanBn/original/8TSCVW.jpg'
+  - 'https://raw.githubusercontent.com/kuroneko/sais/master/screenshot.png'
+
+- name: 'Strife: Veteran Edition'
+  url: https://doomwiki.org/wiki/Strife:_Veteran_Edition
+  originals:
+  - Strife
+  type: remake
+  licenses:
+  - GPL2
+  repo: https://github.com/svkaiser/strife-ve
+  development: halted
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  status: playable
+  content: commercial
+  multiplayer:
+  - Competitive
+  - Online
+  updated: 2023-11-05
+  info: re-release of Strife, featuring an enhanced engine derived from Chocolate Strife but with many additional optional features
+  images:
+  - https://images.gog.com/a5203a80b8b5e34471285e4db42fdd418ae47cf9cc6e63838b8f06042382e5c0.jpg
+  - https://images.gog.com/88a97432fb109c0d9d22d0c3edcac691ec130643b407cd07f858973ce19178d1.jpg
+  - https://images.gog.com/975af96b61bf3d8fc3814d1afc93da844e153440a743522280c6ec72d3ea5769.jpg
+  video:
+    youtube: L7OUlGj4BWk
+
+- name: Stunt Car Racer Remake
+  images:
+  - https://a.fsdn.com/con/app/proj/stuntcarremake/screenshots/SCR1.png
+  - https://a.fsdn.com/con/app/proj/stuntcarremake/screenshots/SCR2.png
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Stunt Car Racer
+  status: playable
+  repo: https://sourceforge.net/projects/stuntcarremake/
+  type: remake
+  updated: 2018-10-06
+  url: https://stuntcarracerwin32.bravesites.com
+
+- name: Stunt Car Racer STE
+  originals:
+  - Stunt Car Racer
+  type: tool
+  repo: 'https://github.com/jonathanopalise/stunt-car-racer-ste'
+  development: halted
+  status: N/A
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Enhancements to the Atari ST version of Stunt Car Racer to support STE
+    hardware features
+  added: 2026-03-04
+  updated: 2026-03-04
+  images:
+  - https://raw.githubusercontent.com/jonathanopalise/stunt-car-racer-ste/master/screenshot.png
+
+- name: Stunt Rally
+  frameworks:
+  - OGRE
+  - VDrift Engine
+  images:
+  - https://lh3.googleusercontent.com/--nAX73WF5Q4/Ve70DV9pXfI/AAAAAAAAFXA/w3HmGY4-uj0ZiogxvwgVEWJXBQFf_clRwCHM/w1280/12.jpg
+  - https://lh3.googleusercontent.com/-pJJgMyldewE/Ve70a0UMYqI/AAAAAAAAFYI/Hy_-d6Iqzk0PkTCzMEV2wo6WJHIOuBnVQCHM/w1280/19.jpg
+  - https://lh3.googleusercontent.com/-U71R4-8BVD8/Ve70FGfuhyI/AAAAAAAAFXI/0EgsrSHgRMs-O1GBVCPumZ_Rejsw0qdQwCHM/w1280/11.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  development: very active
+  originals:
+  - TrackMania
+  repo: https://github.com/stuntrally/stuntrally
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - Split-screen
+  - LAN
+  type: clone
+  updated: 2023-11-06
+  url: https://stuntrally.tuxfamily.org
+  video:
+    youtube: Ar7TJMnOHlg
+
+- name: stuntcarremake
+  info: A port of Stunt Car Remake to OpenPandora and Linux.
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Stunt Car Racer
+  status: playable
+  repo: https://github.com/ptitSeb/stuntcarremake
+  url: https://ptitseb.github.io/stuntcarremake/
+  type: remake
+  updated: 2019-10-03
+
+- name: Stunts
+  originals:
+  - Stunts
+  type: remake
+  repo: 'https://github.com/csabahruska/lambdacube-stunts'
+  url: 'https://hackage.haskell.org/package/stunts'
+  feed: 'https://hackage.haskell.org/package/stunts.rss'
+  development: halted
+  status: semi-playable
+  langs:
+  - Haskell
+  frameworks:
+  - LambdaCube
+  licenses:
+  - BSD
+  added: 2025-11-30
+  updated: 2025-11-30
+  images:
+  - https://wiki.haskell.org/wikiupload/f/ff/Lc-stunts-1.png
+  - https://wiki.haskell.org/wikiupload/d/d3/Lc-stunts-2.png
+
+- name: Styx
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Styx
+  status: playable
+  type: remake
+  added: 2015-04-12
+  updated: 2022-05-28
+  url: https://retrospec.sgn.net/info.htm?id=styx&t=g
+  images:
+  - https://retrospec.sgn.net/style/images/gamelogos/styx.gif
+
+- name: Styx (Windmill)
+  originals:
+  - Styx (Windmill)
+  type: official
+  repo: >-
+    https://www.digger.org/download.html#:~:text=The%20original%20source%20code%20to%20-,Styx
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-10
+  updated: 2026-02-10
+
+- name: Styx Remastered
+  originals:
+  - Styx (Windmill)
+  type: remake
+  repo: >-
+    https://www.digger.org/download.html#:~:text=source%20code%20for%20-,Styx%20remastered
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - GPL2
+  added: 2026-02-10
+  updated: 2026-02-10
+
+- name: Subway Miner
+  originals:
+  - Subway Surfers
+  type: similar
+  repo: 'https://github.com/AFCMS/Subway-Miner'
+  url: 'https://content.luanti.org/packages/AFCM/subway_miner/'
+  feed: 'https://content.luanti.org/packages/AFCM/subway_miner/releases_feed.atom'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Luanti
+  licenses:
+  - CC-BY
+  - GPL3
+  added: 2025-07-16
+  updated: 2025-07-16
+  images:
+  - 'https://content.luanti.org/uploads/fdbb5f5922.png'
+  - 'https://content.luanti.org/uploads/ac6363fa25.png'
+  - 'https://content.luanti.org/uploads/d23fd3ab63.png'
+  video:
+    youtube: oI2ysefwbN4
+
+- name: Summoning Wars
+  images:
+  - https://a.fsdn.com/con/app/proj/sumwars/screenshots/0_5_8_wizard3.png/max/max/1
+  - https://a.fsdn.com/con/app/proj/sumwars/screenshots/mighty_creatures.png/max/max/1
+  - https://a.fsdn.com/con/app/proj/sumwars/screenshots/item_trade.png/max/max/1
+  langs:
+  - C++
+  - Lua
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Diablo
+  status: semi-playable
+  repo: https://sourceforge.net/projects/sumwars/
+  type: clone
+  updated: 2020-08-25
+
+- name: 'Sundog: Frozen Legacy'
+  images:
+  - https://raw.githubusercontent.com/laanwj/sundog/master/screenshots/title_screen.png
+  - https://raw.githubusercontent.com/laanwj/sundog/master/screenshots/moveonship.png
+  - https://raw.githubusercontent.com/laanwj/sundog/master/screenshots/ship_cockpit.png
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  development: sporadic
+  originals:
+  - 'SunDog: Frozen Legacy'
+  status: playable
+  repo: https://github.com/laanwj/sundog
+  type: remake
+  updated: 2017-04-19
+
+- name: SunDog Resurrection
+  images:
+  - https://a.fsdn.com/con/app/proj/sundog/screenshots/328849.jpg
+  - https://a.fsdn.com/con/app/proj/sundog/screenshots/328851.jpg
+  langs:
+  - Java
+  - Python
+  licenses:
+  - Artistic
+  development: halted
+  originals:
+  - 'SunDog: Frozen Legacy'
+  status: playable
+  repo: https://sourceforge.net/projects/sundog/
+  type: remake
+  updated: 2017-04-20
+  url: http://www.sundogresurrectionproject.com/
+
+- name: SunHP games
+  originals:
+  - Super Mario
+  - Legend of Zelda
+  - Pong
+  - Lode Runner
+  - Arkanoid
+  type: clone
+  repo: 'https://github.com/brizzly/sunhpgames'
+  url: 'https://jmapp.com/hp48gx.php'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - Multiple
+  added: 2026-02-05
+  updated: 2026-02-05
+  images:
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/android.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/android2.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/arkalite.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/supermariohp1.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/supermariohp2.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/supermariohp3.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/tennis49.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/zeldahp.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/z49_140200_1.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/zeldahp2.gif
+  - https://raw.githubusercontent.com/brizzly/sunhpgames/master/assets/zeldahp3.gif
+
+- name: Supaxl
+  type: remake
+  originals:
+  - Supaplex
+  repo: https://github.com/eguneys/supaxl
+  url: https://eguneys.github.io/jsgames/
+  development: halted
+  status: playable
+  langs:
+  - JavaScript
+  frameworks:
+  - PixiJS
+  licenses:
+  - MIT
+  content: free
+  updated: 2023-11-07
+
+- name: SuperLemmini
+  originals:
+  - Lemmings
+  type: remake
+  repo: 'https://www.lemmingsforums.net/index.php?topic=1793.0'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  licenses:
+  - Custom
+  info: A modification of Lemmini
+  added: '2025-09-01'
+  updated: '2025-09-01'
+  video:
+    youtube: kPYVrCINUZ8
+
+- name: SuperLemminiToo
+  originals:
+  - Lemmings
+  type: remake
+  repo: 'https://github.com/Blazingstix/SuperLemminiToo'
+  url: 'https://www.lemmingsforums.net/index.php?topic=5792.0'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  licenses:
+  - Apache
+  info: Fork of SuperLemmini
+  added: '2025-09-01'
+  updated: '2025-09-01'
+  video:
+    youtube: H7_nPTCcQcU
+
+- name: Super Mario 64 (DualShock Version)
+  originals:
+  - Super Mario 64
+  type: remake
+  repo: 'https://github.com/malucard/sm64-psx'
+  feed: 'https://github.com/malucard/sm64-psx/releases.atom'
+  development: very active
+  status: unplayable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: A port of the full decompilation of Super Mario 64 for the PlayStation 1.
+  added: 2025-12-11
+  updated: 2025-12-11
+
+- name: Super Mario 68K
+  originals:
+  - Super Mario Bros.
+  type: remake
+  repo: 'http://tifreakware.net/lachprog/dold.htm'
+  url: 'http://tifreakware.net/lachprog/info.htm'
+  development: halted
+  status: playable
+  langs:
+  - C
+  licenses:
+  - GPL3
+  content: commercial
+  added: 2026-03-02
+  updated: 2026-03-02
+  images:
+  - https://web.archive.org/web/20240818150902im_/http://tifreakware.net/lachprog/img/ss/sm68k.PNG
+  - https://web.archive.org/web/20240818151332im_/http://tifreakware.net/lachprog/img/ss/anim3.GIF
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/anim4.gif
+  - https://web.archive.org/web/20240818151314im_/http://tifreakware.net/lachprog/img/ss/1.jpg
+  - https://web.archive.org/web/20240818151332im_/http://tifreakware.net/lachprog/img/ss/2.jpg
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/6.jpg
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/14.jpg
+  - https://web.archive.org/web/20240818151332im_/http://tifreakware.net/lachprog/img/ss/20.jpg
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/screenshot001.png
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/screenshot2.JPG
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/cardgame.PNG
+  - https://web.archive.org/web/20240818151333im_/http://tifreakware.net/lachprog/img/ss/koopakiddo.PNG
+  - https://web.archive.org/web/20240818151332im_/http://tifreakware.net/lachprog/img/ss/save.PNG
+
+- name: Super Mario Bros. 2 FDS Disassembly
+  originals:
+  - 'Super Mario Bros.: The Lost Levels'
+  type: remake
+  url: 'https://www.romhacking.net/documents/613/'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-26
+  updated: 2026-02-26
+
+- name: Super Mario Bros. 3Mix
+  originals:
+  - Super Mario Bros. 3
+  type: remake
+  repo: 'https://github.com/captainsouthbird/3Mix'
+  url: 'https://www.sonicepoch.com/sm3mix/'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    The spectacular, full-scale hack of SMB3, implementing concepts from many
+    games that came well after the original title.
+  added: 2026-03-07
+  updated: 2026-03-07
+  images:
+  - 'https://www.romhacking.net/hacks/nes/images/titles/2068titlescreen.png'
+  - 'https://www.romhacking.net/hacks/nes/images/2068screenshot1.png'
+  - 'https://www.romhacking.net/hacks/nes/images/2068screenshot2.png'
+  - 'https://www.romhacking.net/hacks/nes/images/2068screenshot3.png'
+  - 'https://www.romhacking.net/hacks/nes/images/2068screenshot4.png'
+  video:
+    youtube: OC7cha3hD4k
+
+- name: Super Mario Bros. Disassembly
+  originals:
+  - Super Mario Bros.
+  type: remake
+  url: 'https://6502disassembly.com/nes-smb/'
+  development: complete
+  status: playable
+  multiplayer:
+  - Hotseat
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-11
+  updated: 2026-01-11
+
+- name: Super Mario Bros. X
+  originals:
+  - Super Mario
+  type: clone
+  repo: 'https://github.com/smbx/smbx-legacy-source'
+  url: 'https://www.smbxgame.com'
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  - Split-screen
+  content: commercial
+  langs:
+  - VBA
+  licenses:
+  - MIT
+  info: >-
+    Original Super Mario Bros X Source Code made in Visual Basic 6 (An updated and
+    Improved port for it is TheXTech)
+  updated: '2023-02-15'
+  images:
+  - https://www.smbxgame.com/screen1.jpg
+  - https://www.smbxgame.com/screen24.jpg
+  - https://www.smbxgame.com/screen6.jpg
+  - https://www.smbxgame.com/screen9.jpg
+  - https://www.smbxgame.com/screen16.jpg
+  - https://www.smbxgame.com/screen27.jpg
+
+- name: Super Mario War
+  images:
+  - https://upload.wikimedia.org/wikipedia/en/b/bd/Super_Mario_War_Gameplay.jpg
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Super Mario
+  repo: https://github.com/erlehmann/Super-Mario-War
+  status: playable
+  type: clone
+  updated: 2013-05-28
+  url: http://smw.supersanctuary.net/site/
+
+- name: Super Methane Brothers
+  images:
+  - https://a.fsdn.com/con/app/proj/methane/screenshots/14915.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Super Methane Brothers
+  status: playable
+  type: remake
+  repo: https://sourceforge.net/projects/methane/
+  updated: 2014-04-16
+  url: https://methane.sourceforge.net
+
+- name: Super Methane Brothers (homebrew edition)
+  info: Wii and GameCube port
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Super Methane Brothers
+  status: playable
+  repo: https://github.com/carstene1ns/super-methane-brothers
+  type: remake
+  updated: 2020-08-31
+
+- name: Super Silverbrothers
+  originals:
+  - Super Silverbrothers
+  type: official
+  url: 'https://advsys.net/ken/download.htm#sibros'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  - BASIC
+  licenses:
+  - As-is
+  info: >-
+    A side-scroller similar to Super Mario Bros. and Lode Runner, the source code
+    was released in 2004.
+  added: 2026-01-05
+  updated: 2026-01-05
+  images:
+  - https://web.archive.org/web/20000815235919im_/https://advsys.net/ken/sibros.png
+
+- name: Super Smash Bros Clone
+  originals:
+  - Super Smash Bros.
+  type: clone
+  repo: 'https://sourceforge.net/projects/ssbc/'
+  feed: 'https://sourceforge.net/p/ssbc/code/feed/'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - Java
+  frameworks:
+  - LWJGL
+  licenses:
+  - As-is
+  added: 2026-01-31
+  updated: 2026-01-31
+
+- name: Super Star Trek
+  originals:
+  - Super Star Trek
+  type: official
+  repo: 'https://github.com/philspil66/Super-Star-Trek'
+  url: https://gamesnostalgia.com/game/super-star-trek
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: Published in BASIC Computer Games.
+  added: 2026-01-26
+  updated: 2026-01-31
+  images:
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26523.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26524.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26525.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26528.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26529.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26531.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26532.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26533.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26536.jpg
+  - https://t.gamesnostalgia.com/screenshots/s/u/super-star-trek/26537.jpg
+
+- name: Super Star Trek meets 25th Anniversary
+  originals:
+  - Super Star Trek
+  type: remake
+  repo: 'https://github.com/emabolo/sst25th'
+  url: 'https://emabolo.itch.io/super-star-trek-25th'
+  feed: 'https://emabolo.itch.io/super-star-trek-25th/devlog.rss'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - AGS Script
+  frameworks:
+  - Adventure Game Studio
+  licenses:
+  - As-is
+  added: 2026-02-25
+  updated: 2026-02-25
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTYxNjAyNi5wbmc=/original/gu3SWF.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU3OS5wbmc=/original/BaSMxQ.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTYxNjAzNC5wbmc=/original/I8SR7Q.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU4NC5wbmc=/original/rTuPMm.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU4Ny5wbmc=/original/q6OAvE.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU4OC5wbmc=/original/KgZ9ku.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU5MC5wbmc=/original/WSjxr.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU5MS5wbmc=/original/Qslc5p.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTg4MzUyNC8xMTEyODU5NC5wbmc=/original/clVJVm.png'
+
+- name: Super Tilt Bro
+  type: clone
+  originals:
+  - Super Smash Bros.
+  repo: https://github.com/sgadrat/super-tilt-bro
+  url: https://sgadrat.itch.io/super-tilt-bro
+  development: active
+  status: playable
+  multiplayer:
+  - Competitive
+  langs:
+  - Assembly
+  licenses:
+  - WTFPL
+  content: free
+  info: The game is made for NES, but available from browser based NES emulator.
+  updated: 2023-11-08
+  images:
+  - https://img.itch.zone/aW1nLzE2MTUxNzgucG5n/original/OzQp7n.png
+  - https://img.itch.zone/aW1nLzE2MTUxODEucG5n/original/9XgmUx.png
+  - https://img.itch.zone/aW1nLzE2MTUxODIucG5n/original/ujDNEx.png
+
+- name: Super Transball 2
+  originals:
+  - Zarathrusta
+  type: similar
+  repo: 'https://github.com/santiontanon/stransball2'
+  url: >-
+    https://web.archive.org/web/20190320201624/http://www2.braingames.getput.com/stransball2/
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-07-06
+  updated: 2025-07-06
+  images:
+  - >-
+    https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/tittle.jpg
+  - >-
+    https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/selection.jpg
+  - >-
+    https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot2.jpg
+  - >-
+    https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot3.jpg
+  - >-
+    https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot5.jpg
+
+- name: Super Lemonade Factory 1989
+  originals:
+  - Super Lemonade Factory
+  type: remake
+  repo: 'https://github.com/initials/SuperLemonadeFactory1989'
+  url: 'https://initials.itch.io/slf1989'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - XNA
+  licenses:
+  - As-is
+  added: 2026-01-23
+  updated: 2026-01-23
+  images:
+  - 'https://i.imgur.com/dVq3WKz.gif'
+  - 'https://img.itch.zone/aW1hZ2UvMTA4MDQvMzI3ODgucG5n/original/fu6sKZ.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTA4MDQvMzI3ODkucG5n/original/bZj%2FKK.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTA4MDQvMzI3OTAucG5n/original/9vxjqF.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTA4MDQvMzI3OTEucG5n/original/LhfM3c.png'
+
+- name: Super Lemonade Factory Part Two
+  originals:
+  - Super Lemonade Factory Part Two
+  type: remake
+  repo: https://github.com/initials/SuperLemonadeFactoryPartTwo
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - XNA
+  licenses:
+  - As-is
+  added: 2026-02-03
+  updated: 2026-02-03
+
+- name: Super-Lemonade-Factory-Pico-8
+  originals:
+  - Super Lemonade Factory
+  type: remake
+  repo: 'https://github.com/initials/Super-Lemonade-Factory-Pico-8'
+  url: 'https://www.lexaloffle.com/bbs/?tid=2824'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - PICO-8
+  licenses:
+  - As-is
+  info: Super Lemonade Factory for the Pico-8 system.
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: Super-Mario-Bros-Java
+  originals:
+  - Super Mario Bros.
+  type: remake
+  repo: 'https://sourceforge.net/projects/super-mario-bros-java/'
+  feed: 'https://sourceforge.net/p/super-mario-bros-java/activity/feed'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  licenses:
+  - GPL3
+  info: 'Super Mario Bros. NES and SNES Versions in Java for PC , Mac and Linux'
+  added: 2026-03-09
+  updated: 2026-03-09
+  images:
+  - https://a.fsdn.com/con/app/proj/super-mario-bros-java/screenshots/nes%20graphics-43e70d46.JPG
+  - https://a.fsdn.com/con/app/proj/super-mario-bros-java/screenshots/trees-4f2c3dfc.JPG
+  - https://a.fsdn.com/con/app/proj/super-mario-bros-java/screenshots/water-538f7878.png
+  - https://a.fsdn.com/con/app/proj/super-mario-bros-java/screenshots/boss-5fbb4262.png
+  - https://a.fsdn.com/con/app/proj/super-mario-bros-java/screenshots/Info2-25d0be3a.png
+
+- name: Supercars III
+  images:
+  - https://jotd.pagesperso-orange.fr/supercars3/snapshots/images/view_0.jpg
+  - https://jotd.pagesperso-orange.fr/supercars3/snapshots/images/view_3.jpg
+  - https://jotd.pagesperso-orange.fr/supercars3/snapshots/images/view_7.jpg
+  licenses:
+  - JRL
+  development: halted
+  originals:
+  - Super Cars
+  status: playable
+  repo: http://jotd.pagesperso-orange.fr/supercars3/Supercars3_06.zip
+  langs:
+  - Java
+  type: remake
+  updated: 2021-12-21
+  url: http://jotd.pagesperso-orange.fr/supercars3/
+
+- name: SuperFoulEgg
+  langs:
+  - Objective-C
+  frameworks:
+  - Cocos2d
+  licenses:
+  - MIT
+  content: commercial
+  development: halted
+  originals:
+  - Super Foul Egg
+  status: playable
+  repo: https://github.com/ant512/SuperFoulEgg
+  type: remake
+  updated: 2022-01-25
+  info: MacOSX port of Super Foul Egg; re-write of Really Bad Eggs, a port of Super Foul Egg to the Nintendo DS
+
+- name: SuperHorrorFactory
+  originals:
+  - Super Lemonade Factory
+  type: remake
+  repo: 'https://github.com/initials/SuperHorrorFactory'
+  development: halted
+  status: unplayable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - XNA
+  licenses:
+  - As-is
+  info: Super Lemonade Factory goes B-Grade.
+  added: 2026-01-23
+  updated: 2026-01-23
+
+- name: SuperLemonadeFactoryOUYA
+  originals:
+  - Super Lemonade Factory
+  type: official
+  repo: 'https://github.com/initials/SuperLemonadeFactoryOUYA'
+  url: 'https://initials.itch.io/super-lemonade-factory'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - ActionScript
+  frameworks:
+  - Adobe AIR
+  licenses:
+  - GPL3
+  info: Super Lemonade Factory for OUYA.
+  added: 2026-01-23
+  updated: 2026-01-23
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1NzYucG5n/original/hgE57x.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1NzcucG5n/original/U4rFW6.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1NzgucG5n/original/INxU7X.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1NzkucG5n/original/3qg%2Fe%2F.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1ODAucG5n/original/yhgEY1.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1ODEucG5n/original/TxrKFH.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzI1ODIucG5n/original/EhcESm.png'
+  - 'https://img.itch.zone/aW1hZ2UvNTQ0LzE5MjE2My5wbmc=/original/gK24kH.png'
+  video:
+    youtube: SMDZify5FiA
+
+- name: SuperMarioBros-C
+  originals:
+  - Super Mario
+  type: remake
+  repo: 'https://github.com/MitchellSternke/SuperMarioBros-C'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  info: >-
+    An attempt to translate the original Super Mario Bros. for the NES to readable
+    C/C++.
+  updated: 2022-01-07
+  images:
+  - 'https://github.com/MitchellSternke/SuperMarioBros-C/raw/master/demo.gif'
+
+- name: Supernova
+  originals:
+  - Supernova
+  type: remake
+  repo: 'https://github.com/samuelbrian/supernova'
+  url: 'https://www.classicdosgames.com/game/Supernova.html'
+  development: complete
+  status: playable
+  langs:
+  - Pascal
+  licenses:
+  - GPL2
+  added: 2026-01-10
+  updated: 2026-01-10
+
+- name: SuperStarTrek - Perl and LUA ports
+  originals:
+  - Super Star Trek
+  type: remake
+  repo: 'https://github.com/emabolo/superstartrek'
+  url: 'https://emabolo.com/article/i-rewrote-the-1978-text-only-super-star-trek-game'
+  development: halted
+  status: playable
+  langs:
+  - Lua
+  - Perl
+  licenses:
+  - As-is
+  added: 2026-01-30
+  updated: 2026-01-30
+  images:
+  - https://emabolo.com/s/article/2/2/22/107_large.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26511.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26512.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26513.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26514.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26515.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26519.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26520.jpg
+  - https://t.gamesnostalgia.com/news/1/8/182/26521.jpg
+
+- name: SuperStarTrek25thGMS
+  originals:
+  - Super Star Trek
+  type: remake
+  repo: 'https://github.com/JeodC/SuperStarTrek25thGMS'
+  feed: 'https://github.com/JeodC/SuperStarTrek25thGMS/releases.atom'
+  development: very active
+  status: playable
+  langs:
+  - Game Maker Language
+  frameworks:
+  - GameMaker Studio
+  licenses:
+  - As-is
+  content: commercial
+  info: A port of Super Star Trek Meets 25th Anniversary to Game Maker Studio 2
+  added: 2026-03-01
+  updated: 2026-03-01
+  images:
+  - https://github.com/user-attachments/assets/2669d4e5-73b5-48c4-97c9-590a13fbe707
+
+- name: SuperTux
+  development: very active
+  frameworks:
+  - SDL2
+  images:
+  - https://www.supertux.org/images/0_6_0/0_6_0_2.png
+  - https://www.supertux.org/images/0_6_0/0_6_0_5.png
+  - https://www.supertux.org/images/0_6_0/0_6_0_17.png
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  content: open
+  originals:
+  - Super Mario
+  repo: https://github.com/SuperTux/supertux
+  status: playable
+  type: clone
+  updated: 2023-11-09
+  url: https://supertux.org/
+  feed: https://www.supertux.org/feed.xml
+
+- name: SuperTux Classic
+  development: active
+  frameworks:
+  - Godot
+  images:
+  - https://user-images.githubusercontent.com/22513909/232307779-84da1d99-af0f-436a-a86e-2a59a986bb5b.png
+  - https://github.com/Alzter/SuperTux-Classic/assets/22513909/5947f28d-19f9-40c9-8b20-d9c26a7c0e7b
+  langs:
+  - GDScript
+  licenses:
+  - GPL3
+  info: A Godot re-implementation of SuperTux (succeeding TuxBuilder)
+  content: open
+  originals:
+  - Super Mario
+  repo: https://github.com/Alzter/SuperTux-Classic/
+  status: playable
+  type: clone
+  updated: 2023-08-27
+  url: https://alzter-s.itch.io/supertux-classic
+
+- name: SuperTuxKart
+  images:
+  - https://supertuxkart.net/assets/wiki/STK1.3_1.jpg
+  - https://supertuxkart.net/assets/wiki/STK1.3_2.jpg
+  - https://supertuxkart.net/assets/wiki/STK1.3_3.jpg
+  - https://supertuxkart.net/assets/wiki/STK1.3_4.jpg
+  - https://supertuxkart.net/assets/wiki/STK1.3_5.jpg
+  - https://supertuxkart.net/assets/wiki/STK1.3_6.jpg
+  langs:
+  - C++
+  frameworks:
+  - Irrlicht
+  licenses:
+  - GPL3
+  content: open
+  development: active
+  originals:
+  - Mario Kart
+  repo: https://github.com/supertuxkart/stk-code
+  status: playable
+  type: clone
+  updated: 2019-08-27
+  url: https://supertuxkart.net/
+  video:
+    youtube: ef9vYcuEDL4
+
+- name: SuperTuxParty
+  type: clone
+  originals:
+  - Mario Party
+  repo: https://gitlab.com/SuperTuxParty/SuperTuxParty
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Split-screen
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - GPL3
+  content: open
+  updated: 2023-11-10
+  images:
+  - https://gitlab.com/SuperTuxParty/SuperTuxParty/raw/dev/screenshot.png
+
+- name: SurrealEngine
+  originals:
+  - Unreal Tournament
+  type: remake
+  repo: https://github.com/dpjudas/SurrealEngine
+  development: very active
+  status: unplayable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - Vulkan
+  licenses:
+  - Zlib
+  info: Can only load and render maps so far
+  updated: 2023-08-25
+  images:
+  - >-
+    https://user-images.githubusercontent.com/5136903/125014285-afc65580-e06d-11eb-80c0-0a1992a7d0ff.jpg
+
+- name: Surround Disassembly
+  originals:
+  - Surround
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/surround.asm'
+  url: 'https://www.romhacking.net/documents/506/'
+  development: complete
+  status: playable
+  multiplayer:
+  - Local
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-11
+  updated: 2025-11-11
+
+- name: Survivor
+  images:
+  - https://farm8.staticflickr.com/7427/10177812825_1a524cb34d_h.jpg
+  langs:
+  - JavaScript
+  licenses:
+  - CC-BY-NC
+  development: halted
+  originals:
+  - Survivor (1986)
+  repo: https://github.com/scottschiller/SURVIVOR
+  status: playable
+  type: remake
+  updated: 2023-11-11
+  url: http://www.schillmania.com/survivor/
+
+- name: Sutom Game
+  originals:
+  - Wordle
+  type: clone
+  repo: 'https://github.com/win-wiz/sutom-game'
+  url: 'https://sutom.fun/'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - TypeScript
+  licenses:
+  - As-is
+  added: 2025-10-26
+  updated: 2025-10-26
+
+- name: Swashbuckler
+  originals:
+  - Swashbuckler
+  type: official
+  repo: >-
+    https://archive.org/download/DataMost_Internal_Floppies_Collection#:~:text=SWASHBUCKLER%20SOURCE
+  url: >-
+    https://archive.org/details/DataMost_Internal_Floppies_Collection#:~:text=Swashbuckler
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-14
+  updated: 2026-02-14
+
+- name: Sword of Fargoal remake
+  originals:
+  - Sword of Fargoal
+  type: remake
+  url: 'https://archive.org/details/fargoal'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2025-07-30
+  updated: 2025-07-30
+  images:
+  - 'https://archive.org/download/fargoal/Clipboard-20151231-02.png'
+
+- name: SWP
+  licenses:
+  - GPL2
+  - Custom
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  - DirectX
+  - SDL
+  originals:
+  - Shadow Warrior
+  status: playable
+  repo: https://github.com/Hendricks266/SWP
+  development: halted
+  type: remake
+  updated: 2023-11-13
+  url: http://www.proasm.com/sw/swp.html
+  video:
+    youtube: JePqKJd4hhw
+
+- name: SwtPacMan
+  type: clone
+  originals:
+  - Pac-Man
+  repo: https://github.com/fogleman/SwtPacMan
+  url: https://www.michaelfogleman.com/projects/pac-man/
+  development: halted
+  status: playable
+  langs:
+  - Java
+  frameworks:
+  - SWT
+  licenses:
+  - As-is
+  content: open
+  updated: 2019-03-25
+  images:
+  - https://www.michaelfogleman.com/static/img/project/pac-man/thumbnail/1.png
+
+- name: Symbolica
+  originals:
+  - Symbolica
+  type: clone
+  repo: 'https://sourceforge.net/projects/symbolica/'
+  feed: 'https://sourceforge.net/p/symbolica/activity/feed'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C++
+  licenses:
+  - BSD
+  info: >-
+    A port of the c64 puzzle game symbolica, primary targeted to the handhelds
+    gp2x and n-800 but is also running on other Unix platforms.
+  added: '2025-06-07'
+  updated: '2025-06-07'
+  images:
+  - 'https://os4depot.net/filedata/snapshot/2890_1_snap.jpg'
+  - 'https://os4depot.net/filedata/snapshot/2890_2_snap.jpg'
+  - 'https://a.fsdn.com/con/app/proj/symbolica/screenshots/118811.jpg'
+
+- name: Syndicate Wars Port
+  development: active
+  info: no network support
+  licenses:
+  - GPL3
+  content: commercial
+  originals:
+  - Syndicate Wars
+  status: playable
+  type: remake
+  updated: 2023-11-14
+  url: http://swars.vexillium.org/
+  repo: https://github.com/mefistotelis/swars
+  langs:
+  - C
+  frameworks:
+  - SDL
+  video:
+    vimeo: 8942527
+
+- name: System Shock
+  originals:
+  - System Shock
+  type: official
+  repo: 'https://github.com/NightDive-Studio/shockmac'
+  url: >-
+    https://www.gamedeveloper.com/programming/nightdive-shares-source-code-for-i-system-shock-i-on-mac
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - GPL3
+  info: System Shock (PowerMac version / Official GPL Release).
+  added: 2025-12-14
+  updated: 2025-12-14
+
+- name: The System Shock Hack Project
+  originals:
+  - System Shock
+  - Ultima Underworld
+  - 'Ultima Underworld II: Labyrinth of Worlds'
+  type: remake
+  repo: 'https://sourceforge.net/projects/tsshp/'
+  url: 'https://tsshp.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/tsshp/news/feed.atom'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - BSD
+  added: 2025-09-05
+  updated: 2025-09-05
+  images:
+  - 'https://tsshp.sourceforge.net/images/drain.png'
+  - 'https://tsshp.sourceforge.net/images/cargo.png'
+  - 'https://tsshp.sourceforge.net/images/ghiran-office.png'
+  - 'https://tsshp.sourceforge.net/images/frog.png'
+  - 'https://tsshp.sourceforge.net/images/map3.gif'
+  - 'https://tsshp.sourceforge.net/images/cam1.png'
+  - 'https://tsshp.sourceforge.net/images/cam3.png'
+  - 'https://tsshp.sourceforge.net/images/cam4.png'
+  - 'https://tsshp.sourceforge.net/images/dark03.gif'
+  - 'https://tsshp.sourceforge.net/images/reaver.png'
+  - 'https://tsshp.sourceforge.net/images/seer.png'
+  - 'https://tsshp.sourceforge.net/images/dark01.gif'
+  - 'https://tsshp.sourceforge.net/images/dark02.gif'
+  - 'https://tsshp.sourceforge.net/images/loth.png'

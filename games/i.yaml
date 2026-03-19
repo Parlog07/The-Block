@@ -1,0 +1,610 @@
+- name: I Have No Tomatoes
+  images:
+  - https://a.fsdn.com/con/app/proj/tomatoes/screenshots/11798.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/tomatoes/screenshots/11800.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/tomatoes/screenshots/11804.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/tomatoes/screenshots/11802.jpg/max/max/1
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - Zlib
+  development: halted
+  originals:
+  - Bomberman
+  status: playable
+  repo: https://sourceforge.net/projects/tomatoes/
+  type: remake
+  updated: 2022-08-26
+  url: https://tomatoes.sourceforge.net/
+
+- name: ICBM3D
+  langs:
+  - C
+  licenses:
+  - GPL2
+  development: complete
+  originals:
+  - Missile Command
+  status: playable
+  type: clone
+  updated: 2022-02-12
+  url: http://www.newbreedsoftware.com/icbm3d/
+
+- name: Ice Breaker
+  images:
+  - https://mattdm.org/icebreaker/images/screenshot-level1-linux.png
+  - https://mattdm.org/icebreaker/images/screenshot-level2-billg.png
+  - https://mattdm.org/icebreaker/images/screenshot-level5-jz-like.png
+  - https://mattdm.org/icebreaker/images/screenshot-level6-stars.png
+  originals:
+  - JezzBall
+  status: playable
+  licenses:
+  - GPL2
+  type: remake
+  langs:
+  - C
+  frameworks:
+  - SDL
+  development: sporadic
+  updated: 2022-09-07
+  url: https://mattdm.org/icebreaker/
+
+- name: Ice Ice Penguin
+  originals:
+  - ChuChu Rocket!
+  type: clone
+  repo: 'https://sourceforge.net/projects/iceicepenguin/'
+  feed: 'https://sourceforge.net/p/iceicepenguin/news/feed.rss'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL2
+  added: 2025-11-12
+  updated: 2025-11-12
+  images:
+  - 'https://a.fsdn.com/con/app/proj/iceicepenguin/screenshots/192832.jpg'
+  - 'https://a.fsdn.com/con/app/proj/iceicepenguin/screenshots/193952.jpg'
+  - 'https://a.fsdn.com/con/app/proj/iceicepenguin/screenshots/192830.jpg'
+
+- name: Iceball
+  development: halted
+  status: playable
+  langs:
+  - C
+  - Lua
+  licenses:
+  - GPL3
+  - CC-BY-SA
+  content: open
+  originals:
+  - Ace of Spades
+  repo: https://github.com/iamgreaser/iceball
+  type: remake
+  updated: 2022-04-26
+  images:
+  - https://i.imgur.com/FL4nxDw.png
+
+- name: Icebreaker
+  originals:
+  - Icebreaker
+  type: official
+  repo: 'https://github.com/trapexit/3do-icebreaker'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  info: Source to the 3DO game Icebreaker.
+  added: 2025-11-20
+  updated: 2025-11-20
+
+- name: Icebreaker 2
+  originals:
+  - Icebreaker 2
+  type: official
+  repo: 'https://github.com/trapexit/3do-icebreaker2'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  added: 2025-11-23
+  updated: 2025-11-23
+
+- name: ICED Shadow Warrior
+  originals:
+  - Shadow Warrior
+  type: remake
+  repo: >-
+    https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/jmarshall23/ShadowWarrior
+  url: >-
+    https://web.archive.org/web/20240516154052/https://crozzbreed23.wixsite.com/icedsw
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2025-11-25
+  updated: 2025-11-25
+  images:
+  - https://static.wixstatic.com/media/5a22f4_7fb4bdc50dd847c39ae4dca12e019448~mv2_d_2851_1819_s_2.png
+  - https://static.wixstatic.com/media/5a22f4_100cb9f6d9dc4752bbda2c5bfed4b1b0~mv2.png
+  - https://static.wixstatic.com/media/5a22f4_27778846025a46e88c55506cf27c51f7~mv2_d_2759_1751_s_2.png
+
+- name: IED
+  originals:
+  - Minesweeper
+  type: similar
+  repo: 'https://codeberg.org/Krixec/IED-FDroid'
+  url: 'https://f-droid.org/packages/at.krixec.ied/'
+  feed: 'https://codeberg.org/Krixec/IED-FDroid.atom'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - MIT
+  info: (I)mprovised (E)xplosive (D)evice is a 3D version of minesweeper.
+  added: 2025-11-03
+  updated: 2025-11-03
+  images:
+  - https://codeberg.org/Krixec/IED-FDroid/media/branch/dev/metadata/en-US/images/phoneScreenshots/1.jpg
+  - https://codeberg.org/Krixec/IED-FDroid/media/branch/dev/metadata/en-US/images/phoneScreenshots/2.jpg
+  - https://codeberg.org/Krixec/IED-FDroid/media/branch/dev/metadata/en-US/images/phoneScreenshots/3.jpg
+  - https://codeberg.org/Krixec/IED-FDroid/media/branch/dev/metadata/en-US/images/phoneScreenshots/4.jpg
+
+- name: Ikemen-GO
+  originals:
+  -  M.U.G.E.N
+  type: remake
+  repo: 'https://github.com/ikemen-engine/Ikemen-GO'
+  url: 'https://ikemen-engine.github.io/'
+  development: active
+  status: playable
+  content: open
+  langs:
+  - Go
+  licenses:
+  - MIT
+  added: 2025-12-28
+  updated: 2025-12-28
+
+- name: Ikemen-Plus-Ultra
+  originals:
+  -  M.U.G.E.N
+  type: remake
+  repo: 'https://github.com/CableDorado2/Ikemen-Plus-Ultra'
+  development: active
+  status: playable
+  content: open
+  langs:
+  - C++
+  - Lua
+  licenses:
+  - MIT
+  added: 2026-01-01
+  updated: 2026-01-01
+  images:
+  - https://github.com/CableDorado2/Ikemen-Plus-Ultra/assets/18058378/05f3306c-ab76-4de1-8935-679b83612df1
+  - https://github.com/user-attachments/assets/a9241ef6-f0dc-4de4-9c54-93bcd7161974
+  - https://github.com/user-attachments/assets/b042b089-8be3-4282-bff9-b903bc0082b7
+  - https://github.com/user-attachments/assets/d741b360-2073-41f2-813f-a25696912f5c
+  video:
+    youtube: pDDLkaKSS74
+
+- name: Imperialism Remake
+  images:
+  - https://remake.twelvepm.de/wp/wp-content/uploads/2014/09/Startscreen-0.2.0.jpg
+  - https://remake.twelvepm.de/wp/wp-content/uploads/2015/02/Editor-0.2.1.jpg
+  - https://remake.twelvepm.de/wp/wp-content/uploads/2015/02/Scenario-Preview-0.2.1.jpg
+  langs:
+  - Python
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Imperialism
+  status: unplayable
+  repo: https://github.com/Trilarion/Imperialism-Remake
+  type: remake
+  updated: 2022-01-18
+  url: http://remake.twelvepm.de/
+
+- name: In Pursuit of Greed
+  originals:
+  - In Pursuit of Greed
+  type: official
+  repo: 'https://archive.org/details/GreedSource'
+  url: 'https://redshadowsoftware.com/greed/'
+  development: complete
+  status: playable
+  content: free
+  frameworks:
+  - Raven
+  licenses:
+  - Custom
+  added: 2025-11-27
+  updated: 2025-11-27
+  images:
+  - https://web.archive.org/web/20210121090112im_/http://robertwmorganiii.weebly.com/uploads/1/3/9/4/13947809/9775754_orig.gif
+  - https://web.archive.org/web/20210121090112im_/http://robertwmorganiii.weebly.com/uploads/1/3/9/4/13947809/5103214_orig.gif
+  - https://web.archive.org/web/20210121090112im_/http://robertwmorganiii.weebly.com/uploads/1/3/9/4/13947809/9610270_orig.gif
+  - https://archive.org/download/GreedSource/screenshot.png
+
+- name: Indy 500 Disassembly
+  originals:
+  - Indy 500
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm'
+  url: 'https://www.biglist.com/lists/stella/archives/200401/msg00036.html'
+  development: halted
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-01
+  updated: 2025-11-01
+
+- name: Inertia Blast
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  originals:
+  - Thrust
+  repo: https://github.com/dulsi/thrust
+  status: playable
+  type: remake
+  added: 2021-09-18
+  updated: 2024-03-01
+  url: https://identicalsoftware.com/inertiablast/
+  images:
+  - https://identicalsoftware.com/inertiablast/screenshot1.png
+
+- name: Inexor
+  frameworks:
+  - Cube 2 Engine
+  info: In addition to improving Sauerbraten one of the stated goals of the project is to remove/replace all content with
+    unclear or non-free licenses from the game.
+  langs:
+  - C++
+  - JavaScript
+  licenses:
+  - Zlib
+  development: active
+  originals:
+  - 'Cube 2: Sauerbraten'
+  repo: https://github.com/inexorgame/vulkan-renderer
+  status: semi-playable
+  type: remake
+  updated: 2020-08-31
+  url: https://inexor.org/
+
+- name: Interstate Outlaws
+  langs:
+  - Python
+  frameworks:
+  - Crystal Space
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Interstate '76
+  status: semi-playable
+  type: remake
+  updated: 2022-09-07
+  url: http://web.archive.org/web/20071011202135/http://interstateoutlaws.com/
+
+- name: Intruders for Linux
+  originals:
+  - Intruders
+  type: remake
+  url: >-
+    https://web.archive.org/web/20010822122928/http://lin.fsid.cvut.cz/~pvc/Intruders/
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SVGALib
+  licenses:
+  - GPL2
+  added: 2025-08-21
+  updated: 2025-08-21
+
+- name: invaders
+  originals:
+  - Space Invaders
+  type: remake
+  repo: 'https://github.com/herrecito/invaders'
+  development: halted
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - MIT
+  content: commercial
+  added: 2025-08-22
+  updated: 2025-08-22
+  images:
+  - >-
+    https://camo.githubusercontent.com/a6ea5fa0c684804202cce2538a73c0e915b81f5e0079c59a5bedea1c56fb4751/687474703a2f2f692e696d6775722e636f6d2f713459355661652e676966
+
+- name: IO Reboot
+  development: complete
+  frameworks:
+  - Unity
+  images:
+  - https://lh3.googleusercontent.com/umCxkpuG_pBRWijjgE9i2Pc314qEdbg1uYgFCkCqtoRaiBGX4pBg9aFR7BFsSHjQ0sRe=h900-rw
+  - https://lh3.googleusercontent.com/wXYHQFw9OKKcZZiDC9KEM-Qt6ZJVp6Vn1EJZlgRCwMmbuSqSQSFTC3YreAaZ2qF_KA=h900-rw
+  - https://lh3.googleusercontent.com/jOWqEEME9LDyabTj2rHnb4iCyF1bElCWukqop98WVxrammgL8MfG1MuevnCmsivtpA=h900-rw
+  langs:
+  - C#
+  licenses:
+  - MIT
+  content: open
+  originals:
+  - Infinity Loop
+  repo: https://github.com/omarchehab98/io-reboot
+  status: playable
+  type: clone
+  updated: 2020-08-31
+
+- name: ioquake3
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: commercial
+  development: active
+  originals:
+  - Quake 3
+  repo: https://github.com/ioquake/ioq3
+  status: playable
+  type: remake
+  url: https://ioquake3.org/
+  updated: 2025-11-26
+  video:
+    youtube: KavcvHixd6A
+
+- name: Iris2
+  images:
+  - https://libregamewiki.org/images/thumb/a/a9/Iris-2D.png/320px-Iris-2D.png
+  - https://libregamewiki.org/images/thumb/e/e2/Iris-3D.png/320px-Iris-3D.png
+  - https://www.iris2.de/images/4/48/20080106175329_188.png
+  licenses:
+  - GPL3
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - OGRE
+  development: halted
+  originals:
+  - Ultima Online
+  repo: https://github.com/kblaschke/Iris2
+  status: playable
+  type: remake
+  url: https://libregamewiki.org/Iris2_3D_Client_-_for_Ultima_Online
+  updated: 2021-03-10
+
+- name: IronSeedSharp
+  originals:
+  - Ironseed
+  type: remake
+  repo: >-
+    https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://bitbucket.org/blueachenar/ironseedsharp
+  url: >-
+    https://web.archive.org/web/20180825065529/https://pedrocaleiro.com/ironseedsharp/
+  development: complete
+  status: unplayable
+  langs:
+  - 'C#'
+  frameworks:
+  - SFML
+  licenses:
+  - GPL3
+  added: 2025-11-23
+  updated: 2025-11-23
+
+- name: iortcw
+  originals:
+  - Return to Castle Wolfenstein
+  type: remake
+  repo: 'https://github.com/iortcw/iortcw'
+  feed: 'https://github.com/iortcw/iortcw/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  - Co-op
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  - GPL3
+  info: Merge of ioquake3 features and fixes into RTCW code bases
+  updated: '2019-11-20'
+  video:
+    youtube: iDwbo-ecJQw
+
+- name: Iron Doom
+  originals:
+  - Doom
+  type: remake
+  repo: 'https://github.com/Henrique194/iron-doom'
+  feed: 'https://github.com/Henrique194/iron-doom/releases.atom'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - Rust
+  frameworks:
+  - Bevy
+  licenses:
+  - GPL3
+  info: >-
+    A modern and readable Doom source port written in Rust, designed for clarity
+    and maintainability.
+  added: 2026-02-27
+  updated: 2026-02-27
+  images:
+  - https://github.com/user-attachments/assets/8dca0ae1-cc86-4fd1-bcf8-6c8a47ce854c
+
+- name: Iron Wolf
+  originals:
+  - Wolfenstein 3D
+  type: remake
+  repo: 'https://github.com/Ragnaroek/iron-wolf'
+  url: 'https://wolf.ironmule.dev/'
+  feed: 'https://github.com/Ragnaroek/iron-wolf/releases.atom'
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - Rust
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  added: 2026-02-23
+  updated: 2026-02-23
+  images:
+  - 'https://wolf.ironmule.dev/gh/web_preview.png'
+
+- name: Ironseed
+  langs:
+  - Pascal
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Ironseed
+  status: playable
+  repo: https://github.com/karynax/ironseed
+  type: remake
+  updated: 2021-07-02
+  info: original DOS source release with DMP library stubbed
+
+- name: ironseed_fpc
+  originals:
+  - Ironseed
+  type: remake
+  repo: https://github.com/mnalis/ironseed_fpc
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Pascal
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  info: FreePascal SDL port with bug fixes
+  updated: 2024-03-03
+  images:
+  - https://screenshots.debian.net/shrine/screenshot/19672/simage/large-4207f64f87b8fdbe46db0838d62f7e9a.png
+  - https://screenshots.debian.net/shrine/screenshot/19658/simage/large-648126d2bd794b3e69b6981dc5bb5dc4.png
+  - https://screenshots.debian.net/shrine/screenshot/19653/simage/large-07f0cd535bca6c4b9132ea62b2ec6629.png
+
+- name: irrlamb
+  frameworks:
+  - Irrlicht
+  images:
+  - https://i.imgur.com/EZhOF2Z.jpg
+  - https://i.imgur.com/MoKnLml.jpg
+  - https://i.imgur.com/B0Yg78D.jpg
+  - https://i.imgur.com/FUiVvbl.jpg
+  - https://i.imgur.com/8ibJCaB.jpg
+  - https://i.imgur.com/cI3CN7W.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  content: open
+  development: sporadic
+  originals:
+  - Super Monkey Ball
+  status: playable
+  repo: https://gitlab.com/irrlamb/code
+  url: https://irrlamb.gitlab.io
+  type: remake
+  updated: 2024-03-04
+
+- name: Isometric-Minesweeper
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/Bit-Sahil04/Isometric-Minesweeper'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - MIT
+  updated: 2024-03-05
+  images:
+  - >-
+    https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot3.png
+  - >-
+    https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot1.png
+  - >-
+    https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot2.png
+
+- name: Izmir
+  originals:
+  - Izmir
+  type: official
+  repo: 'https://github.com/idgmatrix/IZMIR'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - CC-BY-NC-SA
+  added: '2025-02-24'
+  updated: '2025-02-24'
+  images:
+  - 'https://github.com/idgmatrix/IZMIR/raw/master/Izmir1.jpg'
+  - 'https://github.com/idgmatrix/IZMIR/raw/master/izmir2.png'
+  - 'https://github.com/idgmatrix/IZMIR/raw/master/Izmir3.jpg'

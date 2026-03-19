@@ -1,0 +1,839 @@
+- name: UZDoom
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - Vulkan
+  licenses:
+  - GPL3
+  development: very active
+  originals:
+  - Doom
+  - Heretic
+  - Hexen
+  status: playable
+  repo: https://github.com/UZDoom/UZDoom
+  type: remake
+  added: 2025-10-19
+  updated: 2025-10-19
+  info: UZDoom is a modder-friendly OpenGL and Vulkan source port based on the DOOM engine
+
+- name: UA_source
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  content: commercial
+  frameworks:
+  - SDL2
+  originals:
+  - Urban Assault
+  status: playable
+  repo: https://github.com/Marisa-Chan/UA_source
+  development: halted
+  feed: https://github.com/Marisa-Chan/UA_source/releases.atom
+  url: https://metropolisdawn.de/lexicon/entry/16-openua/
+  type: remake
+  added: 2017-09-08
+  updated: 2024-10-29
+  images:
+  - https://preview.redd.it/98fmlo55xgu91.jpg?width=512&format=pjpg&auto=webp&s=ce5b02bd502b47600e0cdb3aff188d4a61fd9b69
+  - https://preview.redd.it/oi30u4g5xgu91.jpg?width=600&format=pjpg&auto=webp&s=e0d03eb179d56a0548e4027d6fb370220f03bc93
+  - https://preview.redd.it/hbgqm9q5xgu91.jpg?width=600&format=pjpg&auto=webp&s=97cf247dff59b1fad47b3def913f9524527376db
+
+- name: UAlbion
+  type: remake
+  originals:
+  - Albion
+  repo: https://github.com/csinkers/ualbion
+  development: active
+  status: unplayable
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  licenses:
+  - MIT
+  content: commercial
+  images:
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/.github/screenshots/1_FirstLevel.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/.github/screenshots/2_3DWorld.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/.github/screenshots/3_Outdoors.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/.github/screenshots/4_Inventory.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/.github/screenshots/5_MainMenu.png
+  added: 2020-02-06
+  updated: 2020-02-06
+
+- name: UEFAStriker96
+  originals:
+  - UEFA Striker
+  - "Striker '96"
+  type: official
+  repo: 'https://github.com/LemonHaze420/UEFAStriker96'
+  url: >-
+    https://www.sega-dreamcast-info-games-preservation.com/en/rage-sofware-dreamcast-katana-dev-kit
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2026-03-03
+  updated: 2026-03-03
+
+- name: UFO2000
+  images:
+  - https://a.fsdn.com/con/app/proj/ufo2000/screenshots/66443.jpg
+  - https://a.fsdn.com/con/app/proj/ufo2000/screenshots/66447.jpg
+  - https://a.fsdn.com/con/app/proj/ufo2000/screenshots/66445.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  content: swappable
+  development: halted
+  originals:
+  - 'X-COM: UFO Defense'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: Apocalypse'
+  repo: https://sourceforge.net/projects/ufo2000/
+  status: playable
+  type: remake
+  added: 2013-07-05
+  updated: 2021-01-06
+  video:
+    youtube: F8qKn6u2zWI
+
+- name: 'UFO: Alien Invasion'
+  images:
+  - https://ufoai.org/w/images/Ui2_aliencontainment.jpg
+  - https://ufoai.org/w/images/Ui2_baseview_2.jpg
+  - https://ufoai.org/w/images/Ui2_baseview_1.jpg
+  - https://ufoai.org/w/images/Ui2_campaign.jpg
+  - https://ufoai.org/w/images/Ui2_main.jpg
+  - https://ufoai.org/w/images/Ui2_market.jpg
+  - https://ufoai.org/w/images/Ui2_research.jpg
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  - OpenGL
+  licenses:
+  - GPL2
+  content: open
+  development: sporadic
+  originals:
+  - 'X-COM: UFO Defense'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: Apocalypse'
+  status: playable
+  multiplayer:
+  - LAN
+  - Online
+  - Competitive
+  - Co-op
+  repo: https://sourceforge.net/projects/ufoai/
+  type: clone
+  url: https://ufoai.org/wiki/News
+  added: 2011-06-01
+  updated: 2024-11-01
+
+- name: UGH-remake
+  langs:
+  - C
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Ugh!
+  status: playable
+  repo: https://bitbucket.org/Andy51/ugh-remake
+  type: remake
+  added: 2015-04-13
+  updated: 2024-11-02
+
+- name: UiirJS
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - 'Ultima II: The Revenge of the Enchantress'
+  status: unplayable
+  repo: https://github.com/jaggedsoft/UiirJS
+  type: remake
+  added: 2015-06-01
+  updated: 2020-09-04
+
+- name: Ultima 3 Disassembly
+  originals:
+  - 'Ultima III: Exodus'
+  type: remake
+  repo: 'https://github.com/nmikstas/nes_ultima_3_disassembly'
+  url: 'https://nmikstas.github.io/portfolio/ultima3Disassembly/ultima3.html'
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Disassembly of the nes version of Ultima Exodus
+  added: 2026-03-02
+  updated: 2026-03-02
+
+- name: Ultima 5 Redux
+  images:
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-5.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-10.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-9.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-12.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-6.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-7.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-8.png
+  - https://u5redux.wordpress.com/wp-content/uploads/2023/02/image-11.png
+  langs:
+  - C#
+  frameworks:
+  - .NET
+  licenses:
+  - MIT
+  content: commercial
+  development: halted
+  originals:
+  - 'Ultima V: Warriors of Destiny'
+  status: playable
+  repo: https://github.com/bradhannah/Ultima5Redux
+  type: remake
+  url: https://u5redux.wordpress.com/
+  feed: https://u5redux.wordpress.com/feed/
+  added: 2020-05-19
+  updated: 2023-08-19
+  video:
+    youtube: ZYSHJ8TQe2Q
+
+- name: 'Ultima: Escape from Mount Drash'
+  originals:
+  - 'Ultima: Escape from Mt. Drash'
+  type: remake
+  url: >-
+    https://www.peroxide.dk/projects_old.shtml#:~:text=the%20mount%20drash%20project
+  development: halted
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2025-11-23
+  updated: 2025-11-23
+
+- name: Ultimate Minesweeper
+  originals:
+  - Minesweeper
+  type: clone
+  url: 'https://www.ticalc.org/archives/files/fileinfo/156/15621.html'
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2026-02-22
+  updated: 2026-02-22
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/137/13731.gif'
+  - 'https://www.ticalc.org/archives/files/ss/137/13734.gif'
+  - 'https://www.ticalc.org/archives/files/ss/137/13733.gif'
+  - 'https://www.ticalc.org/archives/files/ss/137/13732.gif'
+
+- name: Ultimate Stunts
+  images:
+  - https://www.ultimatestunts.nl/screenshots/0751.jpg
+  - https://www.ultimatestunts.nl/screenshots/0752.jpg
+  - https://www.ultimatestunts.nl/screenshots/0711.jpg
+  - https://www.ultimatestunts.nl/screenshots/0722.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  originals:
+  - Stunts
+  status: playable
+  repo: https://sourceforge.net/projects/ultimatestunts/
+  type: remake
+  url: https://www.ultimatestunts.nl/
+  added: 2011-06-02
+  updated: 2023-01-11
+
+- name: Ultra Nibble
+  originals:
+  - Nibbles
+  type: remake
+  url: 'https://www.hpcalc.org/details/603'
+  development: halted
+  status: playable
+  langs:
+  - RPL
+  licenses:
+  - As-is
+  added: 2026-03-12
+  updated: 2026-03-12
+  images:
+  - 'https://www.hpcalc.org/hp48/games/arcade/sshots/ultranib.png'
+
+- name: UltraStar Deluxe
+  frameworks:
+  - SDL2
+  langs:
+  - Pascal
+  - Lua
+  licenses:
+  - GPL2
+  development: active
+  originals:
+  - SingStar
+  repo: https://github.com/UltraStar-Deluxe/USDX
+  feed: https://github.com/UltraStar-Deluxe/USDX/releases.atom
+  status: playable
+  multiplayer:
+  - Competitive
+  - Co-op
+  - Local
+  type: remake
+  added: 2014-09-19
+  updated: 2024-11-07
+  url: https://usdx.eu/
+  video:
+    youtube: iIK4w7pd5zU
+
+- name: UltraStar Play
+  frameworks:
+  - Unity
+  langs:
+  - C#
+  licenses:
+  - MIT
+  content: open
+  development: active
+  originals:
+  - SingStar
+  repo: https://github.com/UltraStar-Deluxe/Play
+  status: playable
+  type: remake
+  added: 2021-06-06
+  updated: 2024-11-08
+  url: https://ultrastar-play.com/en
+  images:
+  - https://ultrastar-play.com/img/carousel/singing-resized.jpg?version=2?imwidth=2048
+  video:
+    youtube: 4hXKOLafpDg
+
+- name: uMario
+  frameworks:
+  - SDL2
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  content: commercial
+  development: complete
+  originals:
+  - Super Mario
+  repo: https://github.com/jakowskidev/uMario_Jakowski
+  url: https://lukaszjakowski.pl/project,20,mario-cpp.html
+  status: playable
+  type: remake
+  added: 2016-03-24
+  updated: 2024-11-09
+  images:
+  - https://lukaszjakowski.pl/img/mario_full-al.png
+  - https://lukaszjakowski.pl/img/mario_full.png
+  video:
+    youtube: jya5He7KFsE
+
+- name: umk3
+  originals:
+  - Ultimate Mortal Kombat 3
+  type: official
+  repo: 'https://github.com/Ced2911/umk3'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Source for Ultimate Mortal Kombat 3 (PSX)
+  added: 2026-03-08
+  updated: 2026-03-08
+
+- name: Uncharted waters 2 remake
+  langs:
+  - TypeScript
+  frameworks:
+  - React
+  licenses:
+  - MIT
+  content: commercial
+  development: halted
+  originals:
+  - Uncharted Waters
+  status: semi-playable
+  repo: https://github.com/JohanLi/uncharted-waters-2
+  type: remake
+  added: 2015-04-05
+  updated: 2024-11-10
+  url: https://johan.li/uncharted-waters-2
+  images:
+  - https://media.githubusercontent.com/media/JohanLi/uncharted-waters-2/readme-assets/uncharted-waters-2.png
+  info: "Browser-based remake of Uncharted Waters: New Horizons (大航海時代II)"
+
+- name: UnCiv
+  type: remake
+  originals:
+  - Civilization V
+  repo: https://github.com/yairm210/UnCiv
+  url: https://play.google.com/store/apps/details?id=com.unciv.app
+  development: very active
+  status: playable
+  multiplayer:
+  - Hotseat
+  - Online
+  langs:
+  - Kotlin
+  frameworks:
+  - libGDX
+  licenses:
+  - MPL
+  content: open
+  info: Android remake of Civilization V
+  added: 2019-09-17
+  updated: 2024-08-10
+  images:
+  - https://github.com/yairm210/Unciv/blob/master/extraImages/GithubPreviewImage.jpg?raw=true
+  - https://lh3.googleusercontent.com/u-160JEHFQMPW7fxWGUcHefQtgBNrTeqWN5Rh3jPwgbAF77GdgSTaxwuWoc6n7h1mg=w1180-h932
+  - https://lh3.googleusercontent.com/_MVwu5gZX0n5KckRhjYUzvD6PLlDGhWk4peclcg2L-VjwNo2-9v9R03I-6mdvlmJ7ZM=w1180-h932
+  - https://lh3.googleusercontent.com/Az9kjLDnmMA__c0_68P_FwjivBtAg8ZMtFYBvXvEAhoS8W-8_hqSxINzbALf9rWsqKM=w1180-h932
+  - https://lh3.googleusercontent.com/ioi91BqZm856VpXVPuzD3Of5P5hjXLcKHq20Ofv3aklexSwWSl5lpmo5EiJftmt1Wg=w1180-h932
+  - https://lh3.googleusercontent.com/qOqSXlgjCCdpYCHoNab0rzGHfjUnnCHF_GJQKGKmaOfBv1tGYW6v37cvjIMfbwoibQ=w1180-h932
+  - https://lh3.googleusercontent.com/TSFQq6P2X9Ineomy-59C-DkiqD8elT9DVWBS1jhQGQ-3pdSq38tRwhzbL3nt4NrE8Ws=w1180-h932
+
+- name: UndertaleModTool
+  originals:
+  - Undertale
+  type: tool
+  status: N/A
+  repo: https://github.com/UnderminersTeam/UndertaleModTool
+  feed: https://github.com/UnderminersTeam/UndertaleModTool/releases.atom
+  development: very active
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  licenses:
+  - GPL3
+  info: >-
+    The most complete tool for modding, decompiling and unpacking Undertale (and
+    other Game Maker: Studio games!)
+  added: 2019-12-13
+  updated: 2024-08-11
+  images:
+  - https://github.com/UnderminersTeam/UndertaleModTool/blob/master/images/ribbit-dr.png
+  
+- name: Underworld Adventures
+  originals:
+  - Ultima Underworld
+  - 'Ultima Underworld II: Labyrinth of Worlds'
+  type: remake
+  repo: 'https://github.com/vividos/UnderworldAdventures'
+  url: 'https://vividos.github.io/UnderworldAdventures/'
+  development: halted
+  status: semi-playable
+  content: commercial
+  licenses:
+  - GPL2
+  images:
+  - https://vividos.github.io/UnderworldAdventures/images/shot2.jpg
+  - https://vividos.github.io/UnderworldAdventures/images/shot3.jpg
+  - https://vividos.github.io/UnderworldAdventures/images/shot4.jpg
+  added: 2021-08-08
+  updated: 2024-11-11
+  
+- name: UnderworldExporter
+  type: remake
+  originals:
+  - Ultima Underworld
+  - 'Ultima Underworld II: Labyrinth of Worlds'
+  repo: https://github.com/hankmorgan/UnderworldExporter
+  development: halted
+  status: playable
+  langs:
+  - C#
+  - C++
+  frameworks:
+  - Unity
+  licenses:
+  - MIT
+  content: commercial
+  added: 2020-02-25
+  updated: 2024-11-13
+  video:
+    youtube: 4DZj3eWP9cw
+
+- name: UnderworldGodot
+  originals:
+  - Ultima Underworld
+  - 'Ultima Underworld II: Labyrinth of Worlds'
+  type: remake
+  repo: 'https://github.com/hankmorgan/UnderworldGodot'
+  development: active
+  status: unplayable
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - Godot
+  licenses:
+  - MIT
+  info: This project supercedes the Unity-based project
+  added: '2024-11-18'
+  updated: '2024-11-18'
+  images:
+  - >-
+    https://github.com/hankmorgan/UnderworldGodot/blob/main/resources/screenshots/screenshotuw1.jpg?raw=true
+  - >-
+    https://github.com/hankmorgan/UnderworldGodot/blob/main/resources/screenshots/screenshotuw2.jpg?raw=true
+  - >-
+    https://github.com/hankmorgan/UnderworldGodot/blob/main/resources/screenshots/screenshotuw3.jpg?raw=true
+  - >-
+    https://github.com/hankmorgan/UnderworldGodot/blob/main/resources/screenshots/screenshotuw4.jpg?raw=true
+  - >-
+    https://github.com/hankmorgan/UnderworldGodot/blob/main/resources/screenshots/screenshotuw5.jpg?raw=true
+
+- name: uninvited
+  langs:
+  - Inform 6
+  frameworks:
+  - Inform
+  licenses:
+  - Artistic
+  content: free
+  development: halted
+  originals:
+  - Uninvited
+  status: playable
+  repo: https://gitlab.com/DavidGriffith/uninvited
+  type: remake
+  added: 2015-04-04
+  updated: 2022-01-11
+
+- name: UnityPacmania
+  originals:
+  - Pac-Mania
+  type: clone
+  repo: 'https://github.com/stuart73/UnityPacmania'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - Unity
+  licenses:
+  - As-is
+  added: 2022-06-28
+  updated: 2022-06-28
+  images:
+  - https://github.com/stuart73/UnityPacmania/blob/master/pamania.jpg?raw=true
+  video:
+    youtube: fsbwAHDhPkk
+
+- name: Unitystation
+  originals:
+  - Space Station 13
+  type: clone
+  repo: https://github.com/unitystation/unitystation
+  url: https://www.unitystation.org
+  development: very active
+  langs:
+  - C#
+  frameworks:
+  - Unity
+  status: playable
+  multiplayer:
+  - Online
+  licenses:
+  - AGPL3
+  - CC-BY-SA
+  - GPL3
+  content: open
+  added: 2019-11-14
+  updated: 2023-01-28
+  images:
+  - https://wiki.unitystation.org/images/2/2d/Kind_inhabitants.png
+  - https://wiki.unitystation.org/images/a/af/Mingulo.png
+  - https://wiki.unitystation.org/images/b/bb/Blob_pizza.png
+  video:
+    youtube: FNay4jJMuxA
+
+- name: Unknown Horizons
+  images:
+  - https://unknown-horizons.org/static/screenshots/godot/main_menu_godot.png
+  - https://unknown-horizons.org/static/screenshots/godot/ingame_dev_map_godot.png
+  - https://unknown-horizons.org/static/screenshots/godot/ingame_dev_map_2_godot.png
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - GPL2
+  content: open
+  development: sporadic
+  originals:
+  - Anno series
+  status: unplayable
+  repo: https://github.com/unknown-horizons/godot-port
+  type: clone
+  url: https://unknown-horizons.org
+  added: 2011-07-19
+  updated: 2023-01-30
+  info: porting old python/FIFE codebase to Godot
+
+- name: Unrest
+  originals:
+  - Unrest
+  type: official
+  repo: 'https://github.com/arvindrajayadav/unrest'
+  url: 'https://pyrodactyl.com/2020/08/04/11-years-of-pyrodactyl/#:~:text=Unrest'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - SDL2
+  licenses:
+  - MIT
+  added: 2025-12-03
+  updated: 2025-12-03
+
+- name: Unvanquished
+  images:
+  - https://unvanquished.net/wp-content/uploads/2015/01/chasm_granger.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/perseus_tyrant.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/parpax_human.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/perseus_mantis1.jpg
+  - https://unvanquished.net/wp-content/uploads/2015/01/yocto_mara.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/perseus_dretch.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/parpax_h1.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/parpax_aliens.png
+  - https://unvanquished.net/wp-content/uploads/2015/01/antares_turrets.jpg
+  langs:
+  - C++
+  frameworks:
+  - Daemon Engine
+  - SDL2
+  - OpenGL
+  licenses:
+  - GPL3
+  - BSD
+  - CC-BY-SA
+  - CC-BY
+  development: very active
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  - Competitive
+  - Co-op
+  originals:
+  - Gloom (Quake)
+  - Natural Selection
+  repo: https://github.com/Unvanquished/Unvanquished
+  type: similar
+  added: 2013-06-08
+  updated: 2023-08-23
+  url: https://unvanquished.net
+  feed: https://unvanquished.net/feed
+
+- name: Up'n Down source code for Atari computers
+  originals:
+  - Up'n Down
+  type: official
+  repo: >-
+    https://forums.atariage.com/topic/234310-new-atari-8-bit-scans-and-video/?do=findComment&comment=4067835
+  url: 'https://archive.org/details/UpNDown_source'
+  development: complete
+  status: playable
+  multiplayer:
+  - Local
+  - Hotseat
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-08
+  updated: 2026-03-08
+
+- name: Uplink
+  originals:
+  - Uplink
+  type: remake
+  repo: 'https://github.com/AdrUlb/Uplink'
+  development: sporadic
+  status: unplayable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - MIT
+  added: 2025-11-23
+  updated: 2025-11-23
+
+- name: The Ur-Quan Masters
+  images:
+  - https://sc2.sourceforge.net/screenshots/pcintro.jpg
+  - https://sc2.sourceforge.net/screenshots/slaveshield.png
+  - https://sc2.sourceforge.net/screenshots/scale_triscan.png
+  - https://sc2.sourceforge.net/screenshots/setupmenu.png
+  - https://sc2.sourceforge.net/screenshots/meleestep.png
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: swappable
+  development: halted
+  originals:
+  - Star Control 2
+  status: playable
+  repo: https://sourceforge.net/projects/sc2/
+  type: remake
+  url: https://sc2.sourceforge.net/
+  added: 2011-06-02
+  updated: 2023-08-24
+
+- name: The Ur-Quan Masters HD MegaMod
+  originals:
+  - 'Star Control 2'
+  type: remake
+  repo: 'https://github.com/JHGuitarFreak/UQM-MegaMod'
+  development: active
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - SDL2
+  licenses:
+  - GPL2
+  url: https://uqm-mods.sourceforge.net
+  info: A fork of The Ur-Quan Masters HD that remasters the graphics with a veritable smorgasbord of extra features and options
+  added: 2023-10-01
+  updated: 2023-10-01
+  images:
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/01%20Sol.png
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/02%20Mercury.png
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/03%20The%20Ur-Quan%20Warning.png
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/04%20Earth.png
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/05%20Lunar%20Scan.png
+  - https://uqm-mods.sourceforge.net/Images/MegaMod/06%20Lunar%20Report.png
+
+- name: URL Snake
+  originals:
+  - Snake
+  type: clone
+  repo: 'https://github.com/epidemian/snake'
+  url: 'https://demian.ferrei.ro/snake'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - JavaScript
+  licenses:
+  - Unlicense
+  info: A snake game on the browser URL.
+  added: 2025-09-29
+  updated: 2025-09-29
+  images:
+  - 'https://raw.githubusercontent.com/epidemian/snake/master/gameplay.gif'
+
+- name: USokoban
+  originals:
+  - Sokoban
+  type: clone
+  url: 'https://sokoban.ws/usokoban/usokoban.php'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - GTK
+  licenses:
+  - GPL3
+  added: 2025-08-01
+  updated: 2025-08-01
+  images:
+  - 'https://sokoban.ws/usokoban/usokoban.png'
+  - 'https://sokoban.ws/usokoban/Fedora13.png'
+  - 'https://sokoban.ws/usokoban/openSUSE.11.4.png'
+
+- name: utkencode
+  originals:
+  - Beasts and Bumpkins
+  - The Sims Online
+  - SimCity 4
+  - FIFA 2001
+  type: tool
+  repo: 'https://github.com/daddesio/utkencode'
+  development: halted
+  status: N/A
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - Unlicense
+  info: >-
+    Encoder/decoder for the audio codec used by a few older EA games, including
+    Beasts and Bumpkins
+  added: 2023-12-08
+  updated: 2023-12-08
+
+- name: UchuServer
+  originals:
+  - Lego Universe
+  type: remake
+  repo: 'https://github.com/UchuServer/Uchu'
+  development: halted
+  status: playable
+  multiplayer:
+  - Local
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - .NET
+  licenses:
+  - AGPL3
+  info: A Server project emulating original data from NetDevil's Lego Universe (2010)
+  added: 2022-02-15
+  updated: 2024-11-21
+  video:
+    youtube: _b6HYmdcA8c

@@ -1,0 +1,148 @@
+- name: Z
+  external:
+    wikipedia: Z (video game)
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Zak McKracken and the Alien Mindbenders
+  external:
+    website: https://www.mobygames.com/game/305
+    wikipedia: Zak McKracken and the Alien Mindbenders
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  - FM Towns
+  - Linux
+  - OSX
+  - Windows
+
+- name: Zarathrusta
+  external:
+    website: 'https://amiga.abime.net/games/view/zarathrusta'
+    wikipedia: Zarathrusta
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Action
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Zarch
+  external:
+    website: https://www.mobygames.com/game/19494/virus/
+    wikipedia: Zarch
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - TPS
+  names:
+  - Virus
+
+- name: Zero Gravity
+  external:
+    website: 'https://macintoshgarden.org/games/zero-gravity'
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Arcade
+
+- name: Zolyx
+  external:
+    website: 'https://www.mobygames.com/game/53104/zolyx/'
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Puzzle
+
+- name: Zombie Apocalypse
+  external:
+    website: http://www.mobygames.com/game/zombie-apocalypse
+  meta:
+    genres:
+    - Shmup
+
+- name: Zoop
+  external:
+    wikipedia: Zoop
+  meta:
+    genres:
+    - Puzzle
+
+- name: Zork
+  external:
+    wikipedia: Zork
+  meta:
+    genres:
+    - Adventure
+
+- name: 'Zork: Grand Inquisitor'
+  external:
+    website: https://www.mobygames.com/game/1951
+    wikipedia: 'Zork: Grand Inquisitor'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Windows
+  - Classic Mac OS
+
+- name: Zork Nemesis
+  names:
+  - 'Zork Nemesis: The Forbidden Lands'
+  external:
+    website: https://www.mobygames.com/game/560
+    wikipedia: Zork Nemesis
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Zuma
+  external:
+    wikipedia: Zuma (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: ZZT
+  external:
+    website: https://web.archive.org/web/20020126190941/http://www.epicgames.com/zzt.htm
+    wikipedia: ZZT
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Puzzle

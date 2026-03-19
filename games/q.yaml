@@ -1,0 +1,546 @@
+- name: Q-Gears
+  images:
+  - https://a.fsdn.com/con/app/proj/q-gears/screenshots/116089.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/q-gears/screenshots/116091.jpg/max/max/1
+  - https://a.fsdn.com/con/app/proj/q-gears/screenshots/116085.jpg/max/max/1
+  langs:
+  - C++
+  frameworks:
+  - OGRE
+  licenses:
+  - GPL2
+  content: commercial
+  development: halted
+  originals:
+  - Final Fantasy VII
+  status: unplayable
+  repo: https://github.com/q-gears/q-gears
+  type: remake
+  updated: 2021-09-29
+  url: http://q-gears.sourceforge.net/
+  video:
+    youtube: YPnej8iKMPg
+
+- name: Q2Pro
+  originals:
+  - Quake 2
+  type: remake
+  repo: 'https://github.com/skullernet/q2pro'
+  development: active
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  - OpenAL
+  licenses:
+  - GPL2
+  info: Enhanced Quake 2 client and server
+  added: '2025-02-08'
+  updated: '2025-02-08'
+
+- name: QB64
+  originals:
+  - Gorillas
+  - Nibbles
+  type: remake
+  repo: 'https://github.com/QB64Official/qb64'
+  url: https://qb64.com/
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  content: free
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - MIT
+  info: >-
+    QB64 converts QBasic code to C++ and compiles it into native code, includes some Classic QBasic
+    games as sample programs
+  added: 2024-07-21
+  updated: 2024-07-21
+  images:
+  - 'https://qb64.com/samples/gorillas/img/screenshot.png'
+
+- name: QB64 Minesweeper
+  originals:
+  - Minesweeper
+  type: remake
+  repo: 'https://qb64forum.alephc.xyz/index.php?topic=455.0'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - BASIC
+  frameworks:
+  - QB64
+  licenses:
+  - As-is
+  info: QB64 version of Minesweeper made by TerryRitchie
+  added: '2025-09-08'
+  updated: '2025-09-08'
+  images:
+  - >-
+    https://qb64forum.alephc.xyz/index.php?action=dlattach;topic=455.0;attach=1082
+  - >-
+    https://qb64forum.alephc.xyz/index.php?action=dlattach;topic=455.0;attach=1084
+  - >-
+    https://qb64forum.alephc.xyz/index.php?action=dlattach;topic=455.0;attach=1086
+
+- name: QBasic SuperPONG
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://sourceforge.net/projects/superpong/'
+  feed: 'https://sourceforge.net/p/superpong/news/feed.rss'
+  development: halted
+  status: semi-playable
+  langs:
+  - QuickBASIC
+  licenses:
+  - GPL2
+  added: 2025-11-14
+  updated: 2025-11-14
+
+- name: qengine
+  originals:
+  - Quake 2
+  type: remake
+  repo: 'https://github.com/klaussilveira/qengine'
+  development: active
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  info: >-
+    qengine is a cross-platform retro game engine. It is aimed at nostalgic game developers that miss simple times and enjoy creating games like it's 1997.
+    The software renderer provides the aesthetic that we all love and the engine limitations exist to make your creativity shine.
+  added: 2026-03-03
+  updated: 2026-03-03
+  images:
+  - https://github.com/klaussilveira/qengine/raw/master/docs/screenshot.png
+
+- name: QML Sokoban
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/yzhs/qmlsokoban'
+  url: 'https://www.pling.com/p/1109280'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  - QML
+  - C++
+  frameworks:
+  - Qt
+  licenses:
+  - GPL3
+  added: 2025-09-30
+  updated: 2025-09-30
+  images:
+  - https://images.pling.com/img/00/00/09/17/17/1109280/134799-1.png
+  - https://images.pling.com/img/00/00/09/17/17/1109280/134799-2.png
+
+- name: QNetWalk
+  originals:
+  - NetWalk
+  type: clone
+  repo: 'https://github.com/AMDmi3/qnetwalk'
+  url: 'https://web.archive.org/web/20131025174600/http://qt.osdn.org.ua/qnetwalk.html'
+  feed: 'https://github.com/AMDmi3/qnetwalk/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - Qt
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-07-23
+  updated: 2025-07-23
+  images:
+  - 'https://github.com/AMDmi3/qnetwalk/raw/master/doc/screenshot.png'
+  - 'https://web.archive.org/web/20131025174600im_/http://qt.osdn.org.ua/qnetwalk1.png'
+  - 'https://web.archive.org/web/20131025174600im_/http://qt.osdn.org.ua/qnetwalk2.png'
+
+- name: QPong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://sourceforge.net/projects/qpong/'
+  url: 'https://qpong.sourceforge.net/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-11-09
+  updated: 2025-11-09
+  images:
+  - 'https://qpong.sourceforge.net/img/screen1.jpg'
+  - 'https://qpong.sourceforge.net/img/screen2.jpg'
+  - 'https://qpong.sourceforge.net/img/screen3.jpg'
+  - 'https://qpong.sourceforge.net/img/screen4.jpg'
+  - 'https://qpong.sourceforge.net/img/screen5.png'
+  - 'https://qpong.sourceforge.net/img/screen6.jpg'
+
+- name: Quad64
+  originals:
+  - Super Mario 64
+  type: tool
+  repo: 'https://github.com/DavidSM64/Quad64'
+  feed: 'https://github.com/DavidSM64/Quad64/releases.atom'
+  development: halted
+  status: N/A
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - OpenTK
+  licenses:
+  - MIT
+  info: An open-source Super Mario 64 level editor.
+  added: 2025-12-18
+  updated: 2025-12-18
+  images:
+  - 'https://i.imgur.com/NeBlYO2.png'
+
+- name: Quadrapassel
+  originals:
+  - Tetris
+  type: clone
+  repo: https://gitlab.gnome.org/GNOME/quadrapassel
+  url: https://wiki.gnome.org/Apps/Quadrapassel
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - Vala
+  licenses:
+  - GPL2
+  updated: 2023-07-31
+  images:
+  - https://people.gnome.org/~mcatanzaro/quadrapassel.png
+
+- name: Quadrilateral Cowboy
+  originals:
+  - Quadrilateral Cowboy
+  type: official
+  repo: 'https://github.com/blendogames/quadrilateralcowboy'
+  url: >-
+    https://web.archive.org/web/20230525134201/https://twitter.com/BlendoGames/status/1272598960444563461#:~:text=Quadrilateral%20Cowboy
+  feed: 'https://blendogames.itch.io/quadrilateralcowboy/devlog.rss'
+  development: very active
+  status: playable
+  content: commercial
+  frameworks:
+  - id Tech 4
+  licenses:
+  - GPL3
+  added: 2026-02-11
+  updated: 2026-02-11
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NzAxLzIyNDEyODYucG5n/original/P%2BnpgD.png'
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NzAxLzIyNDEyODcucG5n/original/8PAgEB.png'
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NzAxLzIyNDEyODgucG5n/original/9YPtOu.png'
+  video:
+    youtube: S_IVvhSX2tY
+
+- name: Quadrupleback
+  originals:
+  - Doubleback
+  type: clone
+  url: 'http://sarrazip.com/dev/quadrupleback.html'
+  development: halted
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  added: 2025-08-08
+  updated: 2025-08-08
+  images:
+  - >-
+    https://web.archive.org/web/20221231143050im_/http://perso.b2b2c.ca/~sarrazip/dev/images/quadrupleback-1-tn.png
+
+- name: Quake
+  originals:
+  - Quake
+  type: official
+  repo: 'https://github.com/id-Software/Quake'
+  url: 'https://archive.org/details/Quake_source_code'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - id Tech 2
+  licenses:
+  - GPL2
+  added: 2025-12-24
+  updated: 2025-12-24
+  images:
+  - 'https://archive.org/download/Quake_source_code/q26_1.jpg'
+
+- name: Quake 2
+  originals:
+  - Quake 2
+  type: official
+  repo: 'https://github.com/id-Software/Quake-2'
+  url: https://archive.org/details/Quake_2_source_code
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  info: Quake 2 GPL Source Release
+  added: 2023-09-28
+  updated: 2025-12-24
+
+- name: Quake for Dreamcast
+  originals:
+  - Quake
+  type: remake
+  repo: 'https://github.com/Shockblast/quake-dreamcast'
+  url: 'https://dcquake.sourceforge.net/#quake'
+  feed: 'https://github.com/Shockblast/quake-dreamcast/releases.atom'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2026-03-05
+  updated: 2026-03-05
+  images:
+  - https://dcquake.sourceforge.net/quake.jpg
+  - https://dcquake.sourceforge.net/quake_time.jpg
+  - https://dcquake.sourceforge.net/quake_atf.jpg
+  - https://dcquake.sourceforge.net/glquake.jpg
+
+- name: Quake II for Dreamcast
+  originals:
+  - Quake 2
+  type: remake
+  repo: 'https://github.com/Shockblast/quake2-dreamcast'
+  url: 'https://dcquake.sourceforge.net/#quake2'
+  feed: 'https://github.com/Shockblast/quake2-dreamcast/releases.atom'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2026-03-05
+  updated: 2026-03-05
+  images:
+  - 'https://dcquake.sourceforge.net/quake2_soft.jpg'
+
+- name: Quake II Rerelease
+  originals:
+  - Quake 2
+  type: official
+  repo: 'https://github.com/id-Software/quake2-rerelease-dll'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  - Online
+  - LAN
+  - Split-screen
+  - Co-op
+  content: commercial
+  langs:
+  - C
+  - C++
+  licenses:
+  - GPL2
+  info: game code for the 2023 rerelease of Quake II
+  updated: '2023-10-07'
+
+- name: Quake III Arena
+  originals:
+  - Quake 3
+  type: official
+  repo: 'https://github.com/id-Software/Quake-III-Arena'
+  url: 'https://archive.org/details/Quake_3_Arena_source_code'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  - C++
+  frameworks:
+  - id Tech 3
+  licenses:
+  - GPL2
+  added: 2025-12-24
+  updated: 2025-12-24
+
+- name: Quake3e
+  originals:
+  - Quake 3
+  type: remake
+  repo: 'https://github.com/ec-/Quake3e'
+  feed: 'https://github.com/ec-/Quake3e/releases.atom'
+  development: very active
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  - LAN
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - Vulkan
+  - OpenGL
+  - SDL2
+  licenses:
+  - GPL2
+  updated: 2024-02-21
+  video:
+    youtube: hkvmwMo7Sto
+
+- name: Quake4Doom
+  originals:
+  - Quake 4
+  type: remake
+  repo: 'https://github.com/jmarshall23/Quake4Doom'
+  url: 'https://www.doomworld.com/forum/topic/122056-quake-4-doom-3-gpl-integration/'
+  feed: 'https://github.com/jmarshall23/Quake4Doom/releases.atom'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - OpenAL
+  - id Tech 4
+  licenses:
+  - As-is
+  info: Quake 4 SDK integrated with Doom 3.
+  added: 2025-12-26
+  updated: 2025-12-26
+  images:
+  - 'https://i.ibb.co/V3Mw0Rv/unknown-1.png'
+  - 'https://i.ibb.co/TTHTTkQ/image.png'
+  - 'https://i.ibb.co/W6jH74C/unknown-2.png'
+  - 'https://i.ibb.co/CJK1hG8/unknown.png'
+  - 'https://i.ibb.co/vXst8Xn/image.png'
+  - 'https://i.ibb.co/syhR3cw/cas-on.png'
+  video:
+    youtube: bAdgZdaEKtg
+
+- name: QuakeJS
+  langs:
+  - JavaScript
+  licenses:
+  - MIT
+  development: halted
+  originals:
+  - Quake 3
+  status: playable
+  repo: https://github.com/inolen/quakejs
+  type: remake
+  updated: 2020-12-21
+  url: http://www.quakejs.com/
+  video:
+    youtube: FM6RldNmpPg
+
+- name: QuakeSpasm
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - SDL2
+  licenses:
+  - GPL2
+  content: swappable
+  development: active
+  originals:
+  - Quake
+  status: playable
+  repo: https://sourceforge.net/projects/quakespasm/
+  type: remake
+  added: 2015-07-02
+  updated: 2022-02-14
+  url: http://quakespasm.sourceforge.net/
+  images:
+  - https://a.fsdn.com/con/app/proj/quakespasm/screenshots/ad_1.png/max/max/1
+  - https://a.fsdn.com/con/app/proj/quakespasm/screenshots/spasm0000.png/max/max/1
+  - https://a.fsdn.com/con/app/proj/quakespasm/screenshots/spasm0000-2173.png/max/max/1
+
+- name: Quick Curver
+  originals:
+  - Achtung, die Kurve!
+  type: clone
+  repo: https://github.com/vimpostor/quickcurver
+  development: active
+  status: playable
+  multiplayer:
+  - Local
+  - Online
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - Qt
+  licenses:
+  - GPL3
+  updated: 2022-06-05
+  images:
+  - https://user-images.githubusercontent.com/21310755/93923083-2ed2e300-fd13-11ea-86f1-d79bc09ce96a.png

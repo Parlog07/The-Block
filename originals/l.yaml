@@ -1,0 +1,924 @@
+- name: l'Abbaye des Morts
+  external:
+    website: 'https://locomalito.com/games/abbaye-des-morts'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Adventure
+
+- name: L-ZONE
+  external:
+    website: https://www.mobygames.com/game/2302
+    wikipedia: L-Zone
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - PC-98
+  - Pippin
+  - Windows
+
+- name: The Labyrinth of Time
+  external:
+    website: https://www.mobygames.com/game/2441
+    wikipedia: The Labyrinth of Time
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - DOS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Ladder
+  external:
+    wikipedia: Ladder (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Lands of Lore: The Throne of Chaos'
+  external:
+    website: https://www.mobygames.com/game/846
+    wikipedia: 'Lands of Lore: The Throne of Chaos'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+
+- name: Larn
+  external:
+    wikipedia: Larn (video game)
+  meta:
+    genres:
+    - Roguelike
+
+- name: LaserTank
+  names:
+  - Laser Tank
+  external:
+    wikipedia: LaserTank
+  platforms:
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Last Ninja
+  external:
+    wikipedia: The Last Ninja
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Last of the Incas
+  external:
+    website: 'https://forums.atariage.com/topic/287209-last-of-the-incas/'
+  platforms:
+  - Atari
+
+- name: Le Morte D'Arthur
+  external:
+    website: 'https://ifdb.org/viewgame?id=3z1wetoosp25f1e8'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Visual Novel
+    themes:
+    - Fantasy
+
+- name: Leather Goddesses 2
+  names:
+  - 'Leather Goddesses of Phobos! 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X!'
+  - LGOP2
+  external:
+    website: https://www.mobygames.com/game/480
+    wikipedia: 'Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X!'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+
+- name: 'Legacy of Kain: Soul Reaver'
+  external:
+    wikipedia: 'Legacy of Kain: Soul Reaver'
+  platforms:
+  - Dreamcast
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: The Legend of Dragoon
+  external:
+    wikipedia: The Legend of Dragoon
+  platforms:
+  - PlayStation
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: The Legend of Kyrandia
+  names:
+  - 'Fables & Fiends: The Legend of Kyrandia - Book One'
+  external:
+    website: https://www.mobygames.com/game/394
+    wikipedia: The Legend of Kyrandia
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+  - PC-98
+  - Windows
+
+- name: 'The Legend of Kyrandia: Hand of Fate'
+  names:
+  - 'Fables & Fiends: Hand of Fate'
+  external:
+    website: https://www.mobygames.com/game/871
+    wikipedia: 'The Legend of Kyrandia: Hand of Fate'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - FM Towns
+  - PC-98
+  - Windows
+
+- name: 'The Legend of Kyrandia: Malcolm''s Revenge'
+  names:
+  - 'Fables & Fiends: The Legend of Kyrandia - Book Three'
+  external:
+    website: https://www.mobygames.com/game/872
+    wikipedia: 'The Legend of Kyrandia: Malcolm%27s Revenge'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: The Legend of Sword and Fairy
+  names:
+  - The Chinese Love Story
+  - Chinese Paladin
+  - PAL
+  - 仙劍奇俠傳
+  - 仙劍一
+  external:
+    website: 'http://pal.softstargames.com.tw/zh-tw/portfolio/more?gid=39'
+    wikipedia: The Legend of Sword and Fairy (video game)
+  platforms:
+  - DOS
+  - iOS
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Legend of Zelda
+  external:
+    wikipedia: Legend of Zelda
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Legend of Zelda - A Link to the Past
+  external:
+    wikipedia: 'The Legend of Zelda: A Link to the Past'
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: "The Legend of Zelda: Link's Awakening"
+  external:
+    website: >-
+      https://web.archive.org/web/20050829182629/http://zelda.com/universe/game/awakening/
+    wikipedia: "The Legend of Zelda: Link's Awakening"
+  platforms:
+  - Game Boy
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: "The Legend of Zelda: Majora's Mask"
+  external:
+    wikipedia: "The Legend of Zelda: Majora's Mask"
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: 'The Legend of Zelda: Ocarina of Time'
+  external:
+    wikipedia: 'The Legend of Zelda: Ocarina of Time'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: 'The Legend of Zelda: The Wind Waker'
+  names:
+  - Wind Waker
+  external:
+    wikipedia: 'The Legend of Zelda: The Wind Waker'
+  platforms:
+  - GameCube
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Legion
+  external:
+    website: http://www.mobygames.com/game/legion__
+  meta:
+    genres:
+    - Adventure
+
+- name: Legionnaire
+  external:
+    website: 'https://www.mobygames.com/game/30001/legionnaire/'
+    wikipedia: Legionnaire (video game)
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Lego Racers
+  external:
+    wikipedia: Lego Racers (video game)
+  platforms:
+  - Game Boy
+  - N64
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Racing
+
+- name: Lego Rock Raiders
+  external:
+    wikipedia: Lego Rock Raiders (video game)
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Lego Universe
+  external:
+    wikipedia: Lego Universe
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+
+- name: Leisure Suit Larry 1
+  names:
+  - Leisure Suit Larry in the Land of the Lounge Lizards
+  external:
+    website: https://www.mobygames.com/game/379
+    wikipedia: Leisure Suit Larry in the Land of the Lounge Lizards
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Amiga
+  - Apple II
+  - CoCo
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Leisure Suit Larry 2
+  names:
+  - 'Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places)'
+  external:
+    website: https://www.mobygames.com/game/409
+    wikipedia: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Windows
+
+- name: Leisure Suit Larry 3
+  names:
+  - 'Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals'
+  external:
+    website: https://www.mobygames.com/game/412
+    wikipedia: 'Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating
+      Pectorals'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Windows
+
+- name: Leisure Suit Larry 5
+  names:
+  - 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work'
+  external:
+    website: https://www.mobygames.com/game/408
+    wikipedia: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Leisure Suit Larry 6
+  names:
+  - 'Leisure Suit Larry 6: Shape Up or Slip Out!'
+  external:
+    website: https://www.mobygames.com/game/407
+    wikipedia: 'Leisure Suit Larry 6: Shape Up or Slip Out!'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Leisure Suit Larry 7
+  names:
+  - 'Leisure Suit Larry 7: Love for Sail!'
+  external:
+    website: https://www.mobygames.com/game/381
+    wikipedia: 'Leisure Suit Larry: Love for Sail!'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Linux
+  - Windows
+
+- name: Lemmings
+  external:
+    wikipedia: Lemmings (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Lemonade Stand
+  external:
+    website: 'https://www.mobygames.com/game/24035/lemonade-stand/'
+    wikipedia: Lemonade Stand
+  platforms:
+  - Apple II
+  - DOS
+  meta:
+    genres:
+    - Educational
+    - Simulation
+
+- name: 3D Lemmings
+  names:
+  - Lemmings 3D
+  external:
+    wikipedia: 3D Lemmings
+  platforms:
+  - DOS
+  - PlayStation
+  - Saturn
+  meta:
+    genres:
+    - Puzzle
+
+- name: Lemon ~Kageetei Nostalgia~
+  names:
+  - 檸檬 〜影絵亭ノスタルジヤ〜
+  external:
+    website: 'http://13cm.jp/game/lemon/'
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Let's Explore the Airport
+  external:
+    website: https://www.mobygames.com/game/20995
+    wikipedia: Junior Field Trips#Let's Explore the Airport
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Let's Explore the Farm
+  external:
+    website: https://www.mobygames.com/game/21015
+    wikipedia: Junior Field Trips#Let's Explore the Farm
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Let's Explore the Jungle
+  external:
+    website: https://www.mobygames.com/game/20994
+    wikipedia: Junior Field Trips#Let's Explore the Jungle
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Liberation Day
+  names:
+  - 'Fallen Haven: Liberation Day'
+  - Fallen Haven 2
+  external:
+    wikipedia: Liberation Day (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Modern Military
+    - Sci-Fi
+
+- name: Liero
+  external:
+    wikipedia: Liero
+  meta:
+    genres:
+    - Platform
+    - Shmup
+
+- name: 'Lighthouse: The Dark Being'
+  external:
+    website: https://www.mobygames.com/game/266
+    wikipedia: 'Lighthouse: The Dark Being'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Steampunk
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Lights Out
+  external:
+    wikipedia: Lights Out (game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Lines
+  external:
+    website: 'https://www.mobygames.com/game/90240/lines/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Lionheart
+  external:
+    wikipedia: Lionheart (video game)
+  meta:
+    genres:
+    - Platform
+    - Action
+
+- name: Little Big Adventure
+  names:
+  - "Relentless: Twinsen's Adventure"
+  external:
+    website: https://www.2point21.com/games/little-big-adventure-twinsen
+    wikipedia: Little Big Adventure
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: Little Big Adventure 2
+  names:
+  - Twinsen's Odyssey
+  external:
+    website: https://www.2point21.com/games/little-big-adventure-2-twinsen-odyssey
+    wikipedia: Little Big Adventure 2
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: Little Busters!
+  external:
+    website: 'http://key.visualarts.gr.jp/product/little/'
+    wikipedia: Little Busters!
+  platforms:
+  - Nintendo Switch
+  - PlayStation 2
+  - PlayStation 3
+  - PlayStation Vita
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Little Fighter 2
+  external:
+    wikipedia: Little Fighter 2
+  meta:
+    genres:
+    - Fighting
+  names:
+  - LF2
+
+- name: The Little Mermaid
+  names:
+  - Disney's The Little Mermaid
+  external:
+    website: 'https://www.mobygames.com/game/26148/disneys-the-little-mermaid/'
+    wikipedia: The Little Mermaid (video game)
+  platforms:
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Action
+
+- name: 'The Little Mermaid II: Pinball Frenzy'
+  external:
+    website: >-
+      https://www.nintendo.com/en-gb/Games/Game-Boy-Color/Disney-s-The-Little-Mermaid-II-Pinball-Frenzy-265878.html
+    wikipedia: 'The Little Mermaid II: Pinball Frenzy'
+  platforms:
+  - Game Boy
+
+- name: Little Monster at School
+  external:
+    website: https://www.mobygames.com/game/17715
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Livewire
+  external:
+    website: 'https://www.mobygames.com/game/204238/livewire/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Lizard
+  external:
+    website: 'https://rainwarrior.ca/lizard/'
+  platforms:
+  - DOS
+  - Linux
+  - NES
+  - OSX
+  - SNES
+  - Windows
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Locomotion (Amiga 1992)
+  external:
+    website: http://www.mobygames.com/game/locomotion
+  meta:
+    genres:
+    - Arcade
+    - Puzzle
+
+- name: Lode Runner
+  external:
+    wikipedia: Lode Runner
+  meta:
+    genres:
+    - Arcade
+
+- name: Log!cal
+  external:
+    website: http://hol.abime.net/906
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Longest Journey
+  external:
+    website: https://www.mobygames.com/game/1439
+    wikipedia: The Longest Journey
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Cyberpunk
+    - Sci-Fi
+    - Fantasy
+  platforms:
+  - iOS
+  - Windows
+
+- name: Loom
+  external:
+    website: https://www.mobygames.com/game/176
+    wikipedia: Loom (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - FM Towns
+  - Linux
+  - TurboGrafx-16
+  - Windows
+
+- name: Lost Dutchman Mine
+  external:
+    website: 'https://www.mobygames.com/game/lost-dutchman-mine'
+    wikipedia: Lost Dutchman Mine (video game)
+  platforms:
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Adventure
+    - Simulation
+    themes:
+    - Western
+
+- name: Lose Your Marbles
+  external:
+    wikipedia: Sega Puzzle Pack
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Lost Files of Sherlock Holmes
+  names:
+  - 'The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel'
+  external:
+    website: https://www.mobygames.com/game/3441
+    wikipedia: The Lost Files of Sherlock Holmes
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Crime
+  platforms:
+  - 3DO
+  - DOS
+
+- name: 'The Lost Files of Sherlock Holmes: Case of the Rose Tattoo'
+  external:
+    website: https://www.mobygames.com/game/4407
+    wikipedia: 'The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Crime
+  platforms:
+  - DOS
+
+- name: Lost in Time
+  external:
+    website: https://www.mobygames.com/game/6098
+    wikipedia: Lost in Time (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - DOS
+
+- name: Lost Secret of the Rainforest
+  names:
+  - EcoQuest II
+  external:
+    website: https://www.mobygames.com/game/619
+    wikipedia: Lost Secret of the Rainforest
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - DOS
+  - PC-98
+  - Windows
+
+- name: The Lost Vikings
+  external:
+    wikipedia: The Lost Vikings
+  meta:
+    genres:
+    - Platform
+
+- name: Lotus Esprit Turbo Challenge
+  external:
+    wikipedia: Lotus (series)
+  meta:
+    genres:
+    - Racing
+
+- name: 'Lugaru: The Rabbit''s Foot'
+  external:
+    wikipedia: Lugaru
+  meta:
+    genres:
+    - Action
+
+- name: Lumines
+  external:
+    wikipedia: Lumines
+  meta:
+    genres:
+    - Puzzle
+
+- name: Lunatic Fringe
+  external:
+    website: https://www.mobygames.com/game/137264/more-after-dark-volume-1/
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Shooter
+
+- name: Lunar
+  names:
+  - Rocket
+  - Lunar Landing Game
+  external:
+    website: 'https://www.mobygames.com/game/89874/lunar/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+
+- name: Lunar Lander
+  external:
+    wikipedia: Lunar Lander (1979 video game)
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Simulation
+
+- name: Lure of the Temptress
+  external:
+    website: https://www.mobygames.com/game/lure-of-the-temptress
+    wikipedia: Lure of the Temptress
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS

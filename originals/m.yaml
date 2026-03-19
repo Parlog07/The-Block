@@ -1,0 +1,1571 @@
+- name: M.A.X.
+  external:
+    wikipedia: Mechanized Assault & Exploration
+  meta:
+    genres:
+    - Real-Time Strategy
+    - Turn-Based Strategy
+
+- name: M.U.G.E.N
+  external:
+    wikipedia: Mugen (game engine)
+  meta:
+    genres:
+    - Fighting
+
+- name: M.U.L.E.
+  external:
+    wikipedia: M.U.L.E.
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Mad Planets
+  external:
+    website: 'https://www.mobygames.com/game/68804/mad-planets/'
+    wikipedia: Mad Planets
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mad TV
+  external:
+    wikipedia: Mad TV (video game)
+  meta:
+    genres:
+    - Strategy
+    - Simulation
+    themes:
+    - Management
+
+- name: Mafia
+  names:
+  - 'Mafia: The City of Lost Heaven'
+  external:
+    wikipedia: Mafia (video game)
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - TPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+  platforms:
+  - PlayStation 2
+  - Windows
+  - Xbox
+
+- name: 'Mafia: Definitive Edition'
+  external:
+    wikipedia: 'Mafia: Definitive Edition'
+  platforms:
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - TPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Mafia II
+  external:
+    wikipedia: Mafia II
+  platforms:
+  - OSX
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - TPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Mafia III
+  external:
+    wikipedia: Mafia III
+  platforms:
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - TPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Magic Carpet
+  external:
+    website: 'https://www.mobygames.com/game/361/magic-carpet/'
+    wikipedia: Magic Carpet (video game)
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - PlayStation
+  - Saturn
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Fantasy
+
+- name: 'Magic Carpet 2'
+  external:
+    wikipedia: 'Magic Carpet 2'
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Fantasy
+
+- name: Magic Land Island
+  external:
+    website: >-
+      https://blog.wooga.com/magic-land-island-wooga-sets-sail-for-mobile-social-games-72f84573b3bb
+  platforms:
+  - Web
+
+- name: Magic Tales
+  external:
+    wikipedia: Magic Tales
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: 'Magic: The Gathering'
+  names:
+  - Shandalar
+  external:
+    wikipedia: 'Magic: The Gathering (1997 video game)'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Card Game
+    - Strategy
+    themes:
+    - Fantasy
+
+- name: 'Magic: The Gathering Online'
+  external:
+    wikipedia: 'Magic: The Gathering Online'
+  meta:
+    genres:
+    - Card Game
+    themes:
+    - Fantasy
+
+- name: Magical Drop
+  external:
+    wikipedia: Magical Drop
+  meta:
+    genres:
+    - Puzzle
+  names:
+  - "\u30DE\u30B8\u30AB\u30EB\u30C9\u30ED\u30C3\u30D7"
+  - MagiDro
+  - "\u30DE\u30B8\u30C9\u30ED"
+
+- name: Magical Drop III
+  external:
+    website: 'https://www.mobygames.com/game/27182/magical-drop-iii/'
+    wikipedia: Magical Drop III
+  platforms:
+  - Arcade
+  - Game Boy
+  - Nintendo Switch
+  - PlayStation
+  - PlayStation 4
+  - Saturn
+  - Wii
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Puzzle
+
+- name: Magician
+  external:
+    website: >-
+      https://web.archive.org/web/20071126005604/http://www.eurocom.co.uk/index.php/video-games/magician
+    wikipedia: Magician (video game)
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: Magus
+  external:
+    website: 'https://www.mobygames.com/game/magus-2nd-edition'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Roguelike
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Majestic
+  names:
+  - 'Majestic Part 1: Alien Encounter'
+  external:
+    website: https://www.mobygames.com/game/57856
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Mamono Sweeper
+  names:
+  - マモノスイーパー
+  external:
+    website: 'https://hojamaka.com/games/mamono_sweeper'
+  platforms:
+  - Web
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+
+- name: The Manhole
+  external:
+    website: https://www.mobygames.com/game/9222
+    wikipedia: The Manhole
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - PC-98
+
+- name: 'Manhunter: New York'
+  external:
+    website: https://www.mobygames.com/game/24
+    wikipedia: 'Manhunter: New York'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Post-Apocalyptic
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - CoCo
+  - DOS
+
+- name: 'Manhunter 2: San Francisco'
+  external:
+    website: https://www.mobygames.com/game/25
+    wikipedia: 'Manhunter 2: San Francisco'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Post-Apocalyptic
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Atari
+  - Classic Mac OS
+  - CoCo
+  - DOS
+
+- name: Maniac Mansion
+  external:
+    website: https://www.mobygames.com/game/714
+    wikipedia: Maniac Mansion
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  - Linux
+  - NES
+  - OSX
+  - Windows
+
+- name: Manic Miner
+  external:
+    website: 'https://www.mobygames.com/game/6440/manic-miner/'
+    wikipedia: Manic Miner
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Commodore 64
+  - Game Boy
+  - iOS
+  - MSX
+  - Windows
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Mappy
+  names:
+  - マッピー
+  external:
+    website: 'https://www.mobygames.com/game/19631/mappy/'
+    wikipedia: Mappy
+  platforms:
+  - 3DS
+  - Arcade
+  - Game Boy
+  - Game Gear
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Wii
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Marathon
+  external:
+    wikipedia: Marathon_(video_game)
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Marathon 2
+  external:
+    wikipedia: Marathon 2
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Marathon Infinity
+  external:
+    wikipedia: Marathon Infinity
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Marble
+  external:
+    website: https://web.archive.org/web/20170305161811/http://peterbalch.co.uk/prb00024.htm
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Marble Blast Ultra
+  external:
+    website: 'https://www.mobygames.com/game/31327/marble-blast-ultra/'
+    wikipedia: Marble Blast Ultra
+  platforms:
+  - Web
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Platform
+
+- name: Marble Madness
+  external:
+    wikipedia: Marble Madness
+  meta:
+    genres:
+    - Arcade
+
+- name: Marc Brown's Arthur's Teacher Trouble
+  external:
+    website: https://www.mobygames.com/game/69084
+  meta:
+    genres:
+    - Educational
+    themes: []
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Mario Bros.
+  external:
+    website: 'https://www.nintendo.co.jp/n08/mariobros/'
+    wikipedia: Mario Bros.
+  platforms:
+  - 3DO
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - NES
+  - Nintendo Switch
+  - Wii
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Mario Kart
+  external:
+    wikipedia: Mario Kart
+  meta:
+    genres:
+    - Racing
+
+- name: Mario Party
+  external:
+    wikipedia: Mario Party
+  meta:
+    genres:
+    - Party
+    subgenres:
+    - Board Game
+
+- name: Mario World
+  external:
+    wikipedia: Mario World
+  meta:
+    genres:
+    - Platform
+
+- name: 'Marvel Comics Spider-Man: The Sinister Six'
+  external:
+    website: https://www.mobygames.com/game/34907
+    wikipedia: 'Spider-Man in video games#Spider-Man: The Sinister Six'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Superhero
+  platforms:
+  - DOS
+  - Windows
+
+- name: Master of Magic
+  external:
+    wikipedia: Master of Magic
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Fantasy
+
+- name: Master of Monsters
+  external:
+    wikipedia: Master of Monsters
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Fantasy
+
+- name: Master of Orion
+  external:
+    wikipedia: Master of Orion
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Sci-Fi
+
+- name: Master of Orion 2
+  external:
+    wikipedia: Master of Orion 2
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Sci-Fi
+    
+- name: Mastermind
+  external:
+    wikipedia: Mastermind (board game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Max Payne
+  external:
+    website: 'https://www.rockstargames.com/games/maxpayne'
+    wikipedia: Max Payne (video game)
+  platforms:
+  - Android
+  - GBA
+  - iOS
+  - OSX
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Crime
+
+- name: Maxit
+  external:
+    website: http://www.mobygames.com/game/dos/maxit
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Strategy
+
+- name: Mayhem
+  external:
+    website: 'https://www.lemonamiga.com/games/details.php?id=2972'
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Shooter
+
+- name: The Maze of Galious
+  names:
+  - 'Knightmare II: The Maze of Galious'
+  - 魔城伝説II ガリウスの迷宮
+  external:
+    website: 'https://www.mobygames.com/game/19474/knightmare-ii-the-maze-of-galious/'
+    wikipedia: The Maze of Galious
+  platforms:
+  - MSX
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Fantasy
+
+- name: 'Machines: Wired for War'
+  external:
+    website: 'https://web.archive.org/web/20241223041313/http://www.machinesthegame.co.uk/'
+    wikipedia: Machines (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Man Goes Down
+  external:
+    website: 'https://www.mobygames.com/game/202253/man-goes-down/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: MechCommander 2
+  external:
+    website: https://web.archive.org/web/20040818103526/http://www.fasastudio.com/games/mechcommander/default.htm?c00=0
+    wikipedia: MechCommander 2
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Tactics
+    themes:
+    - Sci-Fi
+
+- name: MechWarrior
+  external:
+    wikipedia: MechWarrior
+  meta:
+    genres:
+    - Simulation
+    - FPS
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+    - Management
+
+- name: 'Medal of Honor: Allied Assault'
+  external:
+    wikipedia: 'Medal of Honor: Allied Assault'
+  meta:
+    genres:
+    - FPS
+
+- name: Mega Man 3
+  names:
+  - ロックマン3
+  external:
+    website: 'https://www.nintendo.co.jp/wii/vc/vc_rm3/'
+    wikipedia: Mega Man 3
+  platforms:
+  - 3DS
+  - Android
+  - Arcade
+  - iOS
+  - NES
+  - PlayStation
+  - PlayStation 3
+  - PSP
+  - Wii
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mega Man 4
+  names:
+  - ロックマン4
+  external:
+    website: 'https://www.nintendo.co.jp/wii/vc/vc_rm4/'
+    wikipedia: Mega Man 4
+  platforms:
+  - 3DS
+  - Android
+  - iOS
+  - NES
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Wii
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mega Man 5
+  names:
+  - ロックマン5
+  external:
+    website: 'https://www.nintendo.co.jp/wii/vc/vc_rm5/'
+    wikipedia: Mega Man 5
+  platforms:
+  - 3DS
+  - Android
+  - iOS
+  - NES
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Wii
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mega Man 6
+  names:
+  - ロックマン6
+  external:
+    wikipedia: Mega Man 6
+  platforms:
+  - 3DS
+  - Android
+  - iOS
+  - NES
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mega-Lo-Mania
+  external:
+    wikipedia: Mega-Lo-Mania
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: MegaBall
+  external:
+    website: 'https://www.mobygames.com/game/14126/megaball/'
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Action
+
+- name: MegaMan
+  external:
+    wikipedia: Mega Man (video game)
+  meta:
+    genres:
+    - Platform
+
+- name: Meridian 59
+  external:
+    wikipedia: Meridian 59
+  meta:
+    genres:
+    - RPG
+
+- name: 'MESH: Hero''s Hearts'
+  external:
+    website: https://www.kaser.com/mesh.html
+  platforms:
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - Puzzle
+
+- name: Metal Slug Series
+  external:
+    website: 'https://www.metalslug10th.com/'
+    wikipedia: Metal Slug
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Run and gun
+
+- name: 'Metaltech: Earthsiege'
+  external:
+    wikipedia: 'Metaltech: Earthsiege'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Metro-Cross
+  external:
+    website: 'https://www.mobygames.com/game/9042/metro-cross/'
+    wikipedia: Metro-Cross
+  platforms:
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Commodore 64
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Wii
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+    - Sports
+
+- name: Metroid
+  names:
+  - メトロイド
+  external:
+    website: https://www.nintendo.com/en-gb/Games/NES/Metroid--275726.html
+    wikipedia: Metroid (video game)
+  platforms:
+  - Arcade
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Adventure
+    - Platform
+
+- name: Metroid Prime
+  external:
+    wikipedia: Metroid Prime
+  meta:
+    genres:
+    - FPS
+    - Adventure
+
+- name: Mice Men
+  external:
+    website: https://dosgamer.com/mice-men/
+  meta:
+    genres:
+    - Puzzle
+
+- name: Mickey's Space Adventure
+  external:
+    website: https://www.mobygames.com/game/7273
+    wikipedia: Mickey%27s Space Adventure
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Apple II
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+
+- name: Micro Machines
+  external:
+    wikipedia: Micro Machines (video game series)
+  meta:
+    genres:
+    - Racing
+
+- name: Microsoft Flight Simulator
+  external:
+    wikipedia: Microsoft Flight Simulator
+  meta:
+    genres:
+    - Simulation
+
+- name: Microsoft Train Simulator
+  external:
+    wikipedia: Microsoft Train Simulator
+  meta:
+    genres:
+    - Simulation
+
+- name: Midnight Club II
+  external:
+    wikipedia: Midnight Club II
+  meta:
+    genres:
+    - Racing
+  names:
+  - Midnight Club 2
+
+- name: MiG Alley
+  external:
+    website: >-
+      https://web.archive.org/web/20001217075500/http://www.rowansoftware.com/migtitle.html
+    wikipedia: MiG Alley (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Flight
+
+- name: Might and Magic
+  names:
+  - 'Might and Magic: Book One - Secret of the Inner Sanctum'
+  external:
+    website: https://www.mobygames.com/game/1619
+    wikipedia: Might and Magic Book One%3A The Secret of the Inner Sanctum
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+    - Sci-Fi
+  platforms:
+  - Apple II
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - MSX
+  - NES
+  - PC-98
+  - TurboGrafx-16
+
+- name: 'Might and Magic IV: Clouds of Xeen'
+  names:
+  - 'Might and Magic: Clouds of Xeen'
+  external:
+    website: https://www.mobygames.com/game/3423
+    wikipedia: 'Might and Magic IV: Clouds of Xeen'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Sci-Fi
+    - Fantasy
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+
+- name: 'Might and Magic V: Darkside of Xeen'
+  names:
+  - 'Darkside of Xeen'
+  - 'Swords of Xeen'
+  - 'World of Xeen'
+  external:
+    website: https://www.mobygames.com/game/3424
+    wikipedia: 'Might and Magic V: Darkside of Xeen'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Sci-Fi
+    - Fantasy
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+
+- name: 'Might and Magic VI: The Mandate of Heaven'
+  external:
+    wikipedia: 'Might and Magic VI: The Mandate of Heaven'
+  meta:
+    genres:
+    - RPG
+    - Adventure
+    subgenres:
+    - Action RPG
+    themes:
+    - Fantasy
+    - Sci-Fi
+  names:
+  - 'Might and Magic 6: The Mandate of Heaven'
+  - Might and Magic 6 The Mandate of Heaven
+  - Might and Magic 6
+
+- name: 'Might and Magic VII: For Blood and Honor'
+  external:
+    wikipedia: 'Might and Magic VII: For Blood and Honor'
+  meta:
+    genres:
+    - RPG
+    - Adventure
+    subgenres:
+    - Action RPG
+    themes:
+    - Fantasy
+    - Sci-Fi
+  names:
+  - 'Might and Magic 7: For Blood and Honor'
+  - Might and Magic 7 For Blood and Honor
+  - Might and Magic 7
+
+- name: 'Might and Magic VIII: Day of the Destroyer'
+  external:
+    wikipedia: 'Might and Magic VIII: Day of the Destroyer'
+  meta:
+    genres:
+    - RPG
+    - Adventure
+    subgenres:
+    - Action RPG
+    themes:
+    - Fantasy
+    - Sci-Fi
+  names:
+  - 'Might and Magic 8: Day of the Destroyer'
+  - Might and Magic 8 Day of the Destroyer
+  - Might and Magic 8
+
+- name: Mike Tyson's Punch-Out!!
+  external:
+    website: 'https://www.mobygames.com/game/10305/mike-tysons-punch-out/'
+  platforms:
+  - 3DS
+  - Arcade
+  - NES
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Boxing
+
+- name: Millipede
+  external:
+    wikipedia: Millipede (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Minecraft
+  external:
+    wikipedia: Minecraft
+    website: https://www.minecraft.net  
+  platforms:
+  - Windows
+  - OSX
+  - Linux
+  - iOS
+  - Android
+  - Xbox 360
+  - Xbox One
+  - PlayStation 3
+  - PlayStation 4
+  - PlayStation Vita
+  - Nintendo Switch
+  - 3DS
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Action
+    - RPG
+    subgenres:
+    - Survival
+    - Sandbox
+    - Action RPG
+    themes:
+    - Fantasy
+
+- name: Mined-Out
+  external:
+    website: 'https://www.mobygames.com/game/14680/mined-out/'
+    wikipedia: Mined-Out
+  platforms:
+  - ZX Spectrum
+  meta:
+    genres:
+    - Puzzle
+
+- name: Minefield
+  external:
+    website: 'https://www.mobygames.com/game/102214/minefield/'
+  meta:
+    genres:
+    - Puzzle
+
+- name: Miner Wars 2081
+  external:
+    website: 'https://www.minerwars.com/'
+    wikipedia: Miner Wars 2081
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    subgenres:
+    - Survival
+
+- name: Minesweeper
+  external:
+    wikipedia: Minesweeper (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Mini Metro
+  external:
+    website: 'https://dinopoloclub.com/games/mini-metro/'
+    wikipedia: Mini Metro (video game)
+  platforms:
+  - Android
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+    - Strategy
+    themes:
+    - Abstract
+
+- name: Missile Command
+  external:
+    website: 'https://www.mobygames.com/game/9177/missile-command/'
+    wikipedia: Missile Command
+  platforms:
+  - Arcade
+  - Atari
+  - Web
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Mission Asteroid
+  names:
+  - 'Hi-Res Adventures #0'
+  external:
+    website: https://www.mobygames.com/game/15282
+    wikipedia: Mission Asteroid
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - FM Towns
+  - PC-98
+
+- name: Mission Supernova
+  external:
+    website: https://www.mobygames.com/game/4582
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+
+- name: Mitsumasa Anno's Four Seasons in Pepperon
+  names:
+  - Anno Mitsumasa Pepperon-mura no Shiki
+  - 'Mitsumasa Anno: Valmaison au fil des saisons'
+  - Valmaison au fil des saisons / Pepperon
+  external:
+    website: https://www.mobygames.com/game/190399/anno-mitsumasa-pepperon-mura-no-shiki/
+  meta:
+    genres:
+    - Educational
+    subgenres:
+    - City Building
+  platforms:
+  - 3DO
+  - Classic Mac OS
+  - Windows
+
+- name: Mixed Up Fairy Tales
+  external:
+    website: https://www.mobygames.com/game/6880
+    wikipedia: Mixed-Up Fairy Tales
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - DOS
+
+- name: Mixed-Up Mother Goose
+  names:
+  - Roberta Williams' Mixed-Up Mother Goose
+  - Mixed-Up Mother Goose Deluxe
+  external:
+    website: https://www.mobygames.com/game/1085
+    wikipedia: Mixed-Up Mother Goose
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: MoHo
+  names:
+  - Ball Breakers
+  external:
+    website: 'https://www.mobygames.com/game/32912/ball-breakers/'
+    wikipedia: MoHo
+  platforms:
+  - Dreamcast
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Action
+    themes:
+    - Sci-Fi
+
+- name: 'Monkey Island 2: LeChuck''s Revenge'
+  external:
+    website: https://www.mobygames.com/game/289
+    wikipedia: 'Monkey Island 2: LeChuck%27s Revenge'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+
+- name: Monkey Mart
+  external:
+    website: 'https://poki.com/en/g/monkey-mart'
+  platforms:
+  - Web
+
+- name: Monster RPG 2
+  external:
+    website: https://www.mobygames.com/game/58932/monster-rpg-2/
+  platforms:
+  - Android
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - RPG
+
+- name: Monty Mole
+  external:
+    wikipedia: Monty Mole
+  meta:
+    genres:
+    - Platform
+
+- name: Moon Patrol
+  external:
+    website: 'https://www.arcade-museum.com/game_detail.php?game_id=8747'
+    wikipedia: Moon Patrol
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - MSX
+  meta:
+    genres:
+    - Shooter
+
+- name: Moonbase Commander
+  external:
+    wikipedia: Moonbase Commander
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Moonlander
+  external:
+    website: 'https://www.mobygames.com/game/89879/moonlander/'
+  meta:
+    genres:
+    - Simulation
+
+- name: 'Moonstone: A Hard Days Knight'
+  external:
+    wikipedia: 'Moonstone: A Hard Days Knight'
+  platforms:
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Action
+    - RPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Moonsweeper
+  external:
+    website: 'https://www.mobygames.com/game/13909/moonsweeper/'
+  platforms:
+  - Atari
+  - Commodore 64
+  - MSX
+  - ZX Spectrum
+  meta:
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Morpheus
+  external:
+    wikipedia: Morpheus_(1998_video_game)
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Steampunk
+    - Espionage
+    - Abstract
+
+- name: Mortal Kombat
+  external:
+    wikipedia: Mortal Kombat
+  meta:
+    genres:
+    - Fighting
+    themes:
+    - Fantasy
+
+- name: Mortville Manor
+  external:
+    website: https://www.mobygames.com/game/2504
+    wikipedia: Mortville Manor
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - Atari
+  - Amiga
+  - Amstrad CPC
+  - DOS
+
+- name: Mount & Blade
+  external:
+    wikipedia: Mount & Blade
+  meta:
+    genres: 
+    - Action
+    - RPG
+    subgenres:
+    - Action RPG
+    - Sandbox
+    themes:
+    - Medieval
+
+- name: Movie Business
+  external:
+    website: http://www.gamebase64.com/game.php?id=14674&d=18
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Strategy
+    themes:
+    - Management
+
+- name: Mr. Do!
+  names:
+  - ミスター・ドゥ
+  external:
+    website: 'https://www.arcade-museum.com/game_detail.php?game_id=8767'
+    wikipedia: Mr. Do!
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - MSX
+  - NES
+  meta:
+    genres:
+    - Action
+
+- name: Mr. Driller
+  external:
+    website: 'https://www.mobygames.com/game/4348/mr-driller/'
+    wikipedia: Mr. Driller (video game)
+  platforms:
+  - Arcade
+  - Dreamcast
+  - Game Boy
+  - PlayStation
+  - PlayStation 3
+  - PlayStation 4
+  - PlayStation 5
+  - PlayStation Vita
+  - PSP
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Puzzle
+
+- name: Mr. Nutz 2
+  names:
+  - 'Mr. Nutz: Hoppin'' Mad'
+  external:
+    website: 'https://www.igdb.com/games/mr-nutz-2'
+    wikipedia: 'Mr. Nutz: Hoppin'' Mad'
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Ms. Pac-Man
+  external:
+    website: 'https://www.mobygames.com/game/576/ms-pac-man/'
+    wikipedia: Ms. Pac-Man
+  platforms:
+  - Android
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - Game Gear
+  - Genesis
+  - iOS
+  - Lynx
+  - Master System
+  - NES
+  - PC Booter
+  - PlayStation 4
+  - SNES
+  - Windows
+  - Xbox 360
+  - Xbox One
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+
+- name: Muppet Treasure Island
+  external:
+    website: https://www.mobygames.com/game/6477
+    wikipedia: Muppet Treasure Island (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Myst
+  external:
+    website: https://www.mobygames.com/game/1223
+    wikipedia: Myst
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - 3DO
+  - Amiga
+  - Classic Mac OS
+  - iOS
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - Saturn
+  - Windows
+
+- name: 'Myst III: Exile'
+  external:
+    wikipedia: 'Myst III: Exile'
+  meta:
+    genres:
+    - Adventure
+
+- name: 'Myst Online: Uru Live'
+  names:
+  - 'Myst Online: URU Live Again'
+  external:
+    website: 'https://www.mystonline.com/'
+    wikipedia: 'Myst Online: Uru Live'
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+
+- name: Mystery House
+  names:
+  - 'Hi-Res Adventures #1'
+  external:
+    website: https://www.mobygames.com/game/9312/hi-res-adventure-1-mystery-house/
+    wikipedia: Mystery House
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Crime
+  platforms:
+  - Apple II
+  - FM Towns
+  - iOS
+  - PC-98
+
+- name: Myth
+  external:
+    website: https://www.mobygames.com/game/2796
+    wikipedia: Myth (1989 video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum

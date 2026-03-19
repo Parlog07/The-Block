@@ -1,0 +1,457 @@
+- name: NAM
+  names:
+  - Napalm
+  external:
+    wikipedia: NAM (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Vietnam
+
+- name: 'Nancy Drew: Secrets Can Kill'
+  external:
+    website: https://www.mobygames.com/game/4907
+    wikipedia: 'Nancy Drew: Secrets Can Kill'
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Crime
+  platforms:
+  - Windows
+
+- name: Nanosaur
+  external:
+    wikipedia: Nanosaur
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Prehistoric
+    - Sci-Fi
+
+- name: Nanosaur 2
+  names:
+  - 'Nanosaur 2: Hatchling'
+  external:
+    website: 'https://www.pangeasoft.net/nano2/index.html'
+    wikipedia: 'Nanosaur 2: Hatchling'
+  platforms:
+  - iOS
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Prehistoric
+    - Sci-Fi
+
+- name: Natural Selection
+  external:
+    website: https://web.archive.org/web/20240713104719/https://unknownworlds.com/ns/
+    wikipedia: Natural Selection (video game)
+  meta:
+    genres:
+    - FPS
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Nebulus
+  names:
+  - Tower Toppler
+  - Castelian
+  - Kyorochan Land
+  - キョロちゃんランド
+  external:
+    website: 'https://www.mobygames.com/game/3874/tower-toppler/'
+    wikipedia: Nebulus (video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - Game Boy
+  - NES
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: The Need for Speed
+  external:
+    wikipedia: The Need for Speed
+  meta:
+    genres:
+    - Racing
+
+- name: Need For Speed II
+  external:
+    wikipedia: Need For Speed II
+  meta:
+    genres:
+    - Racing
+    
+- name: 'Need For Speed III: Hot Pursuit'
+  external:
+    wikipedia: 'Need for Speed III: Hot Pursuit'
+  meta:
+    genres:
+    - Racing
+
+- name: Nemesis the Warlock
+  external:
+    website: 'https://www.mobygames.com/game/23131/nemesis-the-warlock/'
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Nemurenu Yoru no Chiisana O-Hanashi
+  names:
+  - 眠れぬ夜の小さなお話
+  external:
+    website: https://www.mobygames.com/game/54553
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Anime
+  platforms:
+  - 3DO
+  - Classic Mac OS
+  - FM Towns
+  - Pippin
+  - Windows
+
+- name: Nerdle
+  external:
+    website: 'https://www.nerdlegame.com/'
+    wikipedia: Nerdle
+  platforms:
+  - Web
+  meta:
+    genres:
+    - Puzzle
+
+- name: NetHack
+  external:
+    website: 'https://www.nethack.org/'
+    wikipedia: NetHack
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Android
+  - Classic Mac OS
+  - DOS
+  - iOS
+  - Linux
+  - OS/2
+  - PC-98
+  - Web
+  - Windows
+  meta:
+    genres:
+    - RPG
+    - Roguelike
+    themes:
+    - Fantasy
+
+- name: Nether Earth
+  external:
+    wikipedia: Nether Earth
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - Sci-Fi
+
+- name: NetWalk
+  external:
+    website: 'https://www.mobygames.com/game/134005/netwalk/'
+  platforms:
+  - Android
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Neverhood
+  external:
+    website: https://www.mobygames.com/game/1037
+    wikipedia: The Neverhood
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - PlayStation
+  - Windows
+
+- name: Neverwinter Nights
+  external:
+    wikipedia: Neverwinter Nights
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Neverwinter Nights 2
+  external:
+    wikipedia: Neverwinter Nights 2
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: The New Kid on the Block
+  external:
+    website: https://www.mobygames.com/game/62289
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Nexuiz
+  external:
+    wikipedia: Nexuiz
+  meta:
+    genres:
+    - FPS
+
+- name: Nibbles
+  names:
+  - Nibbles.bas
+  external:
+    wikipedia: Nibbles (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Arcade
+
+- name: Nicky 2
+  external:
+    website: 'https://www.mobygames.com/game/13041/nicky-2/'
+    wikipedia: Nicky 2
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Mobile
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Nicky Boom
+  external:
+    website: 'https://web.archive.org/web/20191028012400/http://www.nickyboom.com/'
+    wikipedia: Nicky Boom
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Mobile
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Night Stalker
+  external:
+    wikipedia: Night Stalker (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Nightlong: Union City Conspiracy'
+  external:
+    website: https://www.mobygames.com/game/2564
+    wikipedia: 'Nightlong: Union City Conspiracy'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Cyberpunk
+    - Crime
+  platforms:
+  - Amiga
+  - Windows
+
+- name: 'Ninja Gaiden III: The Ancient Ship of Doom'
+  names:
+  - 忍者龍剣伝III 黄泉の方船
+  external:
+    website: >-
+      https://www.mobygames.com/game/7413/ninja-gaiden-iii-the-ancient-ship-of-doom/
+    wikipedia: 'Ninja Gaiden III: The Ancient Ship of Doom'
+  platforms:
+  - Lynx
+  - NES
+  meta:
+    genres:
+    - Platform
+    - Shooter
+
+- name: Nippon Safes, Inc.
+  external:
+    website: https://www.mobygames.com/game/13613/nippon-safes-inc
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Crime
+  platforms:
+  - Amiga
+  - DOS
+
+- name: Nitemare 3D
+  names:
+  - N3D
+  external:
+    wikipedia: Nitemare 3D
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Horror
+
+- name: Nitro
+  external:
+    website: 'https://www.atarimania.com/game-atari-400-800-xl-xe-nitro_37873.html'
+  platforms:
+  - Atari
+
+- name: Nodes of Yesod
+  external:
+    wikipedia: Nodes of Yesod
+  meta:
+    genres:
+    - Platform
+
+- name: No One Lives Forever 2
+  external:
+    website: https://web.archive.org/web/20080725035231/http://nolf2.sierra.com/site.html
+    wikipedia: "No One Lives Forever 2: A Spy in H.A.R.M.'s Way"
+  platforms:
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Espionage
+
+- name: Nonomura Byouin no Hitobito
+  names:
+  - 野々村病院の人々
+  external:
+    website: https://www.mobygames.com/game/14609/nonomura-byoin-no-hitobito/
+  platforms:
+  - DOS
+  - PC-98
+  - Saturn
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Notrium
+  external:
+    website: https://www.instantkingdom.com/notrium/
+    wikipedia: Notrium
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Survival
+    themes:
+    - Sci-Fi
+
+- name: Nox
+  external:
+    wikipedia: Nox (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Action
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Nuclear Reaction
+  external:
+    website: http://gamescoffer.co.uk/configtest.php?gd=nuclearreaction
+  meta:
+    genres:
+    - Puzzle
+  platforms:
+  - Amiga
+
+- name: Nuclear War
+  external:
+    website: 'https://www.mobygames.com/game/nuclear-war'
+    wikipedia: Nuclear War (video game)
+  platforms:
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Nuts & Milk
+  names:
+  - ナッツ&ミルク
+  external:
+    website: 'https://www.nintendo.co.jp/wii/vc/vc_nm/'
+    wikipedia: Nuts & Milk
+  platforms:
+  - Commodore 64
+  - MSX
+  - NES
+  meta:
+    genres:
+    - Platform
+    - Puzzle

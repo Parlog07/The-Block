@@ -1,0 +1,464 @@
+- name: Z Virus
+  langs:
+  - BlitzBasic
+  licenses:
+  - As-is
+  originals:
+  - Zarch
+  status: playable
+  development: complete
+  repo: http://www.steviegoodwin.plus.com/Z_Virus_V2.zip
+  type: remake
+  updated: 2015-10-09
+  url: https://web.archive.org/web/20160323010538/http://www.blitzbasic.com/Community/posts.php?topic=38995
+
+- name: Zandronum
+  originals:
+  - Doom
+  type: remake
+  repo: 'https://github.com/TorrSamaho/zandronum'
+  url: 'https://zandronum.com'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - Co-op
+  content: commercial
+  langs:
+  - C++
+  - C
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - Custom
+  info: >-
+    Zandronum is a source port focused on offering a modernized multiplayer
+    experience, offering new game modes such as capture the flag, invasion or
+    domination.
+  added: 2023-06-04
+  updated: 2023-06-04
+  video:
+    youtube: 5mLDugjh0Ro
+
+- name: Zap 'Em
+  originals:
+  - Space Invaders
+  type: clone
+  repo: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/invaders/#:~:text=zapem
+  url: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/invaders/zapem-0.2.lsm
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SVGALib
+  licenses:
+  - GPL2
+  added: 2025-10-06
+  updated: 2025-10-06
+
+- name: Zatacka X
+  frameworks:
+  - SDL
+  images:
+  - https://camo.githubusercontent.com/bf7621a6846244c8f74679220aae2e66f1e5a526/687474703a2f2f666f6c6b2e75696f2e6e6f2f73696d656e6865672f7a617461636b61785f736d616c6c2e706e67
+  info: Has powerups and AI.
+  langs:
+  - C
+  licenses:
+  - GPL3
+  development: sporadic
+  originals:
+  - Achtung, die Kurve!
+  repo: https://github.com/simenheg/zatackax
+  status: playable
+  type: remake
+  updated: 2017-10-28
+
+- name: Zaz
+  images:
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/234912.jpg
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/229087.jpg
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/271617.jpg
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Zuma
+  status: playable
+  repo: https://sourceforge.net/projects/zaz/
+  type: clone
+  updated: 2022-07-07
+  url: http://zaz.sourceforge.net/
+
+- name: zChain
+  originals:
+  - Chain Reaction
+  type: clone
+  url: 'https://www.linux-games.com/zchain/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Hotseat
+  licenses:
+  - As-is
+  langs:
+  - C++
+  frameworks:
+  - Qt
+  added: '2025-07-31'
+  updated: '2025-07-31'
+  images:
+  - 'https://www.linux-games.com/zchain/shot1.png'
+  - 'https://www.linux-games.com/zchain/shot2.png'
+
+- name: ZDoom
+  images:
+  - https://zdoom.org/w/images/7/7e/AltHUD1.png
+  - https://zdoom.org/w/images/c/c4/DynamicLightOptions.png
+  - https://zdoom.org/w/images/8/8a/DOOM0003.png
+  langs:
+  - C
+  licenses:
+  - BSD
+  development: halted
+  originals:
+  - Doom
+  - Heretic
+  - Hexen
+  status: playable
+  repo: https://sourceforge.net/projects/zdoom/
+  type: remake
+  url: https://zdoom.org/index
+  updated: 2021-04-22
+  info: Project discontinued, with two child projects - GZDoom (for modern systems) and LZDoom (for older systems without OpenGL)
+
+- name: zedragon
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Sea Dragon
+  status: playable
+  repo: https://github.com/charlierobson/zedragon
+  type: remake
+  updated: 2023-01-05
+  info: ZX81 (with UDG) conversion of Russ Wetmore's classic atari game Sea Dragon
+  video:
+    youtube: p0Kq0R2eSPU
+
+- name: Zed Online
+  originals:
+  - Z
+  type: remake
+  repo: https://sourceforge.net/projects/zedonline/
+  url: https://zzone.lewe.com/zed-online-game/
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: free
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  added: 2019-09-17
+  updated: 2024-06-08
+  images:
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%288%29.png/245/183/1
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2842%29.png/245/183/1
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2811%29.png/245/183/1
+  video:
+    youtube: RKmKpTe-gVo
+
+- name: 'Zelda 64: Recompiled'
+  originals:
+  - 'The Legend of Zelda: Majora''s Mask'
+  type: remake
+  repo: 'https://github.com/Zelda64Recomp/Zelda64Recomp'
+  development: active
+  status: playable
+  content: commercial
+  langs:
+  - C
+  - C++
+  licenses:
+  - GPL3
+  info: >-
+    Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC
+    (Windows/Linux)
+  added: 2025-03-02
+  updated: 2025-03-02
+  video:
+    youtube: GIp7C2ro2T8
+
+- name: Zelda Classic
+  originals:
+  - Legend of Zelda
+  type: remake
+  repo: https://github.com/ZeldaClassic/ZeldaClassic
+  url: 'https://www.zeldaclassic.com/'
+  feed: 'https://www.zeldaclassic.com/feed/'
+  development: sporadic
+  status: playable
+  content: swappable
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - GPL3
+  info: >-
+    Zelda Classic is a game and editing tool that lets you create custom Legend of
+    Zelda quests.
+  added: '2019-11-19'
+  updated: 2024-06-09
+  images:
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_bszelda.png'
+  - >-
+    https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_megaman_wilys_revenge.gif
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_hero_dreams.png'
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_quest744.png'
+
+- name: zelda3
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: remake
+  repo: https://github.com/snesrev/zelda3
+  feed: https://github.com/snesrev/zelda3/releases.atom
+  development: sporadic
+  status: playable
+  content: commercial
+  licenses:
+  - MIT
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  info: >-
+    Reverse engineered clone of Zelda 3 - A Link to the Past.
+    A bunch of features have been added that are not supported by the original game.
+  added: 2022-11-04
+  updated: 2024-06-10
+
+- name: Zero-K
+  type: similar
+  langs:
+  - Lua
+  frameworks:
+  - Spring RTS Engine
+  licenses:
+  - GPL2
+  development: very active
+  originals:
+  - Total Annihilation
+  - Supreme Commander
+  status: playable
+  repo: https://github.com/ZeroK-RTS/Zero-K
+  url: https://zero-k.info/
+  feed: https://zero-k.info/News
+  video:
+    youtube: pHQkctGTm_A
+  images:
+  - https://zero-k.info/img/landing/text1.jpg
+  - https://zero-k.info/img/landing/text2.jpg
+  - https://zero-k.info/img/landing/text3.jpg
+  - https://zero-k.info/img/landing/text4.jpg
+  - https://zero-k.info/img/landing/text5.jpg
+  - https://zero-k.info/img/landing/text6.jpg
+  added: 2019-10-21
+  updated: 2024-06-12
+
+- name: Zeta
+  type: tool
+  status: N/A
+  originals:
+  - ZZT
+  - Super ZZT
+  repo: https://github.com/asiekierka/zeta
+  feed: https://github.com/asiekierka/zeta/releases.atom
+  url: https://zeta.asie.pl/
+  development: active
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  info: DOS emulator designed to run ZZT
+  added: 2020-06-26
+  updated: 2025-03-13
+
+- name: ZGloom
+  originals:
+  - Gloom
+  type: remake
+  repo: 'https://github.com/Swizpig/ZGloom'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  info: Also has a PSVita version
+  updated: 2021-12-25
+  images:
+  - 'https://raw.githubusercontent.com/Swizpig/ZGloom/master/screenshots/deluxe3.png'
+  - 'https://raw.githubusercontent.com/Swizpig/ZGloom/master/screenshots/organs.png'
+  video:
+    youtube: aLuS7MKSN-o
+
+- name: ZQuest Classic
+  originals:
+  - Legend of Zelda
+  type: remake
+  repo: https://github.com/ZQuestClassic/ZQuestClassic
+  url: https://zquestclassic.com
+  feed: https://zquestclassic.com/feed/feed.xml
+  development: active
+  status: playable
+  content: swappable
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - GPL3
+  info: A game and editing tool that lets you create custom Legend of Zelda quests - forked from Zelda Classic
+  added: 2024-06-14
+  updated: 2024-06-14
+  images:
+  - https://zquestclassic.com/img/sotw-785-joel.png
+  - https://zquestclassic.com/img/sotw-786-architect-abdiel.png
+  - https://zquestclassic.com/img/sotw-789-moosh.gif
+  - https://zquestclassic.com/img/sotw-789-russ.png
+  - https://zquestclassic.com/img/sotw-791-shane.png
+  - https://zquestclassic.com/img/sotw-792-architect-abdiel.png
+  - https://zquestclassic.com/img/sotw-793-joel.png
+
+- name: Zod Engine
+  images:
+  - https://zod.sourceforge.net/screenshots/gameplay_13.png
+  licenses:
+  - GPL3
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  development: halted
+  originals:
+  - Z
+  status: playable
+  repo: https://sourceforge.net/projects/zod/
+  type: remake
+  url: https://zod.sourceforge.net/
+  video:
+    youtube: 8VehUvuWHqw
+  added: 2018-10-06
+  updated: 2024-06-15
+
+- name: zombie apocalypse html5
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Zombie Apocalypse
+  status: unplayable
+  repo: https://github.com/andymason/zombie-apocalypse-html5
+  type: remake
+  updated: 2015-05-16
+
+- name: zorkClone
+  langs:
+  - Java
+  licenses:
+  - Apache
+  development: halted
+  originals:
+  - Zork
+  status: unplayable
+  repo: https://github.com/vatbub/zorkClone
+  type: remake
+  updated: 2015-10-01
+
+- name: zSILENCER
+  frameworks:
+  - SDL2
+  images:
+  - https://zsilencer.com/ss01.png
+  - https://zsilencer.com/ss02.png
+  - https://zsilencer.com/ss03.png
+  - https://zsilencer.com/ss04.png
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Silencer
+  repo: https://github.com/zsilencer/zSILENCER
+  status: playable
+  type: remake
+  updated: 2013-09-22
+  url: https://zsilencer.com
+  video:
+    youtube: Tm3vrEoI1Ew
+
+- name: ZX Master Mind
+  originals:
+  - Mastermind
+  type: clone
+  repo: 'https://github.com/RobertoZaffa/ZX-Master-Mind/'
+  url: 'https://spectrumcomputing.co.uk/entry/35690/ZX-Spectrum/ZX_Mastermind'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  - BASIC
+  licenses:
+  - As-is
+  added: 2025-12-20
+  updated: 2025-12-20
+  images:
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-8.png
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-9.png
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-10-960x328.png
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-11.png
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-15.png
+  - https://mastermind.altervista.org/wp-content/uploads/2021/07/image-16.png
+  video:
+    youtube: FsDYQE4KUho
+
+- name: zztgo
+  type: remake
+  originals:
+  - ZZT
+  repo: https://github.com/benhoyt/zztgo
+  url: https://benhoyt.com/writings/zzt-in-go/
+  development: halted
+  status: semi-playable
+  langs:
+  - Go
+  licenses:
+  - MIT
+  added: 2020-06-26
+  updated: 2020-12-15
+  images:
+  - https://benhoyt.com/images/zztgo.png

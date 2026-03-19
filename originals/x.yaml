@@ -1,0 +1,145 @@
+- name: 'X-COM: Apocalypse'
+  external:
+    wikipedia: 'X-COM: Apocalypse'
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Tactics
+    themes:
+    - Horror
+    - Sci-Fi
+
+- name: 'X-COM: Terror from the Deep'
+  external:
+    wikipedia: 'X-COM: Terror from the Deep'
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Tactics
+    themes:
+    - Horror
+    - Sci-Fi
+
+- name: 'X-COM: UFO Defense'
+  names:
+  - 'UFO: Enemy Unknown'
+  external:
+    wikipedia: 'X-COM: UFO Defense'
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Tactics
+    themes:
+    - Horror
+    - Sci-Fi
+
+- name: X-It
+  external:
+    website: http://www.mobygames.com/game/x-it
+  meta:
+    genres:
+    - Puzzle
+
+- name: Xargon
+  names:
+  - 'Xargon: The Mystery of the Blue Builders'
+  external:
+    website: https://www.mobygames.com/game/1057/xargon/
+    wikipedia: Xargon
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Xenon
+  external:
+    website: 'https://spectrumcomputing.co.uk/entry/0005790'
+    wikipedia: Xenon (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Xenon 2 Megablast
+  names: ['Xenon 2000: Project PCF']
+  external:
+    wikipedia: Xenon 2 Megablast
+  meta:
+    genres:
+    - Shmup
+
+- name: Xevious
+  names:
+  - ゼビウス
+  external:
+    website: 'https://www.mobygames.com/game/11460/xevious/'
+    wikipedia: Xevious
+  platforms:
+  - 3DS
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - GBA
+  - Master System
+  - Nintendo Switch
+  - PC-98
+  - PlayStation 4
+  - Wii
+  - Windows
+  - Xbox 360
+  - ZX Spectrum
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Xjump
+  external:
+    website: 'https://www.igdb.com/games/xjump'
+  platforms:
+  - Linux
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Xonix
+  external:
+    website: 'https://www.mobygames.com/game/46702/xonix/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    themes:
+    - Abstract
+
+- name: XOR
+  external:
+    wikipedia: XOR (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: XPilot
+  external:
+    wikipedia: XPilot
+  meta:
+    genres:
+    - Arcade
+
+- name: XQuest
+  external:
+    website: http://www.swallowtail.org/xquest/
+  meta:
+    genres:
+    - Arcade

@@ -1,0 +1,287 @@
+- name: I-War
+  external:
+    website: 'https://www.mobygames.com/game/6855/i-war/'
+    wikipedia: I-War (1995 video game)
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: I Have No Mouth, and I Must Scream
+  names:
+  - 'Harlan Ellison: I Have No Mouth, and I Must Scream'
+  external:
+    website: https://www.mobygames.com/game/617
+    wikipedia: I Have No Mouth, and I Must Scream (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Horror
+    - Post-Apocalyptic
+    - Sci-Fi
+  platforms:
+  - Android
+  - DOS
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - OSX
+  - Windows
+
+- name: Ice Climber
+  external:
+    website: >-
+      https://web.archive.org/web/20100403094656/http://www.nintendo.com/wii/virtualconsole/games/detail/P32v6Gw7R3ONW25Fy0Xv9zqlWFJwIZ0d
+    wikipedia: Ice Climber
+  platforms:
+  - Arcade
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Platform
+
+- name: Icebreaker
+  external:
+    website: 'https://www.wunderland.com/WTS/Andy/Icebreaker/Icebreaker.html'
+    wikipedia: Icebreaker (video game)
+  platforms:
+  - 3DO
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Strategy
+
+- name: Icebreaker 2
+  external:
+    website: 'https://www.igdb.com/games/icebreaker-2'
+  platforms:
+  - 3DO
+  meta:
+    genres:
+    - Puzzle
+    - Strategy
+
+- name: Icewind Dale
+  names:
+  - 'Icewind Dale: Heart of Winter'
+  - Icewind Dale II
+  external:
+    wikipedia: Icewind Dale
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Imperialism
+  external:
+    wikipedia: Imperialism (video game)
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Imperium Galactica
+  external:
+    wikipedia: Imperium Galactica
+  meta:
+    genres:
+    - Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Sci-Fi
+
+- name: In Pursuit of Greed
+  names:
+  - Assassinators
+  external:
+    website: http://web.archive.org/web/19980209054227/http://www.softdisk.com/comp/mss/greed.html
+    wikipedia: In Pursuit of Greed
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Indy 500
+  external:
+    website: 'https://www.mobygames.com/game/11710/indy-500/'
+    wikipedia: Indy 500 (1977 video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Racing
+
+- name: The Incredible Machine
+  external:
+    wikipedia: The_Incredible_Machine_(video_game)
+  meta:
+    genres:
+    - Puzzle
+    - Simulation
+
+- name: Indiana Jones and his Desktop Adventures
+  external:
+    wikipedia: Indiana Jones and his Desktop Adventures
+  meta:
+    genres:
+    - RPG
+
+- name: Indiana Jones and the Fate of Atlantis
+  external:
+    website: https://www.mobygames.com/game/316
+    wikipedia: Indiana Jones and the Fate of Atlantis
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'Indiana Jones and the Last Crusade: The Graphic Adventure'
+  external:
+    website: https://www.mobygames.com/game/534
+    wikipedia: 'Indiana Jones and the Last Crusade: The Graphic Adventure'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Infinity Loop
+  external:
+    website: http://loopgame.co
+  meta:
+    genres:
+    - Puzzle
+
+- name: Inherit the Earth
+  names:
+  - 'Inherit the Earth: Quest for the Orb'
+  external:
+    website: https://www.mobygames.com/game/4008
+    wikipedia: Inherit the Earth
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - DOS
+  - Linux
+  - Classic Mac OS
+  - iOS
+  - PC-98
+  - Windows
+
+- name: Interstate '76
+  external:
+    wikipedia: Interstate '76
+  meta:
+    genres:
+    - Action
+    - Racing
+    themes:
+    - Post-Apocalyptic
+
+- name: Intruders
+  names:
+  - Space Intruders
+  external:
+    website: 'https://www.mobygames.com/game/77494/intruders/'
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Ironseed
+  external:
+    website: http://ironseed.net/
+    wikipedia: Ironseed
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Isaku
+  names:
+  - 遺作
+  - 유작
+  external:
+    website: https://vndb.org/v2340
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - PC-98
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: The Island of Dr. Brain
+  external:
+    website: https://www.mobygames.com/game/1524
+    wikipedia: The Island of Dr. Brain
+  meta:
+    genres:
+    - Educational
+    - Puzzle
+  platforms:
+  - DOS
+
+- name: Izmir
+  names:
+  - 이즈미르
+  external:
+    website: 'https://www.mobygames.com/game/56500/izmir/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi

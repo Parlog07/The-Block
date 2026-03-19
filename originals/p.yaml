@@ -1,0 +1,1585 @@
+- name: P'Radikus Conflict
+  external:
+    website: https://www.mobygames.com/game/16677/pradikus-conflict/
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Shooter
+
+- name: Pac-Man
+  external:
+    wikipedia: Pac-Man
+  meta:
+    genres:
+    - Arcade
+
+- name: Pac-Mania
+  external:
+    wikipedia: Pac-Mania
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Commodore 64
+  - GBA
+  - Genesis
+  - iOS
+  - Master System
+  - MSX
+  - NES
+  - Nintendo Switch
+  - Windows
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+
+- name: Pachi-Slot Master
+  external:
+    website: 'https://psxdatacenter.com/games/J/P/SLPS-01927.html'
+  platforms:
+  - PlayStation
+  meta:
+    subgenres:
+    - Gambling
+
+- name: Painter
+  external:
+    website: >-
+      https://web.archive.org/web/20240623003540/http://www.kewlplace.com/sinister/ST_Paint.htm
+    wikipedia: Painter (video game)
+  platforms:
+  - Atari
+  - Jaguar
+  meta:
+    genres:
+    - Puzzle
+
+- name: 'Pajama Sam 2: Thunder and Lightning Aren''t so Frightening'
+  names:
+  - 'Pajama Sam: Thunder and Lightning'
+  external:
+    website: https://www.mobygames.com/game/21113
+    wikipedia: 'Pajama Sam 2: Thunder and Lightning Aren%27t so Frightening'
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Point and click
+  platforms:
+  - Android
+  - iOS
+  - Classic Mac OS
+  - Linux
+  - Nintendo Switch
+  - OSX
+  - Windows
+
+- name: 'Pajama Sam 3: You Are What You Eat From Your Head To Your Feet'
+  external:
+    website: https://www.mobygames.com/game/4810
+    wikipedia: 'Pajama Sam 3: You Are What You Eat from Your Head to Your Feet'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - PlayStation
+  - Windows
+
+- name: 'Pajama Sam: Life Is Rough When You Lose Your Stuff!'
+  names:
+  - Pajama Sam 4
+  external:
+    website: >-
+      https://www.mobygames.com/game/11847/pajama-sam-life-is-rough-when-you-lose-your-stuff/
+    wikipedia: 'Pajama Sam: Life Is Rough When You Lose Your Stuff!'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    - Educational
+
+- name: Pajama Sam's Lost & Found
+  external:
+    website: https://www.mobygames.com/game/19377
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Point and click
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Pajama Sam's Sock Works
+  external:
+    website: https://www.mobygames.com/game/20989
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Point and click
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'Pajama Sam: Games to Play on Any Day'
+  external:
+    website: https://www.mobygames.com/game/21618
+  meta:
+    genres:
+    - Puzzle
+    - Strategy
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'Pajama Sam: No Need to Hide When It''s Dark Outside'
+  names:
+  - 'Pajama Sam: Don''t Fear The Dark'
+  - 'Pajama Sam: No Need to Hide'
+  external:
+    website: https://www.mobygames.com/game/1200
+    wikipedia: 'Pajama Sam: No Need to Hide When It%27s Dark Outside'
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - Wii
+  - Windows
+
+- name: Pandora's Box
+  external:
+    website: 'https://www.mobygames.com/game/1550/microsoft-pandoras-box/'
+    wikipedia: Pandora's Box (1999 video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Panzer General
+  external:
+    wikipedia: Panzer General
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Paradroid
+  external:
+    wikipedia: Paradroid
+  meta:
+    genres:
+    - Shmup
+    - Puzzle
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: Pararena
+  external:
+    website: >-
+      https://web.archive.org/web/20130823120348/https://www.d4.dion.ne.jp/~motohiko/ashes.htm#Pararena
+    wikipedia: Pararena
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Sports
+    themes:
+    - Sci-Fi
+
+- name: Paratrooper
+  external:
+    wikipedia: Paratrooper (video game)
+  platforms:
+  - PC Booter
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Patton Strikes Back: The Battle of the Bulge'
+  external:
+    website: >-
+      https://www.mobygames.com/game/9637/patton-strikes-back-the-battle-of-the-bulge/
+    wikipedia: Patton Strikes Back
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    themes:
+    - World War II
+
+- name: The Pawn
+  external:
+    website: https://www.mobygames.com/game/1322
+    wikipedia: The Pawn
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+
+- name: Payback Time
+  external:
+    website: 'https://suomigamehub.com/pelit/payback-time/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Turn-Based Tactics
+    themes:
+    - Sci-Fi
+
+- name: PaybackTime 2
+  external:
+    website: >-
+      https://web.archive.org/web/19981203041908/http://tahna.tky.hut.fi/pt2/pt2.html
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Turn-Based Tactics
+    themes:
+    - Sci-Fi
+
+- name: Peg Solitaire
+  external:
+    wikipedia: Peg solitaire
+  meta:
+    genres:
+    - Puzzle
+
+- name: Pengo
+  names:
+  - ペンゴ
+  external:
+    website: 'https://www.mobygames.com/game/5386/pengo/'
+    wikipedia: Pengo (video game)
+  meta:
+    genres:
+    - Action
+
+- name: Penny Arcade
+  external:
+    website: 'https://www.video-games-museum.com/en/game/Penny-Arcade/37/3/12863'
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Penumbra: Overture'
+  external:
+    wikipedia: 'Penumbra: Overture'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Pepper's Adventures in Time
+  external:
+    website: https://www.mobygames.com/game/6312
+    wikipedia: Pepper%27s Adventures in Time
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+  - Windows
+
+- name: Perfect Dark
+  external:
+    website: >-
+      https://web.archive.org/web/20000823090109/http://www.rare.co.uk/recent/games/pdark/
+    wikipedia: Perfect Dark
+  platforms:
+  - N64
+  meta:
+    genres:
+    - FPS
+
+- name: Perimeter
+  external:
+    wikipedia: Perimeter (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Personal Nightmare
+  external:
+    website: https://www.mobygames.com/game/7457
+    wikipedia: Personal Nightmare
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Horror
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: 'Pesterminator: The Western Exterminator'
+  external:
+    website: 'https://www.mobygames.com/game/16678/pesterminator-the-western-exterminator/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Sci-Fi
+
+- name: Phantasmagoria
+  external:
+    website: https://www.mobygames.com/game/1164
+    wikipedia: Phantasmagoria (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Horror
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Saturn
+  - Windows
+
+- name: Phantasmagoria 2
+  names:
+  - 'Phantasmagoria: A Puzzle of Flesh'
+  external:
+    website: https://www.mobygames.com/game/1216
+    wikipedia: 'Phantasmagoria: A Puzzle of Flesh'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Horror
+  platforms:
+  - DOS
+  - Windows
+
+- name: Phantasy Star
+  external:
+    wikipedia: Phantasy Star (video game)
+  meta:
+    genres:
+    - RPG
+
+- name: Phantomas
+  external:
+    website: https://www.mobygames.com/game/15585/phantomas/
+  platforms:
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+
+- name: Phantomas 2
+  names:
+  - Vampire
+  external:
+    website: https://www.mobygames.com/game/19887/vampire/
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - MSX
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+
+- name: Phantoms Five
+  external:
+    website: 'https://www.mobygames.com/game/70193/phantoms-five/'
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Action
+
+- name: Pharaoh
+  external:
+    wikipedia: Pharaoh (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - City Building
+    themes:
+    - Egyptian
+
+- name: Phigros
+  external:
+    website: 'https://www.mobygames.com/game/207349/phigros/'
+  platforms:
+  - Android
+  - iOS
+  meta:
+    genres:
+    - Puzzle
+    - Rhythm
+    themes:
+    - Anime
+
+- name: Picross Series
+  external:
+    website: 'https://www.mobygames.com/group/6020/picross-series/'
+    wikipedia: Picross
+  meta:
+    genres:
+    - Puzzle
+
+- name: Pinball Construction Set
+  external:
+    website: 'https://www.mobygames.com/game/255/pinball-construction-set/'
+    wikipedia: Pinball Construction Set
+  platforms:
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - PC Booter
+  - PC-98
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Pinball
+
+- name: 'The Pink Panther: Hokus Pokus Pink'
+  external:
+    website: https://www.mobygames.com/game/41450
+    wikipedia: 'The Pink Panther: Hokus Pokus Pink'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Windows
+
+- name: 'The Pink Panther: Passport to Peril'
+  external:
+    website: https://www.mobygames.com/game/7995
+    wikipedia: 'The Pink Panther: Passport to Peril'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    subgenres:
+    - Point and click
+  platforms:
+  - Windows
+
+- name: Pipe Mania
+  external:
+    website: 'https://spectrumcomputing.co.uk/entry/0003729'
+    wikipedia: Pipe Mania
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - Game Boy
+  - NES
+  - PC-98
+  - Windows
+  - X68000
+  - ZX Spectrum
+  meta:
+    genres:
+    - Puzzle
+
+- name: Pirate Adventure
+  names:
+  - Pirate Cove
+  external:
+    website: 'https://spectrumcomputing.co.uk/entry/0006803'
+    wikipedia: Pirate Adventure
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    subgenres:
+    - Text Adventure
+
+- name: Pirates of the Caribbean
+  names:
+  - 'Корсары II: Пираты Карибского моря'
+  external:
+    website: >-
+      https://web.archive.org/web/20031207065606/http://pirates.bethsoft.com/main.html
+    wikipedia: Pirates of the Caribbean (video game)
+  platforms:
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - Action
+    - RPG
+    - Simulation
+    subgenres:
+    - Vehicular Combat
+
+- name: Pitfall!
+  external:
+    wikipedia: Pitfall!
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Pizza Tycoon
+  names:
+  - 'Pizza Connection'
+  external:
+    wikipedia: Pizza Tycoon
+  meta:
+    genres:
+    - Simulation
+
+- name: 'Planescape: Torment'
+  external:
+    wikipedia: 'Planescape: Torment'
+  meta:
+    genres:
+    - RPG
+
+- name: Planet Blupi
+  external:
+    website: 'https://www.blupi.org/planet/index.html'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Planetary Defense
+  external:
+    website: 'https://www.atarimania.com/pgesoft.awp?version=3993'
+
+- name: Plants vs. Zombies
+  external:
+    website: 'https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies'
+    wikipedia: Plants vs. Zombies (video game)
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Strategy
+    subgenres:
+    - Tower Defense
+
+- name: Plasma Pong
+  external:
+    wikipedia: Plasma Pong
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Arcade
+    themes:
+    - Abstract
+
+- name: Playtoons
+  external:
+    wikipedia: Playtoons
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    subgenres:
+    - Point and click
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Plumbers Don't Wear Ties
+  external:
+    website: https://www.mobygames.com/game/25730
+    wikipedia: Plumbers Don%27t Wear Ties
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Comedy
+  platforms:
+  - 3DO
+  - Windows
+
+- name: Poing
+  external:
+    website: https://www.mobygames.com/game/13354/poing/
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Arcade
+
+- name: Pokémon
+  external:
+    wikipedia: Pokémon (video game series)
+  meta:
+    genres:
+    - RPG
+
+- name: Pokémon Battle Revolution
+  names:
+  - ポケモンバトルレボリューション
+  external:
+    website: 'https://www.pokemon.co.jp/game/wii/pbr_sp/'
+    wikipedia: Pokémon Battle Revolution
+  platforms:
+  - Wii
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: 'Pokémon Card GB2: Great Rocket-Dan Sanjō!'
+  names:
+  - ポケモンカードGB2 GR団参上!
+  external:
+    website: 'https://www.pokemon.co.jp/game/other/gbc-gr/'
+  platforms:
+  - Game Boy
+  meta:
+    genres:
+    - Card Game
+    - RPG
+    - Turn-Based Strategy
+
+- name: Pokémon Colosseum
+  names:
+  - ポケモンコロシアム
+  external:
+    website: 'https://www.nintendo.co.jp/ngc/qc6a/'
+    wikipedia: Pokémon Colosseum
+  platforms:
+  - GameCube
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Pokémon Diamond and Pearl
+  names:
+  - Pokémon Platinum
+  - ポケットモンスター ダイヤモンド・パール
+  - ポケットモンスター プラチナ
+  external:
+    website: 'https://www.pokemon.co.jp/game/ds/dp/'
+    wikipedia: Pokémon Diamond and Pearl
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Pokémon Gold and Silver
+  names:
+  - Pokémon Crystal
+  - Pokémon HeartGold and SoulSilver
+  - ポケットモンスター 金・銀
+  - ポケットモンスター クリスタルバージョン
+  - ポケットモンスター ハートゴールド・ソウルシルバー
+  external:
+    wikipedia: Pokémon Gold and Silver
+  platforms:
+  - Game Boy
+  meta:
+    genres:
+    - RPG
+
+- name: 'Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team'
+  names:
+  - ポケモン不思議のダンジョン 青の救助隊・赤の救助隊
+  external:
+    website: 'https://mysterydungeon.pokemon.com/en-us/'
+    wikipedia: 'Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team'
+  platforms:
+  - DS
+  - GBA
+  meta:
+    genres:
+    - RPG
+    - Roguelike
+
+- name: 'Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness'
+  names:
+  - 'Pokémon Mystery Dungeon: Explorers of Sky'
+  - ポケモン不思議のダンジョン 時の探検隊・闇の探検隊
+  - ポケモン不思議のダンジョン 空の探検隊
+  external:
+    website: 'https://www.pokemon.co.jp/game/ds/dungeon2007/'
+    wikipedia: 'Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness'
+  platforms:
+  - DS
+  meta:
+    genres:
+    - RPG
+    - Roguelike
+    themes:
+    - Fantasy
+
+- name: Pokémon Pinball
+  names:
+  - ポケモンピンボール
+  external:
+    website: >-
+      https://web.archive.org/web/20071012202522/http://www.nintendo.com/gamemini?gameid=m-Game-0000-320
+    wikipedia: Pokémon Pinball
+  platforms:
+  - Game Boy
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Pinball
+
+- name: 'Pokémon Pinball: Ruby & Sapphire'
+  names:
+  - ポケモンピンボール ルビー&サファイア
+  external:
+    website: 'https://www.nintendo.co.jp/n08/bppj/'
+    wikipedia: 'Pokémon Pinball: Ruby & Sapphire'
+  platforms:
+  - GBA
+  - Wii
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Pinball
+    themes:
+    - Fantasy
+
+- name: Pokémon Puzzle Challenge
+  names:
+  - ポケモンでパネポン
+  external:
+    website: 'https://www.nintendo.co.jp/n02/dmg/bpnj/'
+    wikipedia: Pokémon Puzzle Challenge
+  platforms:
+  - 3DS
+  - Game Boy
+  meta:
+    genres:
+    - Puzzle
+
+- name: Pokémon Red, Blue, and Yellow
+  names:
+  - Pokémon FireRed and LeafGreen
+  - ポケットモンスター 赤・緑
+  - ポケットモンスター ファイアレッド・リーフグリーン
+  external:
+    website: https://www.pokemon.com/us/pokemon-video-games/pokemon-red-version-and-pokemon-blue-version
+    wikipedia: 'Pokémon Red, Blue, and Yellow'
+  platforms:
+  - Game Boy
+  - GBA
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Pokémon Ruby and Sapphire
+  names:
+  - Pokémon Emerald
+  - ポケットモンスター ルビー・サファイア
+  - ポケットモンスター エメラルド
+  external:
+    website: 'https://www.nintendo.co.jp/n08/axvp/'
+    wikipedia: Pokémon Ruby and Sapphire
+  platforms:
+  - GBA
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Pokémon Stadium
+  names:
+  - ポケモンスタジアム２
+  external:
+    website: 'https://www.pokemon.com/us/pokemon-video-games/pokemon-stadium'
+    wikipedia: Pokémon Stadium
+  platforms:
+  - N64
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Fantasy
+
+- name: Pokémon Stadium 2
+  names:
+  - ポケモンスタジアム金銀
+  external:
+    website: 'https://www.nintendo.co.jp/n01/n64/software/nus_p_np3j/'
+    wikipedia: Pokémon Stadium 2
+  platforms:
+  - N64
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Pokémon Trading Card Game
+  names:
+  - ポケモンカードGB
+  external:
+    website: 'https://www.nintendo.co.jp/n02/dmg/acxj/'
+    wikipedia: Pokémon Trading Card Game (video game)
+  platforms:
+  - 3DS
+  - Game Boy
+  meta:
+    genres:
+    - Card Game
+    - RPG
+    - Turn-Based Strategy
+
+- name: Pokémon Uranium
+  external:
+    wikipedia: Pokémon Uranium
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - RPG
+
+- name: Pole Position
+  external:
+    website: 'https://www.mobygames.com/game/984/pole-position/'
+    wikipedia: Pole Position
+  platforms:
+  - Arcade
+  - Atari
+  - Commodore 64
+  - DOS
+  - Nintendo Switch
+  - ZX Spectrum
+  meta:
+    genres:
+    - Sports
+    - Racing
+    themes:
+    - Motorsports
+
+- name: Police Quest
+  names:
+  - Police Quest I
+  - 'Police Quest: In Pursuit of the Death Angel'
+  external:
+    website: https://www.mobygames.com/game/146
+    wikipedia: 'Police Quest: In Pursuit of the Death Angel'
+  meta:
+    genres:
+    - Adventure
+    - Simulation
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - DOS
+
+- name: Police Quest II
+  names:
+  - 'Police Quest II: The Vengeance'
+  - Police Quest 2
+  external:
+    website: https://www.mobygames.com/game/147
+    wikipedia: 'Police Quest II: The Vengeance'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - PC-98
+
+- name: Police Quest III
+  names:
+  - 'Police Quest III: The Kindred'
+  - Police Quest 3
+  external:
+    website: https://www.mobygames.com/game/148
+    wikipedia: 'Police Quest III: The Kindred'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - Amiga
+  - DOS
+
+- name: Police Quest IV
+  names:
+  - 'Police Quest: Open Season'
+  - Police Quest IV
+  external:
+    website: https://www.mobygames.com/game/149
+    wikipedia: 'Police Quest: Open Season'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - DOS
+
+- name: 'Police Quest: SWAT'
+  names:
+  - 'Daryl F. Gates'' Police Quest: SWAT'
+  - 'Police Quest 5: SWAT'
+  external:
+    website: https://www.mobygames.com/game/150
+    wikipedia: 'Police Quest: SWAT'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Pong
+  external:
+    wikipedia: Pong
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Arcade
+
+- name: Populous
+  external:
+    website: 'https://www.mobygames.com/game/613/populous/'
+    wikipedia: Populous (video game)
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Atari
+  - Classic Mac OS
+  - DOS
+  - Game Boy
+  - Genesis
+  - Master System
+  - PC-98
+  - SNES
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: 'Populous: The Beginning'
+  external:
+    wikipedia: 'Populous: The Beginning'
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Populous II
+  names:
+  - 'Populous II: Trials of the Olympian Gods'
+  external:
+    wikipedia: 'Populous II: Trials of the Olympian Gods'
+  platforms:
+  - Amiga
+  - Atari
+  - Classic Mac OS
+  - DOS
+  - FM Towns
+  - Genesis
+  - PC-98
+  - SNES
+  - X68000
+  meta:
+    genres:
+    - Real-Time Strategy
+    - Strategy
+    themes:
+    - Management
+
+- name: Portal
+  external:
+    wikipedia: Portal (video game)
+  meta:
+    genres:
+    - FPS
+    - Puzzle
+
+- name: Postal
+  names:
+  - Postal Plus
+  external:
+    website: https://www.wavegamestudios.com/games/postal/
+    wikipedia: Postal (video game)
+  platforms:
+  - Linux
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Run and gun
+    themes:
+    - Horror
+
+- name: Powder Game
+  names:
+  - World of Sand
+  external:
+    wikipedia: Falling-sand game
+  platforms:
+  - Web
+  meta:
+    genres:
+    - Simulation
+
+- name: Powerslave
+  names:
+  - Exhumed
+  external:
+    wikipedia: PowerSlave
+  platforms:
+  - DOS
+  - PlayStation
+  - Saturn
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Egyptian
+
+- name: Powerslide
+  external:
+    wikipedia: Powerslide (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Racing
+
+- name: Prehistorik
+  external:
+    website: 'https://www.mobygames.com/game/524/prehistorik/'
+    wikipedia: Prehistorik
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Android
+  - Atari
+  - Classic Mac OS
+  - DOS
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Prehistoric
+
+- name: Prehistorik 2
+  names:
+  - Prehistorik Man
+  external:
+    wikipedia: Prehistorik 2
+  platforms:
+  - Amstrad CPC
+  - DOS
+  - Game Boy
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Prehistoric
+
+- name: Prey
+  names:
+  - Prey (2006)
+  external:
+    website: 'https://web.archive.org/web/20080715104241/http://www.prey.com/'
+    wikipedia: 'Prey (2006 video game)'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Prime World
+  external:
+    website: 'https://web.archive.org/web/20210327050601/http://en.playpw.com/'
+    wikipedia: Prime World
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+    - MOBA
+
+- name: Primordia
+  external:
+    website: https://www.mobygames.com/game/59392
+    wikipedia: Primordia (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Cyberpunk
+  platforms:
+  - iOS
+  - Linux
+  - OSX
+  - Nintendo Switch
+  - Windows
+
+- name: Prince of Persia
+  external:
+    wikipedia: Prince of Persia
+  meta:
+    genres:
+    - Platform
+  
+- name: Prince of Persia 2
+  external:
+    wikipedia: Prince of Persia 2
+  meta:
+    genres:
+    - Platform
+
+- name: Princess Bride
+  external:
+    website: 'http://13cm.jp/130cm/games/bride/index_.htm'
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Princess and Frog
+  external:
+    website: 'https://www.mobygames.com/game/77541/princess-and-frog/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+
+- name: Private Eye
+  external:
+    wikipedia: Private Eye (1996 video game)
+  meta:
+    genres:
+    - Adventure
+    themes: 
+    - Crime
+  platforms:
+  - OSX
+  - Windows
+
+- name: Progress Quest
+  external:
+    wikipedia: Progress Quest
+  meta:
+    genres:
+    - MMORPG
+    themes:
+    - Comedy
+
+- name: Project Nomads
+  external:
+    website: >-
+      https://web.archive.org/web/20070211232652/http://www.project-nomads.de/english/index1.htm
+    wikipedia: Project Nomads
+  platforms:
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Shooter
+    - Strategy
+
+- name: Project One
+  external:
+    website: 'https://www.reboot-games.com/rebootnews/project-one/'
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Shooter
+
+- name: Project Rhombus
+  external:
+    website: 'https://store.steampowered.com/app/735570/Project_Rhombus/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Rhythm
+
+- name: The Prophecy
+  names:
+  - 'Ween: The Prophecy'
+  external:
+    website: https://www.mobygames.com/game/6218
+    wikipedia: The Prophecy (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: Punch-Out!!
+  external:
+    wikipedia: Punch-Out!! (arcade game)
+  meta:
+    genres:
+    - Fighting
+    - Sports
+    subgenres:
+    - Boxing
+    themes:
+    - Comedy
+
+- name: PureHeart
+  names:
+  - PureHeart 〜世界で一番アナタが好き〜
+  external:
+    website: 'http://sagapla.net/works/pureheart/pure_h.htm'
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Pushover
+  external:
+    wikipedia: Pushover (video game)
+  meta:
+    genres:
+    - Platform
+    - Puzzle
+
+- name: Putt-Putt Enters the Race
+  external:
+    website: https://www.mobygames.com/game/1197
+    wikipedia: Putt-Putt Enters the Race
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Putt-Putt Goes to the Moon
+  names:
+  - Bear Stormin'
+  external:
+    website: https://www.mobygames.com/game/1198
+    wikipedia: Putt-Putt Goes to the Moon
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - 3DO
+  - DOS
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Putt-Putt Joins the Circus
+  external:
+    website: https://www.mobygames.com/game/21061
+    wikipedia: Putt-Putt Joins the Circus
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Putt-Putt Joins the Parade
+  external:
+    website: https://www.mobygames.com/game/1017
+    wikipedia: Putt-Putt Joins the Parade
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    subgenres:
+    - Point and click
+  platforms:
+  - 3DO
+  - DOS
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Putt-Putt Saves the Zoo
+  external:
+    website: https://www.mobygames.com/game/1225
+    wikipedia: Putt-Putt Saves the Zoo
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    subgenres:
+    - Point and click
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+
+- name: Putt-Putt Travels Through Time
+  external:
+    website: https://www.mobygames.com/game/1201
+    wikipedia: Putt-Putt Travels Through Time
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    subgenres:
+    - Point and click
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - Windows
+
+- name: Putt-Putt and Fatty Bear's Activity Pack
+  external:
+    website: https://www.mobygames.com/game/21083
+  meta:
+    genres:
+    - Action
+    - Educational
+    - Puzzle
+    - Strategy
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Putt-Putt and Pep's Balloon-O-Rama
+  external:
+    website: https://www.mobygames.com/game/12433
+    wikipedia: Putt-Putt and Pep%27s Balloon-o-Rama
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Putt-Putt and Pep's Dog on a Stick
+  external:
+    website: https://www.mobygames.com/game/14529
+  meta:
+    genres:
+    - Action
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'Putt-Putt: Pep''s Birthday Surprise'
+  external:
+    website: 'https://www.mobygames.com/game/11848/putt-putt-peps-birthday-surprise/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    - Racing
+
+- name: Putt-Putt's Fun Pack
+  external:
+    website: https://www.mobygames.com/game/757
+  meta:
+    genres:
+    - Action
+    - Educational
+    - Puzzle
+    - Strategy
+  platforms:
+  - 3DO
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Puyo Puyo Series
+  names:
+  - Puyo Pop Series
+  external:
+    website: 'http://puyo.sega.com'
+    wikipedia: Puyo Puyo
+  meta:
+    genres:
+    - Puzzle
+
+- name: Puzz Loop
+  names:
+  - Ballistic
+  external:
+    website: 'https://www.mobygames.com/game/32024/ballistic/'
+    wikipedia: Puzz Loop
+  platforms:
+  - Arcade
+  - Game Boy
+  - iOS
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Puzzle Bobble
+  names:
+  - Bust-A-Move
+  external:
+    wikipedia: Puzzle Bobble
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+
+- name: Puzzle Moppet
+  external:
+    website: 'https://garnetgames.com/puzzlemoppet/'
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Puzzle Pits
+  external:
+    website: 'https://www.mobygames.com/game/221230/the-puzzle-pits/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Puzznic
+  external:
+    wikipedia: Puzznic
+  meta:
+    genres:
+    - Puzzle
+    - Arcade

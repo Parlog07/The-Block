@@ -1,0 +1,171 @@
+- name: Q*bert
+  external:
+    wikipedia: Q*bert
+  meta:
+    genres:
+    - Arcade
+
+- name: Quadrilateral Cowboy
+  external:
+    website: 'https://blendogames.com/qc/'
+    wikipedia: Quadrilateral Cowboy
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Cyberpunk
+    - Sci-Fi
+
+- name: Quake
+  external:
+    website: >-
+      https://web.archive.org/web/20110822232757/https://www.idsoftware.com/games/quake/quake/
+    wikipedia: Quake
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Classic Mac OS
+  - DOS
+  - Linux
+  - N64
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Fantasy
+
+- name: Quake 2
+  external:
+    website: >-
+      https://web.archive.org/web/20110824141015/http://www.idsoftware.com/games/quake/quake2/
+    wikipedia: Quake II
+  platforms:
+  - Amiga
+  - Linux
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Quake 3
+  names:
+  - 'Quake III: Arena'
+  external:
+    website: 'https://web.archive.org/web/20010301170300/http://quake3arena.com'
+    wikipedia: Quake III Arena
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - Dreamcast
+  - iOS
+  - Linux
+  - OSX
+  - PlayStation 2
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Quake 4
+  external:
+    website: >-
+      https://web.archive.org/web/20061205073314/http://www.idsoftware.com/games/quake/quake4/
+    wikipedia: Quake 4
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: The Queen of Phobos
+  external:
+    website: 'https://ifdb.org/viewgame?id=9rrugwxbh7tcr0ui'
+    wikipedia: The Queen of Phobos
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+
+- name: 'Quest for Glory: So You Want To Be A Hero'
+  names:
+  - "Hero's Quest: So You Want to Be a Hero"
+  - Quest for Glory I
+  external:
+    website: https://www.mobygames.com/game/16075
+    wikipedia: 'Quest for Glory: So You Want to Be a Hero'
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Classic Mac OS
+  - PC-98
+
+- name: 'Quest for Glory II: Trial by Fire'
+  external:
+    website: https://www.mobygames.com/game/169
+    wikipedia: 'Quest for Glory II: Trial by Fire'
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - DOS
+
+- name: 'Quest for Glory III: Wages of War'
+  external:
+    website: https://www.mobygames.com/game/173
+    wikipedia: 'Quest for Glory III: Wages of War'
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+
+- name: Quest for Glory IV
+  names:
+  - 'Quest for Glory: Shadows of Darkness'
+  external:
+    website: https://www.mobygames.com/game/119
+    wikipedia: 'Quest for Glory: Shadows of Darkness'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+  - Windows

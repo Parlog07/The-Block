@@ -1,0 +1,452 @@
+- name: Kaboom!
+  external:
+    website: 'https://www.mobygames.com/game/8904/kaboom/'
+    wikipedia: Kaboom! (video game)
+  platforms:
+  - Atari
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Arcade
+
+- name: Kaiser
+  external:
+    website: 'https://www.mobygames.com/game/71050/kaiser/'
+    wikipedia: Kaiser (video game)
+  platforms:
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Turn-Based Strategy
+    - Simulation
+
+- name: Kaiser II
+  external:
+    website: 'https://kaiser2.strotmann.de/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Turn-Based Strategy
+    - Simulation
+
+- name: Kanojo-tachi no Ryuugi
+  names:
+  - 彼女たちの流儀
+  - かのじょたちのりゅうぎ
+  external:
+    website: 'http://13cm.jp/130cm/games/theirstyles/'
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Kanon
+  external:
+    website: 'https://key.visualarts.gr.jp/product/kanon/'
+    wikipedia: Kanon (video game)
+  platforms:
+  - Android
+  - Dreamcast
+  - iOS
+  - Mobile
+  - Nintendo Switch
+  - PlayStation 2
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+    - Dating
+
+- name: Katawa Shoujo
+  external:
+    website: 'https://www.katawa-shoujo.com/'
+    wikipedia: Katawa Shoujo
+  platforms:
+  - OSX
+  - Linux
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Kathy Rain
+  external:
+    website: https://www.mobygames.com/game/79519
+    wikipedia: Kathy Rain
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Kawarazakike no Ichizoku
+  names:
+  - 河原崎家の一族
+  external:
+    website: https://vndb.org/v2351
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Ken's Labyrinth
+  external:
+    website: 'https://www.advsys.net/ken/klab.htm'
+    wikipedia: Ken's Labyrinth
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+
+- name: Kentris
+  external:
+    website: 'https://advsys.net/ken/download.htm#kentris'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Puzzle
+
+- name: Kick Off
+  names:
+  - Kick Off 2
+  external:
+    wikipedia: Kick Off (series)
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Football
+
+- name: Kid Chameleon
+  external:
+    wikipedia: Kid Chameleon (video game)
+  meta:
+    genres:
+    - Platform
+
+- name: Kiloblaster
+  external:
+    website: 'https://www.mobygames.com/game/1074/kiloblaster/'
+    wikipedia: Kiloblaster
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: King under the Mountain
+  external:
+    website: 'https://www.mobygames.com/game/175832/king-under-the-mountain/'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    subgenres:
+    - City Building
+
+- name: King's Quest I
+  names:
+  - 'Quest for the Crown'
+  external:
+    website: https://www.mobygames.com/game/122
+    wikipedia: King%27s Quest I
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - DOS
+  - Classic Mac OS
+  - Master System
+
+- name: King's Quest II
+  names:
+  - 'King''s Quest II: Romancing the Throne'
+  external:
+    website: https://www.mobygames.com/game/123
+    wikipedia: King%27s Quest II
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - DOS
+  - Classic Mac OS
+
+- name: King's Quest III
+  names:
+  - 'King''s Quest III: To Heir Is Human'
+  external:
+    website: https://www.mobygames.com/game/126
+    wikipedia: King%27s Quest III
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - DOS
+  - Classic Mac OS
+
+- name: King's Quest IV
+  names:
+  - 'King''s Quest IV: The Perils of Rosella'
+  external:
+    website: https://www.mobygames.com/game/129
+    wikipedia: King%27s Quest IV
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: King's Quest V
+  names:
+  - 'King''s Quest V: Absence Makes the Heart Go Yonder!'
+  external:
+    website: https://www.mobygames.com/game/130
+    wikipedia: King%27s Quest V
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+  - NES
+  - PC-98
+  - Windows
+
+- name: King's Quest VI
+  names:
+  - 'King''s Quest VI: Heir Today, Gone Tomorrow'
+  external:
+    website: https://www.mobygames.com/game/131
+    wikipedia: King%27s Quest VI
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: King's Quest VII
+  names:
+  - 'King''s Quest VII: The Princeless Bride'
+  external:
+    website: https://www.mobygames.com/game/135
+    wikipedia: King%27s Quest VII
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: 'Kingpin: Life of Crime'
+  external:
+    website: >-
+      https://web.archive.org/web/20180816201135/https://www.interplay.com/games/kingpin.php
+    wikipedia: 'Kingpin: Life of Crime'
+  platforms:
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - FPS
+
+- name: Klondike
+  names:
+  - Solitaire
+  external:
+    wikipedia: Microsoft Solitaire
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Card Game
+
+- name: Knights
+  external:
+    wikipedia: Knights (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Knight Online
+  external:
+    wikipedia: Knight Online
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+
+- name: Knights and Merchants
+  external:
+    wikipedia: Knights and Merchants
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Medieval
+
+- name: Knytt Stories
+  external:
+    wikipedia: Nicklas Nygren
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Platform
+
+- name: Kroz
+  external:
+    wikipedia: Kroz
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Roguelike
+    themes:
+    - Fantasy
+
+- name: Krush, Kill 'n' Destroy
+  names:
+  - KKND
+  - "Krush, Kill 'n' Destroy Xtreme"
+  - "Krush, Kill 'n' Destroy 2: Krossfire"
+  external:
+    wikipedia: KKnD (series)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Post-Apocalyptic
+    
+- name: Kula World
+  external:
+    wikipedia: Kula World
+  meta:
+    genres:
+    - Platform
+    - Puzzle
+  names:
+  - Roll Away
+  - Kula Quest
+
+- name: Kunio-kun no Nekketsu Soccer League
+  names:
+  - くにおくんの熱血サッカーリーグ
+  external:
+    website: 'https://www.mobygames.com/game/25090/kunio-kun-no-nekketsu-soccer-league/'
+  platforms:
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Xbox One
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: Kusari
+  names:
+  - 鎖
+  external:
+    website: 'https://leaf.aquaplus.jp/product/ksr/'
+    wikipedia: Kusari
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Anime
+
+- name: Kye
+  external:
+    website: 'https://kye.me.uk/'
+    wikipedia: Kye (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle

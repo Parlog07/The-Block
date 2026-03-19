@@ -1,0 +1,1005 @@
+- name: Tabletop Simulator
+  external:
+    website: 'http://berserk-games.com/tabletop-simulator/'
+    wikipedia: Tabletop Simulator
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    subgenres:
+    - Board Game
+
+- name: Taiko no Tatsujin
+  external:
+    wikipedia: Taiko no Tatsujin
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Rhythm
+
+- name: Tails Adventure
+  external:
+    website: 'https://www.mobygames.com/game/35668/tails-adventure/'
+    wikipedia: Tails Adventure
+  platforms:
+  - 3DS
+  - Game Gear
+  meta:
+    genres:
+    - Action
+    themes:
+    - Anime
+
+- name: Team 47 GoMan
+  external:
+    website: 'https://www.mobygames.com/game/42081/team-47-goman/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Sci-Fi
+
+- name: Team Fortress 2
+  names:
+  - TF2
+  external:
+    website: 'https://www.teamfortress.com/'
+    wikipedia: Team Fortress 2
+  platforms:
+  - Linux
+  - OSX
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+
+- name: Tears to Tiara
+  names:
+  - ティアーズ・トゥ・ティアラ
+  external:
+    website: 'https://leaf.aquaplus.jp/product/ttt/'
+    wikipedia: Tears to Tiara
+  platforms:
+  - PlayStation 3
+  - PSP
+  - Windows
+  meta:
+    genres:
+    - RPG
+    - Turn-Based Tactics
+    themes:
+    - Adult
+    - Anime
+
+- name: Tecmo World Cup Soccer
+  external:
+    website: 'https://www.mobygames.com/game/55016/tecmo-world-cup-soccer/'
+    wikipedia: Tecmo World Cup Soccer
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: Teddy Boy
+  names:
+  - テディボーイブルース
+  external:
+    website: 'https://www.mobygames.com/game/15817/teddy-boy/'
+  platforms:
+  - Arcade
+  - Master System
+  meta:
+    genres:
+    - Platform
+
+- name: Teeter Torture
+  external:
+    website: 'https://www.mamedev.org/roms/teetert/'
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Shooter
+
+- name: Technobabylon
+  external:
+    website: https://www.mobygames.com/game/84775
+    wikipedia: Technobabylon
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Cyberpunk
+  platforms:
+  - iOS
+  - Linux
+  - OSX
+  - Windows
+
+- name: Teen Agent
+  names:
+  - Teenagent
+  external:
+    website: https://www.mobygames.com/game/6423
+    wikipedia: Teenagent
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Espionage
+  platforms:
+  - Amiga
+  - DOS
+  - OSX
+  - Windows
+
+- name: 'Teenage Mutant Ninja Turtles III: The Manhattan Project'
+  external:
+    website: >-
+      https://www.mobygames.com/game/8604/teenage-mutant-ninja-turtles-iii-the-manhattan-project/
+    wikipedia: 'Teenage Mutant Ninja Turtles III: The Manhattan Project'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+
+- name: TekWar
+  names:
+  - William Shatner's TekWar
+  external:
+    wikipedia: Tekwar (game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Tempest
+  external:
+    website: https://www.mobygames.com/game/23846/tempest/
+    wikipedia: Tempest (video game)
+  platforms:
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Web
+  - Windows
+  - Xbox 360
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+
+- name: Tempest 2000
+  external:
+    website: 'https://www.mobygames.com/game/927/tempest-2000/'
+    wikipedia: Tempest 2000
+  platforms:
+  - DOS
+  - Jaguar
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - Shooter
+
+- name: Temptations
+  external:
+    website: 'https://www.mobygames.com/game/28043/temptations/'
+  platforms:
+  - MSX
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Tender Loving Care
+  external:
+    website: https://www.mobygames.com/game/1414
+    wikipedia: Tender Loving Care (video game)
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - iOS
+  - Windows
+
+- name: Tennis
+  names:
+  - テニス
+  external:
+    website: 'https://www.nintendo.com/jp/famicom/software/hvc-te/'
+    wikipedia: Tennis (1984 video game)
+  platforms:
+  - 3DS
+  - Arcade
+  - Game Boy
+  - NES
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Tennis
+
+- name: Terraria
+  external:
+    wikipedia: Terraria
+  meta:
+    genres:
+    - Action
+    - Platform
+    subgenres:
+    - Survival
+    - Sandbox
+    themes:
+    - Fantasy
+
+- name: Test Drive
+  external:
+    wikipedia: Test Drive (video game)
+  meta:
+    genres:
+    - Racing
+
+- name: Test Drive Unlimited
+  external:
+    wikipedia: Test Drive Unlimited
+  meta:
+    genres:
+    - Racing
+  platforms:
+  - Windows
+  - PlayStation 2
+  - PSP
+  - Xbox 360
+
+- name: Tetcolor
+  external:
+    website: 'https://www.mobygames.com/game/144004/tetcolor/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Puzzle
+
+- name: TetriNET
+  external:
+    website: 'https://web.archive.org/web/20070904024957/http://www.tetrinet.org/'
+    wikipedia: TetriNET
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Tetris
+  external:
+    wikipedia: Tetris
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+    themes:
+    - Abstract
+
+- name: Tetris (Game Boy)
+  external:
+    website: 'https://www.nintendo.co.jp/n02/dmg/tra/'
+    wikipedia: Tetris (Game Boy video game)
+  platforms:
+  - 3DS
+  - Game Boy
+  meta:
+    genres:
+    - Puzzle
+
+- name: Tetris Attack
+  external:
+    wikipedia: Tetris Attack
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+    themes:
+    - Abstract
+
+- name: 'Tetris: The Grand Master'
+  external:
+    wikipedia: 'Tetris: The Grand Master'
+  platforms:
+  - Arcade
+  - Nintendo Switch
+  - PlayStation 4
+  - Xbox 360
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+    themes:
+    - Abstract
+
+- name: Theme Hospital
+  external:
+    wikipedia: Theme Hospital
+  meta:
+    genres:
+    - Strategy
+    - Simulation
+    themes:
+    - Management
+    - Comedy
+
+- name: Theme Park
+  external:
+    wikipedia: Theme Park (video game)
+  meta:
+    genres:
+    - Strategy
+    - Simulation
+    themes:
+    - Management
+    - Comedy
+
+- name: Theme Park World
+  names:
+  - Theme Park 2
+  - Sim Theme Park
+  - Theme Park Roller Coaster
+  external:
+    wikipedia: Theme Park World
+  platforms:
+  - Classic Mac OS
+  - PlayStation
+  - PlayStation 2
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Management
+
+- name: Thief
+  external:
+    wikipedia: Thief (series)
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Crime
+    - Fantasy
+
+- name: Thimbleweed Park
+  external:
+    wikipedia: Thimbleweed Park
+  platforms:
+  - Android
+  - iOS
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Crime
+
+- name: Thirty Flights of Loving
+  external:
+    website: 'https://blendogames.com/thirtyflightsofloving/'
+    wikipedia: Thirty Flights of Loving
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: Three Dirty Dwarves
+  external:
+    website: 'https://www.mobygames.com/game/5859/three-dirty-dwarves/'
+    wikipedia: Three Dirty Dwarves
+  platforms:
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - Action
+    themes:
+    - Fantasy
+
+- name: Threes
+  external:
+    website: https://asherv.com/threes/
+  platforms:
+  - Android
+  - iOS
+  meta:
+    genres:
+    - Puzzle
+
+- name: Thromolus
+  external:
+    website: http://hol.abime.net/1386
+  meta:
+    genres:
+    - Puzzle
+
+- name: Thrust
+  external:
+    wikipedia: Thrust (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Thunder Force IV
+  names:
+  - 'Lightening Force: Quest for the Darkstar'
+  external:
+    website: 'https://www.mobygames.com/game/6640/lightening-force-quest-for-the-darkstar/'
+    wikipedia: Thunder Force IV
+  platforms:
+  - Genesis
+  - Nintendo Switch
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Time Commando
+  external:
+    wikipedia: Time Commando
+  platforms:
+  - DOS
+  - PlayStation
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Sci-Fi
+
+- name: Time Gal
+  external:
+    website: https://www.mobygames.com/game/13496
+    wikipedia: Time Gal
+  meta:
+    genres:
+    - Action
+    - Arcade
+    themes:
+    - Sci-Fi
+  platforms:
+  - Android
+  - Arcade
+  - Classic Mac OS
+  - iOS
+  - MSX
+  - Sega CD
+  - Windows
+
+- name: Time Zone
+  names:
+  - 'Hi-Res Adventure #5'
+  external:
+    website: https://www.mobygames.com/game/15283
+    wikipedia: Time Zone (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Apple II
+  - FM Towns
+  - PC-98
+
+- name: Tiny Trek
+  external:
+    website: 'https://www.mobygames.com/game/110787/tiny-trek/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Tiny Wings
+  external:
+    wikipedia: Tiny Wings
+  meta:
+    genres:
+    - Arcade
+
+- name: Titus the Fox
+  external:
+    wikipedia: Titus the Fox
+  meta:
+    genres:
+    - Platform
+  names:
+  - Moktar
+
+- name: ToHeart2
+  external:
+    website: 'https://aquaplus.jp/th2/'
+    wikipedia: To Heart 2
+  platforms:
+  - Game Boy
+  - PlayStation 2
+  - PlayStation 3
+  - PSP
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: The Tomb of Drewan
+  external:
+    website: 'https://www.mobygames.com/game/130185/the-tomb-of-drewan/'
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Tomb Raider
+  external:
+    wikipedia: Tomb Raider
+  meta:
+    genres:
+    - Platform
+    - Adventure
+    - Action
+
+- name: Tomb Raider II
+  external:
+    website: 'https://www.mobygames.com/game/487/tomb-raider-ii/'
+    wikipedia: Tomb Raider II
+  platforms:
+  - Classic Mac OS
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Tomb Raider Chronicles
+  names:
+  - 'Tomb Raider 5: Chronicles'
+  external:
+    wikipedia: Tomb Raider Chronicles
+  meta:
+    genres:
+    - Action
+    - TPS
+    - Adventure
+  platforms:
+  - Windows
+
+- name: Tomoyo After
+  names:
+  - "Tomoyo After: It's a Wonderful Life"
+  - "智代アフター 〜It's a Wonderful Life〜"
+  - ともよアフター - イッツ ア ワンダフル ライフ
+  external:
+    website: 'https://key.visualarts.gr.jp/product/tomoyo/'
+    wikipedia: "Tomoyo After: It's a Wonderful Life"
+  platforms:
+  - Android
+  - Nintendo Switch
+  - PlayStation 2
+  - PlayStation 3
+  - PSP
+  - Windows
+  - Xbox 360
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Tony Tough and the Night of Roasted Moths
+  external:
+    website: https://www.mobygames.com/game/7659
+    wikipedia: Tony Tough and the Night of Roasted Moths
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+
+- name: Toobz
+  external:
+    website: https://www.mobygames.com/game/toobz
+  meta:
+    genres:
+    - Puzzle
+  platforms:
+  - Amiga
+
+- name: Toonstruck
+  external:
+    website: https://www.mobygames.com/game/518
+    wikipedia: Toonstruck
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+  platforms:
+  - DOS
+  - Linux
+  - OSX
+  - Windows
+
+- name: Top Gun
+  external:
+    website: 'https://www.mobygames.com/game/36808/top-gun/'
+    wikipedia: Top Gun (1987 video game)
+  platforms:
+  - Arcade
+  - NES
+  meta:
+    genres:
+    - Arcade
+    - Flight
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Modern Military
+
+- name: Torin's Passage
+  external:
+    website: https://www.mobygames.com/game/1228
+    wikipedia: Torin%27s Passage
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Tornado
+  external:
+    website: 'https://www.mobygames.com/game/6297/tornado/'
+    wikipedia: Tornado (1993 video game)
+  platforms:
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Flight
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    - Vehicular Combat
+
+- name: The Tortoise and the Hare
+  external:
+    website: https://www.mobygames.com/game/44804
+  meta:
+    genres:
+    - Educational
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Total Annihilation
+  external:
+    wikipedia: Total Annihilation
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: 'Touché: The Adventures of the Fifth Musketeer'
+  external:
+    website: https://www.mobygames.com/game/1114
+    wikipedia: 'Touché: The Adventures of the Fifth Musketeer'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - DOS
+  - Windows
+
+- name: Touhou
+  external:
+    wikipedia: Touhou Project
+  meta:
+    genres:
+    - Shmup
+    subgenres:
+    - Bullet Hell
+    themes:
+    - Anime
+
+- name: Tower Bloxx Mini
+  external:
+    website: 'https://www.mobygames.com/game/164957/tower-bloxx-mini/'
+  platforms:
+  - Mobile
+  meta:
+    genres:
+    - Action
+    - Puzzle
+
+- name: TrackMania
+  external:
+    wikipedia: TrackMania
+  meta:
+    genres:
+    - Racing
+
+- name: Transport Tycoon
+  names:
+  - Transport Tycoon Deluxe
+  external:
+    wikipedia: Transport Tycoon
+  meta:
+    genres:
+    - Strategy
+    - Simulation
+    themes:
+    - Management
+
+- name: Transylvania
+  external:
+    website: https://www.mobygames.com/game/91
+    wikipedia: Transylvania (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Horror
+  platforms:
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - PC-98
+
+- name: Tranz Am
+  external:
+    wikipedia: Tranz Am
+  meta:
+    genres:
+    - Arcade
+
+- name: Tread Marks
+  external:
+    website: 'https://longbowgames.com/treadmarks/'
+    wikipedia: Tread Marks
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Racing
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Trevor McFur in the Crescent Galaxy
+  external:
+    wikipedia: Trevor McFur in the Crescent Galaxy
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Tribal Trouble
+  external:
+    website: 'https://web.archive.org/web/20070804052802/http://tribaltrouble.com/'
+    wikipedia: Tribal Trouble
+  platforms:
+  - OSX
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Tricky Towers
+  platforms:
+  - Windows
+  external:
+    wikipedia: Tricky Towers
+  meta:
+    genres:
+    - Puzzle
+
+- name: Triplane Turmoil
+  external:
+    website: >-
+      https://web.archive.org/web/20061111232112/https://www.megabaud.fi/~teemut/triplane.html
+    wikipedia: Triplane Turmoil
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Flight
+
+- name: Triple Triad
+  external:
+    website: http://finalfantasy.wikia.com/wiki/Triple_Triad
+  meta:
+    genres:
+    - Card Game
+
+- name: Troll's Tale
+  external:
+    website: https://www.mobygames.com/game/7271
+    wikipedia: Troll%27s Tale
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+
+- name: Tron
+  external:
+    wikipedia: Tron (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Trust & Betrayal: The Legacy of Siboot'
+  external:
+    website: >-
+      https://www.mobygames.com/game/24452/trust-and-betrayal-the-legacy-of-siboot/
+    wikipedia: 'Trust & Betrayal: The Legacy of Siboot'
+  platforms:
+  - Classic Mac OS
+  - DOS
+  meta:
+    genres:
+    - Educational
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: Tube
+  external:
+    website: 'https://www.mobygames.com/game/2233/tube/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Racing
+    themes:
+    - Sci-Fi
+
+- name: Tunneler
+  external:
+    website: 'https://www.mobygames.com/game/11278/tunneler/'
+  meta:
+    genres:
+    - Action
+    - Strategy
+
+- name: Turmoil
+  external:
+    wikipedia: Turmoil (1984 video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Turnabout
+  external:
+    wikipedia: Turnabout (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Turok
+  external:
+    wikipedia: Turok (video game)
+  meta:
+    genres:
+    - FPS
+
+- name: Turrican
+  external:
+    wikipedia: Turrican
+  meta:
+    genres:
+    - Shmup
+
+- name: Tutankham
+  external:
+    website: 'https://www.arcade-museum.com/Videogame/tutankham'
+    wikipedia: Tutankham
+  platforms:
+  - Arcade
+  - Atari
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Shooter
+
+- name: Tyrian
+  names:
+  - Tyrian 2000
+  external:
+    wikipedia: Tyrian (video game)
+  meta:
+    genres:
+    - Shmup
+    themes:
+    - Sci-Fi

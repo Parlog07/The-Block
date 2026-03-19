@@ -1,0 +1,734 @@
+- name: 'Gabriel Knight: Sins of the Fathers'
+  external:
+    website: https://www.mobygames.com/game/116
+    wikipedia: 'Gabriel Knight: Sins of the Fathers'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Horror
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Galactic Civilizations
+  external:
+    wikipedia: Galactic Civilizations
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Sci-Fi
+
+- name: Galaforce
+  external:
+    website: 'https://www.mobygames.com/game/48896/galaforce/'
+    wikipedia: Galaforce
+  meta:
+    genres:
+    - Shooter
+
+- name: Galaforce 2
+  external:
+    website: 'https://www.mobygames.com/game/187297/galaforce-2/'
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Galcon
+  external:
+    website: https://www.galcon.com/
+    wikipedia: Galcon
+  platforms:
+  - Web
+  - iOS
+  - Android
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Galaxian
+  external:
+    wikipedia: Galaxian
+  meta:
+    genres:
+    - Arcade
+
+- name: Galaga
+  external:
+    website: 'https://galaga.com/'
+    wikipedia: Galaga
+  platforms:
+  - 3DS
+  - Arcade
+  - Atari
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PC-98
+  - PlayStation 4
+  - Wii
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Galaxians
+  external:
+    website: 'https://www.mobygames.com/game/77476/galaxians/'
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: 'Ganbare! Inuchan: Rock''n Roll Edition'
+  external:
+    website: https://www.mobygames.com/game/189552
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Anime
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: 'Ganbare! Inuchan: Trip Around the World'
+  external:
+    website: https://cdrom.ca/games/2022/07/26/ganbare-inuchan.html
+  meta:
+    genres:
+    - Compilation
+  platforms:
+  - Classic Mac OS
+
+- name: Gargoyles
+  external:
+    website: 'https://www.mobygames.com/game/24261/gargoyles/'
+    wikipedia: Gargoyles (video game)
+  platforms:
+  - Genesis
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Gauntlet
+  external:
+    wikipedia: Gauntlet (1985 video game)
+  platforms:
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - Genesis
+  - Master System
+  - MSX
+  - NES
+  - PlayStation
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - Arcade
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Geisha
+  external:
+    website: https://www.mobygames.com/game/3844
+    wikipedia: Geisha (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: Geoff Capes Strongman
+  external:
+    website: 'https://www.mobygames.com/game/17214/geoff-capes-strongman/'
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Wrestling
+
+- name: Geometry Wars
+  external:
+    wikipedia: Geometry Wars
+  meta:
+    genres:
+    - Shmup
+
+- name: Gish
+  external:
+    wikipedia: Gish (video game)
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Comedy
+
+- name: Gikopoi
+  names:
+  - BARギコっぽいONLINE
+  - Bar Gikopoi Online
+  external:
+    website: 'http://l4cs.jpn.org/gikopoi/'
+  platforms:
+  - Web
+
+- name: GJID
+  external:
+    website: 'https://dosgames.com/game/gjid/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Puzzle
+
+- name: Gladiator
+  external:
+    wikipedia: Gladiator
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: Glest
+  external:
+    wikipedia: Glest
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Medieval
+    - Fantasy
+
+- name: Glider
+  external:
+    website: http://www.softdorothy.com/Glider.html
+    wikipedia: Glider (video game)
+  platforms:
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Action
+
+- name: Glitch
+  external:
+    website: 'https://web.archive.org/web/20131209034741/http://www.glitchthegame.com/'
+    wikipedia: Glitch (video game)
+  platforms:
+  - Web
+  meta:
+    genres:
+    - MMORPG
+
+- name: Gloom
+  external:
+    wikipedia: Gloom (video game)
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Gloom (Quake)
+  external:
+    website: http://www.planetgloom.com
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Glover
+  external:
+    website: 'https://www.mobygames.com/game/3145/glover/'
+    wikipedia: Glover (video game)
+  platforms:
+  - N64
+  - Nintendo Switch
+  - PlayStation
+  - PlayStation 4
+  - PlayStation 5
+  - Web
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Platform
+    - Puzzle
+
+- name: Glypha III
+  external:
+    website: 'https://www.mobygames.com/game/23576/glypha-iii/'
+  platforms:
+  - Classic Mac OS
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Gobliiins
+  external:
+    website: https://www.mobygames.com/game/1154
+    wikipedia: Gobliiins
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - CD-i
+  - DOS
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: 'Gobliins 2: The Prince Buffoon'
+  external:
+    website: https://www.mobygames.com/game/2625
+    wikipedia: 'Gobliiins#Gobliins 2: The Prince Buffoon'
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Goblins Quest 3
+  external:
+    website: https://www.mobygames.com/game/2870
+    wikipedia: Gobliiins#Goblins Quest 3
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: God of Thunder
+  external:
+    website: 'https://www.adeptsoftware.com/got/'
+    wikipedia: God of Thunder (video game)
+  platforms:
+  - DOS
+  - Linux
+  meta:
+    genres:
+    - Puzzle
+
+- name: Gods
+  external:
+    wikipedia: Gods (video game)
+  meta:
+    genres:
+    - Platform
+
+- name: Gold Rush!
+  external:
+    website: https://www.mobygames.com/game/440
+    wikipedia: Gold Rush!
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Western
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - DOS
+  - Classic Mac OS
+
+- name: The Golden Voyage
+  external:
+    website: 'https://www.mobygames.com/game/29321/the-golden-voyage/'
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - Web
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: A Golden Wake
+  external:
+    website: https://www.mobygames.com/game/71204
+    wikipedia: A Golden Wake
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Linux
+  - Classic Mac OS
+  - Windows
+
+- name: GoldenEye 007
+  external:
+    wikipedia: GoldenEye 007 (1997 video game)
+  meta:
+    genres:
+    - FPS
+
+- name: Good Robot
+  external:
+    website: 'https://pyrodactyl.com/good-robot/'
+    wikipedia: Good Robot
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: Gorillas
+  names:
+  - GORILLA.BAS
+  external:
+    wikipedia: Gorillas (video game)
+  meta:
+    genres:
+    - Arcade
+    subgenres:
+    - Artillery
+
+- name: Gossip
+  external:
+    website: 'https://www.mobygames.com/game/58182/gossip/'
+    wikipedia: Gossip (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+
+- name: Gothic
+  names:
+  - Gothic II
+  external:
+    wikipedia: Gothic (video game)
+  meta:
+    genres:
+    - RPG
+    - Action
+
+- name: Grand Monster Slam
+  external:
+    website: >-
+      https://web.archive.org/web/20060315165333/http://s64.emuunlim.com/gameinfos/grandmonsterslam/grandmonsterslam.htm
+    wikipedia: Grand Monster Slam
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  meta:
+    genres:
+    - Sports
+
+- name: Grand Theft Auto
+  external:
+    wikipedia: Grand Theft Auto (video game)
+  meta:
+    genres:
+    - Action
+    - Adventure
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Grand Theft Auto 2
+  external:
+    wikipedia: Grand Theft Auto 2
+  meta:
+    genres:
+    - Action
+    - Adventure
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Grand Theft Auto III
+  external:
+    wikipedia: Grand Theft Auto III
+  meta:
+    genres:
+    - Action
+    - Adventure
+    subgenres:
+    - Sandbox
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: "Grand Theft Auto: San Andreas"
+  external:
+    wikipedia: "Grand Theft Auto: San Andreas"
+  meta:
+    genres:
+    - Action
+    - Adventure
+    subgenres:
+    - Sandbox
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: 'Grand Theft Auto: Vice City'
+  external:
+    wikipedia: 'Grand Theft Auto: Vice City'
+  platforms:
+  - Android
+  - iOS
+  - OSX
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - Action
+    - Adventure
+    subgenres:
+    - Sandbox
+    - Vehicular Combat
+    themes:
+    - Crime
+
+- name: Gravity Bone
+  external:
+    website: 'https://blendogames.com/gravitybone/'
+    wikipedia: Gravity Bone
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Espionage
+
+- name: Gravity Force
+  external:
+    wikipedia: Gravity Force
+  meta:
+    genres:
+    - Arcade
+
+- name: Gravity Force 2
+  names:
+  - Gravity Power
+  external:
+    website: 'https://www.mobygames.com/game/7422/gravity-force-2/'
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Shooter
+
+- name: The Great Escape
+  external:
+    wikipedia: The Great Escape (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: The Great Giana Sisters
+  external:
+    wikipedia: The Great Giana Sisters
+  meta:
+    genres:
+    - Platform
+
+- name: Green Eggs and Ham
+  external:
+    website: https://www.mobygames.com/game/71853
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Gregory and the Hot Air Balloon
+  external:
+    website: https://www.mobygames.com/game/99115
+    wikipedia: Gregory and the Hot Air Balloon
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: The Griffon Legend
+  external:
+    website: http://syn9.thehideoutgames.com/index_backup.php?table=griffonlegend
+  meta:
+    genres:
+    - Adventure
+    - Action
+    themes:
+    - Fantasy
+  platforms:
+  - Windows
+
+- name: Grim Fandango
+  external:
+    wikipedia: Grim Fandango
+  meta:
+    genres:
+    - Adventure
+
+- name: Grizzly Adventures
+  external:
+    website: 'https://apps.apple.com/us/app/grizzly-bear-platformer/id413938360?mt=12'
+  platforms:
+  - iOS
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Platform
+
+- name: Gruntz
+  external:
+    wikipedia: Gruntz
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Strategy
+    - Puzzle
+
+- name: The Guild of Thieves
+  external:
+    website: https://www.mobygames.com/game/1323
+    wikipedia: The Guild of Thieves
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Acorn 32-bit
+  - Amstrad CPC
+  - Apple II
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+
+- name: Guitar Hero
+  external:
+    wikipedia: Guitar Hero
+  meta:
+    genres:
+    - Rhythm
+
+- name: Gunbound
+  external:
+    website: 'http://www.gunbound.com/'
+    wikipedia: Gunbound
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Strategy
+    subgenres:
+    - Artillery
+
+- name: Gunocide II
+  external:
+    website: 'https://web.archive.org/web/20020922043325/http://gunocide.polyfrag.com/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Shooter
+
+- name: Gunpoint
+  external:
+    wikipedia: Gunpoint (video game)
+  meta:
+    genres:
+    - Platform
+    - Puzzle
+    themes:
+    - Sci-Fi
+
+- name: Gwent
+  external:
+    wikipedia: 'Gwent: The Witcher Card Game'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - Board Game
+    themes:
+    - Fantasy

@@ -1,0 +1,2602 @@
+- name: Tabletop Club
+  originals:
+  - Tabletop Simulator
+  type: clone
+  repo: 'https://github.com/drwhut/tabletop-club'
+  url: 'https://drwhut.itch.io/tabletop-club'
+  feed: 'https://drwhut.itch.io/tabletop-club/devlog.rss'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  content: open
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - MIT
+  added: 2023-04-22
+  updated: 2023-09-03
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMTYwMjM5My8xMDU0MjAxMy5wbmc=/original/vlCQUL.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTYwMjM5My8xMDU0MjAxNi5wbmc=/original/NTGyyx.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTYwMjM5My8xMDU0MjAxNS5wbmc=/original/GKLYCF.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTYwMjM5My8xMDU0MjAxNC5wbmc=/original/KI92bw.png'
+  - >-
+    https://img.itch.zone/aW1hZ2UvMTYwMjM5My8xMDU0MjAxNy5wbmc=/original/weI%2FrN.png
+
+- name: tae-wondle
+  originals:
+  - Wordle
+  type: clone
+  repo: 'https://github.com/ytw0728/tae_wondle'
+  url: 'https://crates.io/crates/tae-wondle'
+  development: halted
+  status: playable
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2025-10-07
+  updated: 2025-10-07
+
+- name: Tails Adventure Remake
+  originals:
+  - Tails Adventure
+  type: remake
+  repo: 'https://github.com/mechakotik/tails-adventure'
+  feed: 'https://github.com/mechakotik/tails-adventure/releases.atom'
+  development: active
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL3
+  licenses:
+  - GPL3
+  added: 2025-07-02
+  updated: 2025-07-02
+  images:
+  - https://play-lh.googleusercontent.com/sSE5xvwlQHznfYl9qEkSVeIp9o3Y8Jwp2oqihxbOTiyXZk5XOBAnAyW8XyEcfgXYHzgz=w1052-h592-rw
+  - https://play-lh.googleusercontent.com/3LvOI6uGHvW9CMzPD9x2aBU_6pPY2F1uNZ5IyGCXKjK8YnDw-Pe4HPpNi0YOcoaGag=w1052-h592-rw
+  - https://play-lh.googleusercontent.com/5b7ro250n4u8dq5EFo0VmA7iHOr5OUHSVKGSeYZvpC_H5-tcjqOnPj_A_NdS4ZTqA8Q=w1052-h592-rw
+  - https://play-lh.googleusercontent.com/NgusYN3gEgePqIXiNWvN3GaYeD3G1IReknQf3KsCtltz7Qa-86c-TaewIYwbXwuOLhE=w1052-h592-rw
+  - https://play-lh.googleusercontent.com/NSqaEWa9b8Ixzpm4KnSUOqvjac9Qa6XlO2bYbcXqI9DTQ1Uwz4KXQdsup2y5_gn9VLM=w1052-h592-rw
+  - https://play-lh.googleusercontent.com/l7E0j0lee6ioyKXEiNDr2LEVpTwjhDwbLPLfo9oAOsQ_BsI75b8YQwQCV4sgi5af=w1052-h592-rw
+
+- name: Taisei Project
+  development: sporadic
+  feed: https://taisei-project.org/news.atom
+  images:
+  - https://taisei-project.org/static/screenshots/009_1.4/taisei_20230908_01-32-03-510.png
+  - https://taisei-project.org/static/screenshots/009_1.4/taisei_20230908_01-34-30-656.png
+  - https://taisei-project.org/static/screenshots/009_1.4/taisei_20230908_01-39-12-483.png
+  - https://taisei-project.org/static/screenshots/009_1.4/taisei_20230908_01-48-08-312.png
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  content: open
+  originals:
+  - Touhou
+  repo: https://github.com/taisei-project/taisei
+  status: playable
+  type: remake
+  added: 2014-04-16
+  updated: 2025-01-13
+  url: https://taisei-project.org/
+  video:
+    youtube: mDU_OOzjgJk
+
+- name: Tanglet
+  originals:
+  - Boggle
+  type: clone
+  url: 'https://gottcode.org/tanglet/'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - Qt
+  licenses:
+  - GPL3
+  added: '2024-10-31'
+  updated: '2024-10-31'
+  images:
+  - 'https://gottcode.org/tanglet/screenshots/newgame.png'
+  - 'https://gottcode.org/tanglet/screenshots/tanglet.png'
+  - 'https://gottcode.org/tanglet/screenshots/normal-en.png'
+  - 'https://gottcode.org/tanglet/screenshots/large-en.png'
+  - 'https://gottcode.org/tanglet/screenshots/language.png'
+
+- name: 'Tank: Zone of Death'
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Battle City
+  status: playable
+  repo: https://github.com/les-sosna/tzod
+  type: clone
+  added: 2015-04-06
+  updated: 2019-03-27
+  url: https://zod.fandom.com/ru/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F
+  images:
+  - https://vignette.wikia.nocookie.net/zod/images/7/76/Ss04.jpg/revision/latest?cb=20070528214052&path-prefix=ru
+
+- name: Tank2004
+  originals:
+  - Battle City
+  type: clone
+  repo: >-
+    https://lava.codingmiao.com/assets/app/%E5%9D%A6%E5%85%8B2004/assets/source_code/%E5%9D%A6%E5%85%8B2004.txt
+  url: >-
+    https://web.archive.org/web/20060709004251/http://www.ggv.com.cn/faq/gvmaker/1.htm#:~:text=%EF%BC%9A-,%E5%9D%A6%E5%85%8B2004
+  development: complete
+  status: playable
+  langs:
+  - GVmaker
+  licenses:
+  - Custom
+  info: >-
+    Tank2004 (坦克2004) is a Battle City clone designed for a handheld e-dictionary
+    called "文曲星".
+  added: 2026-01-15
+  updated: 2026-01-15
+  images:
+  - https://web.archive.org/web/20060508013027im_/http://www.ggv.com.cn/faq/gvmaker/images/tank2004.gif
+
+- name: Tank2004 for TI68K
+  originals:
+  - Battle City
+  type: clone
+  url: 'https://www.ticalc.org/archives/files/fileinfo/455/45560.html'
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: A port of Tank2004 on e-dictionary.
+  added: 2026-01-21
+  updated: 2026-01-21
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/846/84608.gif'
+  - 'https://www.ticalc.org/archives/files/ss/846/84613.gif'
+  - 'https://www.ticalc.org/archives/files/ss/846/84610.gif'
+  - 'https://www.ticalc.org/archives/files/ss/846/84609.gif'
+
+- name: Tanks of Freedom
+  development: halted
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  images:
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE0LnBuZw==/original/J6vtQ7.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE1LnBuZw==/original/gImrfN.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE2LnBuZw==/original/XVjOWC.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE3LnBuZw==/original/su8X9E.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE4LnBuZw==/original/B09cQ0.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjE5LnBuZw==/original/9SgW%2B5.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjEyLnBuZw==/original/gu7IPO.png
+  - https://img.itch.zone/aW1hZ2UvMTc3MDUvMjI3MjEzLnBuZw==/original/jnKla4.png
+  licenses:
+  - MIT
+  multiplayer:
+  - Online
+  - Hotseat
+  content: open
+  originals:
+  - Advance Wars
+  status: playable
+  repo: https://github.com/w84death/Tanks-of-Freedom
+  type: clone
+  added: 2018-04-09
+  updated: 2025-01-24
+  url: https://w84death.itch.io/tanks-of-freedom
+  info: development continued in sequel Tanks of Freedom II
+  video:
+    youtube: Y7w5VhvG8hA
+
+- name: Tanks of Freedom II
+  originals:
+  - Advance Wars
+  type: clone
+  repo: 'https://github.com/P1X-in/tanks-of-freedom-ii'
+  url: 'https://czlowiekimadlo.itch.io/tanks-of-freedom-ii'
+  feed: 'https://czlowiekimadlo.itch.io/tanks-of-freedom-ii/devlog.rss'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  content: open
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - MIT
+  info: Indie Turn Based Strategy in Isometric Voxel Art
+  added: '2025-01-24'
+  updated: '2025-01-24'
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMTUxNjgwNC84ODQ1MTUzLnBuZw==/original/Cv8DHI.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTUxNjgwNC84ODQ1MTU0LnBuZw==/original/qfcCc7.png'
+  - >-
+    https://img.itch.zone/aW1hZ2UvMTUxNjgwNC84ODQ1MTU2LnBuZw==/original/GZj%2FwH.png
+  - 'https://img.itch.zone/aW1hZ2UvMTUxNjgwNC84ODQ1MTU3LnBuZw==/original/BA6RsP.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTUxNjgwNC8xMDg5NDc5OS5wbmc=/original/TP41Bk.png'
+
+- name: Tapir
+  images:
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/vxace-title.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/vx-title.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/xp-title.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/talk1.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/enter-battle1.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/battle1.png
+  - https://raw.githubusercontent.com/qnighy/tapir/master/imgs/talk2.png
+  info: RGSS compatible runtime (RPG Maker XP, VX, and VX Ace)
+  langs:
+  - C
+  - Ruby
+  frameworks:
+  - SDL2
+  licenses:
+  - Apache
+  - MIT
+  development: halted
+  status: playable
+  originals:
+  - RPG Maker
+  repo: https://github.com/qnighy/tapir
+  type: remake
+  added: 2019-08-22
+  updated: 2023-09-05
+  url: https://qnighy.github.io/tapir/
+
+- name: Taradino
+  originals:
+  - Rise of the Triad
+  type: remake
+  repo: 'https://github.com/fabiangreffrath/taradino'
+  feed: 'https://github.com/fabiangreffrath/taradino/releases.atom'
+  development: active
+  status: semi-playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  added: 2025-09-26
+  updated: 2025-09-26
+
+- name: TaxiPilot
+  originals:
+  - Space Taxi
+  type: clone
+  repo: 'http://sourceforge.net/projects/taxipilot'
+  url: 'https://taxipilot.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/taxipilot/news/feed.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  added: 2025-07-27
+  updated: 2025-07-27
+  images:
+  - 'https://images.pling.com/img/00/00/01/28/52/1109411/9906-1.jpg'
+  - 'https://images.pling.com/img/00/00/01/28/52/1109411/9906-2.jpg'
+  - 'https://images.pling.com/img/00/00/01/28/52/1109411/9906-3.jpg'
+
+- name: TclRobots
+  originals:
+  - CROBOTS
+  type: similar
+  repo: 'https://github.com/jonasferry/TclRobots'
+  url: 'https://web.archive.org/web/20140104074744/http://tclrobots.org/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  langs:
+  - Tcl
+  licenses:
+  - BSD
+  added: 2026-01-12
+  updated: 2026-01-12
+  images:
+  - 'https://corewar.co.uk/screenshots/tclrobots.png'
+
+- name: TCGS-BLOCK
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://main.aminet.net/package/game/shoot/tcgsblock-os4'
+  url: 'https://www.fumi2kick.com/pspapp/#004'
+  development: halted
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - As-is
+  added: 2026-03-06
+  updated: 2026-03-06
+  images:
+  - 'https://www.fumi2kick.com/pspapp/dev_ss_004.jpg'
+  - 'https://www.fumi2kick.com/pspapp/dev_ss_005.jpg'
+
+- name: TDEPacman
+  originals:
+  - Pac-Man
+  type: clone
+  repo: https://scm.trinitydesktop.org/gitea/TDE/tdepacman
+  feed: 'https://git.trinitydesktop.org/cgit/tdepacman/atom/?h=master'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  info: A pacman clone game for Trinity Desktop Environment.
+  added: 2025-10-31
+  updated: 2025-10-31
+
+- name: Team-47-GoMan
+  originals:
+  - Team 47 GoMan
+  type: official
+  repo: 'https://github.com/Fissuras/Team-47-GoMan/'
+  url: 'https://web.archive.org/web/19990417064750/http://www.47-tek.com/source.htm'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - DirectX
+  licenses:
+  - As-is
+  added: 2025-12-19
+  updated: 2025-12-19
+
+- name: Teeter Torture
+  originals:
+  - Teeter Torture
+  type: remake
+  repo: 'http://www.newbreedsoftware.com/teetertorture/download/'
+  url: 'http://www.newbreedsoftware.com/teetertorture/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  info: This is rendition of a classic arcade game prototype of the same name.
+  added: 2025-10-29
+  updated: 2025-10-29
+  images:
+  - https://web.archive.org/web/20240430212427if_/http://www.newbreedsoftware.com/teetertorture/screenshots/teeter-torture-prev.png
+  video:
+    youtube: smYYKU3U1SU
+
+- name: TecnoballZ
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://github.com/brunonymous/tecnoballz'
+  url: 'https://linux.tlk.fr/games/TecnoballZ/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  info: ported from the Commodore Amiga
+  added: '2025-02-18'
+  updated: '2025-02-18'
+  images:
+  - >-
+    https://linux.tlk.fr/games/TecnoballZ/screenshots/enlarge/tecnoballz_linux1.png
+  - >-
+    https://linux.tlk.fr/games/TecnoballZ/screenshots/enlarge/tecnoballz_linux2.png
+  - >-
+    https://linux.tlk.fr/games/TecnoballZ/screenshots/enlarge/tecnoballz_linux3.png
+  - >-
+    https://linux.tlk.fr/games/TecnoballZ/screenshots/enlarge/tecnoballz_linux4.png
+  - >-
+    https://linux.tlk.fr/games/TecnoballZ/screenshots/enlarge/tecnoballz_linux5.png
+
+- name: TekWar
+  originals:
+  - TekWar
+  type: official
+  repo: 'https://github.com/videogamepreservation/tekwar'
+  url: 'http://www.dukertcm.com/knowledge-base/downloads-rtcm/src-tekwar-source/'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2026-02-08
+  updated: 2026-02-08
+
+- name: TekwarGDX
+  originals:
+  - TekWar
+  type: remake
+  repo: 'https://gitlab.com/m210/TekwarGDX'
+  url: 'https://m210.duke4.net/'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  frameworks:
+  - libGDX
+  licenses:
+  - Custom
+  added: 2020-01-05
+  updated: 2025-01-21
+  video:
+    youtube: 0U7EpJlf6-o
+
+- name: Teletext Elite
+  originals:
+  - Elite
+  type: remake
+  repo: 'https://github.com/markmoxon/teletext-elite'
+  url: 'https://elite.bbcelite.com/hacks/teletext_elite.html'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Teletext Elite is the full and unabridged disc version of BBC Micro Elite,
+    converted to run in the BBC Micro's teletext screen mode.
+  added: 2025-12-22
+  updated: 2025-12-22
+  images:
+  - 'https://elite.bbcelite.com/images/teletext_elite/title.png'
+  - 'https://elite.bbcelite.com/images/teletext_elite/saturn.png'
+  - 'https://elite.bbcelite.com/images/teletext_elite/status.png'
+  - 'https://elite.bbcelite.com/images/teletext_elite/data_on_system.png'
+  - 'https://elite.bbcelite.com/images/teletext_elite/short-range_chart.png'
+  - 'https://elite.bbcelite.com/images/teletext_elite/market_prices.png'
+
+- name: Tempest Code Project
+  originals:
+  - Tempest
+  type: remake
+  repo: >-
+    https://web.archive.org/web/20150929202131if_/http://www.ionpool.net/arcade/tempest_code_project/136002.txt
+  url: >-
+    https://web.archive.org/web/20170704084629/http://ionpool.net/arcade/tempest_code_project/tempest_code_project.html
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Hotseat
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-23
+  updated: 2026-02-23
+  images:
+  - https://web.archive.org/web/20150929204527if_/http://www.ionpool.net/arcade/tempest_code_project/tempest_debugger1.gif
+  - https://web.archive.org/web/20150929204527if_/http://www.ionpool.net/arcade/tempest_code_project/tempest_debugger2.gif
+
+- name: temptations
+  originals:
+  - Temptations
+  type: remake
+  repo: 'https://github.com/pipagerardo/temptations'
+  url: >-
+    https://web.archive.org/web/20211118052122/https://sites.google.com/site/temptationsremake/
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  added: '2025-04-20'
+  updated: '2025-04-20'
+  images:
+  - >-
+    https://web.archive.org/web/20201026043030if_/https://sites.google.com/site/temptationsremake/home/Imagen_Principal.png
+  - >-
+    https://web.archive.org/web/20201026043029if_/https://sites.google.com/site/temptationsremake/home/Temptations.png
+  - >-
+    https://web.archive.org/web/20220121044103im_/https://sites.google.com/site/temptationsremake/_/rsrc/1446558139140/home/control_t%C3%A1ctil.png
+
+- name: tenpest
+  originals:
+  - Tempest
+  type: clone
+  repo: 'http://www.newbreedsoftware.com/atari/nomam2016/tenpest.txt'
+  url: 'http://www.newbreedsoftware.com/atari/nomam2016/tenpest.html'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: For the NOMAM 2016 "Basic 10-Liners" contest.
+  added: 2026-02-20
+  updated: 2026-02-20
+  images:
+  - https://web.archive.org/web/20250105222049if_/http://www.newbreedsoftware.com/atari/nomam2016/tenpest.png
+
+- name: Terasology
+  langs:
+  - Java
+  frameworks:
+  - OpenGL
+  licenses:
+  - Apache
+  content: open
+  development: sporadic
+  originals:
+  - Minecraft
+  repo: https://github.com/MovingBlocks/Terasology
+  feed: https://github.com/MovingBlocks/Terasology/releases.atom
+  status: playable
+  type: remake
+  added: 2014-08-20
+  updated: 2025-01-22
+  url: https://terasology.org/
+  images:
+  - https://terasology.org/static/7a1748f57787e6b191d9f87d6bf63a50/7902e/View_from_the_Lake_3.webp
+  - https://terasology.org/static/63b0addd8615d0fab34b6cb2c40251da/7902e/View_from_the_Lake_2.webp
+  - https://terasology.org/static/85b326bec474916b132b0926e91cfb5b/7902e/View_from_the_Lake_1.webp
+  - https://terasology.org/static/8bfe0f8ce02b19905c55c961db7821a3/ad93b/The_Rock.webp
+  - https://terasology.org/static/822633d6784e01209e433de537fdd8f8/e9a7f/Stonehenge_in_Lost.webp
+  - https://terasology.org/static/203692816a0d1bdfe5c3f0f1f0745e79/ad93b/Spring_Time.webp
+  video:
+    youtube: Wpa2aiadwE8
+
+- name: terrarium
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - SDL2
+  - Allegro
+  - Box2D
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  originals:
+  - Terraria
+  status: unplayable
+  repo: https://gitlab.com/hydren/terrarium
+  type: clone
+  added: 2015-06-18
+  updated: 2025-01-23
+  images:
+  - https://gitlab.com/hydren/terrarium/-/raw/wiki/screenshots/0.1.9/screenshot.jpg
+  - https://gitlab.com/hydren/terrarium/-/raw/wiki/screenshots/0.1.9/terrarium%200.1.9%20on%20ubuntu%206.06.png
+
+- name: TesBwan
+  originals:
+  - Breakout
+  type: clone
+  url: 'https://www.ocf.berkeley.edu/~pad/game-ti85-tesbwan.html'
+  development: halted
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-24
+  updated: 2026-01-24
+  images:
+  - 'https://www.ocf.berkeley.edu/~pad/screenshots/tesbwan.gif'
+  - 'https://lpg.ticalc.org/archives/files/ss/296/29699.gif'
+  - 'https://lpg.ticalc.org/archives/files/ss/296/29697.gif'
+
+- name: Tetrinetx
+  originals:
+  - TetriNET
+  type: remake
+  repo: 'https://sourceforge.net/projects/tetrinetx/'
+  url: 'https://tetrinetx.sourceforge.net/'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  info: GNU Tetrinet Server.
+  added: 2026-01-06
+  updated: 2026-01-06
+
+- name: Tetris GameBoy Clone
+  originals:
+  - Tetris (Game Boy)
+  type: remake
+  url: 'https://www.ticalc.org/archives/files/fileinfo/370/37035.html'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-03
+  updated: 2026-03-03
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/713/71311.gif'
+  - 'https://www.ticalc.org/archives/files/ss/713/71310.gif'
+
+- name: Tetris Pyxel
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://github.com/mehrdad-mixtape/Tetris_Pyxel/'
+  feed: 'https://github.com/mehrdad-mixtape/Tetris_Pyxel/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - Pyxel
+  licenses:
+  - GPL3
+  added: 2026-01-19
+  updated: 2026-01-19
+  images:
+  - https://raw.githubusercontent.com/mehrdad-mixtape/Tetris_Pyxel/master/images/index.gif
+  - https://github.com/user-attachments/assets/a1d00010-4272-4175-a858-1bb152ff4d8d
+
+- name: Tetris Unlimited
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://sourceforge.net/projects/tetrisunlimited/'
+  url: 'https://web.archive.org/web/20070622150648/http://oginer.webcindario.com/index.php?page=tu_info'
+  feed: 'https://sourceforge.net/p/tetrisunlimited/news/feed.rss'
+  development: complete
+  status: playable
+  multiplayer:
+  - Split-screen
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - GPL2
+  added: 2026-01-13
+  updated: 2026-01-13
+  images:
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7086.jpg'
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7084.jpg'
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7088.jpg'
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7080.jpg'
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7082.jpg'
+  - 'https://a.fsdn.com/con/app/proj/tetrisunlimited/screenshots/7076.jpg'
+
+- name: TetrisPy
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://github.com/mehrdad-mixtape/TetrisPy'
+  feed: 'https://github.com/mehrdad-mixtape/TetrisPy/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - Python
+  licenses:
+  - AGPL3
+  added: 2026-01-21
+  updated: 2026-01-21
+  images:
+  - 'https://raw.githubusercontent.com/mehrdad-mixtape/TetrisPy/master/index.png'
+
+- name: TetriSX
+  originals:
+  - Tetris
+  type: clone
+  url: 'https://www.hpcalc.org/details/6985'
+  development: complete
+  status: playable
+  langs:
+  - RPL
+  licenses:
+  - As-is
+  added: 2026-03-14
+  updated: 2026-03-14
+  images:
+  - 'https://www.hpcalc.org/hp48/games/arcade/sshots/tetrisx.png'
+
+- name: TES3MP
+  originals:
+  - 'The Elder Scrolls III: Morrowind'
+  type: remake
+  repo: 'https://github.com/TES3MP/openmw-tes3mp'
+  url: 'https://tes3mp.com/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: swappable
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  info: TES3MP is a project adding multiplayer functionality to OpenMW
+  added: 2019-01-20
+  updated: 2023-09-07
+  images:
+  - https://media.moddb.com/cache/images/engines/1/1/929/thumb_620x2000/170828b.png
+  - https://media.moddb.com/cache/images/engines/1/1/929/thumb_620x2000/vlcsnap-2983-11-27-07h06m58s509.png
+  - https://media.moddb.com/cache/images/engines/1/1/929/thumb_620x2000/vlcsnap-4274-01-22-03h12m11s414.png
+  - https://media.moddb.com/cache/images/engines/1/1/929/thumb_620x2000/vlcsnap-2432-09-08-08h21m43s889.png
+  - https://media.moddb.com/cache/images/engines/1/1/929/thumb_620x2000/vlcsnap-7947-01-28-20h26m56s612.png
+  video:
+    youtube: aZZ0piRvI58
+    moddb: 1907883
+
+- name: Tetrinet for Linux
+  originals:
+  - TetriNET
+  type: remake
+  repo: 'https://github.com/clientverify/tetrinet'
+  url: 'https://tetrinet.or.cz/'
+  feed: 'https://github.com/clientverify/tetrinet/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  licenses:
+  - As-is
+  added: 2026-01-02
+  updated: 2026-01-02
+
+- name: tetris - Just another Tetris™ clone
+  images:
+  - https://raw.githubusercontent.com/spypunk/tetris/master/img/screenshot_start.png
+  - https://github.com/spypunk/tetris/blob/master/img/screenshot.png?raw=true
+  - https://github.com/spypunk/tetris/blob/master/img/screenshot_pause.png?raw=true
+  - https://github.com/spypunk/tetris/blob/master/img/screenshot_gameover.png?raw=true
+  langs:
+  - Java
+  licenses:
+  - WTFPL
+  content: open
+  originals:
+  - Tetris
+  status: playable
+  repo: https://github.com/spypunk/tetris
+  development: halted
+  type: remake
+  added: 2016-08-19
+  updated: 2023-09-08
+
+- name: Tetris (in C and NCURSES)
+  originals:
+  - Tetris
+  type: remake
+  repo: https://github.com/brenns10/tetris
+  url: https://brennan.io/2015/06/12/tetris-reimplementation/
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  - SDL
+  licenses:
+  - BSD
+  added: 2019-08-28
+  updated: 2019-08-28
+  images:
+  - https://raw.githubusercontent.com/brenns10/tetris/master/tetris.gif
+
+- name: Tetris-CSharp
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://github.com/hayfield/Tetris-CSharp'
+  development: halted
+  status: playable
+  langs:
+  - 'C#'
+  frameworks:
+  - WinForms
+  licenses:
+  - As-is
+  added: 2026-02-11
+  updated: 2026-02-11
+
+- name: textsweeper
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/codeaye/textsweeper'
+  url: 'https://crates.io/crates/textsweeper'
+  development: halted
+  status: playable
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2025-09-18
+  updated: 2025-09-18
+
+- name: Theme Park Builder 3D CAD
+  frameworks:
+  - OpenGL
+  - SDL
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Theme Park
+  status: unplayable
+  type: remake
+  added: 2015-07-04
+  updated: 2019-11-20
+  repo: https://sourceforge.net/projects/tpb3d/
+
+- name: thiefcatcher
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  content: open
+  development: sporadic
+  originals:
+  - Where in the World Is Carmen Sandiego? (1985)
+  status: semi-playable
+  repo: https://github.com/Ponup/thiefcatcher
+  type: remake
+  added: 2015-06-18
+  updated: 2015-06-18
+
+- name: Thirty Flights of Loving
+  originals:
+  - Thirty Flights of Loving
+  type: official
+  repo: 'https://github.com/blendogames/thirtyflightsofloving'
+  url: >-
+    https://web.archive.org/web/20230525134201/https://twitter.com/BlendoGames/status/1272598960444563461#:~:text=Thirty%20Flights%20of%20Loving
+  feed: 'https://blendogames.itch.io/thirtyflightsofloving/devlog.rss'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - id Tech 2
+  licenses:
+  - As-is
+  added: 2026-02-11
+  updated: 2026-02-11
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NjU3LzIyNDA4ODAuanBn/original/ORAeUa.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NjU3LzIyNDA4ODEuanBn/original/XeIWpB.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvNDQ0NjU3LzIyNDA4ODIuanBn/original/pPNzrn.jpg'
+  video:
+    youtube: 5y1P2BUCeuc
+
+- name: Three Dirty Dwarves prototype
+  originals:
+  - Three Dirty Dwarves
+  type: official
+  repo: 'https://hiddenpalace.org/Three_Dirty_Dwarves_(Apr_17,_1996_prototype)'
+  url: 'https://www.segasaturno.com/portal/index.php?topic_id=5241'
+  development: complete
+  status: playable
+  multiplayer:
+  - Local
+  - Co-op
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2026-01-29
+  updated: 2026-01-29
+
+- name: three-descent
+  originals:
+  - Descent
+  type: remake
+  repo: 'https://github.com/mrdoob/three-descent/'
+  url: 'https://mrdoob.github.io/three-descent/'
+  development: very active
+  status: semi-playable
+  content: commercial
+  langs:
+  - JavaScript
+  frameworks:
+  - three.js
+  licenses:
+  - MIT
+  added: 2026-02-15
+  updated: 2026-02-15
+
+- name: three-quake
+  originals:
+  - Quake
+  type: remake
+  repo: 'https://github.com/mrdoob/three-quake'
+  url: 'https://mrdoob.github.io/three-quake/'
+  development: very active
+  status: semi-playable
+  multiplayer:
+  - Competitive
+  - Local
+  - LAN
+  content: commercial
+  langs:
+  - JavaScript
+  frameworks:
+  - three.js
+  licenses:
+  - GPL2
+  added: 2026-02-23
+  updated: 2026-02-23
+  images:
+  - https://pbs.twimg.com/amplify_video_thumb/2015075475496865792/img/Nx_lLMh5q_AzO76T?format=jpg&name=orig
+  - https://pbs.twimg.com/amplify_video_thumb/2015946554214092800/img/uam04EOx6_Qt81Qk?format=jpg&name=orig
+  - https://pbs.twimg.com/media/G_z63XbbUAAtY3L?format=jpg&name=orig
+  - https://pbs.twimg.com/amplify_video_thumb/2017794766797504512/img/c7C4HsKys4P7tO4a?format=jpg&name=orig
+  - https://pbs.twimg.com/media/HAO-6Yza8AEhClo?format=jpg&name=orig
+
+- name: THREEPunchOut
+  frameworks:
+  - three.js
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Punch-Out!!
+  status: playable
+  repo: https://github.com/MattSzik/THREEPunchOut
+  type: clone
+  added: 2015-08-15
+  updated: 2015-08-15
+  url: https://matthewsziklay.github.io/THREEPunchOut/
+
+- name: Threes-C
+  type: clone
+  originals:
+  - Threes
+  repo: https://github.com/harshjv/threes-c
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - MIT
+  added: 2022-12-30
+  updated: 2022-12-30
+  info: Play threes in your terminal!
+  images:
+  - https://camo.githubusercontent.com/f0ee3659eb94d0c43e7032a69b0fd67e9943b0e5b728722e2cea5161e673e1a2/68747470733a2f2f61736369696e656d612e6f72672f612f31383133352e706e67
+
+- name: Threes.el
+  type: clone
+  originals:
+  - Threes
+  repo: https://github.com/xuchunyang/threes.el
+  development: complete
+  status: playable
+  langs:
+  - Emacs Lisp
+  licenses:
+  - GPL3
+  added: 2022-12-30
+  updated: 2022-12-30
+  images:
+  - https://raw.githubusercontent.com/xuchunyang/threes.el/master/screenshot.png
+
+- name: Thrive
+  type: similar
+  originals:
+  - Spore
+  repo: https://github.com/Revolutionary-Games/Thrive
+  url: https://revolutionarygamesstudio.com/
+  feed: https://revolutionarygamesstudio.com/feed/
+  development: very active
+  status: semi-playable
+  langs:
+  - C#
+  frameworks:
+  - Godot
+  licenses:
+  - GPL3
+  content: open
+  info: Only the Microbe stage is playable now, others will come later.
+  added: 2019-05-07
+  updated: 2023-09-11
+  images:
+  - https://camo.githubusercontent.com/fc14c156d22d41e2dde35e414223ff3b1900c2c59d7fcb73bd55cffc8610ed0b/68747470733a2f2f72616e646f6d74687269766566696c65732e622d63646e2e6e65742f73637265656e73686f74732f6769746875625f73637265656e73686f745f312e706e67
+  - https://camo.githubusercontent.com/4e8b03c4f3f682d26142728b9f27ac3a22c143a542912c7a0c922fe5e44802f2/68747470733a2f2f72616e646f6d74687269766566696c65732e622d63646e2e6e65742f73637265656e73686f74732f6769746875625f73637265656e73686f745f322e706e67
+  video:
+    youtube: 4oivc37dK10
+
+- name: thromolusng
+  langs:
+  - Python
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Thromolus
+  status: unplayable
+  repo: https://github.com/segfaulthunter/thromolusng
+  type: remake
+  added: 2015-06-22
+  updated: 2015-06-22
+
+- name: Thrust
+  images:
+  - https://www.lysator.liu.se/~peda/thrust/thrust.gif
+  langs:
+  - C
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Thrust
+  status: playable
+  repo: https://www.lysator.liu.se/~peda/thrust/src/
+  type: remake
+  added: 2015-04-15
+  updated: 2022-07-21
+  url: https://www.lysator.liu.se/~peda/thrust/
+
+- name: Thunder Force IV Rebirth
+  originals:
+  - Thunder Force IV
+  type: remake
+  repo: 'https://github.com/Fissuras/tf4r'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - 'C#'
+  - JavaScript
+  frameworks:
+  - OpenGL
+  - Unity
+  licenses:
+  - As-is
+  added: 2026-01-17
+  updated: 2026-01-17
+  images:
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20title.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20level%201%20-%20asteroid%20field%202.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20under%20unknown%20attack.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20level%202%20-%20boss%201.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20level%203%20-%20clouds%20at%20sunset%202.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20level%203%20-%20sky.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot%20styx%20vs%203D%20ikaruga.jpg
+  - https://raw.githubusercontent.com/Fissuras/tf4r/master/wiki/img/screenshot.jpg
+  video:
+    youtube: djfIZ39z8cM
+
+- name: Thunder&Lightning
+  originals:
+  - Carrier Command
+  type: clone
+  repo: 'https://github.com/indyjo/Thunder-Lightning'
+  development: sporadic
+  status: semi-playable
+  content: free
+  langs:
+  - C++
+  - Io
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: '2024-11-06'
+  updated: '2024-11-06'
+
+- name: Thyme
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: commercial
+  development: sporadic
+  originals:
+  - 'Command & Conquer: Generals'
+  repo: https://github.com/TheAssemblyArmada/Thyme
+  type: remake
+  status: playable
+  added: 2018-02-05
+  updated: 2025-02-08
+
+- name: ticalc
+  originals:
+  - Excitebike
+  - Slimeball
+  - Rodent's Revenge
+  type: clone
+  repo: 'https://github.com/transitive-bullshit/ticalc'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Collection of TI-Basic and C (via TIGCC) programs & games for the TI family of
+    calculators.
+  added: 2026-01-11
+  updated: 2026-01-11
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/463/46308.gif'
+  - 'https://www.ticalc.org/archives/files/ss/463/46307.gif'
+  - 'https://www.ticalc.org/archives/files/ss/402/40275.gif'
+  - 'https://www.ticalc.org/archives/files/ss/646/64626.gif'
+  - 'https://www.calculatorti.com/media/images/programs/connect-4-89.jpg'
+  - 'https://www.calculatorti.com/media/images/programs/connect-4-advanced.jpg'
+
+- name: Ticoban
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/son-link/ticoban-pyxel'
+  url: 'https://son-link.itch.io/ticoban'
+  feed: 'https://github.com/son-link/ticoban-pyxel/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - Pyxel
+  licenses:
+  - GPL3
+  added: 2026-02-28
+  updated: 2026-02-28
+  images:
+  - 'https://raw.githubusercontent.com/son-link/ticoban-pyxel/main/screen.png'
+  - 'https://raw.githubusercontent.com/son-link/ticoban-pyxel/main/ingame.gif'
+  - 'https://img.itch.zone/aW1hZ2UvNzgxMzIwLzE4MTM5MjMxLmdpZg==/original/YcXX4k.gif'
+
+- name: Tile World
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  content: commercial
+  development: halted
+  originals:
+  - Chip's Challenge
+  status: playable
+  type: remake
+  added: 2014-01-05
+  updated: 2025-02-09
+  url: https://www.muppetlabs.com/~breadbox/software/tworld/
+  images:
+  - https://www.muppetlabs.com/~breadbox/software/tworld/ss/full1.jpg
+  - https://www.muppetlabs.com/~breadbox/software/tworld/ss/full2.jpg
+  info: emulation of the game engine, does not include game data
+
+- name: Tile World 2
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - Qt
+  licenses:
+  - GPL2
+  content: commercial
+  development: sporadic
+  originals:
+  - Chip's Challenge
+  repo: https://github.com/SicklySilverMoon/tworld
+  url: https://tw2.bitbusters.club
+  status: playable
+  type: remake
+  added: 2014-01-05
+  updated: 2025-02-09
+  info: improves upon Tile World
+  images:
+  - https://tw2.bitbusters.club/play.png
+  - https://tw2.bitbusters.club/replay.png
+
+- name: TimeCo
+  originals:
+  - Time Commando
+  type: remake
+  repo: 'https://github.com/LBALab/timeco'
+  url: 'https://lbalab.github.io/timeco/'
+  development: sporadic
+  status: unplayable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL3
+  licenses:
+  - GPL2
+  info: Time Commando Engine Reimplementation
+  added: '2025-04-08'
+  updated: '2025-04-08'
+
+- name: Tiny Digital Invader
+  originals:
+  - Digital Invaders
+  type: clone
+  repo: 'https://github.com/akkera102/10_tiny_invader'
+  url: 'https://community.arduboy.com/t/tiny-digital-invader-7-segment-display/2679'
+  development: halted
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  added: 2025-10-22
+  updated: 2025-10-22
+
+- name: Tiny Mario
+  originals:
+  - Super Mario Bros.
+  type: similar
+  repo: 'https://github.com/diegodotta/Tiny-Mario-Bar'
+  url: 'https://diego.horse/tiny-mario'
+  development: very active
+  status: playable
+  langs:
+  - JavaScript
+  licenses:
+  - PD
+  info: A tiny game on your URL bar platformer inspired by Super Mario Bros.
+  added: 2025-11-19
+  updated: 2025-11-19
+  images:
+  - >-
+    https://camo.githubusercontent.com/735d1aa9046e03c2505b37c7c0e7a5d600ddfd95b7be486595f3f0275767165e/68747470733a2f2f646965676f2e686f7273652f77702d636f6e74656e742f75706c6f6164732f323032352f31312f74696e796d6172696f2e676966
+  - >-
+    https://camo.githubusercontent.com/4309d95e6f1f0ad1d29f7cd94933f9b7487aae580495746abe1ea6ae3640b810/68747470733a2f2f646965676f2e686f7273652f77702d636f6e74656e742f75706c6f6164732f323032352f31312f74696e796d6172696f2d756e64657267726f756e642e676966
+
+- name: Tiny Tetris
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://github.com/AJRussell/Tiny-Tetris'
+  url: >-
+    https://projecthub.arduino.cc/BADFEED/tetris-clone-with-oled-ssd1306-i2c-for-arduino-nano-uno-ef8a8a
+  development: halted
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - As-is
+  info: Tetris Clone with OLED SSD1306(I2C) for Arduino Nano / Uno.
+  added: 2025-11-04
+  updated: 2025-11-04
+  images:
+  - https://projects.arduinocontent.cc/cover-images/9a242f07-f278-43d9-98f8-c59791daf1b4.jpg
+  video:
+    youtube: n4nrEgMsXSY
+
+- name: TINY TREK
+  originals:
+  - Tiny Trek
+  type: remake
+  repo: 'https://github.com/CoBinee/tinytrek-playdate'
+  feed: 'https://github.com/CoBinee/tinytrek-playdate/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Tiny Trek for Playdate.
+  added: 2026-02-19
+  updated: 2026-02-19
+  video:
+    youtube: IuA0zguIqMs
+
+- name: Tiny Trek（Pyxel）
+  originals:
+  - Tiny Trek
+  type: remake
+  repo: 'https://github.com/CoBinee/tinytrek-pyxel'
+  url: >-
+    https://web.archive.org/web/20230224033243/http://blog.livedoor.jp/cobinee/archives/2008127.html
+  development: complete
+  status: playable
+  langs:
+  - Python
+  frameworks:
+  - Pyxel
+  licenses:
+  - As-is
+  added: 2026-01-12
+  updated: 2026-01-12
+  images:
+  - https://github.com/user-attachments/assets/e931cf84-7932-4254-b959-5ca32baffd06
+
+- name: Tiny Wings
+  langs:
+  - Objective-C
+  frameworks:
+  - Cocos2d
+  licenses:
+  - MIT
+  content: open
+  development: halted
+  originals:
+  - Tiny Wings
+  status: semi-playable
+  repo: https://github.com/haqu/tiny-wings
+  type: clone
+  images:
+  - https://raw.githubusercontent.com/haqu/tiny-wings/master/screenshot.png
+  added: 2015-05-02
+  updated: 2022-09-12
+
+- name: TinyCity
+  originals:
+  - SimCity
+  type: clone
+  repo: 'https://github.com/chrisdiana/TinyCity'
+  url: 'https://code.thumby.us/play.html?game=TinyCity'
+  development: very active
+  status: playable
+  langs:
+  - Python
+  frameworks:
+  - MicroPython
+  licenses:
+  - GPL3
+  content: open
+  added: 2026-01-19
+  updated: 2026-01-19
+  images:
+  - https://raw.githubusercontent.com/chrisdiana/TinyCity/main/screens/title.png
+  - https://raw.githubusercontent.com/chrisdiana/TinyCity/main/screens/map.png
+  - https://raw.githubusercontent.com/chrisdiana/TinyCity/main/screens/game.png
+  - https://raw.githubusercontent.com/chrisdiana/TinyCity/main/screens/budget.png
+  - https://raw.githubusercontent.com/chrisdiana/TinyCity/main/screens/disaster.png
+
+- name: TinyMine
+  originals:
+  - Minesweeper
+  type: clone
+  url: 'https://www.ticalc.org/archives/files/fileinfo/318/31879.html'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-06
+  updated: 2026-03-06
+  images:
+  - 'https://www.ticalc.org/archives/files/ss/428/42843.gif'
+
+- name: TiWarriors
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://sourceforge.net/projects/tiwarriors/'
+  feed: 'https://sourceforge.net/p/tiwarriors/news/feed.rss'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Competitive
+  content: open
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  added: 2025-11-02
+  updated: 2025-11-02
+
+- name: tmines
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/tropf/tmines'
+  feed: 'https://github.com/tropf/tmines/releases.atom'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - MIT
+  added: 2025-10-05
+  updated: 2025-10-05
+
+- name: Tomb Engine
+  originals:
+  - Tomb Raider
+  type: remake
+  repo: 'https://github.com/TombEngine/TombEngine'
+  url: 'https://tombengine.com/'
+  feed: 'https://tombengine.com/feed/'
+  development: active
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  licenses:
+  - Custom
+  info: >-
+    A new and modern engine for custom Tomb Raider levels incorporating classic
+    features and new enhancements.
+  added: 2025-12-02
+  updated: 2025-12-02
+  video:
+    youtube: gOaZDRg4i7c
+
+- name: Tomb of Drewan
+  originals:
+  - The Tomb of Drewan
+  type: remake
+  url: >-
+    https://web.archive.org/web/20070205182728/https://www.classicgaming.com/studio2/valley/valley.htm#:~:text=Tomb%20of%20Drewan
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  added: 2025-12-15
+  updated: 2025-12-15
+  images:
+  - https://www.old-games.com/screenshot/4085-1-tomb-of-drewan-the.jpg
+  - https://www.old-games.com/screenshot/4085-2-tomb-of-drewan-the.jpg
+  - https://www.old-games.com/screenshot/4085-3-tomb-of-drewan-the.jpg
+  - https://www.old-games.com/screenshot/4085-4-tomb-of-drewan-the.jpg
+  - https://www.old-games.com/screenshot/4085-5-tomb-of-drewan-the.jpg
+
+- name: Tomb Raider II Core Design Eidos 1997 Source Code
+  originals:
+  - Tomb Raider II
+  type: official
+  url: >-
+    https://archive.org/details/tomb-raider-ii-core-design-eidos-1997-source-code.-7z
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2026-03-08
+  updated: 2026-03-08
+
+- name: TOMB5
+  type: remake
+  originals:
+  - Tomb Raider Chronicles
+  repo: https://github.com/TOMB5/TOMB5
+  development: halted
+  status: semi-playable
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  content: commercial
+  info: The project decompiles the original binaries and want to recreate the original source which is lost.
+  added: 2019-05-28
+  updated: 2023-09-12
+  images:
+  - https://i.imgur.com/YzFDlbRl.png
+  - https://i.imgur.com/Utuazgml.png
+  - https://i.imgur.com/g54Twxe.png
+
+- name: TONG
+  originals:
+  - Tetris
+  - Pong
+  type: similar
+  repo: 'https://savannah.nongnu.org/projects/tong/'
+  url: 'https://tong.nongnu.org/'
+  feed: 'https://savannah.nongnu.org/news/atom.php?group=tong'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  info: TONG is a mix of Tetris and Pong.
+  added: 2025-06-28
+  updated: 2025-06-28
+  images:
+  - 'https://img.informer.com/pb/tong-v1-main-window-outlook.png'
+
+- name: Torrega Race
+  frameworks:
+  - "L\xD6VE"
+  images:
+  - https://i.imgur.com/qWgWeXA.png
+  langs:
+  - Lua
+  licenses:
+  - GPL3
+  development: complete
+  originals:
+  - Omega Race
+  repo: https://github.com/andwj/torrega
+  status: playable
+  type: similar
+  added: 2015-05-02
+  updated: 2015-05-02
+
+- name: Tornado
+  originals:
+  - Weather War
+  type: clone
+  repo: 'https://github.com/kouya/tornado'
+  url: 'https://web.archive.org/web/20170806174943/https://kiza.eu/software/tornado/'
+  feed: 'https://github.com/kouya/tornado/releases.atom'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - LAN
+  - Hotseat
+  content: open
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  licenses:
+  - GPL2
+  added: 2025-07-04
+  updated: 2025-07-04
+  images:
+  - >-
+    https://web.archive.org/web/20170806174943im_/https://kiza.eu/media/images/tornado/shot-start.png
+  - >-
+    https://web.archive.org/web/20170806174943im_/https://kiza.eu/media/images/tornado/shot-lightning.png
+  - >-
+    https://web.archive.org/web/20170806174943im_/https://kiza.eu/media/images/tornado/shot-tornado.png
+
+- name: Total Annihilation 3D
+  langs:
+  - C++
+  - Lua
+  frameworks:
+  - OpenGL
+  - Qt
+  - SDL
+  licenses:
+  - GPL2
+  content: commercial
+  development: halted
+  originals:
+  - Total Annihilation
+  status: semi-playable
+  repo: https://github.com/zuzuf/TA3D
+  type: remake
+  url: http://www.ta3d.org/
+  added: 2011-06-15
+  updated: 2023-09-13
+  video:
+    indiedb: 206215
+
+- name: Tower Building Game
+  originals:
+  - Tower Bloxx Mini
+  type: clone
+  repo: 'https://github.com/iamkun/tower_game'
+  url: 'https://iamkun.github.io/tower_game/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  licenses:
+  - MIT
+  added: '2024-09-12'
+  updated: '2024-09-12'
+  images:
+  - >-
+    https://user-images.githubusercontent.com/17680888/47480922-93a20c00-d864-11e8-8f7c-6d1d60184730.gif
+
+- name: Tower Toppler
+  images:
+  - https://gitlab.com/roever/toppler/-/raw/main/doc/TowerGraphicsCompare12.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Nebulus
+  status: playable
+  type: remake
+  repo: https://gitlab.com/roever/toppler/
+  added: 2013-05-27
+  updated: 2023-09-14
+
+- name: Trackballs
+  images:
+  - https://trackballs.github.io/screenshots/b21.png
+  - https://trackballs.github.io/screenshots/b11.png
+  - https://trackballs.github.io/screenshots/b28.png
+  frameworks:
+  - SDL2
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  content: open
+  development: sporadic
+  originals:
+  - Marble Madness
+  status: playable
+  repo: https://github.com/trackballs/trackballs
+  feed: https://github.com/trackballs/trackballs/releases.atom
+  type: remake
+  added: 2015-04-03
+  updated: 2018-10-06
+  url: https://trackballs.github.io
+
+- name: Train
+  langs:
+  - Java
+  frameworks:
+  - Slick2D
+  licenses:
+  - BSD
+  development: halted
+  originals:
+  - Vlak
+  status: unplayable
+  repo: https://github.com/nenadalm/Train
+  type: remake
+  added: 2015-05-28
+  updated: 2015-05-28
+
+- name: Transball GL
+  originals:
+  - Zarathrusta
+  type: similar
+  repo: 'https://github.com/santiontanon/transballgl'
+  url: >-
+    https://web.archive.org/web/20161011005649/http://www.braingames.getput.com/transballgl/
+  feed: 'https://github.com/santiontanon/transballgl/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  info: Sequel of Super Transball 2.
+  added: 2025-07-14
+  updated: 2025-07-14
+  images:
+  - >-
+    https://github.com/santiontanon/transballgl/raw/master/manual/images/tgl-ss1.jpg
+  - >-
+    https://github.com/santiontanon/transballgl/raw/master/manual/images/tgl-ss3.jpg
+  - >-
+    https://github.com/santiontanon/transballgl/raw/master/manual/images/tgl-ss4.jpg
+  - >-
+    https://github.com/santiontanon/transballgl/raw/master/manual/images/tgl-ss5.jpg
+  - >-
+    https://github.com/santiontanon/transballgl/raw/master/manual/images/tgl-ss6.jpg
+  video:
+    youtube: AtKwU0hJL50
+
+- name: Transfusion
+  images:
+  - https://www.transfusion-game.com/images/e1m2-00.jpg
+  - https://www.transfusion-game.com/images/e3m7-02.jpg
+  - https://www.transfusion-game.com/images/action08.jpg
+  licenses:
+  - GPL2
+  content: commercial
+  development: halted
+  originals:
+  - Blood
+  repo: https://sourceforge.net/projects/blood/
+  status: playable
+  type: remake
+  added: 2013-11-12
+  updated: 2013-11-12
+  url: https://www.transfusion-game.com/
+
+- name: TransLines
+  originals:
+  - Mini Metro
+  type: clone
+  repo: 'https://app.zdechov.net/translines/browser'
+  url: 'https://app.zdechov.net/translines'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - Pascal
+  frameworks:
+  - Lazarus
+  licenses:
+  - CC0
+  added: 2024-01-27
+  updated: 2024-01-27
+  images:
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/Game.png
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/Main%20menu.png
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/New%20improvement.png
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/New%20train.png
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/Dark%20style.png
+  - https://app.zdechov.net/translines/raw-attachment/wiki/ScreenShots/Game2.png
+  video:
+    youtube: 03oMYdE9uLI
+
+- name: Tranzam
+  images:
+  - https://retrospec.sgn.net/style/images/screenshots/tranzam_full_1.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/tranzam_full_2.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/tranzam_full_3.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/tranzam_full_4.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/tranzam_full_5.jpg
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - Custom
+  development: complete
+  originals:
+  - Tranz Am
+  status: playable
+  type: remake
+  added: 2015-04-12
+  updated: 2022-06-11
+  url: https://retrospec.sgn.net/info.htm?id=tranzam&t=g
+
+- name: Tread Marks
+  originals:
+  - Tread Marks
+  type: official
+  repo: 'https://github.com/LongbowGames/TreadMarks'
+  url: >-
+    https://web.archive.org/web/20170211155405/https://www.longbowgames.com/forums/topic/?id=3623
+  feed: 'https://github.com/LongbowGames/TreadMarks/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenAL
+  - SFML
+  - Qt
+  licenses:
+  - GPL3
+  added: 2025-12-20
+  updated: 2025-12-20
+
+- name: Tread Marks (SDL2)
+  originals:
+  - Tread Marks
+  type: remake
+  repo: 'https://github.com/ptitSeb/TreadMarks'
+  url: 'https://repo.openpandora.org/?page=detail&app=treadmarks_ptitseb'
+  feed: 'https://github.com/ptitSeb/TreadMarks/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - OpenGL
+  - SFML
+  - Qt
+  - OpenAL
+  licenses:
+  - As-is
+  info: Port of Tread Marks on Pandora and Linux.
+  added: 2025-12-31
+  updated: 2025-12-31
+  images:
+  - 'https://repo.openpandora.org/files/pnd/treadmarks_ptitseb/preview1.png'
+  - 'https://repo.openpandora.org/files/pnd/treadmarks_ptitseb/preview2.png'
+  - 'https://repo.openpandora.org/files/pnd/treadmarks_ptitseb/preview3.png'
+  video:
+    youtube: GdZB0muPOB4
+
+- name: Tremulous
+  images:
+  - https://tremulous.net/screenshots/1.jpg
+  - https://tremulous.net/screenshots/2.jpg
+  - https://tremulous.net/screenshots/3.jpg
+  - https://tremulous.net/screenshots/6.jpg
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  - OpenGL
+  - OpenAL
+  licenses:
+  - GPL2
+  - CC-BY-SA
+  content: open
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  - Competitive
+  - Co-op
+  originals:
+  - Gloom (Quake)
+  - Natural Selection
+  repo: https://github.com/darklegion/tremulous
+  type: similar
+  added: 2013-06-08
+  updated: 2020-09-06
+  url: https://tremulous.net
+
+- name: Tribal Trouble
+  originals:
+  - Tribal Trouble
+  type: official
+  repo: 'https://github.com/sunenielsen/tribaltrouble'
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  added: 2025-12-20
+  updated: 2025-12-20
+
+- name: Tribal Trouble Resurrected
+  originals:
+  - Tribal Trouble
+  type: remake
+  repo: 'https://github.com/OmarAMokhtar/tribaltrouble'
+  feed: 'https://github.com/OmarAMokhtar/tribaltrouble/releases.atom'
+  url: https://tribaltrouble.org
+  development: active
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - Java
+  frameworks:
+  - LWJGL
+  licenses:
+  - GPL2
+  added: 2026-01-22
+  updated: 2026-01-22
+  images:
+  - https://tribaltrouble.org/01.jpg
+  - https://tribaltrouble.org/11.jpg
+  - https://tribaltrouble.org/02.jpg
+
+- name: TrinityCore
+  originals:
+  - World of Warcraft
+  type: clone
+  repo: 'https://github.com/TrinityCore/TrinityCore'
+  url: 'https://www.trinitycore.org/'
+  development: very active
+  status: playable
+  multiplayer:
+  - Local
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  added: 2023-12-29
+  updated: 2023-12-29
+  video:
+    youtube: riTgGx9ELW0
+
+- name: Triplane Classic
+  originals:
+  - Triplane Turmoil
+  type: remake
+  repo: 'https://github.com/vranki/triplane'
+  url: 'https://triplane.sourceforge.net/'
+  feed: 'https://github.com/vranki/triplane/releases.atom'
+  development: halted
+  status: playable
+  multiplayer:
+  - Split-screen
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  added: 2026-01-23
+  updated: 2026-01-23
+  images:
+  - 'https://triplane.sourceforge.net/screenshot1.png'
+  - 'https://triplane.sourceforge.net/screenshot2.png'
+
+- name: Tron
+  frameworks:
+  - jQuery
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Tron
+  status: playable
+  repo: https://github.com/momajd/Tron
+  type: remake
+  added: 2016-05-14
+  updated: 2016-05-14
+  url: https://momajd.github.io/Tron/
+  images:
+  - https://raw.githubusercontent.com/momajd/Tron/master/docs/intro.png
+  - https://raw.githubusercontent.com/momajd/Tron/master/docs/game_end.png
+
+- name: TrueCraft
+  langs:
+  - C#
+  licenses:
+  - MIT
+  development: halted
+  originals:
+  - Minecraft
+  status: playable
+  repo: https://github.com/ddevault/TrueCraft
+  type: remake
+  added: 2015-05-02
+  updated: 2020-08-31
+
+- name: Trust & Betrayal
+  originals:
+  - 'Trust & Betrayal: The Legacy of Siboot'
+  type: official
+  url: 'https://www.erasmatazz.com/library/source-code/#:~:text=Trust%20%26%20Betrayal'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Pascal
+  licenses:
+  - As-is
+  added: 2026-01-06
+  updated: 2026-01-06
+
+- name: TRX
+  originals:
+  - Tomb Raider
+  type: remake
+  repo: https://github.com/LostArtefacts/TRX
+  feed: https://github.com/LostArtefacts/TRX/releases.atom
+  development: active
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  info: merged TR1X + TR2X, reimplements both Tomb Raiders 1 + 2
+  added: 2023-12-02
+  updated: 2025-02-27
+  images:
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/braid.jpg
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/enemy_health_bar_and_scaling.jpg
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/3d_pickups.jpg
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/skybox.jpg
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/draw_distance.webp
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/console.webp
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/free_camera.jpg
+  - https://github.com/LostArtefacts/TRX/raw/develop/docs/tr1/showcase/ps1_ui_and_gfx.jpg
+
+- name: tserver
+  originals:
+  - TetriNET
+  type: remake
+  repo: 'https://sourceforge.net/projects/tserver/'
+  url: 'https://tserver.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/tserver/news/feed.rss'
+  development: halted
+  status: unplayable
+  multiplayer:
+  - Online
+  langs:
+  - Java
+  licenses:
+  - As-is
+  info: >-
+    This project aims to deliver a stable, performant and flexible Tetrinet &
+    TetriFast server.
+  added: 2025-12-28
+  updated: 2025-12-28
+
+- name: TTDPatch
+  originals:
+  - Transport Tycoon
+  type: tool
+  status: N/A
+  repo: https://github.com/ttdpatch/ttdpatch
+  url: https://www.ttdpatch.net/
+  development: halted
+  content: commercial
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - GPL2
+  info: A patch for Transport Tycoon that adds many features
+  added: 2019-07-09
+  updated: 2019-07-09
+  images:
+  - https://www.ttdpatch.net/newgrf.png
+  - https://www.ttdpatch.net/bigstation.jpg
+  - https://www.ttdpatch.net/longtrn.jpg
+
+- name: ttyloop
+  originals:
+  - Infinity Loop
+  type: clone
+  repo: 'https://github.com/gamma-delta/ttyloop'
+  url: 'https://crates.io/crates/ttyloop'
+  development: halted
+  status: playable
+  langs:
+  - Rust
+  frameworks:
+  - Cursive
+  licenses:
+  - MIT
+  added: 2025-12-12
+  updated: 2025-12-12
+
+- name: Tube64
+  originals:
+  - Tube
+  type: remake
+  repo: 'https://github.com/rep-stosw/tube64'
+  url: 'https://clobberasm.itch.io/tube'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  added: 2024-02-17
+  updated: 2024-02-17
+  images:
+  - >-
+    https://user-images.githubusercontent.com/88702500/131208173-4758d8b1-0629-48b9-a53e-1b4c90115a90.png
+  video:
+    youtube: dgaLhOj14e8
+
+- name: Tui48
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://gitlab.com/Oglo12/tui48'
+  url: 'https://crates.io/crates/tui48'
+  feed: 'https://gitlab.com/Oglo12/tui48.atom'
+  development: complete
+  status: playable
+  langs:
+  - Rust
+  frameworks:
+  - TuiGui
+  licenses:
+  - MIT
+  added: 2025-10-28
+  updated: 2025-10-28
+  images:
+  - 'https://gitlab.com/Oglo12/tui48/-/raw/main/showcase_game_board.png'
+  - 'https://gitlab.com/Oglo12/tui48/-/raw/main/showcase_game_output.png'
+
+- name: tuinty-forpy-eight
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://github.com/TotalyEnglizLitrate/tuinty-forpy-eight'
+  url: 'https://pypi.org/project/tuinty-forpy-eight/'
+  feed: 'https://pypi.org/rss/project/tuinty-forpy-eight/releases.xml'
+  development: complete
+  status: playable
+  langs:
+  - Python
+  frameworks:
+  - Textual
+  licenses:
+  - As-is
+  added: 2025-11-13
+  updated: 2025-11-13
+
+- name: Tumbly Towers
+  type: remake
+  originals:
+  - Tricky Towers
+  repo: https://github.com/SteveSmith16384/TumblyTowers
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  - Competitive
+  - Split-screen
+  langs:
+  - Java
+  licenses:
+  - MIT
+  content: open
+  added: 2019-03-21
+  updated: 2025-03-03
+  images:
+  - https://i.imgur.com/CuponTl.png
+  video:
+    youtube: uFJp9MAAa4Q
+
+- name: TunnelTanks
+  originals:
+  - Tunneler
+  type: remake
+  repo: 'https://github.com/raydog/tunneltanks'
+  url: >-
+    https://web.archive.org/web/20130213232058/https://blog.poweredbytoast.com/tag/tunneler
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Split-screen
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  added: 2025-07-08
+  updated: 2025-07-08
+  images:
+  - >-
+    https://web.archive.org/web/20130213232058im_/http://blog.poweredbytoast.com/content/tunnel-w-tank.jpg
+  - >-
+    https://web.archive.org/web/20130213232058im_/http://blog.poweredbytoast.com/content/tunnel-w-shots.png
+  - >-
+    https://web.archive.org/web/20130213232058im_/http://blog.poweredbytoast.com/content/tunneltanks2.png
+  - >-
+    https://web.archive.org/web/20130213232058im_/http://blog.poweredbytoast.com/content/tunneltanks3.png
+
+- name: turnabout
+  langs:
+  - Elm
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Turnabout
+  status: unplayable
+  repo: https://github.com/sch/turnabout
+  type: remake
+  added: 2015-07-19
+  updated: 2015-07-19
+
+- name: TurokEX
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Turok
+  status: unplayable
+  repo: https://github.com/svkaiser/TurokEX
+  type: remake
+  added: 2016-05-28
+  updated: 2016-05-28
+
+- name: TUSSLE
+  type: clone
+  originals:
+  - Super Smash Bros.
+  repo: https://github.com/digiholic/universalSmashSystem
+  url: https://projecttussle.com/
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL3
+  content: free
+  info: TUSSLE is just an engine. You need to create your own characters or download them.
+  added: 2019-06-11
+  updated: 2019-06-11
+  images:
+  - https://i.gjcdn.net/data/games/2/53/170803/screenshots/tumblr_inline_oadma9jh9s1roqll8_1280-5fwyxvvj.png
+  - https://i.gjcdn.net/data/games/2/53/170803/screenshots/tumblr_inline_o5p6qwan9x1roqll8_1280-utuih5wt.jpg
+  - https://i.gjcdn.net/data/games/2/53/170803/screenshots/tumblr_inline_o5p6lkgowt1roqll8_1280-wbayd6jt.jpg
+  - https://i.gjcdn.net/data/games/2/53/170803/screenshots/tumblr_inline_o5p6d2ywen1roqll8_1280-cqgczxpx.jpg
+  - https://i.gjcdn.net/data/games/2/53/170803/screenshots/tumblr_inline_o5p5n7d2ri1roqll8_1280-qbyv5dtd.jpg
+
+- name: Tutanchamun
+  originals:
+  - Tutankham
+  type: clone
+  repo: 'https://www.ibiblio.org/pub/Linux/games/arcade/#:~:text=tutanchamun'
+  url: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/tutanchamun-0.1.1.lsm
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SVGALib
+  licenses:
+  - GPL2
+  added: 2025-11-04
+  updated: 2025-11-04
+
+- name: Tux Adventure
+  originals:
+  - Antarctic Adventure
+  type: remake
+  repo: 'https://sourceforge.net/projects/tuxadventure/'
+  feed: 'https://sourceforge.net/p/tuxadventure/blog/feed.rss'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  added: 2025-12-16
+  updated: 2025-12-16
+
+- name: Tux Builder
+  originals:
+  - Super Mario
+  type: clone
+  repo: 'https://github.com/Alzter/TuxBuilder'
+  development: halted
+  status: unplayable
+  content: open
+  langs:
+  - GDScript
+  frameworks:
+  - Godot
+  licenses:
+  - GPL3
+  info: A Godot re-implementation of SuperTux
+  added: 2019-11-11
+  updated: 2019-11-11
+  images:
+  - https://raw.githubusercontent.com/Alzter/TuxBuilder/master/EditorScreenshot.png
+
+- name: Tux-n-Run
+  originals:
+  - Super Mario
+  type: similar
+  repo: 'https://sourceforge.net/projects/tux-n-run/'
+  url: 'https://tux-n-run.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/tux-n-run/rss?path=/'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2026-01-24
+  updated: 2026-01-24
+  images:
+  - 'https://tux-n-run.sourceforge.net/shot7.png'
+  - 'https://tux-n-run.sourceforge.net/shot6.png'
+  - 'https://tux-n-run.sourceforge.net/shot5.png'
+  - 'https://tux-n-run.sourceforge.net/shot4.png'
+  - 'https://tux-n-run.sourceforge.net/shot2.png'
+
+- name: Tuxemon
+  frameworks:
+  - pygame
+  images:
+  - https://www.tuxemon.org/images/featurette-01.png
+  - https://www.tuxemon.org/images/screenshot-01.png
+  - https://www.tuxemon.org/images/featurette-02.png
+  langs:
+  - Python
+  licenses:
+  - GPL3
+  development: active
+  originals:
+  - Pokémon
+  repo: https://github.com/Tuxemon/Tuxemon
+  status: playable
+  type: remake
+  added: 2015-01-21
+  updated: 2015-01-21
+  url: https://www.tuxemon.org/
+
+- name: TuxPuck
+  originals:
+  - Shufflepuck Café
+  type: clone
+  repo: 'https://salsa.debian.org/games-team/tuxpuck'
+  url: 'https://web.archive.org/web/20090130055930/http://home.no.net/munsuun/tuxpuck/'
+  feed: 'https://salsa.debian.org/games-team/tuxpuck.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-09-23
+  updated: 2025-09-23
+  images:
+  - https://web.archive.org/web/20160312213148if_/http://screenshots.debian.net/screenshots/t/tuxpuck/8845_large.png
+
+- name: TVTower
+  langs:
+  - BlitzMax
+  licenses:
+  - Custom
+  content: free
+  development: active
+  originals:
+  - Mad TV
+  status: playable
+  repo: https://github.com/TVTower/TVTower
+  feed: https://github.com/TVTower/TVTower/releases.atom
+  type: remake
+  added: 2014-08-16
+  updated: 2025-03-11
+  url: https://www.tvtower.org/
+  images:
+  - https://user-images.githubusercontent.com/2625226/64739997-2935a100-d4f4-11e9-93e2-0b8c9ca00095.png
+
+- name: TwinEngine
+  development: sporadic
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  content: commercial
+  originals:
+  - Little Big Adventure
+  repo: https://github.com/xesf/twin-e
+  status: playable
+  type: remake
+  added: 2014-11-09
+  updated: 2025-03-12
+  url: https://lbalab.github.io/lba-engine-architecture/
+  images:
+  - https://github.com/LBALab/twin-e/raw/main/docs/twin-e.png
+
+- name: twozero48
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://github.com/de-sh/twozero48'
+  url: 'https://crates.io/crates/twozero48'
+  feed: 'https://github.com/de-sh/twozero48/releases.atom'
+  development: halted
+  status: playable
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2025-10-29
+  updated: 2025-10-29
+
+- name: txt2048
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://github.com/olksdar/txt2048'
+  url: 'https://crates.io/crates/txt2048'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Rust
+  licenses:
+  - MIT
+  added: 2025-10-26
+  updated: 2025-10-26
+
+- name: Tyger
+  type: remake
+  originals:
+  - ZZT
+  repo: https://code.google.com/archive/p/tyger/
+  development: halted
+  status: semi-playable
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - MIT
+  added: 2020-06-26
+  updated: 2020-06-26
+  images:
+  - https://zzt.org/dr_dos/tyger/TygerTitle.png
+  - https://zzt.org/dr_dos/tyger/TOWN-25.png
+
+- name: Tykkipeli 2
+  originals:
+  - Artillery Duel
+  type: clone
+  repo: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/#:~:text=Tykkipeli2
+  url: >-
+    https://grumbeer.dyndns.org/ftp/servers/sunsite/1996-08-12-part2/games/video//Tykkipeli2.lsm
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SVGALib
+  licenses:
+  - GPL2
+  added: 2025-10-25
+  updated: 2025-10-25
+
+- name: TypeScript Xenon
+  type: remake
+  originals:
+  - Xenon 2 Megablast
+  repo: https://github.com/ian-wigley/Xenon
+  url: https://ianwigley.co.uk/Xenon/Xenon.html
+  development: halted
+  status: semi-playable
+  langs:
+  - TypeScript
+  licenses:
+  - MIT
+  content: free
+  added: 2019-02-21
+  updated: 2023-09-15
+  images:
+  - https://raw.githubusercontent.com/ian-wigley/Xenon/master/Xenon.jpg
+
+- name: Tyrian Remake
+  images:
+  - https://www.b3dgs.com/v7/projects/tyrian_remake/screens/1.png
+  - https://www.b3dgs.com/v7/projects/tyrian_remake/screens/7.png
+  - https://www.b3dgs.com/v7/projects/tyrian_remake/screens/8.png
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  content: free
+  development: halted
+  originals:
+  - Tyrian
+  status: playable
+  repo: https://github.com/b3dgs/tyrian-remake
+  type: remake
+  added: 2015-05-29
+  updated: 2015-05-29
+  url: https://www.b3dgs.com/v7/page.php?lang=en&section=tyrian_remake
+
+- name: TyrQuake
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  content: commercial
+  development: sporadic
+  originals:
+  - Quake
+  status: playable
+  repo: https://disenchant.net/git/tyrquake.git/
+  type: remake
+  added: 2015-04-03
+  updated: 2023-09-16
+  url: https://disenchant.net/tyrquake/
+  images:
+  - https://docs.libretro.com/image/core/tyrquake/320x240.png

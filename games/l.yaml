@@ -1,0 +1,2368 @@
+- name: l-echo
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Echochrome
+  status: playable
+  repo: https://github.com/LibreGamesArchive/l-echo
+  type: remake
+  added: 2015-04-15
+  updated: 2022-09-25
+  images:
+  - https://www.gamebrew.org/images/a/a3/Necho2.png
+
+- name: LAB3D/SDL
+  images:
+  - https://icculus.org/LAB3D/captur00.png
+  - https://icculus.org/LAB3D/captur04.png
+  - https://icculus.org/LAB3D/captur02.png
+  - https://icculus.org/LAB3D/captur03.png
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - Custom
+  content: free
+  development: halted
+  originals:
+  - Ken's Labyrinth
+  status: playable
+  repo: https://svn.icculus.org/LAB3D/
+  type: remake
+  added: 2015-04-10
+  updated: 2022-03-19
+  url: https://icculus.org/LAB3D/
+
+- name: LAB3D/SDL (ktpanda)
+  originals:
+  - Ken's Labyrinth
+  type: remake
+  repo: 'https://gitlab.com/ktpanda/lab3d-sdl/'
+  url: 'https://ktpanda.org/software/lab3d_sdl/'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  info: >-
+    This is an enhanced version of LAB3D-SDL which includes hi-res texture support
+    and other enhancements.
+  added: '2022-05-24'
+  updated: '2022-05-24'
+  images:
+  - 'https://ktpanda.org/software/lab3d_sdl/images/shot00.jpeg'
+  - 'https://ktpanda.org/software/lab3d_sdl/images/shot01.jpeg'
+  - 'https://ktpanda.org/software/lab3d_sdl/images/shot02.jpeg'
+  - 'https://ktpanda.org/software/lab3d_sdl/images/shot03.jpeg'
+  - 'https://ktpanda.org/software/lab3d_sdl/images/shot04.jpeg'
+
+- name: Lab3dGLES
+  originals:
+  - Ken's Labyrinth
+  type: remake
+  repo: 'https://github.com/Pickle/Lab3dGLES'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  - SDL
+  licenses:
+  - Custom
+  added: 2025-11-22
+  updated: 2025-11-22
+
+- name: Ladder
+  info: (source inside JAR file)
+  langs:
+  - Java
+  licenses:
+  - GPL2
+  originals:
+  - Ladder
+  status: playable
+  type: remake
+  added: 2015-05-09
+  updated: 2025-10-30
+  url: https://ostermiller.org/ladder/
+  repo: https://sourceforge.net/projects/laddergame/
+  development: halted
+
+- name: ladder
+  images:
+  - https://raw.githubusercontent.com/SmallRoomLabs/ladder/master/images/GameRunning1.png
+  langs:
+  - Go
+  licenses:
+  - MIT
+  development: halted
+  originals:
+  - Ladder
+  status: semi-playable
+  repo: https://github.com/mengstr/ladder
+  type: remake
+  added: 2016-02-26
+  updated: 2016-02-26
+
+- name: Lander on the Acorn Archimedes
+  originals:
+  - Zarch
+  type: remake
+  repo: 'https://github.com/markmoxon/lander-source-code-acorn-archimedes'
+  url: 'https://lander.bbcelite.com/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Fully documented source code for the classic game Lander (a demo version of
+    Zarch) on the Acorn Archimedes.
+  added: 2026-01-10
+  updated: 2026-01-10
+  images:
+  - 'https://lander.bbcelite.com/images/general/Lander.png'
+
+- name: Landmine (1983)
+  originals:
+  - Minefield
+  type: clone
+  repo: 'https://minesweepergame.com/database/games.php?id=56#downloads'
+  url: 'https://minesweepergame.com/database/games.php?id=56'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: >-
+    Was modified and translated into Italian in 1985 as Mine Nascote ("Hidden
+    Mines").
+  added: 2025-10-26
+  updated: 2025-10-26
+  images:
+  - https://minesweepergame.com/database/image/version/200/Landmine-VICGames-VIC20-1983-Gameplay.jpg
+  - https://minesweepergame.com/database/image/version/200/Landmine-VICGames-VIC20-1983-Lose.jpg
+  - https://minesweepergame.com/database/image/version/200/Landmine-VICGames-VIC20-1983-New.jpg
+  - https://minesweepergame.com/database/image/version/200/Landmine-VICGames-VIC20-1983-Screenshot.jpg
+  - https://minesweepergame.com/database/image/version/200/Landmine-VICGames-VIC20-1983-Won.jpg
+
+- name: Landmine (1984)
+  originals:
+  - Minefield
+  type: clone
+  repo: 'https://minesweepergame.com/database/games.php?id=59#downloads'
+  url: 'https://minesweepergame.com/database/games.php?id=59'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: 'Based on Landmine (1983), from the book "CBM 64 Programs - Volume 1".'
+  added: 2025-10-29
+  updated: 2025-10-29
+  images:
+  - https://minesweepergame.com/database/image/version/205/Landmine-Franklin-C64-1984-Instructions.jpg
+  - https://minesweepergame.com/database/image/version/205/Landmine-Franklin-C64-1984-Level1-Gameplay.jpg
+  - https://minesweepergame.com/database/image/version/205/Landmine-Franklin-C64-1984-Level1-Lose.jpg
+  - https://minesweepergame.com/database/image/version/205/Landmine-Franklin-C64-1984-Level1-New.jpg
+
+- name: Landmines
+  originals:
+  - Minefield
+  type: clone
+  repo: >-
+    https://minesweepergame.com/database/download/version/453/Landmine-StrategySoftware-Code.pdf
+  url: 'https://minesweepergame.com/database/games.php?id=248'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: This game appears to be a simple clone of Landmine (1983).
+  added: 2025-11-02
+  updated: 2025-11-02
+  images:
+  - https://minesweepergame.com/database/image/version/453/Landmine-MZ700-Gameplay.png
+
+- name: LanGong Terminal Minesweeper
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://github.com/langong-dev/tminesweeper'
+  feed: 'https://github.com/langong-dev/tminesweeper/releases.atom'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - MIT
+  added: 2025-10-15
+  updated: 2025-10-15
+
+- name: Laser Kombat
+  originals:
+  - LaserTank
+  type: clone
+  repo: 'https://github.com/sharkwouter/laserkombat'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  info: Modern port of the 1999 Laser Tank clone
+  added: 2023-01-30
+  updated: 2024-09-05
+  images:
+  - >-
+    https://raw.githubusercontent.com/sharkwouter/laserkombat/master/laserkombat.jpg
+
+- name: Laser War
+  originals:
+  - Rampart
+  type: clone
+  url: 'https://www.t3-i.com/scripts/pages/project.php?id=laser_war'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - Custom
+  added: 2025-07-08
+  updated: 2025-07-08
+  images:
+  - 'https://www.t3-i.com/projects/games/laser_war/images/banner.png'
+  - 'https://www.t3-i.com/projects/games/laser_war/images/screenshot_0.png'
+
+- name: LaserTank
+  originals:
+  - LaserTank
+  type: official
+  repo: 'https://laser-tank.com/ltank_en.html'
+  url: 'https://laser-tank.com'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  licenses:
+  - Custom
+  added: '2024-09-11'
+  updated: '2024-09-11'
+  images:
+  - 'https://laser-tank.com/images/anim.gif'
+  - 'https://laser-tank.com/images/easy-01.png'
+  - 'https://laser-tank.com/images/hard-01.png'
+  - 'https://laser-tank.com/images/hard-02.png'
+  - 'https://laser-tank.com/images/hard-03.png'
+  - 'https://laser-tank.com/images/hard-04.png'
+
+- name: Last of the Incas
+  originals:
+  - Last of the Incas
+  type: official
+  url: >-
+    https://www.erasmatazz.com/library/source-code/#:~:text=Last%20of%20the%20Incas
+  development: halted
+  status: semi-playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Unreleased Atari 8-bit game.
+  added: 2026-01-06
+  updated: 2026-01-06
+  images:
+  - https://media.invisioncic.com/r322239/monthly_01_2019/post-188-0-27924000-1547773450.png
+
+- name: LastNinja
+  images:
+  - https://lastninja.sourceforge.net/images/lvl1.png
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  content: commercial
+  development: halted
+  originals:
+  - The Last Ninja
+  repo: https://sourceforge.net/projects/lastninja/
+  status: semi-playable
+  type: remake
+  added: 2013-11-20
+  updated: 2023-01-28
+  url: https://lastninja.sourceforge.net
+  info: the first level of the game is completable (however enemy weapons are not visible)
+
+- name: LastTry
+  frameworks:
+  - libGDX
+  langs:
+  - Java
+  licenses:
+  - MIT
+  development: halted
+  originals:
+  - Terraria
+  status: unplayable
+  repo: https://github.com/egordorichev/LastTry
+  type: remake
+  added: 2017-10-15
+  updated: 2021-11-20
+  images:
+  - https://i.imgur.com/Q2P7a42.png
+
+- name: LazSokoban
+  originals:
+  - Sokoban
+  type: clone
+  repo: 'https://github.com/iso4free/lazsokoban'
+  url: 'https://blog.alb42.de/2022/12/04/lazsokoban/'
+  feed: 'https://github.com/iso4free/lazsokoban/releases.atom'
+  development: halted
+  status: playable
+  langs:
+  - Pascal
+  licenses:
+  - GPL3
+  added: 2025-08-14
+  updated: 2025-08-14
+  images:
+  - >-
+    https://raw.githubusercontent.com/iso4free/lazsokoban/refs/heads/master/doc/halloween.png
+  - >-
+    https://raw.githubusercontent.com/iso4free/lazsokoban/refs/heads/master/doc/img.png
+
+- name: LBA1 Classic (Community)
+  originals:
+  - Little Big Adventure
+  type: remake
+  repo: https://github.com/LBALab/lba1-classic-community
+  development: sporadic
+  status: unplayable
+  langs:
+  - Assembly
+  licenses:
+  - GPL2
+  content: commercial
+  info: >-
+    Official source code of the original game's engine (not a remake). This is
+    the community-enhanced version of the repository.
+  added: 2021-10-29
+  updated: 2023-08-08
+
+- name: LBA2 Classic (Community)
+  originals:
+  - Little Big Adventure 2
+  type: remake
+  repo: https://github.com/LBALab/lba2-classic-community
+  development: halted
+  status: unplayable
+  langs:
+  - Assembly
+  licenses:
+  - GPL2
+  content: commercial
+  info: >-
+    Official source code of the original game's engine (not a remake). This is
+    the community-enhanced version of the repository.
+  added: 2021-10-29
+  updated: 2023-08-08
+
+- name: LBA2 Ida edition
+  originals:
+  - Little Big Adventure 2
+  type: remake
+  repo: https://github.com/innerbytes/lba2-classic-ida
+  development: sporadic
+  status: playable
+  langs:
+  - C++
+  - Assembly
+  licenses:
+  - GPL2
+  content: commercial
+  info: >-
+    Official source code of the original game's engine (not a remake). This is
+    the community-enhanced version of the repository, that is buildable and fully
+    playable on Windows.
+  added: 2026-01-05
+  updated: 2026-01-05
+  images:
+  - >-
+    https://raw.githubusercontent.com/innerbytes/lba2-classic-ida/refs/heads/main/image.png
+
+- name: LBA2 IdaJS
+  originals:
+  - Little Big Adventure 2
+  type: remake
+  repo: https://github.com/innerbytes/idajs
+  development: very active
+  status: playable
+  langs:
+  - JavaScript
+  - TypeScript
+  - C++
+  - Assembly
+  licenses:
+  - GPL2
+  content: commercial
+  info: >-
+    This is the JavaScript-powered moddable version of LBA2 Community game.
+    This is not a Web game, but classic LBA2 running on desktop with modding capabilities.
+    Allows to mod the original LBA2 game, using JavaScript/TypeScript as scripting language.
+  added: 2026-01-05
+  updated: 2026-01-05
+  images:
+  - >-
+    https://innerbytes.com/img/scene860.png
+  - >-
+    https://innerbytes.com/img/code1280.png
+  video:
+    youtube: GrzfcKwTVaM
+
+- name: LBA2 Remake
+  originals:
+  - Little Big Adventure 2
+  type: remake
+  repo: https://github.com/LBALab/lba2remake
+  development: very active
+  status: semi-playable
+  content: commercial
+  langs:
+  - TypeScript
+  frameworks:
+  - three.js
+  - React
+  licenses:
+  - MIT
+  added: 2020-11-24
+  updated: 2020-11-24
+  images:
+  - >-
+    https://raw.githubusercontent.com/agrande/lba2remake/master/doc/images/screenshot_game.jpeg
+  - >-
+    https://raw.githubusercontent.com/agrande/lba2remake/master/doc/images/screenshot_editor.jpeg
+
+- name: Le BreakOut
+  originals:
+  - Breakout
+  type: clone
+  url: 'https://www.hpcalc.org/details/8662'
+  development: complete
+  status: playable
+  langs:
+  - Pascal
+  licenses:
+  - As-is
+  added: 2026-03-08
+  updated: 2026-03-08
+  images:
+  - 'https://www.hpcalc.org/hp49/games/arcade/sshots/breakout.png'
+
+- name: Le Morte D'Arthur
+  originals:
+  - Le Morte D'Arthur
+  type: official
+  url: >-
+    https://www.erasmatazz.com/library/source-code/#:~:text=Le%20Morte%20D%E2%80%99Arthur
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Pascal
+  licenses:
+  - As-is
+  added: 2026-01-06
+  updated: 2026-01-06
+
+- name: Le Projet Doom
+  originals:
+  - Doom
+  type: remake
+  repo: http://hpfool.free.fr/doom/src/index.html
+  url: http://hpfool.free.fr/doom/Doom.html
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Doom for HP calculator.
+  added: 2026-01-27
+  updated: 2026-01-27
+  images:
+  - https://web.archive.org/web/20020327104516im_/http://hp-sources.com/projets/doom/Animation1.gif
+  - https://web.archive.org/web/20030901234100im_/http://www.hp-sources.com/projets/doom/Animation2.gif
+  - https://web.archive.org/web/20251215023022im_/http://hpfool.free.fr/doom/images/capture1.gif
+  - https://www.hpcalc.org/hp49/games/arcade/sshots/doom.png
+
+- name: LEDPong
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://github.com/lukdog/LedPong'
+  url: 'https://projecthub.arduino.cc/lukdog/ledpong-784fab'
+  feed: 'https://github.com/lukdog/LedPong/releases.atom'
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  - Local
+  langs:
+  - C++
+  licenses:
+  - MIT
+  info: A Pong game for Arduino UNO R4 and Plug&Make kit.
+  added: 2025-10-28
+  updated: 2025-10-28
+  images:
+  - 'https://projects.arduinocontent.cc/9523c40f-9096-4d48-8e8a-d644439c13d2.jpg'
+
+- name: 'Legacy of Kain: Soul Reaver Decompile'
+  originals:
+  - 'Legacy of Kain: Soul Reaver'
+  type: remake
+  repo: 'https://github.com/Gh0stBlade/KAIN2'
+  url: 'https://legacyofkain.co.uk/KAIN2/'
+  development: sporadic
+  status: semi-playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  added: 2024-03-09
+  updated: 2024-09-19
+  images:
+  - >-
+    https://camo.githubusercontent.com/01220600740cd9efbedb230a095fe8321a30f8f79327f10eeb59bcba4b3f3178/68747470733a2f2f692e696d6775722e636f6d2f534132537755422e706e67
+  - >-
+    https://camo.githubusercontent.com/1796e54a4e4bdc52ace2a8fa0edd3a0818d1947d6d83451b0838065a07dab546/68747470733a2f2f692e696d6775722e636f6d2f6e315243774d6d2e706e67
+  - >-
+    https://camo.githubusercontent.com/6001ecdea42d3c6ba6265b5168b6f0dbe2af93165df0c9bd2718565284d84a6f/68747470733a2f2f692e696d6775722e636f6d2f346767496a5a502e706e67
+
+- name: 'The Legend of Zelda: A Link to the Dream'
+  originals:
+  - "The Legend of Zelda: Link's Awakening"
+  type: remake
+  repo: 'https://gitlab.com/zeldaforce/zelda-alttd'
+  url: >-
+    https://web.archive.org/web/20230119151037/https://zeldaforce.net/jeux-amateurs/a-link-to-the-dream/
+  feed: 'https://gitlab.com/zeldaforce/zelda-alttd.atom'
+  development: very active
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  added: 2025-07-14
+  updated: 2025-07-14
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-a-link-to-the-dream/screen1.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-a-link-to-the-dream/screen2.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-a-link-to-the-dream/screen3.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-a-link-to-the-dream/screen4.png
+  - >-
+    https://web.archive.org/web/20230119151037im_/https://zeldaforce.net/wp-content/uploads/2018/09/transition.gif
+  - >-
+    https://web.archive.org/web/20230119151037im_/https://zeldaforce.net/wp-content/uploads/2018/09/4.png
+  - >-
+    https://web.archive.org/web/20230119151037im_/https://zeldaforce.net/wp-content/uploads/2018/09/3.png
+  - >-
+    https://web.archive.org/web/20230119151037im_/https://zeldaforce.net/wp-content/uploads/2018/09/2.png
+
+- name: 'The Legend of Zelda: A Link to the Past'
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: remake
+  repo: 'https://github.com/KaKaShUruKioRa/A-Link-to-the-Past-Project'
+  url: 'https://kakashurukiora.itch.io/the-legend-of-zelda-a-link-to-the-past-fr'
+  feed: >-
+    https://kakashurukiora.itch.io/the-legend-of-zelda-a-link-to-the-past-fr/devlog.rss
+  development: sporadic
+  status: semi-playable
+  content: swappable
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  added: 2025-07-09
+  updated: 2025-07-09
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDg5OS5wbmc=/original/KNpqRk.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQxMy5wbmc=/original/BQ6j5s.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQxNS5wbmc=/original/F3KaLY.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQxOS5wbmc=/original/MUZRXY.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQzMi5wbmc=/original/pk3OsH.png'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQwOS5qcGc=/original/Ui2eJS.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MTMyNi5qcGc=/original/MlGXJL.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MTMyNC5qcGc=/original/Wn6IWT.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjcxMDcwMC8xNjE2MDQwNS5qcGc=/original/ye5maK.jpg'
+
+- name: "The Legend of Zelda: Mercuris' Chest"
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: clone
+  repo: 'https://gitlab.com/solarus-games/games/zelda-mercuris-chest-demo'
+  url: 'https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/'
+  feed: 'https://gitlab.com/solarus-games/games/zelda-mercuris-chest-demo.atom'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  added: 2025-08-13
+  updated: 2025-08-13
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen1.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen2.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen3.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen4.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen5.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen6.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen7.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mercuris-chest/screen8.png
+  video:
+    youtube: SYw8QJ7DW6E
+
+- name: 'The Legend of Zelda: Mystery of Solarus DX'
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: remake
+  repo: 'https://gitlab.com/solarus-games/games/zsdx'
+  url: 'https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/'
+  feed: 'https://gitlab.com/solarus-games/games/zsdx.atom'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  info: >-
+    A direct sequel to A Link to the Past, using the same graphics and mechanics.
+    It was the first game made with the Solarus engine, which was designed for it.
+    The DX version is an enhanced remake of Mystery of Solarus, originally created
+    with RPG Maker 2000.
+  added: 2025-07-17
+  updated: 2025-07-27
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen8.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen1.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen2.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen3.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen4.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen5.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen6.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/screen7.png
+  video:
+    youtube: BUxREyXILLs
+
+- name: 'The Legend of Zelda: Mystery of Solarus XD'
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: clone
+  repo: 'https://gitlab.com/solarus-games/games/zsxd'
+  url: 'https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/'
+  feed: 'https://gitlab.com/solarus-games/games/zsxd.atom'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  info: A parodic game that released on April Fools' Day 2011.
+  added: 2025-08-06
+  updated: 2025-08-06
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/screen1.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/screen2.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/screen3.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/screen4.png
+
+- name: The Legend Of Zelda - Navi's Quest
+  frameworks:
+  - Solarus
+  langs:
+  - C++
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  type: clone
+  added: 2015-09-27
+  updated: 2015-09-27
+  url: http://www.zeldaroth.fr/us/dlnsq.php
+  video:
+    youtube: HkpQpoQ8LGM
+
+- name: 'The Legend of Zelda: Ocarina of Time'
+  originals:
+  - 'The Legend of Zelda: Ocarina of Time'
+  type: remake
+  repo: 'https://github.com/zeldaret/oot'
+  url: https://zelda64.dev/games/oot
+  development: active
+  status: unplayable
+  licenses:
+  - As-is
+  content: commercial
+  langs:
+  - C
+  added: 2021-12-12
+  updated: 2021-12-12
+
+- name: The Legend Of Zelda - Oni Link Begins
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  type: clone
+  added: 2015-09-27
+  updated: 2025-08-03
+  repo: https://www.zeldaroth.fr/us/dlolb.php
+  url: http://www.zeldaroth.fr/us/zolb.php
+  images:
+  - https://www.zeldaroth.fr/images/olb/s1.JPG
+  - https://www.zeldaroth.fr/images/olb/s2.JPG
+  - https://www.zeldaroth.fr/images/olb/s3.JPG
+  - https://www.zeldaroth.fr/images/olb/s4.JPG
+  - https://www.zeldaroth.fr/images/olb/s5.JPG
+  - https://www.zeldaroth.fr/images/olb/s6.JPG
+  - https://www.zeldaroth.fr/images/olb/s7.JPG
+  - https://www.zeldaroth.fr/images/olb/s8.JPG
+  - https://www.zeldaroth.fr/images/olb/s9.JPG
+  - https://www.zeldaroth.fr/images/olb/s10.JPG
+  - https://www.zeldaroth.fr/images/olb/s11.JPG
+  - https://www.zeldaroth.fr/images/olb/s12.JPG
+  video:
+    youtube: ATCSf3o19RY
+
+- name: 'The Legend of Zelda: Onilink Begins SE'
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: clone
+  repo: 'https://gitlab.com/solarus-games/games/zelda-olb-se'
+  url: 'https://www.solarus-games.org/games/the-legend-of-zelda-onilink-begins-se/'
+  feed: 'https://gitlab.com/solarus-games/games/zelda-olb-se.atom'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  info: >-
+    A remake of the original Zelda Onilink Begins with Solarus engine and the
+    sequel of Zelda Return of the Hylian.
+  added: 2025-08-03
+  updated: 2025-08-03
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-onilink-begins-se/screen1.jpg
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-onilink-begins-se/screen2.jpg
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-onilink-begins-se/screen3.jpg
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-onilink-begins-se/screen4.jpg
+
+- name: The Legend Of Zelda - Picross
+  langs:
+  - C++
+  frameworks:
+  - Solarus
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  type: clone
+  added: 2015-09-27
+  updated: 2015-09-27
+  url: http://www.zeldaroth.fr/us/dlpicross.php
+
+- name: The Legend Of Zelda - Return Of The Hylian
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  type: clone
+  added: 2015-09-27
+  updated: 2025-07-29
+  repo: https://www.zeldaroth.fr/us/dlroth.php
+  url: https://www.zeldaroth.fr/us/zroth.php
+  images:
+  - https://www.zeldaroth.fr/images/roth/s14.png
+  - https://www.zeldaroth.fr/images/roth/s1.png
+  - https://www.zeldaroth.fr/images/roth/s2.png
+  - https://www.zeldaroth.fr/images/roth/s3.png
+  - https://www.zeldaroth.fr/images/roth/s4.png
+  - https://www.zeldaroth.fr/images/roth/s5.png
+  - https://www.zeldaroth.fr/images/roth/s8.png
+  - https://www.zeldaroth.fr/images/roth/s10.png
+  - https://www.zeldaroth.fr/images/roth/s11.png
+  - https://www.zeldaroth.fr/images/roth/s12.png
+  - https://www.zeldaroth.fr/images/roth/s13.png
+  - https://www.zeldaroth.fr/images/roth/s9.png
+
+- name: 'The Legend of Zelda: Return of the Hylian SE'
+  originals:
+  - Legend of Zelda - A Link to the Past
+  type: clone
+  repo: 'https://gitlab.com/solarus-games/games/zelda-roth-se'
+  url: >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/
+  feed: 'https://gitlab.com/solarus-games/games/zelda-roth-se.atom'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Solarus
+  licenses:
+  - CC-BY-SA
+  - GPL3
+  info: A remake of the original Zelda Return of the Hylian with Solarus engine.
+  added: 2025-07-29
+  updated: 2025-07-29
+  images:
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/screen1.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/screen2.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/screen3.png
+  - >-
+    https://www.solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/screen4.png
+  video:
+    youtube: DUmeln2kDTg
+
+- name: The Legend Of Zelda - Time To Triumph
+  langs:
+  - C++
+  frameworks:
+  - Solarus
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: playable
+  type: clone
+  added: 2015-09-27
+  updated: 2015-09-27
+  url: http://www.zeldaroth.fr/us/z3t.php
+  video:
+    youtube: biPY10UcDy8
+
+- name: legion
+  frameworks:
+  - Irrlicht
+  langs:
+  - C++
+  licenses:
+  - Custom
+  development: halted
+  originals:
+  - Legion
+  status: unplayable
+  repo: https://github.com/mahho/legion
+  type: remake
+  added: 2015-06-22
+  updated: 2015-06-22
+
+- name: LegionGame
+  type: remake
+  originals:
+  - Legion
+  repo: https://github.com/bsoja/LegionGame
+  development: halted
+  status: unplayable
+  langs:
+  - C#
+  frameworks:
+  - MonoGame
+  licenses:
+  - GPL3
+  content: open
+  added: 2019-03-21
+  updated: 2024-09-23
+  images:
+  - https://raw.githubusercontent.com/bsoja/LegionGame/master/data/screenshots/legion-debug.png
+  - https://raw.githubusercontent.com/bsoja/LegionGame/master/data/screenshots/legion-info-pl.png
+  - https://raw.githubusercontent.com/bsoja/LegionGame/master/data/screenshots/legion-info-en.png
+  - https://raw.githubusercontent.com/bsoja/LegionGame/master/data/screenshots/legion-terrain.png
+
+- name: Legionnaire
+  originals:
+  - Legionnaire
+  type: official
+  url: 'https://www.erasmatazz.com/library/source-code/#:~:text=Legionnaire'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-06
+  updated: 2026-01-06
+
+- name: LEM
+  originals:
+  - Lunar
+  type: clone
+  repo: 'http://www.vintage-basic.net/bcg/lem.bas'
+  url: 'https://www.atariarchives.org/basicgames/showpage.php?page=107'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  added: 2026-02-26
+  updated: 2026-02-26
+  images:
+  - 'https://www.technologizer.com/wp-content/uploads/2009/07/lem.png'
+
+- name: Lemmings.ts
+  images:
+  - https://raw.githubusercontent.com/tomsoftware/Lemmings.ts/master/docu/examples/demo_01.png
+  - https://raw.githubusercontent.com/tomsoftware/Lemmings.ts/master/docu/examples/demo_02.png
+  langs:
+  - TypeScript
+  frameworks:
+  - Vue.js
+  licenses:
+  - MIT
+  content: commercial
+  development: complete
+  originals:
+  - Lemmings
+  repo: https://github.com/tomsoftware/Lemmings.ts
+  url: https://lemmings.hmilch.net/lemmings.html
+  status: playable
+  type: remake
+  added: 2017-10-22
+  updated: 2023-08-09
+
+- name: Lemmini
+  images:
+  - https://happypenguin.altervista.org/screenshots/lemmini.png
+  langs:
+  - Java
+  licenses:
+  - Apache
+  content: commercial
+  development: halted
+  originals:
+  - Lemmings
+  repo: https://bitbucket.org/fade0ff/lemmini
+  status: playable
+  type: remake
+  added: 2017-08-18
+  updated: 2023-01-28
+  url: http://lemmini.de/
+
+- name: Lemmix
+  langs:
+  - Delphi
+  licenses:
+  - Custom
+  content: commercial
+  development: halted
+  originals:
+  - Lemmings
+  repo: https://github.com/ericlangedijk/Lemmix
+  status: playable
+  type: remake
+  added: 2008-03-10
+  updated: 2020-08-25
+  video:
+    youtube: 5cNXhgSa9AI
+
+- name: Lemonade Stand
+  originals:
+  - Lemonade Stand
+  type: official
+  url: 'http://codenautics.com/lemonade/'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: 1979 Applesoft BASIC Port.
+  added: 2026-01-17
+  updated: 2026-01-17
+
+- name: Level 0
+  originals:
+  - Snake II
+  type: clone
+  repo: 'https://github.com/mikeplus64/Level-0'
+  url: 'https://quasimal.com/projects/level_0.html'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Haskell
+  frameworks:
+  - SDL
+  licenses:
+  - GPL3
+  added: 2025-07-02
+  updated: 2025-07-02
+  images:
+  - 'https://quasimal.com/images/snake_intro.png'
+
+- name: LGames
+  originals:
+  - Atomix
+  - Breakout
+  type: clone
+  repo: https://sourceforge.net/projects/lgames/
+  url: https://lgames.sourceforge.io
+  feed: https://sourceforge.net/p/lgames/activity/feed
+  development: very active
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  info: LGames is a collection of Linux games
+  added: 2019-12-02
+  updated: 2025-09-20
+  images:
+  - 'https://lgames.sourceforge.io/LMarbles/ss0.jpg'
+  - 'https://lgames.sourceforge.io/LMarbles/ss1.jpg'
+  - 'https://lgames.sourceforge.io/LMarbles/ss2.jpg'
+  - https://lgames.sourceforge.io/LBreakoutHD/ss0.jpg
+  - https://lgames.sourceforge.io/LBreakoutHD/ss1.jpg
+  - https://lgames.sourceforge.io/LBreakoutHD/ss2.jpg
+  video:
+    youtube: pSdXftkK7M0
+
+- name: LGeneral
+  images:
+  - https://lgames.sourceforge.io/LGeneral/ss0.jpg
+  - https://lgames.sourceforge.io/LGeneral/ss1.jpg
+  - https://lgames.sourceforge.io/LGeneral/ss2.jpg
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Panzer General
+  repo: https://sourceforge.net/projects/lgeneral/
+  status: playable
+  type: remake
+  added: 2013-05-30
+  updated: 2023-01-28
+  url: https://lgames.sourceforge.io/LGeneral/
+
+- name: LibDay
+  originals:
+  - Liberation Day
+  type: remake
+  repo: https://github.com/gitter-badger/LibDay
+  url: https://gamesnippets.wordpress.com/
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - C#
+  frameworks:
+  - Unity
+  licenses:
+  - MIT
+  added: 2019-07-08
+  updated: 2020-08-25
+  images:
+  - https://gamesnippets.wordpress.com/wp-content/uploads/2017/04/11.png
+
+- name: libmx2
+  originals:
+  - Acid Drop
+  - Asteroids
+  - Tetris
+  - Breakout
+  - Pong
+  type: clone
+  repo: 'https://github.com/lostjared/libmx2'
+  url: 'https://lostsidedead.biz/libmx2/'
+  feed: 'https://github.com/lostjared/libmx2/releases.atom'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - libmx2
+  - SDL2
+  - OpenGL
+  - Vulkan
+  licenses:
+  - MIT
+  info: A cross-platform library containing demo games.
+  added: 2025-12-31
+  updated: 2025-12-31
+  images:
+  - https://lostsidedead.biz/game/3DBreak/3d3.png
+  - https://lostsidedead.biz/game/MasterPiece3D/mp3d.jpg
+  - https://github.com/user-attachments/assets/1b0281a5-cacb-4cb0-8277-f997db8f696e
+  - https://github.com/user-attachments/assets/efbb3881-ba0a-483c-92db-4abba66c61d8
+  - https://github.com/user-attachments/assets/3ec78bc0-95c8-48ae-a817-23d422bae454
+  - https://github.com/user-attachments/assets/cb7b6d98-ab2f-4951-963c-7255e5df221a
+
+- name: libnpengine
+  originals:
+  - Chaos;Head
+  - Steins;Gate
+  type: remake
+  repo: 'https://github.com/FGRE/libnpengine'
+  url: 'https://web.archive.org/web/20190528104113/https://dev.pulsir.eu/krofna/'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - LGPL3
+  info: An open source implementation of the Nitroplus game engine.
+  added: 2025-07-06
+  updated: 2025-07-06
+  images:
+  - >-
+    https://web.archive.org/web/20190528104113im_/https://dev.pulsir.eu/krofna/fgre/1.png
+
+- name: libRealSpace
+  images:
+  - https://raw.githubusercontent.com/fabiensanglard/libRealSpace/master/pics/nice_sc_scene.png
+  - https://raw.githubusercontent.com/fabiensanglard/libRealSpace/master/pics/F-22.png
+  - https://raw.githubusercontent.com/fabiensanglard/libRealSpace/master/pics/face.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Strike Commander
+  repo: https://github.com/fabiensanglard/libRealSpace
+  type: tool
+  status: N/A
+  content: commercial
+  added: 2014-01-05
+  updated: 2019-04-15
+  url: https://fabiensanglard.net/reverse_engineering_strike_commander/index.php
+  info: Tools to parse and render Origin Systems RealSpace engine assets.
+
+- name: Librelancer
+  frameworks:
+  - OpenGL
+  - SDL2
+  - .NET
+  images:
+  - https://librelancer.net/assets/images/slideshow1.jpeg
+  - https://librelancer.net/assets/images/slideshow2.jpeg
+  - https://librelancer.net/assets/images/slideshow3.jpeg
+  - https://librelancer.net/assets/images/slideshow4.jpeg
+  - https://librelancer.net/assets/images/slideshow5.jpeg
+  langs:
+  - C#
+  licenses:
+  - MIT
+  development: active
+  status: semi-playable
+  originals:
+  - Freelancer
+  type: remake
+  added: 2016-05-23
+  updated: 2024-10-02
+  repo: https://github.com/Librelancer/Librelancer
+  url: https://librelancer.net/
+  info: As of 2024, the first mission of the game (Mission 01A) can be played through.
+
+- name: LibreMines
+  frameworks:
+  - Qt
+  images:
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot0.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot1.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot2.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot3.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot4.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot5.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot6.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot7.png
+  - https://raw.githubusercontent.com/Bollos00/LibreMines/master/share/Screenshots/Screenshot8.png
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  development: sporadic
+  status: playable
+  content: open
+  originals:
+  - Minesweeper
+  type: clone
+  added: 2021-09-25
+  updated: 2023-08-10
+  repo: https://github.com/Bollos00/LibreMines
+  url: https://bollos00.github.io/LibreMines/
+
+- name: LibreQuake
+  originals:
+  - Quake
+  type: remake
+  repo: https://github.com/lavenderdotpet/LibreQuake
+  feed: https://github.com/lavenderdotpet/LibreQuake/releases.atom
+  url: https://librequake.queer.sh
+  development: active
+  status: semi-playable
+  content: open
+  langs:
+  - Python
+  licenses:
+  - BSD
+  info: >-
+    A project to create a libre game data replacement for the Quake engine, based
+    on Lovecraftian aesthetic.
+  images:
+  - https://librequake.queer.sh/media/screenshot01.png
+  - https://librequake.queer.sh/media/screenshot02.png
+  - https://librequake.queer.sh/media/screenshot03.png
+  - https://librequake.queer.sh/media/screenshot04.png
+  - https://librequake.queer.sh/media/screenshot05.png
+  added: 2021-08-25
+  updated: 2024-07-28
+
+- name: Librerama
+  frameworks:
+  - Godot
+  images:
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/punchbag_wallop.png
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/carnival_shootout.png
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/rope_hop.png
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/neo_highway.png
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/anagogic_clock.png
+  - https://codeberg.org/Librerama/librerama/raw/branch/master/distribution/screenshots/void_avoider.png
+  langs:
+  - GDScript
+  licenses:
+  - GPL3
+  development: sporadic
+  status: playable
+  content: open
+  originals:
+  - WarioWare
+  repo: https://codeberg.org/Librerama/librerama
+  type: clone
+  added: 2020-04-25
+  updated: 2024-10-05
+  url: https://yeldham.itch.io/librerama
+
+- name: Liero-AI
+  originals:
+  - Liero
+  type: clone
+  repo: >-
+    https://web.archive.org/web/20130102010327/http://helios.et.put.poznan.pl/~sskowron/liero/download.html
+  url: >-
+    https://web.archive.org/web/20130114005135/http://helios.et.put.poznan.pl/~sskowron/liero/
+  status: playable
+  multiplayer:
+  - Competitive
+  - Split-screen
+  content: open
+  langs:
+  - Pascal
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-09-01
+  updated: 2025-09-01
+  images:
+  - https://web.archive.org/web/20060618182312if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/startup.gif
+  - https://web.archive.org/web/20060618181936if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/16ton.gif
+  - https://web.archive.org/web/20060618181832if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/ctf.gif
+  - https://web.archive.org/web/20060618181924if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/elys.gif
+  - https://web.archive.org/web/20060618181858if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/fire.gif
+  - https://web.archive.org/web/20060618181911if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/fwx.gif
+  - https://web.archive.org/web/20060618182154if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/gasgren.gif
+  - https://web.archive.org/web/20060618182021if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/laser.gif
+  - https://web.archive.org/web/20060618181843if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/miss.gif
+  - https://web.archive.org/web/20060618181759if_/http://helios.et.put.poznan.pl/~sskowron/liero/shots/starb.gif
+
+- name: lifter
+  originals:
+  - Boulder Dash
+  type: clone
+  repo: 'https://hackage.haskell.org/package/lifter'
+  feed: 'https://hackage.haskell.org/package/lifter.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Haskell
+  licenses:
+  - BSD
+  added: 2025-09-12
+  updated: 2025-09-12
+
+- name: Light Cycle
+  originals:
+  - Tron
+  type: clone
+  repo: 'https://github.com/Tortured-Metaphor/LightCycle'
+  feed: 'https://github.com/Tortured-Metaphor/LightCycle/releases.atom'
+  development: very active
+  status: playable
+  langs:
+  - Rust
+  frameworks:
+  - ggez
+  licenses:
+  - MIT
+  added: 2025-09-03
+  updated: 2025-09-03
+  images:
+  - https://raw.githubusercontent.com/Tortured-Metaphor/LightCycle/refs/heads/main/img/menu.png
+  - https://raw.githubusercontent.com/Tortured-Metaphor/LightCycle/refs/heads/main/img/game.png
+
+- name: Lilium Arena Classic
+  originals:
+  - Quake 3
+  type: remake
+  repo: 'https://github.com/clover-moe/lilium-arena-classic'
+  url: 'https://clover.moe/lilium-arena-classic'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - GPL2
+  added: 2025-11-30
+  updated: 2025-11-30
+
+- name: Lilium Salvation
+  originals:
+  - Dark Salvation
+  type: remake
+  repo: 'https://github.com/clover-moe/lilium-salvation'
+  url: 'https://clover.moe/lilium-salvation'
+  development: sporadic
+  status: semi-playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - GPL2
+  info: An engine replacement for Dark Salvation based on ioquake3.
+  added: 2025-12-11
+  updated: 2025-12-11
+
+- name: Lilium Voyager
+  originals:
+  - 'Star Trek: Voyager – Elite Force'
+  type: remake
+  repo: 'https://github.com/clover-moe/lilium-voyager'
+  url: 'https://clover.moe/lilium-voyager'
+  feed: 'https://github.com/clover-moe/lilium-voyager/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - GPL2
+  info: 'Based on ioquake3 and ioEF.'
+  added: 2025-11-23
+  updated: 2025-11-23
+  images:
+  - 'https://clover.moe/wp-content/uploads/2018/06/shot0002.jpg'
+
+- name: Lincity
+  images:
+  - https://lincity.sourceforge.net/screenshots/power.png
+  - https://lincity.sourceforge.net/screenshots/power+pollution.png
+  - https://lincity.sourceforge.net/screenshots/fire.png
+  langs:
+  - C
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  status: playable
+  originals:
+  - SimCity
+  repo: https://sourceforge.net/projects/lincity/
+  type: clone
+  url: https://lincity.sourceforge.net/
+  added: 2011-07-15
+  updated: 2021-02-08
+
+- name: LinCity-NG
+  images:
+  - https://www.linuxlinks.com/wp-content/uploads/2022/05/LinCity-NG.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: open
+  development: very active
+  status: playable
+  originals:
+  - SimCity
+  repo: https://github.com/lincity-ng/lincity-ng
+  feed: https://github.com/lincity-ng/lincity-ng/releases.atom
+  type: clone
+  added: 2011-06-15
+  updated: 2024-10-07
+  video:
+    youtube: vLmiqLxD2Eo
+
+- name: LinWarrior
+  images:
+  - https://www.hackcraft.de/games/linwarrior_3d/screenshots/20110417.jpg
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - SDL
+  licenses:
+  - Apache
+  development: halted
+  originals:
+  - MechWarrior
+  repo: https://github.com/hackcraft-de/linwarrior
+  type: clone
+  added: 2015-04-03
+  updated: 2019-05-04
+  url: https://www.hackcraft.de/games/linwarrior_3d/index.htm
+  status: playable
+  content: free
+  video:
+    youtube: JcakGQ6X3sU
+
+- name: linyaga
+  originals:
+  - 'Pajama Sam: Life Is Rough When You Lose Your Stuff!'
+  - "Putt-Putt: Pep's Birthday Surprise"
+  type: remake
+  repo: 'https://github.com/cyxx/linyaga'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C
+  - Python
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  info: Humongous Yaga engine reimplementation
+  added: 2026-03-14
+  updated: 2026-03-14
+  images:
+  - 'https://raw.githubusercontent.com/cyxx/linyaga/master/yaga2.jpg'
+  - 'https://raw.githubusercontent.com/cyxx/linyaga/master/yaga1.jpg'
+
+- name: Lionheart Remake
+  images:
+  - https://www.b3dgs.com/v7/projects/lionheart_remake/screens/1.png
+  - https://www.b3dgs.com/v7/projects/lionheart_remake/screens/2.png
+  - https://www.b3dgs.com/v7/projects/lionheart_remake/screens/3.png
+  langs:
+  - Java
+  licenses:
+  - GPL3
+  content: free
+  development: sporadic
+  originals:
+  - Lionheart
+  status: playable
+  multiplayer:
+  - Local
+  - Split-screen
+  - Co-op
+  - Competitive
+  repo: https://github.com/b3dgs/lionheart-remake
+  feed: https://github.com/b3dgs/lionheart-remake/releases.atom
+  type: remake
+  added: 2015-04-12
+  updated: 2023-08-11
+  url: https://lionheart.b3dgs.com
+
+- name: lithtech
+  originals:
+  - F.E.A.R.
+  - 'The Operative: No One Lives Forever'
+  - No One Lives Forever 2
+  - 'Shogo: Mobile Armor Division'
+  type: remake
+  repo: 'https://github.com/Katana-Steel/lithtech'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Online
+  - LAN
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - DirectX
+  licenses:
+  - GPL2
+  info: Currently only NOLF2 is playable.
+  added: 2026-01-30
+  updated: 2026-01-30
+  images:
+  - https://i.imgur.com/Xdb713u.png
+  - https://web.archive.org/web/20231128041333if_/https://cdn.discordapp.com/attachments/270406768750886912/642060349767680012/nolf2.jpg
+  - https://web.archive.org/web/20231128041333if_/https://cdn.discordapp.com/attachments/270406768750886912/642412574725636167/nolf2_vs.png
+
+- name: Little Big Adventure 1 - Engine source code
+  originals:
+  - Little Big Adventure
+  type: official
+  repo: 'https://github.com/2point21/lba1-classic'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - GPL2
+  added: 2023-02-28
+  updated: 2024-07-06
+
+- name: Little Big Adventure 2 - Engine source code
+  originals:
+  - Little Big Adventure 2
+  type: official
+  repo: 'https://github.com/2point21/lba2-classic'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - GPL2
+  added: 2023-03-01
+  updated: 2024-07-06
+
+- name: Lix
+  frameworks:
+  - Allegro
+  langs:
+  - C++
+  licenses:
+  - CC0
+  development: halted
+  originals:
+  - Lemmings
+  repo: https://github.com/SimonN/Lix
+  status: playable
+  type: clone
+  added: 2013-05-30
+  updated: 2018-01-15
+  url: https://www.lixgame.com
+  info: obsolete; continued as LixD
+  video:
+    youtube: dWXXK8QlnME
+
+- name: LixD
+  development: sporadic
+  frameworks:
+  - Allegro
+  images:
+  - https://www.lixgame.com/img/lix-d-screenshot.png
+  info: Updated port of Lix to D and Allegro 5
+  langs:
+  - D
+  licenses:
+  - CC0
+  multiplayer:
+  - Online
+  - Competitive
+  content: open
+  originals:
+  - Lemmings
+  repo: https://github.com/SimonN/LixD
+  feed: https://github.com/SimonN/LixD/releases.atom
+  status: playable
+  type: clone
+  added: 2018-01-15
+  updated: 2018-01-15
+  url: https://www.lixgame.com/
+
+- name: Lizard
+  originals:
+  - Lizard
+  type: official
+  repo: 'https://github.com/bbbradsmith/lizard_src_demo'
+  url: >-
+    https://rainwarrior.itch.io/lizard/devlog/52490/my-lizard-is-the-lizard-of-source
+  feed: 'https://rainwarrior.itch.io/lizard/devlog.rss'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Assembly
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - CC-BY
+  added: 2025-12-29
+  updated: 2025-12-29
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMTExMTIxLzUxNTk5Ni5wbmc=/original/TjYH4S.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTExMTIxLzExNDEzMDkucG5n/original/7TxpAJ.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTExMTIxLzExNDEzMDcucG5n/original/dBqn%2B9.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTExMTIxLzExNDEzMDgucG5n/347x500/Q9KlSr.png'
+  - 'https://img.itch.zone/aW1hZ2UvMTExMTIxLzUxNTk5NS5wbmc=/original/mZMueH.png'
+  video:
+    youtube: pkkBh6aN9Sg
+
+- name: Lizards
+  originals:
+  - Repton
+  type: clone
+  repo: 'https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/#:~:text=lizards'
+  url: 'https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/lizards.lsm'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SVGAlib
+  licenses:
+  - GPL2
+  added: 2025-08-23
+  updated: 2025-08-23
+
+- name: Loap
+  originals:
+  - 3D Lemmings
+  type: remake
+  repo: 'https://bitbucket.org/namida42/loap/'
+  url: 'https://www.lemmingsforums.net/index.php?topic=5907.0'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - 'C#'
+  frameworks:
+  - MonoGame
+  licenses:
+  - As-is
+  info: 'Lemmings 3D Engine made in C#'
+  added: '2025-09-01'
+  updated: '2025-09-01'
+  images:
+  - https://www.neolemmix.com/loapimg/loap01.png
+  - https://www.neolemmix.com/loapimg/loap02.png
+  - https://www.neolemmix.com/loapimg/loap03.png
+  - https://www.neolemmix.com/loapimg/loap04.png  
+
+- name: Lode Runner - Total Recall
+  langs:
+  - JavaScript
+  frameworks:
+  - CreateJS
+  licenses:
+  - As-is
+  development: complete
+  originals:
+  - Lode Runner
+  status: playable
+  repo: https://github.com/SimonHung/LodeRunner_TotalRecall
+  type: remake
+  added: 2015-08-15
+  updated: 2023-08-13
+  url: https://loderunnerwebgame.com/LodeRunner/
+  video:
+    youtube: 277m7navGRQ
+
+- name: Lode Runner 2020
+  originals:
+  - Lode Runner
+  type: remake
+  repo: 'https://github.com/Ma-Pe-Ma/Lode-Runner-2020'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - MIT
+  content: commercial
+  images:
+  - https://raw.githubusercontent.com/Ma-Pe-Ma/Lode-Runner-2020/master/Screenshots/Original.png
+  - https://raw.githubusercontent.com/Ma-Pe-Ma/Lode-Runner-2020/master/Screenshots/Championship.png
+  - https://raw.githubusercontent.com/Ma-Pe-Ma/Lode-Runner-2020/master/Screenshots/Original-Gameplay.png
+  - https://raw.githubusercontent.com/Ma-Pe-Ma/Lode-Runner-2020/master/Screenshots/Championship-Gameplay.png
+  added: 2022-01-04
+  updated: 2024-01-14
+  url: https://mapema.hu/en/docs/hobby/lode-runner/game/
+  video:
+    youtube: i1yjls2AzKk
+
+- name: Loderunner
+  originals:
+  - Lode Runner
+  type: remake
+  repo: 'https://github.com/Piddewitt/Loderunner'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-10-22
+  updated: 2025-10-22
+
+- name: The Lord of the Rings game engine
+  originals:
+  - "J.R.R. Tolkien's The Lord of the Rings, Vol. I"
+  - "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"
+  type: remake
+  url: 'https://www.wonderland.cz/lotr/'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - LGPL2
+  added: 2025-12-09
+  updated: 2025-12-09
+  images:
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/lotr.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/lotr1.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/lotr2.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/holes.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/isildur.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/Screenshot-4.png'
+  - 'https://media.wonderland.cz/stockphoto/2008/11/16/blackrider.png'
+
+- name: LordsAWar!
+  originals:
+  - Warlords II
+  type: clone
+  repo: http://savannah.nongnu.org/projects/lordsawar
+  url: https://lordsawar.nongnu.org/
+  feed: https://savannah.nongnu.org/news/atom.php?group=lordsawar
+  development: halted
+  status: playable
+  multiplayer:
+  - LAN
+  - Hotseat
+  langs:
+  - C++
+  frameworks:
+  - GTK
+  licenses:
+  - GPL3
+  info: 'The LordsAWar! project was started in 2006, by forking the Freelords project.'
+  added: 2025-06-12
+  updated: 2025-06-12
+  images:
+  - 'https://lordsawar.nongnu.org/screenshot2.png'
+  - 'https://lordsawar.nongnu.org/screenshot3.png'
+  - 'https://lordsawar.nongnu.org/citydialog.png'
+  - 'https://lordsawar.nongnu.org/screenshot4.png'
+  - 'https://lordsawar.nongnu.org/screenshot5.png'
+  - 'https://lordsawar.nongnu.org/editor.png'
+  video:
+    vimeo: 409439854
+
+- name: Lose Your Marbles
+  langs:
+  - JavaScript
+  frameworks:
+  - Phaser
+  licenses:
+  - MIT
+  content: free
+  development: halted
+  originals:
+  - Lose Your Marbles
+  status: playable
+  repo: https://github.com/eguneys/lose-your-marbles
+  type: clone
+  added: 2015-04-12
+  updated: 2022-05-23
+
+- name: Lost Mine
+  originals:
+  - Lost Dutchman Mine
+  type: remake
+  repo: 'https://github.com/niner-games/lost-mine'
+  url: 'https://web.archive.org/web/20240919215957/https://lostmine.cc/'
+  feed: 'https://github.com/niner-games/lost-mine/releases.atom'
+  development: active
+  status: unplayable
+  langs:
+  - 'C#'
+  - C++
+  frameworks:
+  - Unreal Engine 5
+  licenses:
+  - BSD2
+  added: 2025-07-13
+  updated: 2025-07-13
+
+- name: LostVikings
+  originals:
+  - The Lost Vikings
+  type: remake
+  repo: 'https://github.com/akaWolf/LostVikings'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - As-is
+  info: Translated and rewritten DOS version of Lost Vikings
+  added: '2023-09-02'
+  updated: '2023-09-02'
+
+- name: Lotus STE
+  originals:
+  - Lotus Esprit Turbo Challenge
+  type: tool
+  repo: 'https://github.com/jonathanopalise/lotus-ste'
+  feed: 'https://github.com/jonathanopalise/lotus-ste/releases.atom'
+  development: halted
+  status: N/A
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to
+    support STE hardware features
+  added: 2026-03-10
+  updated: 2026-03-10
+  images:
+  - https://raw.githubusercontent.com/jonathanopalise/lotus-ste/master/screenshot.png
+
+- name: LOZ
+  originals:
+  - Legend of Zelda
+  type: remake
+  repo: 'https://github.com/aldonunez/Loz'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  - 'C#'
+  frameworks:
+  - Allegro
+  licenses:
+  - Apache
+  added: 2022-01-06
+  updated: 2023-08-14
+
+- name: LSPGDX
+  originals:
+  - "Rock'n Shaolin: Legend of Seven Paladins 3D"
+  type: remake
+  repo: 'https://gitlab.com/m210/LSPGDX'
+  url: 'https://m210.duke4.net/'
+  feed: 'https://gitlab.com/m210/LSPGDX.atom'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - Java
+  frameworks:
+  - libGDX
+  licenses:
+  - GPL3
+  added: 2025-08-02
+  updated: 2025-08-02
+  video:
+    youtube: O-vMfKI9kIg
+
+- name: LTJS
+  frameworks:
+  - SDL2
+  langs:
+  - C++
+  development: active
+  status: unplayable
+  originals:
+  - No One Lives Forever 2
+  repo: https://github.com/bibendovsky/ltjs
+  type: remake
+  licenses:
+  - As-is
+  content: commercial
+  added: 2022-02-15
+  updated: 2024-10-23
+
+- name: lttp-phaser
+  frameworks:
+  - WebGL
+  - Phaser
+  langs:
+  - TypeScript
+  licenses:
+  - MIT
+  content: commercial
+  development: halted
+  originals:
+  - Legend of Zelda - A Link to the Past
+  status: unplayable
+  repo: https://github.com/englercj/lttp
+  type: remake
+  added: 2015-05-28
+  updated: 2020-08-31
+
+- name: LuckySweeper
+  originals:
+  - Minesweeper
+  type: clone
+  repo: 'https://gitlab.com/xenonca/luckysweeper'
+  url: 'https://content.luanti.org/packages/xenonca/luckysweeper/'
+  feed: 'https://content.luanti.org/packages/xenonca/luckysweeper/releases_feed.atom'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - Lua
+  frameworks:
+  - Luanti
+  licenses:
+  - CC-BY-SA
+  - LGPL2
+  added: 2025-11-06
+  updated: 2025-11-06
+  images:
+  - https://content.luanti.org/uploads/1aa559039d.png
+
+- name: Lucy the Diamond Girl
+  originals:
+  - Boulder Dash
+  type: clone
+  repo: 'https://github.com/Peanhua/diamond-girl/'
+  url: >-
+    https://web.archive.org/web/20160305172742/http://www.netikka.net/joyr/diamond_girl/
+  feed: 'https://github.com/Peanhua/diamond-girl/releases.atom'
+  langs:
+  - C
+  development: complete
+  status: playable
+  content: open
+  licenses:
+  - GPL2
+  added: 2025-08-16
+  updated: 2025-08-16
+  images:
+  - 'https://os4depot.net/filedata/snapshot/686_1_snap.png'
+  - 'https://os4depot.net/filedata/snapshot/686_2_snap.png'
+  - 'https://os4depot.net/filedata/snapshot/686_3_snap.jpg'
+  - >-
+    https://web.archive.org/web/20160305172742im_/http://www.netikka.net/joyr/diamond_girl/screenshot-1.png
+
+- name: Lugaru HD
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - SDL2
+  licenses:
+  - GPL2
+  - CC-BY-SA
+  content: open
+  development: halted
+  originals:
+  - "Lugaru: The Rabbit's Foot"
+  status: playable
+  repo: https://gitlab.com/osslugaru/lugaru
+  type: official
+  added: 2015-04-11
+  updated: 2023-08-16
+  url: https://osslugaru.gitlab.io
+  images:
+  - https://osslugaru.gitlab.io/images/lugaru-banner.png
+
+- name: luminesk5
+  langs:
+  - Objective-C
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL3
+  development: halted
+  originals:
+  - Lumines
+  status: unplayable
+  repo: https://github.com/kaikai2/luminesk5
+  type: remake
+  added: 2015-04-13
+  updated: 2022-06-16
+
+- name: luminesweeper
+  originals:
+  - Lumines
+  - Minesweeper
+  type: clone
+  url: 'https://pineight.com/lu/index.html'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  licenses:
+  - GPL2
+  - LGPL2
+  added: 2025-08-05
+  updated: 2025-08-05
+  images:
+  - 'https://pineight.com/lu/L_Shinin.png'
+  - 'https://pineight.com/lu/Rshot.png'
+
+- name: Luminol
+  originals:
+  - RPG Maker
+  type: remake
+  repo: https://github.com/Astrabit-ST/Luminol
+  url: https://luminol.dev/
+  feed: https://luminol.dev/news/feed/atom
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - Rust
+  licenses:
+  - GPL3
+  added: 2025-06-14
+  updated: 2025-06-14
+  images:
+  - https://luminol.dev/screenshots/1.png
+  - https://luminol.dev/screenshots/2.png
+  - https://luminol.dev/screenshots/3.png
+
+- name: Lunar Lander
+  originals:
+  - Lunar Lander
+  type: clone
+  repo: 'https://github.com/nickg/lander'
+  url: 'https://www.doof.me.uk/lunar-lander/'
+  feed: 'https://github.com/nickg/lander/releases.atom'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - SDL2
+  licenses:
+  - GPL3
+  added: '2024-10-16'
+  updated: '2024-10-16'
+  images:
+  - 'https://www.nickg.me.uk/images/lander1.png'
+  - 'https://www.nickg.me.uk/images/lander2.png'
+  - 'https://www.nickg.me.uk/images/lander3.png'
+  - 'https://www.nickg.me.uk/images/lander4.png'
+
+- name: Lunar ship simulator
+  originals:
+  - Lunar Lander
+  type: clone
+  url: 'https://pmk.arbinada.com/category/00716.html'
+  development: complete
+  status: playable
+  langs:
+  - RPL
+  licenses:
+  - GPL2
+  info: Lunar Lander for HP 50g/49 Calculator.
+  added: 2026-01-28
+  updated: 2026-01-28
+  images:
+  - 'https://pmk.arbinada.com/files/lunar-ship-03-device01.jpg'
+
+- name: Lunatic Fringe
+  langs:
+  - JavaScript
+  licenses:
+  - AGPL3
+  development: sporadic
+  originals:
+  - Lunatic Fringe
+  status: playable
+  repo: https://github.com/schwal10/lunatic-fringe
+  type: remake
+  url: https://schwal10.github.io/lunatic-fringe/
+  info: >-
+    This repo is a fork of https://github.com/jackinloadup/lunatic-fringe but this is more up to date usually.
+  added: 2025-08-07
+  updated: 2025-08-07
+  images:
+  - https://i.imgur.com/ZP1pmPU.png
+
+- name: Luola
+  originals:
+  - V-Wing
+  type: clone
+  url: 'https://luolamies.org/software/luola/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-08-01
+  updated: 2025-08-01
+  images:
+  - 'https://luolamies.org/software/luola/screens/screen1.png'
+  - 'https://luolamies.org/software/luola/screens/screen2.png'
+  - 'https://luolamies.org/software/luola/screens/screen3.png'
+  - 'https://luolamies.org/software/luola/screens/screen4.png'
+  - 'https://luolamies.org/software/luola/screens/screen5.png'
+  - 'https://luolamies.org/software/luola/screens/screen6.png'
+
+- name: Lupengo
+  originals:
+  - Pengo
+  type: clone
+  url: 'https://lupengo.sourceforge.net/'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: '2025-07-02'
+  updated: '2025-07-02'
+  images:
+  - 'https://os4depot.net/filedata/snapshot/996_1_snap.png'
+
+- name: Livewire
+  originals:
+  - Livewire
+  type: remake
+  repo: 'https://github.com/scttgs0/Livewire'
+  feed: 'https://github.com/scttgs0/Livewire/releases.atom'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - Assembly
+  licenses:
+  - PD
+  added: 2025-11-11
+  updated: 2025-11-11
+
+- name: Lunar
+  originals:
+  - Lunar
+  type: official
+  repo: 'http://www.vintage-basic.net/bcg/lunar.bas'
+  url: 'https://www.atariarchives.org/basicgames/showpage.php?page=106'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  added: 2026-02-23
+  updated: 2026-02-23
+  images:
+  - 'https://www.technologizer.com/wp-content/uploads/2009/07/1969.png'
+
+- name: LuxMan
+  originals:
+  - Pac-Man
+  type: clone
+  repo: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/pacman/#:~:text=luxman
+  url: >-
+    https://www.ibiblio.org/pub/micro/pc-stuff/Linux/games/arcade/pacman/luxman-0.41.lsm
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - SVGALib
+  licenses:
+  - GPL2
+  added: 2025-10-26
+  updated: 2025-10-26
+
+- name: LX' Arduino Tetris
+  originals:
+  - Tetris
+  type: clone
+  repo: 'https://github.com/RomanSixty/arduino-tetris'
+  url: 'https://projecthub.arduino.cc/RomanSixty/lx-arduino-tetris-708606'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  licenses:
+  - As-is
+  info: A Tetris game for Arduino Uno and a 32x32 LED matrix panel.
+  added: 2025-12-01
+  updated: 2025-12-01
+  video:
+    youtube: rai_6IEXC00
+
+- name: LZWolf
+  originals:
+  - Wolfenstein 3D
+  type: remake
+  repo: https://bitbucket.org/linuxwolf6/lzwolf/
+  url: https://beta.wolf3d.net/engines/LZWolf
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  info: >-
+    An enhanced version of ECWolf with extra features and more graphical
+    potential.
+  added: 2021-11-04
+  updated: 2024-10-28
+  images:
+  - https://media.moddb.com/cache/images/mods/1/48/47972/thumb_620x2000/2020-11-05_06-58-19.mov_snapshot_13.30_2020.11.05_21.11.07.png
+  - https://media.moddb.com/cache/images/mods/1/48/47972/thumb_620x2000/2020-11-05_06-58-19.mov_snapshot_10.02_2020.11.05_21.10.02.png
+  - https://media.moddb.com/cache/images/mods/1/48/47972/thumb_620x2000/2020-11-05_06-58-19.mov_snapshot_08.38_2020.11.05_21.09.22.png

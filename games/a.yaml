@@ -1,0 +1,2866 @@
+- name: The A-Team Disassembly
+  originals:
+  - The A-Team
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/a-team.asm'
+  url: 'https://atariage.com/hack_page.php?SystemID=2600&SoftwareHackID=81'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-10-13
+  updated: 2025-10-13
+  images:
+  - 'https://atariage.com/2600/hacks/screenshots/s_ATeam_Hack_1.png'
+  - 'https://atariage.com/2600/hacks/screenshots/s_ATeam_Hack_2.png'
+
+- name: AB3D-RTG
+  originals:
+  - Alien Breed 3D
+  type: remake
+  repo: 'https://github.com/mheyer32/ab3d-rtg'
+  url: >-
+    https://web.archive.org/web/20160610175317/http://girv.net/blog/2009/alien-breed-3d.html
+  development: halted
+  status: unplayable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-05
+  updated: 2025-11-05
+
+- name: Abbaye-SDL
+  originals:
+  - l'Abbaye des Morts
+  type: remake
+  repo: 'https://github.com/nevat/abbayedesmorts-gpl'
+  feed: 'https://github.com/nevat/abbayedesmorts-gpl/releases.atom'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  - OpenGL
+  licenses:
+  - CC-BY
+  - GPL3
+  added: 2025-08-27
+  updated: 2025-08-27
+  images:
+  - >-
+    https://raw.githubusercontent.com/nevat/abbayedesmorts-gpl/refs/heads/master/screenshots/title.png
+  - >-
+    https://raw.githubusercontent.com/nevat/abbayedesmorts-gpl/refs/heads/master/screenshots/title-md.png
+  - >-
+    https://raw.githubusercontent.com/nevat/abbayedesmorts-gpl/refs/heads/master/screenshots/ingame.png
+  - >-
+    https://raw.githubusercontent.com/nevat/abbayedesmorts-gpl/refs/heads/master/screenshots/ingame-md.png
+
+- name: ABM Disassembly
+  originals:
+  - ABM
+  type: remake
+  repo: 'https://6502disassembly.com/a2-abm/ABM.html'
+  url: 'https://6502disassembly.com/a2-abm/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-23
+  updated: 2025-11-23
+  images:
+  - 'https://6502disassembly.com/a2-abm/images/title.gif'
+  - 'https://6502disassembly.com/a2-abm/images/action1.gif'
+  - 'https://6502disassembly.com/a2-abm/images/action2.gif'
+
+- name: Abuse
+  images:
+  - https://abuse.zoy.org/raw-attachment/wiki/screenshots/abuse.png
+  - https://abuse.zoy.org/raw-attachment/wiki/screenshots/title.png
+  langs:
+  - C++
+  - Common Lisp
+  frameworks:
+  - SDL
+  licenses:
+  - PD
+  - WTFPL
+  - GPL2
+  - Custom
+  development: halted
+  originals:
+  - Abuse
+  repo: http://abuse.zoy.org/wiki/download
+  status: playable
+  type: remake
+  added: 2013-05-27
+  updated: 2023-08-26
+  url: http://abuse.zoy.org/
+  content: swappable
+
+- name: Abuse (Xenoveritas)
+  originals:
+  - Abuse
+  type: remake
+  repo: https://github.com/Xenoveritas/abuse
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - PD
+  - GPL2
+  - WTFPL
+  added: 2022-06-06
+  updated: 2024-11-25
+  images:
+  - https://holarse.de/sites/default/files/2011-12-11-313/abuse1.png
+  - https://holarse.de/sites/default/files/2011-12-11-313/abuse2.png
+
+- name: Abuse 1996
+  originals:
+  - Abuse
+  type: remake
+  repo: 'https://github.com/antrad/Abuse_1996'
+  url: 'http://antonior-software.blogspot.com/2016/05/abuse-1996-sdl-port-09a.html'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C++
+  - Lisp
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  - PD
+  - GPL2
+  - WTFPL
+  info: Updated SDL2 port with some additional features
+  added: 2020-11-17
+  updated: 2020-11-17
+  images:
+  - 'https://media.moddb.com/images/games/1/1/138/Abuse_007.png'
+  - 'https://media.moddb.com/images/games/1/1/138/Abuse_008.png'
+  - 'https://media.moddb.com/images/games/1/1/138/Abuse_006.png'
+  video:
+    youtube: 0Q0SbdDfnFI
+
+- name: Abuse 2025
+  originals:
+  - Abuse
+  type: remake
+  repo: 'https://github.com/apancik/Abuse_2025'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - Custom
+  - GPL2
+  - WTFPL
+  info: >-
+    Abuse 2025 is a modern port of the original game, updated to run on modern
+    systems and with new features like high-resolution graphics, gamepad support,
+    and more.
+  added: '2025-09-01'
+  updated: '2025-09-01'
+  images:
+  - https://github.com/user-attachments/assets/143352b6-dfe5-474f-926d-dd7f74548a85
+  - https://github.com/user-attachments/assets/89ca0cb7-a63a-4a18-a804-3604b4fc0214
+  - https://github.com/user-attachments/assets/72f5c68b-0c2f-4da6-a372-be36dbafd9a4
+
+- name: Abyss Engine
+  originals:
+  - Diablo II
+  type: remake
+  repo: 'https://github.com/AbyssEngine/AbyssEngine'
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - MIT
+  added: 2025-08-20
+  updated: 2025-08-20
+
+- name: Achtung, die Kurve! Classic
+  images:
+  - https://kurve.se/screenshots/kurve-round.png
+  - https://kurve.se/screenshots/kurve-splash.png
+  - https://kurve.se/screenshots/kurve-lobby.png
+  info: A clone that stays true to the mechanics and visuals of the 1995 MS-DOS game (ZATACKA.EXE).
+  langs:
+  - Elm
+  licenses:
+  - AGPL3
+  development: active
+  originals:
+  - Achtung, die Kurve!
+  repo: https://github.com/SimonAlling/kurve
+  content: open
+  status: playable
+  type: clone
+  multiplayer:
+  - Competitive
+  - Local
+  added: 2016-12-11
+  updated: 2026-02-15
+  url: https://kurve.se/
+
+- name: achtungkurve.com
+  images:
+  - https://achtungkurve.com/dist/images/screenshot_1.png
+  - https://achtungkurve.com/dist/images/screenshot_2.png
+  - https://achtungkurve.com/dist/images/screenshot_3.png
+  langs:
+  - JavaScript
+  licenses:
+  - GPL3
+  development: sporadic
+  originals:
+  - Achtung, die Kurve!
+  repo: https://github.com/maechler/kurve
+  status: playable
+  type: clone
+  multiplayer:
+  - Competitive
+  - Local
+  added: 2016-12-11
+  updated: 2023-08-27
+  url: https://achtungkurve.com/
+
+- name: Acorn Electron Elite
+  originals:
+  - Elite
+  type: official
+  repo: 'https://github.com/markmoxon/elite-source-code-acorn-electron'
+  url: 'https://elite.bbcelite.com/electron/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    The Electron version of Elite is essentially a cut-down version of the
+    cassette version that's missing the split-screen mode, suns and Thargoids, but
+    otherwise it is still very much Elite.
+  added: 2025-12-22
+  updated: 2025-12-22
+  images:
+  - 'https://elite.bbcelite.com/images/general/Elite-Electron.png'
+
+- name: AdaDoom3
+  langs:
+  - Ada
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Doom 3
+  repo: https://github.com/AdaDoom3/AdaDoom3
+  status: unplayable
+  type: remake
+  added: 2017-04-04
+  updated: 2024-12-01
+  images:
+  - https://raw.githubusercontent.com/AdaDoom3/AdaDoom3/master/Object/EP2PUGuX0AA2Pz_.jpg
+
+- name: Advent
+  originals:
+  - Colossal Cave Adventure
+  type: remake
+  repo: 'https://github.com/Quuxplusone/Advent'
+  url: 'https://quuxplusone.github.io/Advent/'
+  development: sporadic
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: A modern ANSI C port of Crowther & Woods' "Adventure".
+  added: 2026-01-27
+  updated: 2026-01-27
+
+- name: Adventure Disassembly
+  originals:
+  - Adventure
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/adventure.asm'
+  url: 'https://www.biglist.com/lists/stella/archives/200206/msg00094.html'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-10-17
+  updated: 2025-10-17
+
+- name: Adventure In Time
+  originals:
+  - Adventure in Time
+  type: official
+  repo: 'https://github.com/savetz/Phoenix_AdventureInTime'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  - BASIC
+  licenses:
+  - As-is
+  added: 2026-02-11
+  updated: 2026-02-11
+  images:
+  - https://raw.githubusercontent.com/savetz/Phoenix_AdventureInTime/main/Resources/Screenshot.png
+
+- name: Advanced Strategic Command
+  images:
+  - https://www.asc-hq.org/screenshots/screen05.jpg
+  - https://www.asc-hq.org/screenshots/screen07.jpg
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - GTK
+  licenses:
+  - GPL2
+  development: complete
+  originals:
+  - Battle Isle series
+  repo: https://github.com/ValHaris/asc-hq
+  status: playable
+  multiplayer:
+  - Competitive
+  type: clone
+  added: 2014-08-14
+  updated: 2023-08-28
+  url: https://www.asc-hq.org
+
+- name: Adventureland
+  originals:
+  - Adventureland
+  type: official
+  url: 'https://archive.org/details/softside-magazine-22/page/n35/mode/1up'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  added: 2025-12-27
+  updated: 2025-12-27
+
+- name: After Protocol
+  originals:
+  - Beyond Protocol
+  type: remake
+  repo: 'https://sourceforge.net/projects/beyondprotocol/'
+  url: 'https://www.afterprotocol.com/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - Visual Basic .NET
+  licenses:
+  - Custom
+  added: 2025-11-25
+  updated: 2025-11-25
+  images:
+  - 'https://i.ytimg.com/vi/SlqBQpk6Q20/hq720.jpg'
+  - 'https://i.ytimg.com/vi/Mjjs1tnbjn8/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/P3V5fagfgNE/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/lUVxBRO5g5g/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/to9KpPAYiCw/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/4xFLPhG6BJQ/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/k-HgKhRD9Sc/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/wGOIF-CBz08/hqdefault.jpg'
+  - 'https://i.ytimg.com/vi/16kuwAzl5XE/hqdefault.jpg'
+  video:
+    youtube: if6kWjoOeSk
+
+- name: Afternoon Stalker
+  images:
+  - https://web.archive.org/web/20250329235451if_/http://gvlsywt.cluster051.hosting.ovh.net/dev/images/afternoonstalker-1.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  originals:
+  - Night Stalker
+  status: playable
+  type: remake
+  added: 2015-04-16
+  updated: 2026-02-03
+  url: http://gvlsywt.cluster051.hosting.ovh.net/dev/afternoonstalker.html
+
+- name: AGE
+  originals:
+  - Air
+  type: remake
+  repo: 'https://github.com/weimingtom/air-galgame-engine'
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - ActionScript
+  licenses:
+  - MIT
+  added: 2025-09-16
+  updated: 2025-09-16
+
+- name: Agony
+  originals:
+  - Agony
+  type: official
+  repo: 'https://aminet.net/package/game/shoot/YvesGrolet-sources'
+  url: 'https://www.facebook.com/yves.grolet/posts/10222868958655944'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - Custom
+  added: 2025-11-24
+  updated: 2025-11-24
+
+- name: Agendaroids
+  images:
+  - https://s.uvlist.net/n/y2009/01/56211.jpg
+  - https://s.uvlist.net/l/y2009/01/56210.jpg
+  langs:
+  - C
+  licenses:
+  - GPL2
+  development: complete
+  originals:
+  - Asteroids
+  status: playable
+  type: remake
+  added: 2015-04-07
+  updated: 2022-02-05
+  url: http://www.newbreedsoftware.com/agendaroids/
+
+- name: Air-Sea Battle Disassembly
+  originals:
+  - Air-Sea Battle
+  type: remake
+  repo: 'https://www.qotile.net/minidig/disassembly/air_sea_battle.asm'
+  url: 'https://www.biglist.com/lists/stella/archives/200410/msg00010.html'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-10-21
+  updated: 2025-10-21
+
+- name: Airball - 25th Anniversary Revival
+  originals:
+  - Airball
+  type: remake
+  url: 'https://oldschoolprg.x10.mx/projets.php#airball'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - As-is
+  added: 2025-10-07
+  updated: 2025-10-07
+  images:
+  - 'https://oldschoolprg.x10.mx/images/prj_airball0.png'
+
+- name: Airline Tycoon
+  originals:
+  - Airline Tycoon
+  type: remake
+  repo: 'https://github.com/openairlinetycoon/AirlineTycoon'
+  url: >-
+    https://web.archive.org/web/20150809223259/http://www.gog.com/news/release_bairline_tycoon_deluxeb
+  feed: 'https://github.com/openairlinetycoon/AirlineTycoon/releases.atom'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - Custom
+  added: 2025-11-03
+  updated: 2025-11-03
+
+- name: AirPONG
+  originals:
+  - Pong
+  type: clone
+  repo: 'https://sourceforge.net/projects/airpong/'
+  url: 'https://airpong.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/airpong/news/feed.rss'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  - C++
+  frameworks:
+  - OpenGL
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-10-26
+  updated: 2025-10-26
+  images:
+  - 'https://airpong.sourceforge.net/sights/menu-0.4.0.jpg'
+  - 'https://airpong.sourceforge.net/sights/slate-menu.jpg'
+  - 'https://airpong.sourceforge.net/sights/slate-game.jpg'
+  - 'https://airpong.sourceforge.net/sights/beach-menu.jpg'
+  - 'https://airpong.sourceforge.net/sights/beach-game.jpg'
+  - 'https://airpong.sourceforge.net/sights/old-menu.jpg'
+  - 'https://airpong.sourceforge.net/sights/old-game.jpg'
+
+- name: Archaos
+  originals:
+  - 'Chaos: The Battle of Wizards'
+  type: remake
+  repo: 'https://github.com/lewster32/archaos'
+  url: 'https://www.rotates.org/category/projects/archaos-projects/'
+  feed: 'https://www.rotates.org/category/projects/archaos-projects/feed/'
+  development: very active
+  status: playable
+  multiplayer:
+  - Local
+  content: free
+  langs:
+  - TypeScript
+  - Vue
+  frameworks:
+  - Vue.js
+  - Phaser
+  licenses:
+  - As-is
+  added: 2026-01-07
+  updated: 2026-01-07
+  images:
+  - https://rotates.org/wp-content/uploads/2013/03/archaos-pathfinding1.gif
+
+- name: Arx Fatalis
+  originals:
+  - Arx Fatalis
+  type: official
+  repo: 'https://github.com/johndrinkwater/arx-fatalis'
+  url: >-
+    https://web.archive.org/web/20151007213705/http://bethblog.com/2011/01/14/arx-fatalis-source-code-patch-released/
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  licenses:
+  - GPL3
+  added: 2025-11-27
+  updated: 2025-11-27
+
+- name: Asteroid
+  originals:
+  - Asteroids
+  type: remake
+  repo: 'https://lab.burn.capital/chaz/asteroid'
+  url: 'https://chaz.human.codes/asteroid/'
+  feed: 'https://lab.burn.capital/chaz/asteroid.atom'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - OpenGL
+  - GTK
+  - SDL
+  licenses:
+  - GPL3
+  info: Modern version of the arcade classic Asteroids
+  added: 2026-03-06
+  updated: 2026-03-06
+  images:
+  - 'https://chaz.human.codes/asteroid/asteroid-screenshot.png'
+
+- name: Ajax3d
+  images:
+  - https://a.fsdn.com/con/app/proj/ajax3d/screenshots/113223.jpg
+  - https://a.fsdn.com/con/app/proj/ajax3d/screenshots/113221.jpg
+  langs:
+  - JavaScript
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Zarch
+  status: playable
+  repo: https://sourceforge.net/projects/ajax3d/
+  type: clone
+  added: 2015-10-09
+  updated: 2022-06-25
+  url: http://ajax3d.sourceforge.net/
+
+- name: 'Akalabeth: World of Doom（Pyxel）'
+  originals:
+  - 'Akalabeth: World of Doom'
+  type: remake
+  repo: 'https://github.com/CoBinee/akalabeth-pyxel'
+  url: >-
+    https://web.archive.org/web/20210521234320/http://blog.livedoor.jp/cobinee/archives/2008316.html
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - Pyxel
+  licenses:
+  - As-is
+  added: 2026-01-10
+  updated: 2026-01-10
+  video:
+    youtube: dn4HIVJY4EM
+
+- name: Aklabeth
+  licenses:
+  - GPL2
+  langs:
+  - C
+  frameworks:
+  - SDL
+  originals:
+  - 'Akalabeth: World of Doom'
+  status: playable
+  repo: https://sourceforge.net/projects/aklabeth/
+  type: remake
+  development: halted
+  added: 2015-04-13
+  updated: 2022-06-25
+
+- name: Aladdin_DirectX
+  type: remake
+  originals:
+  - Aladdin
+  status: unplayable
+  langs:
+  - C++
+  frameworks:
+  - DirectX
+  development: halted
+  repo: https://github.com/phanletrunghieu/Aladdin_DirectX
+  added: 2019-09-30
+  updated: 2022-06-25
+  licenses:
+  - As-is
+
+- name: Aleph One
+  images:
+  - https://alephone.lhowon.org/images/marathon_collage.png
+  - https://alephone.lhowon.org/images/marathon2_collage.png
+  - https://alephone.lhowon.org/images/infinity_collage.png
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  content: free
+  development: active
+  originals:
+  - Marathon
+  - Marathon 2
+  - Marathon Infinity
+  repo: https://github.com/Aleph-One-Marathon/alephone
+  feed: https://github.com/Aleph-One-Marathon/alephone/releases.atom
+  status: playable
+  type: remake
+  added: 2011-06-15
+  updated: 2024-12-08
+  url: https://alephone.lhowon.org/
+
+- name: Alex's Ping Pong
+  originals:
+  - Pong
+  type: clone
+  repo: https://www.calculatorti.com/ti-games/ti-89/asm/ping-pong/
+  development: complete
+  status: playable
+  langs:
+  - C
+  licenses:
+  - As-is
+  info: Pong game for TI graphing calculator.
+  added: 2025-11-18
+  updated: 2026-01-08
+  images:
+  - https://www.calculatorti.com/media/images/programs/ping-pong.jpg
+
+- name: Alien 8
+  images:
+  - https://retrospec.sgn.net/style/images/screenshots/alien8_full_1.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/alien8_full_2.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/alien8_full_3.jpg
+  - https://retrospec.sgn.net/style/images/screenshots/alien8_full_4.jpg
+  langs:
+  - C
+  licenses:
+  - Custom
+  development: halted
+  originals:
+  - Alien 8
+  status: playable
+  type: remake
+  added: 2014-01-12
+  updated: 2024-12-09
+  url: https://retrospec.sgn.net/info.htm?id=alien8&t=g
+
+- name: Alien Arena
+  originals:
+  - Quake 3
+  - Unreal Tournament
+  type: similar
+  repo: 'https://github.com/alienarena/alienarena'
+  url: 'https://www.alienarena.org/'
+  feed: 'https://github.com/alienarena/alienarena/releases.atom'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-07-18
+  updated: 2025-07-18
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA2OTM2NC5qcGc=/original/QRq47h.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA2OTM2NS5qcGc=/original/AraimL.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA2OTM2Ni5qcGc=/original/dwqJVE.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA2OTM5Ni5qcGc=/original/XLC6Rj.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA2OTM5NS5qcGc=/original/KJq1PF.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA5NDQ3Ny5qcGc=/original/%2FZY3UX.jpg'
+  - 'https://img.itch.zone/aW1hZ2UvMjIwOTc1MS8xMzA5NDQ3Ni5qcGc=/original/KjB3L1.jpg'
+  video:
+    youtube: TZFJSQLxS1s
+
+- name: Alien Bash II
+  originals:
+  - Alien Bash II
+  type: official
+  repo: https://github.com/videogamepreservation/alienbashii
+  url: 'https://eab.abime.net/showpost.php?p=1010237'
+  development: complete
+  status: unplayable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-12-22
+  updated: 2025-12-22
+
+- name: Alien Breed 3D I
+  originals:
+  - Alien Breed 3D
+  type: remake
+  repo: 'https://github.com/Agrigaatti/Alien-Breed-3D-I'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-23
+  updated: 2025-11-23
+  images:
+  - https://user-images.githubusercontent.com/119355918/212428433-8053ce24-9277-4efd-95a4-a7c1e8929e68.png
+
+- name: Alien Breed 3D II The Killing Grounds
+  originals:
+  - 'Alien Breed 3D II: The Killing Grounds'
+  type: remake
+  repo: 'https://github.com/mheyer32/alienbreed3d2'
+  url: 'https://eab.abime.net/showthread.php?t=111090'
+  development: very active
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: >-
+    Based on and still contains the original source release of Alien Breed 3D II,
+    also contains the original AB3D source.
+  added: 2025-11-09
+  updated: 2025-11-09
+
+- name: Alien Pool
+  originals:
+  - Asteroids
+  type: similar
+  url: 'https://web.archive.org/web/20060520145831/http://mike.taequin.org/alienpool/'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  info: Arcade-style mix of asteroids and pool.
+  added: 2025-08-02
+  updated: 2025-08-02
+  images:
+  - 'https://os4depot.net/filedata/snapshot/1376_1_snap.jpeg'
+  - 'https://os4depot.net/filedata/snapshot/1376_2_snap.jpeg'
+  - 'https://os4depot.net/filedata/snapshot/1376_3_snap.jpeg'
+
+- name: Alien3-C64
+  originals:
+  - Alien³
+  type: official
+  repo: 'https://github.com/milkeybabes/Alien3-C64'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Alien3 Commodore C64 Source Code.
+  added: 2026-01-12
+  updated: 2026-01-12
+  images:
+  - https://www.vintageisthenewold.com/wp-content/uploads/2019/05/71811-Alien_3_E-1496684132.png
+
+- name: Aliens
+  originals:
+  - Galaxian
+  type: clone
+  repo: 'http://www.newbreedsoftware.com/aliens/download/'
+  url: 'http://www.newbreedsoftware.com/aliens/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C
+  licenses:
+  - GPL2
+  info: An arcade-style shooting game for the Agenda VR3 PDA.
+  added: 2025-10-21
+  updated: 2025-10-21
+  images:
+  - https://web.archive.org/web/20250211170143if_/http://www.newbreedsoftware.com/aliens/screenshots/title.gif
+  - https://web.archive.org/web/20250211170144if_/http://www.newbreedsoftware.com/aliens/screenshots/help.gif
+  - https://web.archive.org/web/20250211170144if_/http://www.newbreedsoftware.com/aliens/screenshots/swooping.gif
+  - https://web.archive.org/web/20250211170143if_/http://www.newbreedsoftware.com/aliens/screenshots/marching.gif
+
+- name: Aliens Vs Predator source update
+  originals:
+  - Aliens Versus Predator
+  type: remake
+  repo: 'https://app.assembla.com/spaces/AvP/trac_subversion_tool'
+  url: >-
+    https://web.archive.org/web/20130118133414/http://homepage.eircom.net/~duncandsl/avp/
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - C
+  - C++
+  licenses:
+  - Custom
+  added: 2025-11-07
+  updated: 2025-11-07
+
+- name: Aliens vs. Predator Gold
+  originals:
+  - Aliens Versus Predator
+  type: official
+  repo: 'https://github.com/miohtama/aliens-vs-predator'
+  url: >-
+    https://web.archive.org/web/20151026223517/http://www.gamefront.com/files/10029302/AvP_Gold_Complete_Source_Code
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  - C++
+  licenses:
+  - As-is
+  added: 2025-11-27
+  updated: 2025-11-27
+
+- name: Alienwave
+  originals:
+  - Xenon
+  type: clone
+  url: 'https://www.alessandropira.org/alienwave/aw.html'
+  development: halted
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - ncurses
+  licenses:
+  - GPL2
+  added: 2025-11-12
+  updated: 2025-11-12
+  images:
+  - 'https://www.alessandropira.org/img/aw.jpg'
+
+- name: Allegiance
+  originals:
+  - Allegiance
+  type: official
+  repo: 'https://github.com/videogamepreservation/allegiance'
+  url: >-
+    https://web.archive.org/web/20100328134708/http://www.microsoft.com/games/allegiance/home.htm
+  development: complete
+  status: playable
+  multiplayer:
+  - Online
+  content: free
+  langs:
+  - C++
+  licenses:
+  - Custom
+  added: 2025-12-17
+  updated: 2025-12-17
+
+- name: allegro blasteroids
+  originals:
+  - Blasteroids
+  type: clone
+  repo: 'https://github.com/lucasew/allegro_blasteroids'
+  url: 'https://aur.archlinux.org/packages/allegro-blasteroids-git'
+  feed: 'https://github.com/lucasew/allegro_blasteroids/releases.atom'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - C
+  frameworks:
+  - Allegro
+  licenses:
+  - As-is
+  added: 2025-07-28
+  updated: 2025-07-28
+  images:
+  - https://raw.githubusercontent.com/lucas59356/allegro_blasteroids/master/doc/jogo.png
+
+- name: Allenroids
+  originals:
+  - Asteroids
+  type: clone
+  url: 'https://allenmonroesmith.bitbucket.io/Allenroids/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - As-is
+  added: 2025-08-16
+  updated: 2025-08-16
+  images:
+  - 'https://allenmonroesmith.bitbucket.io/Allenroids/images/allenroids.png'
+
+- name: The Almost of ZZT
+  originals:
+  - ZZT
+  type: official
+  repo: 'https://github.com/asiekierka/almost-of-zzt'
+  url: >-
+    https://web.archive.org/web/20230131040434/https://twitter.com/cbrzeszczot/status/1619439008827973632
+  development: complete
+  status: playable
+  langs:
+  - Pascal
+  licenses:
+  - MIT
+  added: 2026-01-29
+  updated: 2026-01-29
+
+- name: Alpha Waves
+  originals:
+  - Alpha Waves
+  type: official
+  repo: 'https://github.com/LowLevelMahn/alpha_waves_atari_st_source'
+  url: >-
+    https://grenouillebouillie.wordpress.com/2013/01/18/is-it-worth-disputing-the-title-of-first-3d-game-on-a-pc-to-john-carmack/#comment-780
+  development: complete
+  status: playable
+  multiplayer:
+  - Competitive
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: '2025-11-06'
+  updated: '2025-11-06'
+
+- name: Alpha Waves Classic
+  originals:
+  - Alpha Waves
+  type: remake
+  repo: 'https://sourceforge.net/projects/alpha-waves/'
+  url: >-
+    https://grenouillebouillie.wordpress.com/2007/11/09/the-dawn-of-3d-games/#comment-169
+  development: halted
+  status: unplayable
+  langs:
+  - C++
+  licenses:
+  - GPL2
+  added: 2025-11-08
+  updated: 2025-11-08
+
+- name: Altered-Beast
+  originals:
+  - Altered Beast
+  type: official
+  repo: 'https://github.com/milkeybabes/Altered-Beast'
+  development: complete
+  status: playable
+  multiplayer:
+  - Split-screen
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Source code for Altered Beast on the C64.
+  added: 2026-01-08
+  updated: 2026-01-08
+  images:
+  - https://www.vintageisthenewold.com/wp-content/uploads/2019/05/72389-altered-beast-commodore-64-screenshot-headless-zombies.png
+
+- name: Ambermoon
+  originals:
+  - Ambermoon
+  type: official
+  repo: 'https://github.com/jhorneman/ambermoon'
+  url: >-
+    https://www.intelligent-artifice.com/2023/amberstar-ambermoon-source-material-released/#:~:text=Ambermoon
+  development: halted
+  status: unplayable
+  content: commercial
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Historical source code and documents related to Ambermoon
+  added: 2023-06-03
+  updated: 2026-03-14
+
+- name: Ambermoon.net
+  type: remake
+  originals:
+  - Ambermoon
+  repo: https://github.com/Pyrdacor/Ambermoon.net
+  feed: https://github.com/Pyrdacor/Ambermoon.net/releases.atom
+  development: very active
+  status: playable
+  langs:
+  - C#
+  frameworks:
+  - .NET
+  licenses:
+  - GPL3
+  content: commercial
+  added: 2021-07-17
+  updated: 2021-07-17
+  images:
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/MapRendering1.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/MapRendering2.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/Battle.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/Map3D.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/Monsters3D.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/EventBox.png
+  - https://raw.githubusercontent.com/Pyrdacor/Ambermoon.net/master/Screenshots/Merchant.png
+
+- name: Amberstar
+  originals:
+  - Amberstar
+  type: official
+  repo: 'https://github.com/jhorneman/amberstar'
+  url: >-
+    https://www.intelligent-artifice.com/2023/amberstar-ambermoon-source-material-released/#:~:text=Amberstar
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-03-14
+  updated: 2026-03-14
+
+- name: AmiCraftNova
+  originals:
+  - Minecraft
+  type: clone
+  repo: 'https://os4depot.net/?function=showfile&file=game/misc/amicraftnova_src.rar'
+  url: 'https://os4depot.net/?function=showfile&file=game/misc/amicraft.lha'
+  development: halted
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - PD
+  info: The First Warp3D Nova Game.
+  added: 2025-08-08
+  updated: 2025-08-08
+  images:
+  - 'https://os4depot.net/filedata/snapshot/10928_1_snap.jpg'
+  - 'https://os4depot.net/filedata/snapshot/10928_2_snap.jpg'
+  - 'https://keasigmadelta.com/wp-content/uploads/2025/01/AmiCraftNova-1.jpg'
+
+- name: 'Amnesia: A Machine for Pigs'
+  originals:
+  - 'Amnesia: A Machine for Pigs'
+  type: official
+  repo: 'https://github.com/FrictionalGames/AmnesiaAMachineForPigs'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - SDL
+  licenses:
+  - GPL3
+  added: 2023-09-19
+  updated: 2023-09-19
+
+- name: 'Amnesia: The Dark Descent'
+  originals:
+  - 'Amnesia: The Dark Descent'
+  type: official
+  repo: 'https://github.com/FrictionalGames/AmnesiaTheDarkDescent'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL3
+  added: 2023-09-09
+  updated: 2023-09-09
+
+- name: 'Amnesia: The Dark Descent (rework)'
+  originals:
+  - 'Amnesia: The Dark Descent'
+  type: remake
+  repo: 'https://github.com/OSS-Cosmic/AmnesiaTheDarkDescent'
+  feed: 'https://github.com/OSS-Cosmic/AmnesiaTheDarkDescent/releases.atom'
+  development: sporadic
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - SDL2
+  - OpenGL
+  licenses:
+  - Apache
+  - GPL3
+  info: This is a heavy rework of the core engine
+  added: 2023-09-17
+  updated: 2024-12-15
+  images:
+  - >-
+    https://raw.githubusercontent.com/OSS-Cosmic/AmnesiaTheDarkDescent/master/imgs/shot1.png
+
+- name: Amoebax
+  originals:
+  - Puyo Puyo Series
+  type: clone
+  repo: 'https://www.emma-soft.com/games/amoebax/download.html'
+  url: 'https://www.emma-soft.com/games/amoebax/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - LGPL2
+  added: 2025-09-08
+  updated: 2025-09-08
+  images:
+  - 'https://www.emma-soft.com/games/amoebax/screenshots/menu.png'
+  - 'https://www.emma-soft.com/games/amoebax/screenshots/normal.png'
+  - 'https://www.emma-soft.com/games/amoebax/screenshots/training.png'
+  - 'https://www.emma-soft.com/games/amoebax/screenshots/versus.png'
+  - 'https://os4depot.net/filedata/snapshot/2967_1_snap.jpg'
+  - 'https://os4depot.net/filedata/snapshot/2967_3_snap.jpg'
+  video:
+    youtube: NXk9_KpIOXg
+
+- name: Amulets & Armor
+  originals:
+  - Amulets & Armor
+  type: official
+  repo: 'https://github.com/ExiguusEntertainment/AmuletsArmor'
+  url: >-
+    https://web.archive.org/web/20200721064212/http://amuletsandarmor.com/forum/index.php?topic=31.0
+  feed: 'https://github.com/ExiguusEntertainment/AmuletsArmor/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - LAN
+  content: free
+  langs:
+  - C
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL3
+  info: >-
+    The game's original developer made the game open source in 2013 and has
+    continued to develop it.
+  added: 2025-12-17
+  updated: 2025-12-17
+
+- name: 'Analogue: A Hate Story'
+  originals:
+  - 'Analogue: A Hate Story'
+  type: official
+  url: >-
+    https://blog.loveconquersallgames.com/post/49592102340/ive-been-meaning-to-release-the-source-code-to
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - Ren'Py
+  licenses:
+  - As-is
+  added: 2025-12-01
+  updated: 2025-12-01
+  video:
+    youtube: Z249P7c3pRo
+
+- name: Ancient Beast
+  frameworks:
+  - Phaser
+  images:
+  - https://ancientbeast.com/multimedia/screenshots/v0.3%20Frozen%20Skull.jpg
+  - https://ancientbeast.com/multimedia/screenshots/v0.3%20Dark%20Forest.jpg
+  - https://ancientbeast.com/multimedia/screenshots/v0.3%20Before%20Match.jpg
+  langs:
+  - JavaScript
+  licenses:
+  - AGPL3
+  content: open
+  development: active
+  originals:
+  - Heroes of Might and Magic III
+  repo: https://github.com/FreezingMoon/AncientBeast
+  status: playable
+  type: clone
+  added: 2014-01-08
+  updated: 2020-08-25
+  url: https://ancientbeast.com/
+
+- name: Angolmois
+  originals:
+  - BM98
+  type: clone
+  repo: 'https://github.com/lifthrasiir/angolmois'
+  url: >-
+    https://web.archive.org/web/20240422102139/http://mearie.org/projects/angolmois/
+  feed: 'https://github.com/lifthrasiir/angolmois/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C
+  - Python
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  info: A BM98-like rhythm game which supports the BMS format for playing.
+  added: 2025-11-28
+  updated: 2025-11-28
+
+- name: 'Angry, Drunken Dwarves'
+  originals:
+  - Super Puzzle Fighter II Turbo
+  type: clone
+  url: >-
+    https://web.archive.org/web/20170506100454/https://www.sacredchao.net/~piman/angrydd/
+  repo: https://github.com/museoa/angrydd
+  development: halted
+  status: playable
+  multiplayer:
+  - Competitive
+  - Split-screen
+  content: free
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL2
+  added: 2025-07-29
+  updated: 2025-07-29
+  images:
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-1.png
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-2.png
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-3.png
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-4.png
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-5.png
+  - >-
+    https://web.archive.org/web/20170506100454im_/https://www.sacredchao.net/~piman/angrydd/screen-6.png
+
+- name: Anodyne
+  originals:
+  - Anodyne
+  type: official
+  repo: 'https://github.com/analgesicproductions/Anodyne-1-Repo'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - ActionScript
+  frameworks:
+  - Adobe AIR
+  licenses:
+  - Custom
+  added: '2024-08-17'
+  updated: '2024-08-17'
+  images:
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMTQwLmdpZg==/794x1000/AgbRxe.gif'
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMTQyLmdpZg==/794x1000/QZC1XV.gif'
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMDI0LnBuZw==/794x1000/zJrFbK.png'
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMDIzLnBuZw==/794x1000/mJsbBa.png'
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMDI1LnBuZw==/794x1000/wbFN15.png'
+  - 'https://img.itch.zone/aW1hZ2UvOTc3ODIvNTQxMDIyLnBuZw==/794x1000/mCvlHJ.png'
+  video:
+    youtube: BWDc7S4-3zM
+
+- name: 'Anodyne 2: Return to Dust'
+  originals:
+  - 'Anodyne 2: Return to Dust'
+  type: official
+  repo: 'https://github.com/analgesicproductions/Anodyne-2-Open-Source'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - Unity
+  licenses:
+  - Custom
+  added: '2024-08-17'
+  updated: '2024-08-17'
+  video:
+    youtube: yT6yQm3JM3E
+
+- name: AnodyneSharp
+  originals:
+  - Anodyne
+  type: remake
+  repo: 'https://github.com/PixieCatSupreme/AnodyneSharp'
+  url: 'https://pixiecatsupreme.itch.io/anodyne-sharp'
+  feed: 'https://pixiecatsupreme.itch.io/anodyne-sharp/devlog.rss'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - 'C#'
+  frameworks:
+  - MonoGame
+  licenses:
+  - Custom
+  info: 'C# remake based on the ActionScript source code'
+  added: 2024-09-01
+  updated: 2024-09-01
+  images:
+  - https://img.itch.zone/aW1hZ2UvMTE2MTU3NS82NzYwNzg4LnBuZw==/original/rlylPM.png
+  - https://img.itch.zone/aW1hZ2UvMTE2MTU3NS82NzYwNzg2LnBuZw==/original/0I7KhG.png
+  - https://img.itch.zone/aW1hZ2UvMTE2MTU3NS82NzYwODAzLnBuZw==/original/0Pq5iG.png
+
+- name: Another Breakout Clone
+  originals:
+  - Breakout
+  type: clone
+  repo: 'https://sourceforge.net/projects/anotherbc/'
+  url: 'https://anotherbc.sourceforge.net/'
+  feed: 'https://sourceforge.net/p/anotherbc/news/feed.rss'
+  development: halted
+  status: semi-playable
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-11-07
+  updated: 2025-11-07
+
+- name: Another World JS
+  originals:
+  - Another World
+  type: remake
+  repo: 'https://github.com/cyxx/another_js'
+  url: 'https://cyxx.github.io/another_js'
+  development: halted
+  status: semi-playable
+  content: commercial
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  added: 2026-03-06
+  updated: 2026-03-06
+  images:
+  - https://raw.githubusercontent.com/cyxx/another_js/master/screenshot-water-640.png
+
+- name: Another World Suite
+  originals:
+  - Another World
+  type: remake
+  repo: 'https://github.com/malandrin/another-world-suite'
+  url: 'https://malandrin.github.io/another-world-suite/'
+  development: halted
+  status: playable
+  content: commercial
+  langs:
+  - Rust
+  - Vue
+  - JavaScript
+  frameworks:
+  - Vue.js
+  licenses:
+  - MIT
+  added: 2026-03-09
+  updated: 2026-03-09
+  images:
+  - https://raw.githubusercontent.com/malandrin/another-world-suite/main/screenshots/game.gif
+
+- name: anteat
+  originals:
+  - The Anteater
+  type: clone
+  repo: 'http://www.newbreedsoftware.com/atari/nomam2016/anteat.txt'
+  url: 'http://www.newbreedsoftware.com/atari/nomam2016/anteat.html'
+  development: complete
+  status: playable
+  langs:
+  - BASIC
+  licenses:
+  - As-is
+  info: For the NOMAM 2016 "Basic 10-Liners" contest.
+  added: 2026-02-24
+  updated: 2026-02-24
+  images:
+  - https://web.archive.org/web/20250105222047if_/http://www.newbreedsoftware.com/atari/nomam2016/anteat.png
+
+- name: Antiquity
+  originals:
+  - Civilization
+  type: clone
+  repo: 'https://github.com/gondur/Antiquity'
+  url: >-
+    https://web.archive.org/web/20091028060033/http://geocities.com/jvaldeztoo/cph/CSArchives/Antiquity027/Antiquity.htm
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Pascal
+  licenses:
+  - As-is
+  added: 2026-01-05
+  updated: 2026-01-05
+
+- name: ANSI terminal Space Invaders
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://hackage.haskell.org/package/hinvaders'
+  url: >-
+    https://web.archive.org/web/20091203191338/http://ww2.cs.mu.oz.au/~bjpop/code.html#:~:text=ANSI%20terminal%20Space%20Invaders
+  feed: 'https://hackage.haskell.org/package/hinvaders.rss'
+  development: halted
+  status: semi-playable
+  langs:
+  - Haskell
+  licenses:
+  - GPL2
+  added: 2025-10-03
+  updated: 2025-10-03
+
+- name: Antares
+  images:
+  - https://farm3.static.flickr.com/2606/4103057024_0b577de0a2.jpg
+  - https://farm3.static.flickr.com/2742/4102298687_8c2e12276b.jpg
+  - https://farm3.static.flickr.com/2597/4103065046_f52a39003f.jpg
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  - LGPL3
+  content: free
+  development: sporadic
+  originals:
+  - Ares
+  repo: https://github.com/arescentral/antares
+  status: playable
+  type: remake
+  added: 2014-08-20
+  updated: 2024-07-06
+  url: https://arescentral.org/antares
+  feed: https://arescentral.org/news.atom
+  video:
+    youtube: 4s44qu5zgXE
+
+- name: Anteform
+  images:
+  - https://raw.githubusercontent.com/Feneric/Anteform/master/AnteformValley.png
+  - https://raw.githubusercontent.com/Feneric/Anteform/master/AnteformDungeon.png
+  - https://raw.githubusercontent.com/Feneric/Anteform/master/AnteformTown.png
+  langs:
+  - Lua
+  frameworks:
+  - PICO-8
+  licenses:
+  - GPL3
+  content: open
+  development: complete
+  originals:
+  - 'Ultima III: Exodus'
+  repo: https://github.com/Feneric/Anteform
+  status: playable
+  type: similar
+  url: https://feneric.itch.io/anteform
+  added: 2020-05-19
+  updated: 2023-08-30
+
+- name: Anti-Virus
+  originals:
+  - Dr. Mario
+  type: clone
+  url: 'https://www.t3-i.com/scripts/pages/project.php?id=anti-virus'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  - C++
+  frameworks:
+  - Allegro
+  licenses:
+  - As-is
+  added: 2025-09-15
+  updated: 2025-09-15
+  images:
+  - 'https://www.t3-i.com/projects/games/anti-virus/images/banner.png'
+  video:
+    youtube: _Q8JNe9HxCE
+
+- name: aoe
+  development: sporadic
+  frameworks:
+  - SDL2
+  images:
+  - https://user-images.githubusercontent.com/5989565/80805165-98f9b880-8bb7-11ea-8552-872f572e8a55.png
+  - https://user-images.githubusercontent.com/5989565/80805187-a9aa2e80-8bb7-11ea-8f70-6b2106e7a93f.png
+  langs:
+  - C++
+  licenses:
+  - Apache
+  content: commercial
+  originals:
+  - Age of Empires
+  repo: https://github.com/FolkertVanVerseveld/aoe
+  status: unplayable
+  type: remake
+  added: 2023-07-30
+  updated: 2024-12-19
+  info: Re-implementation of Age of Empires and the Rise of Rome expansion.
+
+- name: AOTMC89
+  originals:
+  - Attack of the Mutant Camels
+  type: official
+  repo: 'https://github.com/Konix-Multisystem/AOTMC89'
+  url: >-
+    https://web.archive.org/web/20180502211640/https://www.retrocollect.com/News/jeff-minters-unreleased-konix-multisystem-port-of-attack-of-the-mutant-camels-preserved-a-due-for-release.html
+  feed: 'https://github.com/Konix-Multisystem/AOTMC89/releases.atom'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Unreleased Konix Multisystem port.
+  added: 2025-11-06
+  updated: 2025-11-06
+
+- name: Apotris
+  originals:
+  - 'Tetris: The Grand Master'
+  type: clone
+  repo: https://gitea.com/akouzoukos/apotris
+  url: https://akouzoukos.com/apotris
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Local
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - AGPL3
+  info: A free and multiplatform block stacking game
+  added: 2025-07-05
+  updated: 2025-07-05
+  images:
+  - https://akouzoukos.com/assets/ports.jpg
+
+- name: Apple Flinger
+  originals:
+  - Angry Birds
+  type: clone
+  repo: https://gitlab.com/ar-/apple-flinger
+  url: 'https://f-droid.org/en/packages/com.gitlab.ardash.appleflinger.android/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - Java
+  licenses:
+  - GPL3
+  added: 2022-04-21
+  updated: 2022-04-21
+  images:
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_1.png
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_11.png
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_14.png
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_3.png
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_4.png
+  - https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en/phoneScreenshots/M_1_5.png
+
+- name: Apple II Elite
+  originals:
+  - Elite
+  type: official
+  repo: 'https://github.com/markmoxon/elite-source-code-apple-ii'
+  url: 'https://elite.bbcelite.com/apple/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: The Apple II version was a development of the Commodore 64 source.
+  added: 2025-12-22
+  updated: 2025-12-22
+  images:
+  - 'https://elite.bbcelite.com/images/general/Elite-AppleII.png'
+
+- name: aquaplus-sources
+  originals:
+  - 'Aruruu to Asobo!!'
+  - Kusari
+  - Tears to Tiara
+  - ToHeart2
+  type: official
+  repo: 'https://github.com/jeeb/aquaplus-sources'
+  url: >-
+    https://www.animenewsnetwork.com/news/2006-03-01/leaf-forced-to-release-game-source-code
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C++
+  - C
+  licenses:
+  - GPL2
+  added: 2025-12-14
+  updated: 2025-12-14
+
+- name: aquastax
+  images:
+  - https://raw.githubusercontent.com/LongSteve/aquastax/master/reference/aquastax_anim_01_240x320_efigs.gif
+  langs:
+  - JavaScript
+  frameworks:
+  - Cocos2d
+  licenses:
+  - MIT
+  content: open
+  development: halted
+  originals:
+  - Aquastax
+  status: semi-playable
+  repo: https://github.com/LongSteve/aquastax
+  type: remake
+  added: 2017-12-12
+  updated: 2022-06-25
+
+- name: Aquaria
+  originals:
+  - Aquaria
+  type: official
+  repo: 'https://github.com/islocated/Aquaria'
+  url: 'https://www.wolfire.com/blog/2010/06/aquaria-goes-open-source/'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL
+  licenses:
+  - GPL2
+  added: 2025-12-01
+  updated: 2025-12-01
+
+- name: Arashi-JS
+  langs:
+  - JavaScript
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Tempest
+  status: semi-playable
+  repo: https://github.com/stephank/arashi-js
+  type: remake
+  added: 2014-01-12
+  updated: 2021-08-01
+  url: http://stephank.github.io/arashi-js/
+  info: adapted from ARASHI for the Apple Macintosh
+  images:
+  - https://fordgames.com/uploads/arashijs.png
+
+- name: Arcade3D
+  originals:
+  - Pac-Man
+  type: clone
+  repo: 'https://github.com/thunder1035/Arcade3D'
+  url: 'https://content.luanti.org/packages/Thunder1035/pacman/'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - Lua
+  frameworks:
+  - Luanti
+  licenses:
+  - GPL3
+  added: 2025-09-02
+  updated: 2025-09-02
+  images:
+  - 'https://content.luanti.org/uploads/7a9d770175.png'
+  - 'https://content.luanti.org/uploads/30dd1c84d2.png'
+  - 'https://content.luanti.org/uploads/0c0b5f4ee5.png'
+
+- name: Ard-Reil
+  langs:
+  - C
+  - C++
+  - Java
+  - Pascal
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - 'Anacreon: Reconstruction 4021'
+  status: unplayable
+  repo: https://sourceforge.net/projects/ardreil/
+  type: remake
+  added: 2015-04-09
+  updated: 2022-03-11
+  url: http://ardreil.sourceforge.net/
+
+- name: Arduino guess Mastermind secret code
+  originals:
+  - Mastermind
+  type: clone
+  url: >-
+    https://projecthub.arduino.cc/zaffaroby/mastermind-arduino-guess-secret-code-1b98dd
+  development: complete
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - LiquidCrystal
+  licenses:
+  - As-is
+  added: 2025-12-20
+  updated: 2025-12-20
+  images:
+  - https://projects.arduinocontent.cc/cover-images/7c296da8-22e1-4dbe-b7c6-01ef0778a566.blob
+  video:
+    youtube: rVcAbOEf1HY
+
+- name: Arduino Nano Pac Man
+  originals:
+  - Pac-Man
+  type: clone
+  url: 'https://projecthub.arduino.cc/giobbino/arduino-nano-pac-man-7d5f47'
+  development: complete
+  status: playable
+  langs:
+  - C++
+  frameworks:
+  - TVout
+  licenses:
+  - As-is
+  info: The legendary Pac Man on an Arduino Nano (or Uno) using TV Out.
+  added: 2025-10-30
+  updated: 2025-10-30
+  images:
+  - https://projects.arduinocontent.cc/cover-images/b22d974f-b957-4a95-b0d0-ef1a1555fa64.blob
+  video:
+    youtube: WQgOpwBE2To
+
+- name: Arduino Tetris on ws2812B Matrix
+  originals:
+  - Tetris
+  type: clone
+  url: >-
+    https://projecthub.arduino.cc/mircemk/colorful-arduino-tetris-game-ws2812b-led-matrix-tutorial-416706
+  development: sporadic
+  status: playable
+  langs:
+  - C
+  frameworks:
+  - FastLED
+  licenses:
+  - As-is
+  added: 2025-11-26
+  updated: 2025-11-26
+  images:
+  - https://projects.arduinocontent.cc/cover-images/6b0138b7-fc29-499f-803a-981c9842dbd2.jpg
+
+- name: Arduino UNO Game Engine
+  originals:
+  - Manic Miner
+  - Scramble
+  - Space Invaders
+  type: remake
+  repo: 'https://github.com/Smashcat/UNO_Manic_Miner'
+  url: >-
+    https://projecthub.arduino.cc/smashcat/scramble-arcade-game-on-arduino-uno-8-bit-f53504
+  feed: 'https://github.com/Smashcat/UNO_Manic_Miner/releases.atom'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C
+  - Assembly
+  licenses:
+  - GPL3
+  info: Play the side-scrolling shooter with an Arduino UNO.
+  added: '2025-11-02'
+  updated: '2025-11-02'
+  images:
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/1.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/2.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/3.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/4.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/5.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/6.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/7.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/8.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/9.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/10.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/11.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/12.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/13.jpg
+  - https://raw.githubusercontent.com/Smashcat/UNO_Manic_Miner/refs/heads/main/images/14.jpg
+  video:
+    youtube: bSSh6-Lymfg
+
+- name: Arena 3D
+  originals:
+  - Unreal Tournament
+  type: similar
+  repo: 'https://www.calculatorti.com/ti-games/ti-89/asm/arena-3d/'
+  url: http://www.malcolm-s.net/ti/arena3d/
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  frameworks:
+  - FAT-Engine
+  licenses:
+  - Custom
+  added: 2025-11-22
+  updated: 2026-01-08
+  images:
+  - https://www.calculatorti.com/media/images/programs/arena-3d.jpg
+
+- name: ArkaLouReeD Light!
+  originals:
+  - Arkanoid
+  type: clone
+  url: 'https://excel-pratique.com/en/downloads/games/arkaloureed-light-excel-no700'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - VBA
+  frameworks:
+  - Microsoft Excel
+  licenses:
+  - As-is
+  added: 2025-07-28
+  updated: 2025-07-28
+  images:
+  - >-
+    https://excel-pratique.com/view/en/downloads/images/700-excel-arkaloureed-light.png
+    - https://excel-pratique.com/view/fr/telechargements/images/689-excel-arkaloureed-light.jpg
+
+- name: Arkanoid
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://github.com/shiningdragon/Arkanoid'
+  url: 'https://jsarkanoid.azurewebsites.net/'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - JavaScript
+  licenses:
+  - MIT
+  added: 2025-08-19
+  updated: 2025-08-19
+  images:
+  - 'https://raw.githubusercontent.com/shiningdragon/Arkanoid/master/screenshot.jpg'
+
+- name: Arkanoid game in Java
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://sourceforge.net/projects/arkanoidgameinjava/'
+  feed: 'https://sourceforge.net/p/arkanoidgameinjava/activity/feed'
+  development: complete
+  status: playable
+  langs:
+  - Java
+  licenses:
+  - As-is
+  added: 2025-12-17
+  updated: 2025-12-17
+  images:
+  - 'https://a.fsdn.com/con/app/proj/arkanoidgameinjava/screenshots/Untitled.png'
+
+- name: Arkanoid++
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://sourceforge.net/projects/arkanoidpp/'
+  feed: 'https://sourceforge.net/p/arkanoidpp/news/feed.rss'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - GPL2
+  added: 2026-01-11
+  updated: 2026-01-11
+  images:
+  - 'https://a.fsdn.com/con/app/proj/arkanoidpp/screenshots/95646.jpg'
+  - 'https://a.fsdn.com/con/app/proj/arkanoidpp/screenshots/101083.jpg'
+  - 'https://a.fsdn.com/con/app/proj/arkanoidpp/screenshots/95388.jpg'
+
+- name: Arkaway
+  originals:
+  - Arkanoid
+  type: clone
+  repo: 'https://github.com/son-link/arkaway'
+  url: 'https://son-link.itch.io/arkaway'
+  feed: 'https://github.com/son-link/arkaway/releases.atom'
+  development: halted
+  status: semi-playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - Pyxel
+  licenses:
+  - GPL3
+  added: 2025-09-23
+  updated: 2025-09-23
+  images:
+  - https://raw.githubusercontent.com/son-link/arkaway/main/arkaway_main_screen.png
+  - https://raw.githubusercontent.com/son-link/arkaway/main/arkaway_normal_mode.gif
+  - https://raw.githubusercontent.com/son-link/arkaway/main/arkaway_endless_mode.gif
+
+- name: Armagetron Advanced
+  originals:
+  - Tron
+  type: clone
+  repo: 'https://gitlab.com/armagetronad/armagetronad'
+  url: 'https://www.armagetronad.org'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - Co-op
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - OpenGL
+  licenses:
+  - GPL2
+  added: '2024-10-10'
+  updated: '2024-10-10'
+  images:
+  - 'https://www.armagetronad.org/screenshots/screenshot_2.png'
+  - 'https://www.armagetronad.org/screenshots/screenshot_5.png'
+  - 'https://www.armagetronad.org/screenshots/screenshot_7.png'
+  - 'https://www.armagetronad.org/screenshots/screenshot_12.png'
+  - 'https://www.armagetronad.org/screenshots/screenshot_21.png'
+  - 'https://www.armagetronad.org/screenshots/screenshot_23.png'
+  - 'https://www.armagetronad.org/screenshots/ss_fort_1.png'
+  - 'https://www.armagetronad.org/screenshots/ss_fort_2.png'
+  - 'https://www.armagetronad.org/screenshots/ss_fort_3.png'
+
+- name: 'Armor Alley: Remastered'
+  langs:
+  - JavaScript
+  licenses:
+  - CC-BY-NC
+  content: open
+  development: active
+  originals:
+  - Armor Alley
+  status: playable
+  repo: https://github.com/scottschiller/ArmorAlley
+  type: remake
+  added: 2015-05-05
+  updated: 2024-12-25
+  url: https://armor-alley.net
+  video:
+    youtube: oYUCUvg02rY
+  images:
+  - https://user-images.githubusercontent.com/174437/148264540-d92c7440-8170-4413-b143-e113717ead8f.png
+  info: 'Armor Alley: Remastered is a modern, browser-based version of a classic Mac + PC game.'
+
+- name: Army Men 1998 Source Code and Tools
+  originals:
+  - Army Men
+  type: official
+  repo: 'https://github.com/OnyeNacho/ArmyMen'
+  url: 'https://archive.org/details/armymen_202209'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - C++
+  licenses:
+  - As-is
+  added: 2026-02-11
+  updated: 2026-02-11
+
+- name: Army Men III
+  originals:
+  - Army Men II
+  type: similar
+  repo: 'https://sourceforge.net/projects/armymen3/'
+  url: 'https://neotlempire.itch.io/army-men-3'
+  feed: 'https://neotlempire.itch.io/army-men-3/devlog.rss'
+  development: halted
+  status: semi-playable
+  content: free
+  langs:
+  - UnrealScript
+  frameworks:
+  - Unreal Engine
+  licenses:
+  - As-is
+  info: Unofficial successor to The 3DO Company's Army Men II.
+  added: 2025-12-17
+  updated: 2025-12-17
+  images:
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3NzgyNC5qcGc=/original/2jHPBG.jpg
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3NzgzMi5qcGc=/original/ev7cSc.jpg
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3NzgzOC5qcGc=/original/m%2B5An%2F.jpg
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3Nzg0Mi5qcGc=/original/kmaH5m.jpg
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3Nzg0OC5qcGc=/original/NI5j8r.jpg
+  - https://img.itch.zone/aW1hZ2UvMTk1MTk1OC8xMTQ3Nzg1Mi5qcGc=/original/3DlJyI.jpg
+  video:
+    youtube: 4SXEfE8Re3s
+
+- name: Arrakis
+  originals:
+  - Dune 2
+  - Command & Conquer
+  type: clone
+  repo: 'http://arrakis.dune2k.com/downloads.html'
+  url: 'http://arrakis.dune2k.com/arrakis.html'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - BASIC
+  licenses:
+  - Custom
+  info: >-
+    An old RTS game inspired by Dune II and Command & Conquer, written in Quick
+    Basic. All graphics drawn by the author, but uses sound effects extracted from
+    Dune II.
+  added: 2021-08-27
+  updated: 2021-08-27
+  images:
+  - https://arrakis.dune2k.com/images/shots/arrakis_large.png
+
+- name: Artillery Duel Reloaded
+  images:
+  - https://www.pygame.org/shots/1519.jpg
+  url: https://www.pygame.org/project/1519
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL3
+  content: open
+  development: halted
+  originals:
+  - Artillery Duel
+  status: playable
+  repo: https://code.google.com/archive/p/artillery-duel-reloaded/
+  type: remake
+  added: 2015-04-11
+  updated: 2024-12-27
+
+- name: Arx Libertatis
+  development: sporadic
+  images:
+  - https://wiki.arx-libertatis.org/images/5/59/Jumping.jpg
+  - https://wiki.arx-libertatis.org/images/3/37/Korean.jpg
+  - https://wiki.arx-libertatis.org/images/e/e5/Cinematic.jpg
+  - https://wiki.arx-libertatis.org/images/3/31/Gambling.jpg
+  - https://wiki.arx-libertatis.org/images/thumb/b/b9/Spell.jpg/288px-Spell.jpg
+  - https://wiki.arx-libertatis.org/images/e/e8/Spidernew.jpg
+  - https://wiki.arx-libertatis.org/images/e/e1/Castle.jpg
+  langs:
+  - C++
+  frameworks:
+  - SDL
+  - SDL2
+  - OpenGL
+  licenses:
+  - GPL3
+  content: commercial
+  originals:
+  - Arx Fatalis
+  status: playable
+  repo: https://github.com/arx/ArxLibertatis
+  type: remake
+  added: 2013-05-27
+  updated: 2024-12-28
+  url: https://arx-libertatis.org
+  feed: https://arx-libertatis.org/feed.rss
+  video:
+    youtube: mIribIqKee8
+
+- name: ASCII DASH
+  originals:
+  - Boulder Dash
+  type: clone
+  repo: 'https://sourceforge.net/projects/ascii-dash/'
+  feed: 'https://sourceforge.net/p/ascii-dash/activity/feed'
+  development: complete
+  status: playable
+  langs:
+  - C
+  - C++
+  frameworks:
+  - ncurses
+  licenses:
+  - MIT
+  added: 2025-10-23
+  updated: 2025-10-23
+  images:
+  - 'https://a.fsdn.com/con/app/proj/ascii-dash/screenshots/dash.png'
+  - 'https://a.fsdn.com/con/app/proj/ascii-dash/screenshots/bang.png'
+  video:
+    youtube: Raw7CwkfBq8
+
+- name: Ascii Patrol
+  originals:
+  - Moon Patrol
+  type: clone
+  repo: 'https://github.com/msokalski/ascii-patrol'
+  url: 'https://ascii-patrol.com/'
+  feed: 'https://github.com/msokalski/ascii-patrol/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - WebGL
+  licenses:
+  - GPL3
+  added: 2025-11-17
+  updated: 2025-11-17
+  images:
+  - 'https://ascii-patrol.com/ascii-patrol.gif'
+
+- name: ascii-invaders
+  originals:
+  - Space Invaders
+  type: clone
+  repo: 'https://github.com/macdice/ascii-invaders'
+  feed: 'https://github.com/macdice/ascii-invaders/releases.atom'
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - C
+  licenses:
+  - GPL2
+  added: 2025-10-14
+  updated: 2025-10-14
+  images:
+  - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/intro.gif
+  - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen1.gif
+  - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen2.gif
+  - https://raw.githubusercontent.com/macdice/ascii-invaders/master/images/screen3.gif
+
+- name: ASIC Lander
+  originals:
+  - Lunar Lander
+  type: clone
+  repo: https://github.com/BXL909/ASIC-Lander
+  url: https://bxl909.github.io/asiclander/
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - JavaScript
+  licenses:
+  - As-is
+  added: 2025-10-06
+  updated: 2025-10-06
+
+- name: asdf
+  langs:
+  - JavaScript
+  licenses:
+  - MIT
+  development: complete
+  originals:
+  - Simon
+  status: playable
+  repo: https://github.com/TimPietrusky/asdf
+  type: remake
+  added: 2015-05-28
+  updated: 2022-06-25
+
+- name: asm2048
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://github.com/filiparag/asm2048'
+  feed: 'https://github.com/filiparag/asm2048/releases.atom'
+  development: complete
+  status: playable
+  content: open
+  langs:
+  - C
+  - Assembly
+  frameworks:
+  - SDL2
+  licenses:
+  - MIT
+  added: 2025-09-25
+  updated: 2025-09-25
+  images:
+  - 'https://media.githubusercontent.com/media/filiparag/asm2048/master/demo.gif'
+
+- name: Aspirin
+  originals:
+  - Aspirin
+  type: clone
+  url: 'https://www.calculatorti.com/ti-games/ti-89/asm/aspirin/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: An adaptation of a (old) macintosh game named Aspirin for TI graphing calculator.
+  added: 2025-11-25
+  updated: 2025-11-25
+  video:
+    youtube: O2aqARtIEMQ
+
+- name: asteroid-diamonds
+  originals:
+  - '2048'
+  type: clone
+  repo: 'https://github.com/AsteroidOS/asteroid-diamonds'
+  feed: 'https://github.com/AsteroidOS/asteroid-diamonds/releases.atom'
+  development: active
+  status: playable
+  langs:
+  - QML
+  licenses:
+  - GPL3
+  info: A 2048 inspired game for AsteroidOS.
+  added: 2025-11-09
+  updated: 2025-11-09
+  images:
+  - https://raw.githubusercontent.com/AsteroidOS/asteroid-diamonds/master/screenshot.png
+
+- name: asteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://github.com/jphamilton/asteroids'
+  url: 'https://jphamilton.github.io/asteroids/build/'
+  development: sporadic
+  status: playable
+  content: free
+  langs:
+  - TypeScript
+  licenses:
+  - As-is
+  added: 2025-10-11
+  updated: 2025-10-11
+  images:
+  - https://raw.githubusercontent.com/jphamilton/asteroids/master/build/assets/1.png
+  - https://raw.githubusercontent.com/jphamilton/asteroids/master/build/assets/2.png
+  - https://raw.githubusercontent.com/jphamilton/asteroids/master/build/assets/3.png
+
+- name: Asteroids Disassembly
+  originals:
+  - Asteroids
+  type: remake
+  url: 'https://6502disassembly.com/va-asteroids/'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-12
+  updated: 2026-01-12
+  images:
+  - 'https://6502disassembly.com/va-asteroids/images/sample.png'
+
+- name: AstroMenace
+  images:
+  - https://viewizard.com/astromenace/am_wide_00.jpg
+  - https://viewizard.com/astromenace/am_wide_03.jpg
+  - https://viewizard.com/astromenace/am_wide_01.jpg
+  - https://viewizard.com/astromenace/am_wide_07.jpg
+  langs:
+  - C++
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  content: open
+  development: sporadic
+  originals:
+  - AstroMenace
+  status: playable
+  repo: https://github.com/viewizard/astromenace
+  url: https://viewizard.com/
+  type: official
+  added: 2015-04-08
+  updated: 2025-03-09
+  video:
+    youtube: ysY9vKKisbo
+
+- name: Atari 7800 Crossbow
+  originals:
+  - Crossbow
+  type: official
+  url: 'https://www.romhacking.net/documents/621/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-11-18
+  updated: 2025-11-18
+
+- name: Atari Asteroids
+  originals:
+  - Asteroids
+  type: remake
+  repo: https://github.com/TheBeachLab/asteroids
+  development: halted
+  status: playable
+  content: open
+  langs:
+  - Python
+  frameworks:
+  - pygame
+  licenses:
+  - GPL3
+  added: 2025-10-21
+  updated: 2025-10-21
+  images:
+  - https://raw.githubusercontent.com/TheBeachLab/asteroids/master/img/screenshot.png
+
+- name: Atari Jaguar Source Code Collection
+  originals:
+  - Alien vs Predator
+  - Breakout 2000
+  - Checkered Flag
+  - Club Drive
+  - Cybermorph
+  - Doom
+  - Fight for Life
+  - 'Highlander: The Last of the MacLeods'
+  - Hover Strike
+  - I-War
+  - Tempest 2000
+  - Trevor McFur in the Crescent Galaxy
+  type: official
+  repo: >-
+    https://forums.atariage.com/topic/360917-looking-for-info-about-the-rayman-source-code-from-the-%E2%80%9Catari-jaguar-source-code-collection%E2%80%9D/?do=findComment&comment=5407882
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  - C
+  licenses:
+  - As-is
+  added: 2025-12-30
+  updated: 2025-12-30
+
+- name: Atari Source Code from Gray Chang
+  originals:
+  - Dog Daze
+  - Dog Daze Deluxe
+  - Bumpomov's Dogs
+  - Claim Jumper
+  type: official
+  repo: 'https://archive.org/details/GrayChangAtariSourceCode'
+  url: >-
+    https://forums.atariage.com/topic/231111-source-code-and-printed-matter-from-gray-chang/
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2025-12-28
+  updated: 2025-12-28
+
+- name: Atari8bit_StarRaiders
+  info: reverse engineering project
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  development: halted
+  originals:
+  - Star Raiders
+  status: unplayable
+  repo: https://github.com/sidneycadot/Atari8bit_StarRaiders
+  type: remake
+  added: 2015-07-14
+  updated: 2022-06-25
+
+- name: Athena Crisis
+  originals:
+  - Athena Crisis
+  type: official
+  repo: 'https://github.com/nkzw-tech/athena-crisis'
+  url: 'https://athenacrisis.com/open-source/'
+  development: very active
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - Co-op
+  content: commercial
+  langs:
+  - TypeScript
+  frameworks:
+  - React
+  licenses:
+  - MIT
+  added: '2024-06-13'
+  updated: '2024-06-13'
+  video:
+    youtube: dyCVlMW6mBY
+
+- name: ativayeban
+  frameworks:
+  - SDL
+  langs:
+  - C
+  licenses:
+  - GPL2
+  development: halted
+  originals:
+  - Fall Down
+  repo: https://github.com/Nebuleon/ativayeban
+  status: playable
+  type: clone
+  added: 2015-05-03
+  updated: 2015-05-03
+
+- name: Atomic
+  originals:
+  - Atomix
+  type: clone
+  repo: 'http://removers.free.fr/softs/download.php#:~:text=Atomic,-the%20source%20code'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: Source code to the Atari Jaguar game Atomic.
+  added: 2026-02-05
+  updated: 2026-02-05
+
+- name: Atomic Tanks
+  images:
+  - https://atanks.sourceforge.io/Screenshots/scrnshot28.png
+  - https://atanks.sourceforge.io/Screenshots/scrnshot29.png
+  - https://atanks.sourceforge.io/Screenshots/scrnshot30.png
+  - https://atanks.sourceforge.io/Screenshots/scrnshot27.png
+  - https://atanks.sourceforge.io/Screenshots/scrnshot19.png
+  - https://atanks.sourceforge.io/Screenshots/scrnshot20.png
+  licenses:
+  - GPL2
+  content: open
+  development: halted
+  langs:
+  - C++
+  frameworks:
+  - Allegro
+  originals:
+  - Scorched Earth
+  repo: https://sourceforge.net/projects/atanks/
+  feed: https://sourceforge.net/p/atanks/activity/feed
+  status: playable
+  multiplayer:
+  - Competitive
+  - Hotseat
+  type: remake
+  added: 2013-06-06
+  updated: 2025-01-03
+  url: https://atanks.sourceforge.io
+
+- name: Atomic-Robokid
+  originals:
+  - Atomic Robo-Kid
+  type: official
+  repo: 'https://github.com/milkeybabes/Atomic-Robokid'
+  development: complete
+  status: playable
+  multiplayer:
+  - Hotseat
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  info: C64 Source Code to Atomic Robokid.
+  added: 2026-01-09
+  updated: 2026-01-09
+  images:
+  - https://www.vintageisthenewold.com/wp-content/uploads/2019/05/248017-atomic-robo-kid-commodore-64-screenshot-go-into-the-locked.png
+
+- name: Atomiks
+  development: halted
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - GPL3
+  content: free
+  originals:
+  - Atomix
+  repo: https://sourceforge.net/projects/atomiks/
+  status: playable
+  type: remake
+  added: 2014-03-25
+  updated: 2025-01-04
+  url: https://atomiks.sourceforge.net
+  images:
+  - https://a.fsdn.com/con/app/proj/atomiks/screenshots/atomiks1.png/245/183/1.5
+  - https://a.fsdn.com/con/app/proj/atomiks/screenshots/atomiks2.png/245/183/1.5
+  - https://a.fsdn.com/con/app/proj/atomiks/screenshots/atomiks3.png/245/183/1.5
+  video:
+    youtube: t8FP44Gv8QY
+
+- name: aTwin
+  originals:
+  - TetriNET
+  type: remake
+  repo: 'https://sourceforge.net/projects/atwin/'
+  url: 'https://atwin.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/atwin/rss?path=/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  langs:
+  - C
+  licenses:
+  - GPL2
+  info: Alternative TetriNET client for Windows.
+  added: 2025-12-25
+  updated: 2025-12-25
+  images:
+  - 'https://atwin.sourceforge.net/shot1.png'
+  - 'https://atwin.sourceforge.net/shot2.png'
+
+- name: Audra
+  originals:
+  - Touhou
+  type: similar
+  repo: 'https://codeberg.org/raubarno/audra'
+  feed: 'https://codeberg.org/raubarno/audra.atom'
+  development: sporadic
+  status: playable
+  content: open
+  langs:
+  - Rust
+  frameworks:
+  - Vulkan
+  licenses:
+  - GPL3
+  added: 2025-07-20
+  updated: 2025-07-20
+  images:
+  - >-
+    https://codeberg.org/raubarno/audra/media/branch/https/audra/assets/screenshot.png
+
+- name: Augustus
+  originals:
+  - Caesar III
+  type: remake
+  repo: https://github.com/Keriew/augustus
+  feed: https://github.com/Keriew/augustus/releases.atom
+  url: https://augustus.josecadete.net/play/
+  development: very active
+  status: playable
+  content: commercial
+  langs:
+  - C
+  frameworks:
+  - SDL2
+  licenses:
+  - AGPL3
+  info:  Augustus is fork of Julius, which changes core gameplay that makes its game saves not compatible with original Caesar 3 and Julius games.
+  added: 2020-12-04
+  updated: 2023-08-31
+  images:
+  - https://ppb.chymera.eu/fefa2d.png
+  - 'https://raw.githubusercontent.com/Keriew/augustus/master/res/vita/bg.png'
+
+- name: Avara
+  originals:
+  - Avara
+  type: official
+  url: 'https://github.com/jmunkki/Avara'
+  development: complete
+  status: playable
+  content: commercial
+  langs:
+  - C
+  licenses:
+  - MIT
+  added: 2025-07-06
+  updated: 2025-07-06
+
+- name: Aviator on the BBC Micro
+  originals:
+  - Aviator
+  type: remake
+  repo: 'https://github.com/markmoxon/aviator-source-code-bbc-micro'
+  url: 'https://aviator.bbcelite.com/'
+  development: complete
+  status: playable
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-01-02
+  updated: 2026-01-02
+  images:
+  - 'https://aviator.bbcelite.com/images/general/Aviator.png'
+
+- name: Avoid The Roid
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://sourceforge.net/projects/avoidtheroid/'
+  url: 'https://avoidtheroid.sourceforge.net/'
+  feed: 'https://sourceforge.net/projects/avoidtheroid/rss?path=/'
+  development: halted
+  status: semi-playable
+  multiplayer:
+  - Online
+  - LAN
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - OpenAL
+  licenses:
+  - GPL2
+  info: >-
+    Originally based on Maelstrom for Linux,  eventually rewrite of all the source
+    code.
+  added: 2025-09-25
+  updated: 2025-09-25
+  images:
+  - 'https://avoidtheroid.sourceforge.net/screenshots/single.png'
+  - 'https://avoidtheroid.sourceforge.net/screenshots/multi.png'
+
+- name: Avoid The Roid 3D
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'http://www.gnu-darwin.org/distfiles/#:~:text=atr3d_source_0.6.tgz'
+  url: 'https://web.archive.org/web/20100305070016/http://www.avoidtheroid.com/'
+  development: halted
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: open
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  - OpenAL
+  licenses:
+  - GPL2
+  info: 3D Edition of Avoid The Roid.
+  added: '2025-09-30'
+  updated: '2025-09-30'
+  images:
+  - https://web.archive.org/web/20040328133435if_/http://www.avoidtheroid.com/singlescreenshot.jpg
+  - https://web.archive.org/web/20040328132031if_/http://www.avoidtheroid.com/multiscreenshot.jpg
+
+- name: Aztec
+  originals:
+  - Aztec
+  type: official
+  repo: >-
+    https://archive.org/download/DataMost_Internal_Floppies_Collection#:~:text=BILESTOAD%20SOURCE
+  url: 'https://x.com/textfiles/status/1086339944631676928'
+  development: complete
+  status: playable
+  content: free
+  langs:
+  - Assembly
+  licenses:
+  - As-is
+  added: 2026-02-14
+  updated: 2026-02-14
+
+- name: Azteroids
+  originals:
+  - Asteroids
+  type: clone
+  repo: 'https://github.com/rodrigosetti/azteroids'
+  feed: 'https://github.com/rodrigosetti/azteroids/releases.atom'
+  development: halted
+  status: playable
+  content: free
+  langs:
+  - C++
+  frameworks:
+  - OpenGL
+  licenses:
+  - As-is
+  added: 2025-10-16
+  updated: 2025-10-16
+  images:
+  - https://raw.githubusercontent.com/rodrigosetti/azteroids/master/img/screenshot-1.png

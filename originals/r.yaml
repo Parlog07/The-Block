@@ -1,0 +1,853 @@
+- name: R.C. Pro-Am II
+  external:
+    website: 'https://www.mobygames.com/game/10437/rc-pro-am-ii/'
+    wikipedia: R.C. Pro-Am II
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Racing
+
+- name: R-Type
+  external:
+    wikipedia: R-Type
+  meta:
+    genres:
+    - Shmup
+
+- name: 'Radix: Beyond the Void'
+  external:
+    website: >-
+      https://web.archive.org/web/19970125103350/http://www.epicgames.com:80/radix.htm
+    wikipedia: 'Radix: Beyond the Void'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    - Shmup
+    themes:
+    - Sci-Fi
+
+- name: Ragnarok
+  names:
+  - Valhalla
+  external:
+    wikipedia: Ragnarok (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Roguelike
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Raid 2020
+  external:
+    website: 'https://www.mobygames.com/game/8373/raid-2020/'
+    wikipedia: Raid 2020
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Run and gun
+    themes:
+    - Sci-Fi
+
+- name: Raiders of the Lost Ark
+  external:
+    website: 'https://www.mobygames.com/game/14996/raiders-of-the-lost-ark/'
+    wikipedia: Raiders of the Lost Ark (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Adventure
+
+- name: Railroad Tycoon
+  external:
+    wikipedia: Railroad Tycoon
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Management
+
+- name: Rally-X
+  names:
+  - ラリーX
+  external:
+    website: 'https://www.mobygames.com/game/19617/rally-x/'
+    wikipedia: Rally-X
+  platforms:
+  - Arcade
+  - MSX
+  - Nintendo Switch
+  - PlayStation 4
+  meta:
+    genres:
+    - Racing
+
+- name: Rama
+  external:
+    website: https://www.mobygames.com/game/1255
+    wikipedia: Rama (video game)
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - PlayStation
+  - Windows
+
+- name: Rampage
+  external:
+    website: 'https://www.mobygames.com/game/124/rampage/'
+    wikipedia: Rampage (video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - DOS
+  - Lynx
+  - Master System
+  - NES
+  - Web
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+
+- name: Rampart
+  external:
+    wikipedia: Rampart (video game)
+  meta:
+    genres:
+    - Shmup
+    - Puzzle
+
+- name: 'Raptor: Call of the Shadows'
+  external:
+    wikipedia: 'Raptor: Call of the Shadows'
+  meta:
+    genres:
+    - Shmup
+
+- name: Re-Volt
+  external:
+    website: 'http://web.archive.org/web/20000229112204/http://www.re-volt.com/'
+    wikipedia: Re-Volt
+  platforms:
+  - Android
+  - Dreamcast
+  - iOS
+  - N64
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Racing
+
+- name: 'Reah: Face the Unknown'
+  names:
+  - Reah
+  external:
+    website: https://www.mobygames.com/game/1684
+    wikipedia: 'Reah: Face the Unknown'
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Sci-Fi
+  platforms:
+  - Windows
+
+- name: RealLive
+  external:
+    website: 'https://ja.wikipedia.org/wiki/RealLive'
+  platforms:
+  - Android
+  - Dreamcast
+  - iOS
+  - Mobile
+  - PlayStation 2
+  - PSP
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+
+- name: RealSports Football
+  names:
+  - Red vs. Blue
+  external:
+    website: 'https://www.atariprotos.com/2600/software/rsfootball/rsfootball.htm'
+    wikipedia: RealSports Football
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Football
+
+- name: Red Comrades Save the Galaxy
+  names:
+  - Red Comrades 1
+  external:
+    website: https://www.mobygames.com/game/1854
+    wikipedia: Red Comrades Save the Galaxy
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Sci-Fi
+  platforms:
+  - Android
+  - Linux
+  - OSX
+  - Windows
+
+- name: Red Comrades 2
+  names:
+  - 'Red Comrades 2: For the Great Justice'
+  external:
+    website: https://www.mobygames.com/game/10705
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - Android
+  - iOS
+  - Windows
+
+- name: 'Red Dog: Superior Firepower'
+  external:
+    website: 'https://www.mobygames.com/game/28692/red-dog-superior-firepower/'
+    wikipedia: 'Red Dog: Superior Firepower'
+  platforms:
+  - Dreamcast
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Sci-Fi
+
+- name: Redneck Rampage
+  external:
+    wikipedia: Redneck Rampage
+  platforms:
+  - DOS
+  - OSX
+  meta:
+    genres:
+    - FPS
+
+- name: Repton
+  external:
+    website: 'https://www.mobygames.com/game/56366/repton/'
+    wikipedia: Repton (video game)
+  platforms:
+  - Acorn 32-bit
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Repton 3
+  external:
+    website: 'https://www.mobygames.com/game/21648/repton-3/'
+    wikipedia: 'Repton_(video_game)#Repton_3'
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle
+
+- name: Rescue!
+  external:
+    website: https://www.macintoshrepository.org/5479-rescue-
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Resident Evil
+  external:
+    wikipedia: Resident Evil (1996 video game)
+  platforms:
+  - DS
+  - PlayStation
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Resident Evil 2
+  names:
+  - BIOHAZARD 2
+  external:
+    wikipedia: Resident Evil 2
+  platforms:
+  - Dreamcast
+  - GameCube
+  - N64
+  - PlayStation
+  - Windows
+  meta:
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: 'Resident Evil 3: Nemesis'
+  external:
+    wikipedia: 'Resident Evil 3: Nemesis'
+  platforms:
+  - Dreamcast
+  - GameCube
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Resonance
+  external:
+    website: https://www.mobygames.com/game/56829
+    wikipedia: Resonance (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes: []
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+
+- name: Return to Castle Wolfenstein
+  external:
+    website: https://web.archive.org/web/20110816201306/https://www.idsoftware.com/games/wolfenstein/rtcw/
+    wikipedia: Return to Castle Wolfenstein
+  platforms:
+  - Linux
+  - OSX
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+    - World War II
+
+- name: Return to Ringworld
+  external:
+    website: https://www.mobygames.com/game/4552
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+
+- name: Return to Zork
+  external:
+    website: https://www.mobygames.com/game/1219
+    wikipedia: Return to Zork
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes: []
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - FM Towns
+  - PC-98
+  - PlayStation
+  - Saturn
+  - Windows
+
+- name: Revenge of the Titans
+  external:
+    website: 'https://www.puppygames.net/revenge-of-the-titans/'
+    wikipedia: Revenge of the Titans
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    subgenres:
+    - Tower Defense
+
+- name: Revs
+  external:
+    website: 'https://www.mobygames.com/game/46536/revs/'
+    wikipedia: Revs (video game)
+  meta:
+    genres:
+    - Racing
+    - Simulation
+
+- name: Rex Nebular and the Cosmic Gender Bender
+  external:
+    website: https://www.mobygames.com/game/539
+    wikipedia: Rex Nebular and the Cosmic Gender Bender
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Adult
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Linux
+  - Windows
+
+- name: Ribbon2
+  names:
+  - リボン2
+  external:
+    website: 'http://bonbee.product.co.jp/r2_se.html'
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Rick Dangerous
+  external:
+    wikipedia: Rick Dangerous
+  meta:
+    genres:
+    - Platform
+
+- name: Riddle of the Sphinx
+  external:
+    website: 'https://www.mobygames.com/game/16473/riddle-of-the-sphinx/'
+    wikipedia: Riddle of the Sphinx (Atari 2600)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Puzzle
+    - Shooter
+    themes:
+    - Egyptian
+
+- name: RimWorld
+  external:
+    wikipedia: RimWorld
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: 'Ringworld: Revenge of the Patriarch'
+  external:
+    website: https://www.mobygames.com/game/2559
+    wikipedia: 'Ringworld: Revenge of the Patriarch'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+
+- name: Rise of the Triad
+  external:
+    website: https://web.archive.org/web/20210914212211/https://3drealms.com/catalog/rise-triad-dark-war_44/
+    wikipedia: Rise of the Triad
+  platforms:
+  - DOS
+  - iOS
+  - Nintendo Switch
+  - PlayStation 4
+  - PlayStation 5
+  - Windows
+  - Xbox One
+  - Xbox Series S/X
+  meta:
+    genres:
+    - FPS
+
+- name: Riven
+  names:
+  - 'Riven: The Sequel to Myst'
+  external:
+    website: https://www.mobygames.com/game/1262
+    wikipedia: Riven
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Fantasy
+    - Steampunk
+  platforms:
+  - Classic Mac OS
+  - iOS
+  - PlayStation
+  - Saturn
+  - Windows
+
+- name: River City Ransom
+  names:
+  - ダウンタウン熱血物語
+  external:
+    website: 'https://www.mobygames.com/game/7645/river-city-ransom/'
+    wikipedia: River City Ransom
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+
+- name: River Raid
+  external:
+    website: 'https://www.lemon64.com/game/river-raid'
+    wikipedia: River Raid
+  platforms:
+  - Atari
+  - Commodore 64
+  - MSX
+  - PC Booter
+  - Windows
+  - Xbox 360
+  - ZX Spectrum
+  meta:
+    genres:
+    - Shmup
+
+- name: Road Fighter
+  external:
+    wikipedia: Road Fighter
+  meta:
+    genres:
+    - Racing
+    - Arcade
+
+- name: Robbo
+  names:
+  - The Adventures of Robbo
+  external:
+    wikipedia: Robbo (video game)
+  platforms:
+  - Atari
+  - Commodore 64
+  - DOS
+  - iOS
+  meta:
+    genres:
+    - Puzzle
+
+- name: RoboCop
+  external:
+    wikipedia: RoboCop (1988 video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - DOS
+  - Game Boy
+  - MSX
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Run and gun
+    themes:
+    - Sci-Fi
+
+- name: Roboforge
+  external:
+    website: 'http://www.roboforge.altervista.org/'
+    wikipedia: Roboforge
+  meta:
+    genres:
+    - Strategy
+
+- name: Robot Odyssey
+  external:
+    website: 'https://www.mobygames.com/game/1608/robot-odyssey/'
+    wikipedia: Robot Odyssey
+  platforms:
+  - Apple II
+  - DOS
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    - Puzzle
+    themes:
+    - Sci-Fi
+
+- name: Robotfindskitten
+  external:
+    wikipedia: Robotfindskitten
+  meta:
+    genres:
+    - Adventure
+    - Roguelike
+    themes:
+    - Sci-Fi
+    - Meditative
+    - Comedy
+
+- name: 'Robotron: 2084'
+  external:
+    website: https://www.mobygames.com/game/102/robotron-2084/
+    wikipedia: 'Robotron: 2084'
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - PC Booter
+  - Web
+  - Xbox
+  - Xbox 360
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+
+- name: RobotWar
+  external:
+    website: 'https://corewar.co.uk/robotwar.htm'
+    wikipedia: RobotWar
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Strategy
+
+- name: "Rock'n Shaolin: Legend of Seven Paladins 3D"
+  names:
+  - 'Euijeok: Im Kkeokjeong'
+  - 搖滾少林系列之七俠五義3D
+  - 의적 임꺽정
+  external:
+    website: 'https://www.mobygames.com/game/56679/euijeok-im-kkeokjeong/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Rocky Racers
+  names:
+  - Space Racers
+  external:
+    website: 'https://www.mobygames.com/game/27279/rocky-racers/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Racing
+
+- name: Rodent's Revenge
+  external:
+    website: 'https://www.igdb.com/games/rodents-revenge'
+    wikipedia: Rodent's Revenge
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Rodney's Funscreen
+  external:
+    website: https://www.mobygames.com/game/39698
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Rogue Legacy
+  external:
+    website: 'https://cellardoorgames.com/roguelegacy/'
+    wikipedia: Rogue Legacy
+  meta:
+    genres:
+    - Platform
+    - Roguelike
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - OSX
+  - PlayStation 3
+  - PlayStation 4
+  - PlayStation Vita
+  - Windows
+  - Xbox One
+
+- name: RollerCoaster Tycoon
+  external:
+    wikipedia: RollerCoaster Tycoon
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Management
+
+- name: RollerCoaster Tycoon 2
+  external:
+    wikipedia: RollerCoaster Tycoon 2
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Management
+
+- name: Rosemary
+  external:
+    website: https://www.mobygames.com/game/44653
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    subgenres:
+    - Point and click
+    themes: []
+  platforms:
+  - Windows
+
+- name: Rowan's Battle of Britain
+  external:
+    website: >-
+      https://web.archive.org/web/20031011180651/http://www.empireinteractive.com/BOB/main.htm
+    wikipedia: Rowan's Battle of Britain
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Flight Simulator
+
+- name: RPG Maker
+  external:
+    wikipedia: RPG Maker
+  meta:
+    genres:
+    - RPG
+
+- name: Ruff's Bone
+  external:
+    website: https://www.mobygames.com/game/71458
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: RuneScape
+  external:
+    wikipedia: RuneScape
+  platforms:
+  - Android
+  - iOS
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: RuneScape Classic
+  external:
+    website: 'https://classic.runescape.wiki/'
+  platforms:
+  - Web
+  meta:
+    genres: 
+    - MMORPG
+    themes:
+    - Fantasy
+    - Medieval
+
+- name: Runesword 2
+  external:
+    website: 'https://www.crosscutgames.com/rs2.html'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Ryzom
+  external:
+    wikipedia: Ryzom
+  meta:
+    genres:
+    - MMORPG

@@ -1,0 +1,156 @@
+- name: V-Wing
+  external:
+    website: 'https://www.mobygames.com/game/35283/v-wing/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Flight
+
+- name: The Vampire Diaries
+  external:
+    website: https://www.mobygames.com/game/24234
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Horror
+  platforms:
+  - Windows
+
+- name: Vangers
+  external:
+    wikipedia: Vangers
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Racing
+    - RPG
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Venture
+  external:
+    website: 'https://www.mobygames.com/game/9771/venture/'
+    wikipedia: Venture (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+    themes:
+    - Fantasy
+
+- name: Versailles 1685
+  external:
+    website: https://www.mobygames.com/game/6889
+    wikipedia: Versailles 1685
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Crime
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - PlayStation
+  - Windows
+
+- name: Vib-Ribbon
+  external:
+    wikipedia: Vib-Ribbon
+  platforms:
+  - PlayStation
+  meta:
+    genres:
+    - Rhythm
+
+- name: Victoria II
+  names:
+  - Victoria 2
+  external:
+    website: 'https://www.paradoxinteractive.com/games/victoria-ii/about'
+    wikipedia: Victoria II
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Real-Time Tactics
+    - Strategy
+    themes:
+    - Alternate Historical
+
+- name: Viper
+  external:
+    website: http://www.mobygames.com/game/amiga/viper__
+  meta:
+    genres:
+    - Arcade
+
+- name: Virtua Cop 2
+  external:
+    website: 'https://www.mobygames.com/game/961/virtua-cop-2/'
+    wikipedia: Virtua Cop 2
+  platforms:
+  - Arcade
+  - Dreamcast
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - FPS
+
+- name: Visual Pinball
+  external:
+    wikipedia: Visual Pinball
+  meta:
+    genres:
+    - Arcade
+
+- name: Vlak
+  external:
+    website: http://www.mobygames.com/game/dos/vlak
+  meta:
+    genres:
+    - Arcade
+
+- name: Voxel Quest
+  external:
+    website: 'https://www.voxelquest.com/'
+  platforms:
+  - Windows
+  meta:
+    subgenres:
+    - Sandbox
+
+- name: Voyeur
+  external:
+    website: https://www.mobygames.com/game/1661
+    wikipedia: Voyeur (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Crime
+  platforms:
+  - CD-i
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: VVVVVV
+  external:
+    wikipedia: VVVVVV
+  meta:
+    genres:
+    - Puzzle
+    - Platform

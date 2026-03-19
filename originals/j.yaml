@@ -1,0 +1,296 @@
+- name: "J.R.R. Tolkien's The Lord of the Rings, Vol. I"
+  external:
+    website: >-
+      https://www.mobygames.com/game/3870/jrr-tolkiens-the-lord-of-the-rings-vol-i/
+    wikipedia: "J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)"
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - PC-98
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"
+  external:
+    website: >-
+      https://www.mobygames.com/game/1480/jrr-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers/
+    wikipedia: "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Jack ~Haitoku no Megami~
+  names:
+  - JACK ～背徳の女神～
+  external:
+    website: 'https://vndb.org/v6387'
+  platforms:
+  - DOS
+  - PC-98
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Jack in the Dark
+  external:
+    wikipedia: Jack in the Dark
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Horror
+    - Alternate Historical
+
+- name: Jade Empire
+  external:
+    wikipedia: Jade Empire
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Martial Arts
+
+- name: Jagged Alliance 2
+  external:
+    wikipedia: Jagged Alliance 2
+  meta:
+    genres:
+    - RPG
+    - Strategy
+    - Turn-Based Tactics
+    themes:
+    - Sci-Fi
+    - Modern Military
+
+- name: 'Jagged Alliance 2: Unfinished Business'
+  external:
+    website: >-
+      https://web.archive.org/web/20020205053145/http://www.jaggedalliance2.com/unfinishedbusiness/
+    wikipedia: 'Jagged_Alliance_2#Unfinished_Business'
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - RPG
+    - Turn-Based Tactics
+
+- name: 'Jak and Daxter: The Precursor Legacy'
+  external:
+    wikipedia: 'Jak and Daxter: The Precursor Legacy'
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: James Bond Jr
+  external:
+    website: 'https://www.mobygames.com/game/12575/james-bond-jr/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Shooter
+
+- name: Jawbreaker
+  external:
+    website: 'https://www.mobygames.com/game/51492/jawbreaker/'
+    wikipedia: Jawbreaker (video game)
+  platforms:
+  - Atari
+
+- name: Jazz Jackrabbit
+  external:
+    wikipedia: Jazz Jackrabbit
+  meta:
+    genres:
+    - Platform
+
+- name: Jazz Jackrabbit 2
+  external:
+    wikipedia: Jazz Jackrabbit 2
+  meta:
+    genres:
+    - Platform
+
+- name: Jet-Story
+  external:
+    wikipedia: Jet-Story
+  meta:
+    genres:
+    - Platform
+
+- name: Jetpac
+  external:
+    wikipedia: Jetpac
+  meta:
+    genres:
+    - Arcade
+
+- name: Jetpack
+  external:
+    website: 'https://www.adeptsoftware.com/jetpack/'
+    wikipedia: Jetpack (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+
+- name: Jewel Thief
+  external:
+    website: http://www.mobygames.com/game/win3x/jewel-thief
+  meta:
+    genres:
+    - Arcade
+
+- name: JezzBall
+  external:
+    wikipedia: JezzBall
+  meta:
+    genres:
+    - Arcade
+
+- name: Jill of the Jungle
+  external:
+    wikipedia: Jill of the Jungle
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+
+- name: Jinxter
+  external:
+    website: https://www.mobygames.com/game/1291
+    wikipedia: Jinxter
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Sci-Fi
+    - Fantasy
+    - Comedy
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Apple II
+  - Atari
+  - Commodore 64
+  - Classic Mac OS
+  - DOS
+  - ZX Spectrum
+
+- name: Jones in the Fast Lane
+  external:
+    website: https://www.mobygames.com/game/370
+    wikipedia: Jones in the Fast Lane
+  meta:
+    genres:
+    - Simulation
+  platforms:
+  - DOS
+  - Windows
+
+- name: 'The Journeyman Project: Pegasus Prime'
+  external:
+    website: https://www.mobygames.com/game/23526
+    wikipedia: 'The Journeyman Project: Pegasus Prime'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'The Journeyman Project 2: Buried in Time'
+  external:
+    website: https://www.mobygames.com/game/2149
+    wikipedia: 'The Journeyman Project 2: Buried in Time'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Joust
+  external:
+    website: https://www.mobygames.com/game/4059/joust/
+    wikipedia: Joust (video game)
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Lynx
+  - NES
+  - PlayStation 3
+  - Xbox
+  - Xbox 360
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Jump 'n Bump
+  external:
+    wikipedia: Jump 'n Bump
+  meta:
+    genres:
+    - Platform
+
+- name: 'Jumpgate: The Reconstruction Initiative'
+  external:
+    wikipedia: 'Jumpgate: The Reconstruction Initiative'
+  meta:
+    genres:
+    - MMORPG
+
+- name: Jumping Jack
+  external:
+    wikipedia: Jumping Jack (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Jumpman
+  external:
+    wikipedia: Jumpman
+  meta:
+    genres:
+    - Platform
+
+- name: Just Grandma and Me
+  external:
+    website: https://www.mobygames.com/game/17688
+  meta:
+    genres:
+    - Educational
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Windows

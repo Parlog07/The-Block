@@ -1,0 +1,32 @@
+[project]
+name = "osgameclones"
+version = "1.0.0"
+description = "Open Source Game Clones"
+authors = [
+    {name="Alexander Solovyov", email="alexander@solovyov.net"}
+]
+license = "MIT"
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "natsort",
+    "pykwalify",
+    "pykwalify-webform",
+    "Unidecode",
+    "htmlmin",
+    "python-slugify",
+]
+
+[tool.poetry.group.dev.dependencies]
+beautifulsoup4 = "^4.12.2"
+httpx = "^0.27.0"
+mistletoe = "^1.4.0"
+pandas = "^2.2.2"
+feedparser = "^6.0.11"
+tenacity = "^8.2.2"
+yamllint = "^1.27.1"
+pygithub = "^2.6.1"
+thefuzz = "^0.22.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

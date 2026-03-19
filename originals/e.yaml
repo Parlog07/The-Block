@@ -1,0 +1,600 @@
+- name: E.T. the Extra-Terrestrial
+  external:
+    website: 'https://www.mobygames.com/game/8874/et-the-extra-terrestrial/'
+    wikipedia: E.T. the Extra-Terrestrial (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Arcade
+    - Adventure
+
+- name: Earth 2140
+  external:
+    wikipedia: Earth 2140
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Earth Shaker
+  external:
+    wikipedia: Earth Shaker (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Earthsiege 2
+  external:
+    wikipedia: Earthsiege 2
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Eastern Front (1941)
+  external:
+    website: 'https://www.mobygames.com/game/25271/eastern-front-1941/'
+    wikipedia: Eastern Front (1941)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - World War II
+
+- name: Eastern Mind
+  names:
+  - 'Eastern Mind: The Lost Souls of Tong Nou'
+  external:
+    website: https://www.mobygames.com/game/22032
+    wikipedia: 'Eastern Mind: The Lost Souls of Tong Nou'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Eat The Whistle
+  external:
+    website: http://www.ggsoft.org/etw/
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: Echochrome
+  external:
+    wikipedia: Echochrome
+  meta:
+    genres:
+    - Puzzle
+  names:
+  - "Mugen Kair\u014D"
+  - "\u7121\u9650\u56DE\u5ECA"
+
+- name: 'EcoQuest: The Search for Cetus'
+  external:
+    website: https://www.mobygames.com/game/584
+    wikipedia: 'EcoQuest: The Search for Cetus'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Aquatic
+  platforms:
+  - DOS
+
+- name: Egypt
+  external:
+    website: 'https://www.mobygames.com/game/30557/egypt/'
+    wikipedia: Egypt (1991 video game)
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Egyptian
+
+- name: Elasto Mania
+  external:
+    wikipedia: Elasto Mania
+  meta:
+    genres:
+    - Platform
+
+- name: 'The Elder Scrolls II: Daggerfall'
+  external:
+    wikipedia: 'The Elder Scrolls II: Daggerfall'
+  meta:
+    genres:
+    - RPG
+
+- name: 'The Elder Scrolls III: Morrowind'
+  external:
+    wikipedia: 'The Elder Scrolls III: Morrowind'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: 'The Elder Scrolls Adventures: Redguard'
+  external:
+    wikipedia: 'The Elder Scrolls Adventures: Redguard'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: 'The Elder Scrolls: Arena'
+  external:
+    wikipedia: 'The Elder Scrolls: Arena'
+  meta:
+    genres:
+    - RPG
+
+- name: Eldritch
+  external:
+    website: 'https://www.eldritchgame.com/'
+    wikipedia: Eldritch (video game)
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Roguelike
+    themes:
+    - Horror
+
+- name: Elements
+  external:
+    website: http://www.mobygames.com/game/browser/elements_
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Elevator Action
+  names:
+  - エレベーターアクション
+  external:
+    website: 'https://www.mobygames.com/game/10914/elevator-action/'
+    wikipedia: Elevator Action
+  platforms:
+  - 3DS
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - Mobile
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PlayStation 4
+  - Wii
+  - Windows
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+    - Shooter
+
+- name: Elifoot 98
+  external:
+    website: 'https://www.elifoot.net/contents/history'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Sports
+    - Simulation
+    subgenres:
+    - Soccer
+    themes:
+    - Management
+
+- name: Elite
+  external:
+    wikipedia: Elite (video game)
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  - NES
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Sci-Fi
+
+- name: Elite II
+  external:
+    wikipedia: 'Frontier: Elite II'
+  meta:
+    genres:
+    - Action
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Sci-Fi
+    - Espionage
+
+- name: Elite III
+  external:
+    wikipedia: 'Frontier: First Encounters'
+  meta:
+    genres:
+    - Action
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Sci-Fi
+    - Espionage
+  names:
+  - 'Frontier: First Encounters'
+  - FFE
+
+- name: Elona
+  external:
+    wikipedia: 'Elona (video game)'
+  meta:
+    genres:
+    - Roguelike
+    subgenres:
+    - Sandbox
+    themes:
+    - Fantasy
+  names:
+  - 'Eternal League of Nefia'
+
+- name: 'Elvira: Mistress of the Dark'
+  external:
+    website: https://www.mobygames.com/game/4050
+    wikipedia: 'Elvira: Mistress of the Dark (video game)'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+    - Horror
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  - Linux
+  - OSX
+  - PC-98
+  - Windows
+
+- name: 'Elvira II: The Jaws of Cerberus'
+  external:
+    website: https://www.mobygames.com/game/1779
+    wikipedia: 'Elvira II: The Jaws of Cerberus'
+  meta:
+    genres:
+    - Adventure
+    - RPG
+    themes:
+    - Fantasy
+    - Horror
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  - Linux
+  - OSX
+  - Windows
+
+- name: 'Emperor: Battle for Dune'
+  external:
+    wikipedia: 'Emperor: Battle for Dune'
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Emperor of the Fading Suns
+  external:
+    wikipedia: Emperor of the Fading Suns
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Empire
+  names:
+  - 'VMS Empire'
+  - 'Empire: Wargame of the Century'
+  - 'Empire Deluxe'
+  external:
+    wikipedia: Empire (1977 video game)
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Strategy
+
+- name: Emerald Mine
+  external:
+    website: 'https://www.mobygames.com/game/8669/emerald-mine/'
+    wikipedia: Emerald Mine
+  platforms:
+  - Amiga
+  meta:
+    genres:
+    - Puzzle
+
+- name: Encounter
+  external:
+    wikipedia: Encounter (video game)
+  meta:
+    genres:
+    - Shmup
+
+- name: Enduro
+  external:
+    wikipedia: Enduro (video game)
+  platforms:
+  - Atari
+  - ZX Spectrum
+  meta:
+    genres:
+    - Racing
+
+- name: Enemy Engaged
+  names:
+  - 'Enemy Engaged: Apache vs Havoc'
+  - 'Enemy Engaged: RAH-66 Comanche vs. KA-52 Hokum'
+  external:
+    wikipedia: Enemy Engaged
+  platforms:
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Modern Military
+
+- name: Enemy Nations
+  external:
+    website: 'https://www.enemynations.com/'
+    wikipedia: Enemy Nations
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Energy Czar
+  external:
+    website: 'https://www.mobygames.com/game/87763/energy-czar/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Educational
+    - Simulation
+
+- name: Entombed!
+  external:
+    wikipedia: Entombed (1982 video game)
+  meta:
+    genres:
+    - Adventure
+
+- name: Epoch
+  external:
+    website: 'https://www.mobygames.com/game/74591/epoch/'
+    wikipedia: Epoch (video game)
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Escape from Colditz
+  external:
+    wikipedia: Escape from Colditz
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Escape from Monkey Island
+  external:
+    wikipedia: Escape from Monkey Island
+  meta:
+    genres:
+    - Adventure
+
+- name: Escape from Monster Manor
+  names:
+  - バーチャル・ホラー 呪われた館
+  external:
+    website: 'https://www.mobygames.com/game/12653/escape-from-monster-manor/'
+    wikipedia: Escape from Monster Manor
+  platforms:
+  - 3DO
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Horror
+
+- name: Escape from the Mansion
+  external:
+    website: https://negator2vc.itch.io/escape-from-the-mansion
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Horror
+  platforms:
+  - Windows
+
+- name: Escape Velocity
+  external:
+    wikipedia: Escape Velocity (video game)
+  meta:
+    genres:
+    - Action
+    - Simulation
+
+- name: Even the Ocean
+  external:
+    website: 'https://www.mobygames.com/game/97626/even-the-ocean/'
+  platforms:
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Action
+    - Platform
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: Ex-Mutants
+  external:
+    website: 'https://www.mobygames.com/game/6983/ex-mutants/'
+  platforms:
+  - Genesis
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Post-Apocalyptic
+
+- name: Excalibur
+  external:
+    website: 'https://www.mobygames.com/game/57795/excalibur/'
+    wikipedia: Excalibur (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - Fantasy
+
+- name: Excitebike
+  external:
+    website: 'https://www.mobygames.com/game/7469/excitebike/'
+    wikipedia: Excitebike
+  platforms:
+  - 3DS
+  - Arcade
+  - Game Boy
+  - NES
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Motorsports
+
+- name: Exile 1988
+  external:
+    wikipedia: Exile_(1988_video_game)
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Exolon
+  external:
+    wikipedia: Exolon
+  meta:
+    genres:
+    - Shmup
+
+- name: Extreme Pinball
+  external:
+    website: 'https://www.mobygames.com/game/278/extreme-pinball/'
+    wikipedia: Extreme Pinball
+  platforms:
+  - DOS
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Pinball
+
+- name: Eye of the Beholder
+  external:
+    website: https://www.mobygames.com/game/835
+    wikipedia: Eye of the Beholder (video game)
+  meta:
+    genres:
+    - RPG
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - DOS
+  - PC-98
+  - Sega CD
+  - SNES
+
+- name: Eye of the Beholder II
+  names:
+  - 'Eye of the Beholder II: The Legend of Darkmoon'
+  external:
+    website: https://www.mobygames.com/game/307
+    wikipedia: 'Eye of the Beholder II: The Legend of Darkmoon'
+  meta:
+    genres:
+    - RPG
+    - Action
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - PC-98

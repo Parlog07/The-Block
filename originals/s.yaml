@@ -1,0 +1,2794 @@
+- name: S.T.A.L.K.E.R.
+  names:
+  - 'S.T.A.L.K.E.R.: Clear Sky'
+  - 'S.T.A.L.K.E.R.: Call of Pripyat'
+  external:
+    wikipedia: S.T.A.L.K.E.R.
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    subgenres:
+    - Survival
+    themes:
+    - Alternate Historical
+    - Fantasy
+    - Horror
+    - Modern Military
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: 'Sam & Max: Hit the Road'
+  external:
+    website: https://www.mobygames.com/game/745
+    wikipedia: Sam %26 Max Hit the Road
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Linux
+  - Windows
+
+- name: SameGame
+  external:
+    wikipedia: SameGame
+  meta:
+    genres:
+    - Puzzle
+
+- name: Sanitarium
+  external:
+    website: https://www.mobygames.com/game/572
+    wikipedia: Sanitarium (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Horror
+  platforms:
+  - Android
+  - iOS
+  - Windows
+
+- name: Sangokushi Sōsōden
+  names:
+  - 三國志曹操伝
+  - 三國志曹操傳
+  external:
+    website: 'https://www.gamecity.ne.jp/products/products/ee/Rlsousou.htm'
+    wikipedia: Sangokushi Sōsōden
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Tactics
+    themes:
+    - Civil War
+
+- name: Saper
+  external:
+    website: 'https://www.mobygames.com/game/98156/saper/'
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle
+
+- name: 'Savage: The Battle for Newerth'
+  external:
+    website: >-
+      https://web.archive.org/web/20050408235050/https://www.s2games.com/savage/index.html
+    wikipedia: 'Savage: The Battle for Newerth'
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: 'Schizm: Mysterious Journey'
+  external:
+    website: https://www.mobygames.com/game/4688
+    wikipedia: 'Schizm: Mysterious Journey'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Windows
+
+- name: Scorched Earth
+  external:
+    wikipedia: Scorched Earth (video game)
+  meta:
+    genres:
+    - Turn-Based Tactics
+
+- name: Scram
+  names:
+  - Centrale Nucléaire
+  - 'Scram: A Nuclear Power Plant Simulation'
+  external:
+    website: 'https://www.mobygames.com/game/227012/scram/'
+    wikipedia: Scram (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Educational
+    - Simulation
+
+- name: Scramble
+  external:
+    website: 'https://www.arcadearchives.com/en/title/aca-017/'
+    wikipedia: Scramble (video game)
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+
+- name: Sea Chase
+  external:
+    website: 'https://www.mobygames.com/game/173277/sea-chase/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: 'Sea Dogs: To Each His Own'
+  external:
+    website: 'https://www.mobygames.com/game/windows/sea-dogs-to-each-his-own'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Action
+    - RPG
+    - Simulation
+    subgenres:
+    - Vehicular Combat
+
+- name: Seaquest
+  external:
+    website: 'https://www.mobygames.com/game/10455/seaquest/'
+    wikipedia: Seaquest (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Secret Agent
+  external:
+    wikipedia: Secret Agent (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Espionage
+
+- name: Second Life
+  external:
+    website: 'http://www.secondlife.com/'
+    wikipedia: Second Life
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - MMORPG
+
+- name: Secret Scout in the Temple of Demise
+  external:
+    website: 'https://www.mobygames.com/game/28565/secret-scout-in-the-temple-of-demise/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: 'Septerra Core: Legacy of the Creator'
+  external:
+    website: https://web.archive.org/web/20070320131930/http://www.valkyriestudios.com/scgame.htm
+    wikipedia: Septerra Core
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Anime
+    - Fantasy
+    - Sci-Fi
+
+- name: Sea Dragon
+  external:
+    wikipedia: Sea Dragon
+  meta:
+    genres:
+    - Action
+    - Shooter
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+
+- name: Sea Wolf
+  external:
+    wikipedia: Sea Wolf (video game)
+  platforms:
+  - Arcade
+  - Commodore 64
+  meta:
+    genres:
+    - Shooter
+
+- name: The Secret of Monkey Island
+  external:
+    website: https://www.mobygames.com/game/616
+    wikipedia: The Secret of Monkey Island
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - FM Towns
+  - Classic Mac OS
+  - Sega CD
+
+- name: sense off
+  names:
+  - Sense Off 〜a sacred story in the wind〜
+  external:
+    website: 'http://13cm.jp/13cm_wp/?page_id=137'
+  platforms:
+  - Android
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Sensible World of Soccer
+  external:
+    wikipedia: Sensible World of Soccer
+  platforms:
+  - Amiga
+  - DOS
+  - Xbox 360
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: Sensitive
+  external:
+    website: https://www.mobygames.com/game/c64/sensitive
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+
+- name: The Sentinel
+  names:
+  - The Sentry
+  external:
+    website: 'https://www.mobygames.com/game/16639/the-sentry/'
+    wikipedia: The Sentinel (video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+
+- name: 'Serious Sam: The First Encounter'
+  external:
+    wikipedia: 'Serious Sam: The First Encounter'
+  platforms:
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - FPS
+
+- name: 'Serious Sam: The Second Encounter'
+  external:
+    wikipedia: 'Serious Sam: The Second Encounter'
+  platforms:
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - FPS
+
+- name: The Settlers
+  external:
+    wikipedia: The Settlers (video game)
+  meta:
+    genres:
+    - Real-Time Strategy
+    subgenres:
+    - City Building
+    themes:
+    - Medieval
+  names:
+  - Die Siedler
+  - Serf City
+
+- name: The Settlers II
+  external:
+    wikipedia: The Settlers II
+  meta:
+    genres:
+    - Real-Time Strategy
+    subgenres:
+    - City Building
+    themes:
+    - Medieval
+    - Alternate Historical
+    - Fantasy
+  names:
+  - Die Siedler II
+
+- name: The Settlers III
+  external:
+    wikipedia: The Settlers III
+  meta:
+    genres:
+    - Real-Time Strategy
+    subgenres:
+    - City Building
+    themes:
+    - Egyptian
+    - Alternate Historical
+    - Fantasy
+  names:
+  - Die Siedler III
+
+- name: "The Seven Colors: Legend of PSY・S City"
+  external:
+    website: https://www.mobygames.com/game/116747
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+  platforms:
+  - Classic Mac OS
+
+- name: Seven Kingdoms
+  external:
+    wikipedia: Seven Kingdoms (computer game)
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: 'Seven Kingdoms II: The Fryhtan Wars'
+  external:
+    website: 'https://www.mobygames.com/game/2244/seven-kingdoms-ii-the-fryhtan-wars/'
+    wikipedia: 'Seven Kingdoms II: The Fryhtan Wars'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: SFCave
+  external:
+    website: 'https://www.mobygames.com/game/48137/sfcave/'
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Action
+
+- name: Sfinx
+  external:
+    website: https://www.mobygames.com/game/42915/sfinx/
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - DOS
+
+- name: Shadow of the Beast
+  external:
+    website: 'https://www.mobygames.com/game/7461/shadow-of-the-beast/'
+    wikipedia: Shadow of the Beast (1989 video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - FM Towns
+  - Genesis
+  - Lynx
+  - Master System
+  - TurboGrafx-16
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Shadow Warrior
+  external:
+    website: https://web.archive.org/web/20230923010839/https://3drealms.com/catalog/shadow-warrior_10/
+    wikipedia: Shadow Warrior
+  meta:
+    genres:
+    - FPS
+
+- name: 'Shadowgrounds: Survivor'
+  external:
+    wikipedia: 'Shadowgrounds: Survivor'
+  meta:
+    genres:
+    - Shooter
+
+- name: Shamus
+  external:
+    website: 'https://www.mobygames.com/game/76/shamus/'
+    wikipedia: Shamus (video game)
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - Game Boy
+  meta:
+    genres:
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Shardlight
+  external:
+    website: https://www.mobygames.com/game/80887
+    wikipedia: Shardlight
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Post-Apocalyptic
+  platforms:
+  - Linux
+  - Windows
+
+- name: Sheila Rae, the Brave
+  external:
+    website: https://www.mobygames.com/game/17900
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes: []
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Sherlock
+  external:
+    website: 'https://www.mobygames.com/game/40964/sherlock/'
+  platforms:
+  - Android
+  - Classic Mac OS
+  - DOS
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Abstract
+
+- name: Shining Force II
+  external:
+    wikipedia: Shining Force II
+  meta:
+    genres:
+    - RPG
+
+- name: Shining Soul
+  external:
+    wikipedia: Shining Soul
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: Ship Simulator 2006
+  external:
+    wikipedia: Ship Simulator 2006
+  meta:
+    genres:
+    - Simulation
+
+- name: Ship Simulator 2008
+  external:
+    wikipedia: Ship Simulator 2008
+  meta:
+    genres:
+    - Simulation
+
+- name: Ship Simulator Extremes
+  external:
+    wikipedia: Ship Simulator Extremes
+  meta:
+    genres:
+    - Simulation
+
+- name: The Shivah
+  names:
+  - 'The Shivah: Kosher Edition'
+  external:
+    website: https://www.mobygames.com/game/25365
+    wikipedia: The Shivah
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - Android
+  - iOS
+  - Linux
+  - OSX
+  - Windows
+
+- name: Shivers
+  external:
+    website: https://www.mobygames.com/game/663
+    wikipedia: Shivers (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Horror
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Shobon no Action
+  names:
+  - Syobon Action
+  - Cat Mario
+  external:
+    wikipedia: Shobon no Action
+  platforms:
+  - Android
+  - Dreamcast
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Platform
+
+- name: 'Shogo: Mobile Armor Division'
+  external:
+    website: 'https://web.archive.org/web/20090413104439/http://www.shogo-mad.com/'
+    wikipedia: 'Shogo: Mobile Armor Division'
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Shrek 2
+  names:
+  - 'Shrek 2: The Game'
+  external:
+    website: 'https://www.mobygames.com/game/23791/shrek-2'
+    wikipedia: Shrek 2 (video game)
+  platforms:
+  - Windows
+  - OSX
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Platform
+    themes:
+    - Fantasy
+
+- name: Shufflepuck Café
+  external:
+    website: 'https://www.lemonamiga.com/games/details.php?id=958'
+    wikipedia: Shufflepuck Café
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Classic Mac OS
+  - DOS
+  - NES
+  - PC-98
+  meta:
+    genres:
+    - Sports
+
+- name: Sid Meier's Alpha Centauri
+  external:
+    wikipedia: Sid Meier's Alpha Centauri
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Sid Meier's Colonization
+  names:
+  - Colonization
+  external:
+    wikipedia: Sid Meier's Colonization
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Sid Meier's Pirates!
+  external:
+    wikipedia: Sid Meier's Pirates!
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Strategy
+
+- name: Siege
+  external:
+    wikipedia: Siege (video game)
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+
+- name: Siege of Avalon
+  external:
+    wikipedia: Siege of Avalon
+  meta:
+    genres:
+    - Action
+    - RPG
+
+- name: 'Signus: The Artefact Wars'
+  external:
+    website: 'http://signus.paan.cz/'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Turn-Based Strategy
+    themes:
+    - Sci-Fi
+
+- name: Silencer
+  external:
+    wikipedia: Silencer (video game)
+  meta:
+    genres:
+    - Action
+
+- name: Silent Hill 2
+  external:
+    wikipedia: Silent Hill 2
+  platforms:
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - TPS
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Silent Hill 3
+  external:
+    wikipedia: Silent Hill 3
+  platforms:
+  - PlayStation 2
+  - Windows
+  meta:
+    genres:
+    - TPS
+    subgenres:
+    - Survival
+    themes:
+    - Horror
+
+- name: Silent Hunter 4
+  external:
+    wikipedia: Silent Hunter 4
+  meta:
+    genres:
+    - Action
+    - Simulation
+    subgenres:
+    - Submarine Simulator
+    themes:
+    - World War II
+
+- name: SimCity
+  external:
+    wikipedia: SimCity
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Management
+
+- name: SimCity 2000
+  external:
+    wikipedia: SimCity 2000
+  meta:
+    genres:
+    - Simulation
+
+- name: SimCity 4
+  names:
+  - 'SimCity 4: Rush Hour'
+  - SimCity 4 Deluxe Edition
+  external:
+    website: 'https://www.ea.com/games/simcity/simcity-4'
+    wikipedia: SimCity 4
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    subgenres:
+    - City Building
+    themes:
+    - Management
+
+- name: SimCopter
+  external:
+    wikipedia: SimCopter
+  meta:
+    genres:
+    - Simulation
+
+- name: Simon the Sorcerer
+  external:
+    website: https://www.mobygames.com/game/495
+    wikipedia: Simon the Sorcerer
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - Amiga
+  - Android
+  - DOS
+  - iOS
+  - OSX
+  - Windows
+
+- name: 'Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe'
+  external:
+    website: https://www.mobygames.com/game/1851
+    wikipedia: 'Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - Amiga
+  - Android
+  - DOS
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Simon the Sorcerer's Puzzle Pack
+  external:
+    website: https://www.mobygames.com/game/4427
+    wikipedia: Simon the Sorcerer (series)#Simon the Sorcerer's Puzzle Pack
+  meta:
+    genres:
+    - Action
+    - Puzzle
+    - Simulation
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Windows
+
+- name: The Sims 2
+  external:
+    wikipedia: The Sims 2
+  platforms:
+  - Windows
+  - OSX
+  - Game Boy
+  - GameCube
+  - DS
+  - PlayStation 2
+  - Xbox
+  - PSP
+  meta:
+    genres:
+    - Simulation
+
+- name: Simon
+  external:
+    wikipedia: Simon (game)
+  meta:
+    genres:
+    - Arcade
+
+- name: The Sims
+  external:
+    wikipedia: The Sims
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Management
+
+- name: The Sims Online
+  external:
+    wikipedia: The Sims Online
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Management
+
+- name: 'The Simpsons: Hit & Run'
+  external:
+    wikipedia: 'The Simpsons: Hit & Run'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Racing
+    themes:
+    - Comedy
+    - Fantasy
+
+- name: SimTower
+  external:
+    wikipedia: SimTower
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Management
+
+- name: SiN
+  external:
+    website: 'https://web.archive.org/web/20050204085622/http://www.ritual.com/sin/'
+    wikipedia: Sin (video game)
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: SingStar
+  external:
+    wikipedia: SingStar
+  meta:
+    genres:
+    - Rhythm
+
+- name: SiSSYFiGHT 2000
+  external:
+    website: 'https://www.mobygames.com/game/154656/sissyfight-2000/'
+    wikipedia: Sissyfight 2000
+  platforms:
+  - Web
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: SkiFree
+  external:
+    website: https://www.mobygames.com/game/41662/skifree/
+    wikipedia: SkiFree
+  meta:
+    genres:
+    - Arcade
+    - Sports
+    subgenres:
+    - Skiing
+    - Snowboarding
+
+- name: Skin Deep
+  external:
+    website: 'https://blendogames.com/skindeep/'
+    wikipedia: Skin Deep (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Skool Daze
+  external:
+    wikipedia: Skool Daze
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Platform
+
+- name: SkyRoads
+  external:
+    website: 'http://www.bluemoon.ee/history/skyroads/'
+    wikipedia: SkyRoads (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Sci-Fi
+
+- name: Sláine
+  external:
+    website: 'https://www.mobygames.com/game/19323/slaine/'
+  platforms:
+  - Amstrad CPC
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+
+- name: Slater & Charlie Go Camping
+  external:
+    website: https://www.mobygames.com/game/22337
+    wikipedia: Slater %26 Charlie Go Camping
+  meta:
+    genres:
+    - Educational
+    themes: []
+  platforms:
+  - DOS
+  - Classic Mac OS
+
+- name: Slime Volleyball
+  platforms:
+  - Windows
+  - Linux
+  - OSX
+  external:
+    website: https://oneslime.net/
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Volleyball
+
+- name: Slimeball
+  external:
+    website: 'https://web.archive.org/web/20040410101248/https://www.slimeball.tk/'
+  platforms:
+  - Web
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Volleyball
+
+- name: Snake
+  external:
+    wikipedia: Snake (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Snake II
+  external:
+    wikipedia: Snake II
+  meta:
+    genres:
+    - Arcade
+
+- name: Snarf
+  external:
+    website: 'https://www.mobygames.com/game/8711/snarf/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Arcade
+
+- name: Snipes
+  external:
+    wikipedia: Snipes (video game)
+
+- name: Soko-Ban
+  external:
+    website: 'https://www.mobygames.com/game/1715/soko-ban/'
+  platforms:
+  - Apple II
+  - Commodore 64
+  - DOS
+  - MSX
+  meta:
+    genres:
+    - Puzzle
+
+- name: Sokoban
+  external:
+    wikipedia: Sokoban
+  meta:
+    genres:
+    - Puzzle
+
+- name: Solar Fox
+  external:
+    wikipedia: Solar Fox
+  meta:
+    genres:
+    - Arcade
+
+- name: Solaris
+  external:
+    website: 'https://www.mobygames.com/game/10506/solaris/'
+    wikipedia: Solaris (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Soldat
+  external:
+    website: 'https://soldat.pl/'
+    wikipedia: Soldat (video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Platform
+    - Shooter
+    subgenres:
+    - Run and gun
+    themes:
+    - Modern Military
+
+- name: Soldier Boyz
+  external:
+    website: https://www.mobygames.com/game/8383
+    wikipedia: Soldier Boyz (video game)
+  meta:
+    genres:
+    - Action
+    - Shooter
+    themes:
+    - Vietnam
+  platforms:
+  - DOS
+
+- name: Solomon's Key
+  names:
+  - ソロモンの鍵
+  - Soromon no Kagi
+  - Zipang
+  - Solomon's Club
+  external:
+    wikipedia: Solomon's Key
+  platforms:
+  - Arcade
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle
+
+- name: 'Solstice: The Quest for the Staff of Demnos'
+  external:
+    website: >-
+      https://www.mobygames.com/game/7584/solstice-the-quest-for-the-staff-of-demnos/
+    wikipedia: Solstice (1990 video game)
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+    themes:
+    - Fantasy
+
+- name: Sołtys
+  external:
+    website: https://www.mobygames.com/game/19196/so%C5%82tys/
+    wikipedia: Sołtys (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+  platforms:
+  - DOS
+
+- name: Sonic Adventure
+  names:
+  - Sonic Adventure 2
+  external:
+    wikipedia: Sonic Adventure
+  platforms:
+  - Dreamcast
+  - GameCube
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: 'Sonic Chronicles: The Dark Brotherhood'
+  external:
+    wikipedia: 'Sonic Chronicles: The Dark Brotherhood'
+  meta:
+    genres:
+    - RPG
+
+- name: Sonic the Hedgehog
+  external:
+    wikipedia: Sonic the Hedgehog
+  meta:
+    genres:
+    - Platform
+
+- name: SonSon
+  names:
+  - ソンソン
+  external:
+    website: 'https://www.mobygames.com/game/24266/sonson/'
+    wikipedia: SonSon
+  platforms:
+  - Arcade
+  - NES
+  - PlayStation 3
+  - Wii
+  - Xbox 360
+  meta:
+    genres:
+    - Platform
+    - Shooter
+
+- name: Sopwith
+  external:
+    website: http://www.sopwith.org/
+    wikipedia: Sopwith (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Arcade
+    themes:
+    - World War I
+
+- name: Soul Ride
+  external:
+    website: http://www.soulride.com/products/soulride.html
+  platforms:
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - Sports
+    - Simulation
+    subgenres:
+    - Skiing
+    - Snowboarding
+
+- name: Space Ace
+  external:
+    website: 'https://www.mobygames.com/game/6009/space-ace/'
+    wikipedia: Space Ace
+  platforms:
+  - 3DO
+  - Android
+  - Arcade
+  - CD-i
+  - Classic Mac OS
+  - DOS
+  - DS
+  - iOS
+  - Jaguar
+  - PlayStation 3
+  - Sega CD
+  - Windows
+  meta:
+    genres:
+    - Action
+    themes:
+    - Sci-Fi
+
+- name: Space Eggs
+  external:
+    website: 'https://www.mobygames.com/game/17999/space-eggs/'
+    wikipedia: Space Eggs
+  platforms:
+  - Apple II
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Space Engineers
+  external:
+    website: 'https://www.spaceengineersgame.com/home/'
+    wikipedia: Space Engineers
+  platforms:
+  - PlayStation 4
+  - PlayStation 5
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Sandbox
+
+- name: Space Harrier
+  external:
+    wikipedia: Space Harrier
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Sci-Fi
+
+- name: Space Invaders
+  external:
+    wikipedia: Space Invaders
+  meta:
+    genres:
+    - Arcade
+
+- name: Space Invaders Part II
+  names:
+  - Space Invaders Deluxe
+  external:
+    website: 'https://www.mobygames.com/game/63089/space-invaders-part-ii/'
+    wikipedia: Space Invaders Part II
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Space Jockey
+  external:
+    website: 'https://www.mobygames.com/game/10146/space-jockey/'
+    wikipedia: Space Jockey (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: Space Quest I
+  names:
+  - 'Space Quest I: Roger Wilco in the Sarien Encounter'
+  - Space Quest
+  external:
+    website: https://www.mobygames.com/game/187
+    wikipedia: Space Quest I
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+
+- name: Space Quest II
+  names:
+  - 'Space Quest II: Chapter II - Vohaul''s Revenge'
+  external:
+    website: https://www.mobygames.com/game/128
+    wikipedia: Space Quest II
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    - Text Adventure
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Amiga
+  - Apple II
+  - Atari
+  - CoCo
+  - DOS
+  - Classic Mac OS
+
+- name: Space Quest III
+  names:
+  - 'Space Quest III: The Pirates of Pestulon'
+  external:
+    website: https://www.mobygames.com/game/142
+    wikipedia: Space Quest III
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    - Text Adventure
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Amiga
+  - Atari
+  - Classic Mac OS
+  - DOS
+
+- name: Space Quest IV
+  names:
+  - 'Space Quest IV: Roger Wilco and the Time Rippers'
+  external:
+    website: https://www.mobygames.com/game/143
+    wikipedia: Space Quest IV
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+  - PC-98
+  - Windows
+
+- name: Space Quest V
+  names:
+  - 'Space Quest V: The Next Mutation'
+  external:
+    website: https://www.mobygames.com/game/144
+    wikipedia: Space Quest V
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - DOS
+
+- name: Space Quest 6
+  names:
+  - 'Space Quest 6: Roger Wilco in the Spinal Frontier'
+  external:
+    website: https://www.mobygames.com/game/145
+    wikipedia: Space Quest 6
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - Windows
+
+- name: Space Quest IV.5
+  names:
+  - Space Quest IV.5 - Roger Wilco and the Voyage Home
+  external:
+    website: https://www.mobygames.com/game/39554
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Windows
+
+- name: 'Space Quest: Incinerations'
+  external:
+    website: https://www.mobygames.com/game/146101
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+
+- name: 'Space Quest: Vohaul Strikes Back'
+  external:
+    website: https://www.mobygames.com/game/97968
+    wikipedia: 'Space Quest: Vohaul Strikes Back'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+    - Comedy
+  platforms:
+  - Linux
+  - Windows
+
+- name: Space Rangers
+  external:
+    wikipedia: Space Rangers (video game)
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: 'Space Rangers 2: Dominators'
+  external:
+    wikipedia: 'Space Rangers 2: Dominators'
+  meta:
+    genres:
+    - Adventure
+    - Shmup
+    - RPG
+    - TPS
+    - Turn-Based Strategy
+    themes:
+    - Sci-Fi
+
+- name: Space Station 13
+  external:
+    wikipedia: Space Station 13
+  meta:
+    genres:
+    - RPG
+    - Simulation
+    themes:
+    - Sci-Fi
+    - Comedy
+    - Espionage
+
+- name: Space Taxi
+  external:
+    website: 'https://www.lemon64.com/game/space-taxi'
+    wikipedia: Space Taxi
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Action
+
+- name: Space Warp
+  external:
+    website: 'https://www.mobygames.com/game/42964/space-warp/'
+  meta:
+    themes:
+    - Sci-Fi
+
+- name: Spacebase DF-9
+  external:
+    website: 'https://spacebasedf9.com/'
+    wikipedia: Spacebase DF-9
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Simulation
+
+- name: Spaceship Warlock
+  external:
+    website: https://www.mobygames.com/game/22016
+    wikipedia: Spaceship Warlock
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Spacewar!
+  external:
+    website: 'https://archive.org/details/pdp1_spacewar'
+    wikipedia: Spacewar!
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Spear of Destiny
+  external:
+    website: https://www.mobygames.com/game/311/spear-of-destiny/
+    wikipedia: Spear of Destiny (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - FPS
+
+- name: Speed Haste
+  names:
+  - Circuit Racer
+  external:
+    website: 'https://www.mobygames.com/game/14257/circuit-racer/'
+    wikipedia: Speed Haste
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Racing
+
+- name: Speedball 2
+  external:
+    wikipedia: Speedball 2
+  meta:
+    genres:
+    - Action
+    - Sports
+    subgenres:
+    - Handball
+    - Hockey
+    themes:
+    - Sci-Fi
+    - Cyberpunk
+    
+- name: Spelling Bee
+  external:
+    website: https://www.nytimes.com/puzzles/spelling-bee
+  meta:
+    genres:
+    - Puzzle
+
+- name: Spelunky Classic
+  platforms: 
+  - Windows
+  meta:
+    genres:
+    - Roguelike 
+    - Platform
+  external:
+    website: https://spelunkyworld.com/original.html
+    wikipedia: Spelunky
+
+- name: Spirit of Speed 1937
+  external:
+    website: >-
+      https://web.archive.org/web/20020201170905/http://www.acclaim.com/games/spiritofspeed/
+    wikipedia: Spirit of Speed 1937
+  platforms:
+  - Dreamcast
+  - Windows
+  meta:
+    genres:
+    - Racing
+
+- name: 'SpongeBob SquarePants: SuperSponge'
+  external:
+    wikipedia: 'SpongeBob SquarePants: SuperSponge'
+  platforms:
+  - GBA
+  - PlayStation
+  meta:
+    genres:
+    - Adventure
+    - Platform
+
+- name: Spore
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    - Real-Time Strategy
+    subgenres:
+    - Life
+    themes:
+    - Sci-Fi
+  external:
+    wikipedia: Spore (2008 video game)
+
+- name: Spy Fox in "Cheese Chase"
+  external:
+    website: https://www.mobygames.com/game/20990
+  meta:
+    genres:
+    - Action
+    - Arcade
+    themes:
+    - Espionage
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Spy Fox in "Dry Cereal"
+  external:
+    website: https://www.mobygames.com/game/21014
+    wikipedia: 'Spy Fox in "Dry Cereal"'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Espionage
+  platforms:
+  - Android
+  - iOS
+  - Classic Mac OS
+  - Linux
+  - PlayStation 4
+  - Nintendo Switch
+  - Wii
+  - Windows
+
+- name: Spy Fox in "Hold the Mustard"
+  external:
+    website: https://www.mobygames.com/game/55750
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Shooter
+    themes:
+    - Espionage
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Spy Fox 2
+  names:
+  - 'Spy Fox 2: "Some Assembly Required"'
+  external:
+    website: https://www.mobygames.com/game/20987
+    wikipedia: 'Spy Fox 2: "Some Assembly Required"'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Espionage
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Spy Fox 3
+  names:
+  - 'Spy Fox: "Operation Ozone"'
+  external:
+    website: https://www.mobygames.com/game/18734
+    wikipedia: 'Spy Fox 3: "Operation Ozone"'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Espionage
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Star Control 2
+  external:
+    website: https://www.mobygames.com/game/179/star-control-ii/
+    wikipedia: Star Control II
+  platforms:
+  - 3DO
+  - Android
+  - Classic Mac OS
+  - DOS
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    - Shmup
+    themes:
+    - Sci-Fi
+
+- name: Star Fighter
+  names:
+  - Star Fighter 3000
+  external:
+    website: 'https://www.mobygames.com/game/26049/star-fighter/'
+    wikipedia: Star Fighter (video game)
+  platforms:
+  - 3DO
+  - Acorn 32-bit
+  - Classic Mac OS
+  - DOS
+  - PlayStation
+  meta:
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Star Fire
+  external:
+    website: 'https://www.mobygames.com/game/63795/star-fire/'
+    wikipedia: Star Fire
+  platforms:
+  - Arcade
+  - Atari
+  - Commodore 64
+  meta:
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Star Raiders
+  external:
+    website: https://www.mobygames.com/game/9317/star-raiders/
+    wikipedia: Star Raiders
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: Star Ruler 2
+  external:
+    website: http://www.mobygames.com/game/star-ruler-2
+  meta:
+    genres:
+    - Real-Time Strategy
+    subgenres:
+    - 4X
+    themes:
+    - Sci-Fi
+
+- name: Star Trek
+  external:
+    website: 'https://www.mobygames.com/game/91183/star-trek/'
+    wikipedia: Star Trek (1971 video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: 'Star Trek: Elite Force II'
+  external:
+    website: >-
+      https://web.archive.org/web/20040213004822/http://www.ritualistic.com/games.php/ef2/
+    wikipedia: 'Star Trek: Elite Force II'
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: 'Star Trek: Voyager – Elite Force'
+  external:
+    website: 'https://www.mobygames.com/game/2536/star-trek-voyager-elite-force/'
+    wikipedia: 'Star Trek: Voyager – Elite Force'
+  platforms:
+  - Classic Mac OS
+  - PlayStation 2
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Star Wars (1983 arcade game)
+  names:
+  - 'Star Wars: The Arcade Game'
+  external:
+    website: https://www.mobygames.com/game/3929/star-wars/
+    wikipedia: Star Wars (1983 video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Classic Mac OS
+  - Commodore 64
+  - DOS
+  - GameCube
+  - ZX Spectrum
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: 'Star Wars: Galactic Battlegrounds'
+  external:
+    wikipedia: 'Star Wars: Galactic Battlegrounds'
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: 'Star Wars Jedi Knight: Dark Forces II'
+  external:
+    wikipedia: 'Star Wars Jedi Knight: Dark Forces II'
+  meta:
+    genres:
+    - Fighting
+    - FPS
+    - TPS
+    themes:
+    - Fantasy
+    - Sci-Fi
+    
+- name: 'Star Wars Jedi Knight II: Jedi Outcast'
+  external:
+    website: https://web.archive.org/web/20011118130429/http://www.lucasarts.com/products/outcast/
+    wikipedia: 'Star Wars Jedi Knight II: Jedi Outcast'
+  platforms:
+  - GameCube
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - Fighting
+    - FPS
+    - TPS
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: 'Star Wars Jedi Knight: Jedi Academy'
+  external:
+    website: https://web.archive.org/web/20031205035826/http://www.lucasarts.com/products/jediacademy/splash.htm
+    wikipedia: 'Star Wars Jedi Knight: Jedi Academy'
+  platforms:
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox
+  meta:
+    genres:
+    - Fighting
+    - FPS
+    - TPS
+    themes:
+    - Fantasy
+    - Sci-Fi
+
+- name: 'Star Wars: Knights of the Old Republic'
+  external:
+    wikipedia: 'Star Wars: Knights of the Old Republic'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Sci-Fi
+
+- name: "Star Wars: Knights of the Old Republic II \u2013 The Sith Lords"
+  external:
+    wikipedia: "Star Wars: Knights of the Old Republic II \u2013 The Sith Lords"
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Sci-Fi
+
+- name: 'Star Wars: Yoda Stories'
+  external:
+    wikipedia: 'Star Wars: Yoda Stories'
+  meta:
+    genres:
+    - RPG
+
+- name: 'Star Wars Episode I: Racer'
+  platforms:
+  - Windows
+  external:
+    wikipedia: 'Star Wars Episode I: Racer'
+  meta:
+    genres:
+    - Racing
+    themes:
+    - Sci-Fi
+
+- name: StarCraft
+  external:
+    wikipedia: StarCraft
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Starmaster
+  external:
+    website: 'https://atariage.com/software_page.php?SoftwareLabelID=507'
+    wikipedia: Starmaster
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Space Flight
+
+- name: Stars!
+  external:
+    wikipedia: Stars!
+  meta:
+    genres:
+    - Turn-Based Strategy
+
+- name: Starshatter
+  external:
+    wikipedia: Starshatter
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Starship Commander
+  external:
+    website: 'https://www.mobygames.com/game/124543/starship-commander/'
+    wikipedia: Starship Commander (1981 video game)
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Starship Titanic
+  external:
+    website: https://www.mobygames.com/game/1374
+    wikipedia: Starship Titanic
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Starsiege
+  external:
+    wikipedia: Starsiege
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Steins;Gate
+  external:
+    website: 'https://steinsgate.jp/'
+    wikipedia: Steins;Gate
+  platforms:
+  - Android
+  - iOS
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Visual Novel
+    themes:
+    - Anime
+    - Sci-Fi
+
+- name: Stellaluna
+  external:
+    website: https://www.mobygames.com/game/71459
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - iOS
+  - Windows
+
+- name: Stellar 7
+  external:
+    website: 'https://www.mobygames.com/game/39286/stellar-7/'
+    wikipedia: Stellar 7
+  platforms:
+  - Apple II
+  - Commodore 64
+
+- name: 'Stellar Conquest 3: Hostile Takeover'
+  external:
+    website: 'https://www.mobygames.com/game/1982/stellar-conquest-3-hostile-takeover/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - Sci-Fi
+
+- name: Stellar Frontier
+  external:
+    website: 'https://www.stardock.com/products/sf/'
+  platforms:
+  - OS/2
+  - Windows
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+
+- name: Story of Seasons series
+  external:
+    wikipedia: Story of Seasons (series)
+  meta:
+    genres:
+    - Simulation
+    themes:
+    - Anime
+  names:
+  - Harvest Moon
+  - 'Innocent Life: A Futuristic Harvest Moon'
+
+- name: Strange Adventures in Infinite Space
+  external:
+    website: 'http://digital-eel.com/sais/'
+    wikipedia: Strange Adventures in Infinite Space
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Roguelike
+
+- name: 'Stratosphere: Conquest of the Skies'
+  external:
+    website: http://www.mobygames.com/game/windows/stratosphere-conquest-of-the-skies
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    - TPS
+
+- name: Street Fighter II
+  external:
+    website: 'https://www.mobygames.com/game/6239/street-fighter-ii/'
+    wikipedia: Street Fighter II
+  platforms:
+  - Arcade
+  - NES
+  meta:
+    genres:
+    - Fighting
+
+- name: Streets of Rage
+  external:
+    wikipedia: Streets_of_Rage_(video_game)
+  meta:
+    genres:
+    - Action
+
+- name: Strife
+  external:
+    wikipedia: Strife (1996 video game)
+  meta:
+    genres:
+    - Action
+    - FPS
+    - RPG
+    themes:
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: Strike Commander
+  external:
+    wikipedia: Strike Commander
+  meta:
+    genres:
+    - Action
+    - Simulation
+    subgenres:
+    - Flight Simulator
+    themes:
+    - Modern Military
+
+- name: "Striker '96"
+  external:
+    website: 'https://www.mobygames.com/game/4759/striker-96/'
+    wikipedia: "Striker '96"
+  platforms:
+  - DOS
+  - PlayStation
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: Strikers 1945
+  external:
+    wikipedia: Strikers 1945
+  meta:
+    genres:
+    - Shmup
+
+- name: Stronghold
+  external:
+    wikipedia: Stronghold (2001 video game)
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Medieval
+
+- name: Stunt Car Racer
+  names:
+  - Stunt Track Racer
+  external:
+    website: https://www.mobygames.com/game/782/stunt-track-racer/
+    wikipedia: Stunt Car Racer
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+  meta:
+    genres:
+    - Racing
+
+- name: Stunt Copter
+  external:
+    website: >-
+      https://web.archive.org/web/20170703045713/http://www.nerdgames.ca/stuntcopter.html
+    wikipedia: Stunt Copter
+  platforms:
+  - Classic Mac OS
+  - iOS
+  - OSX
+  meta:
+    genres:
+    - Action
+
+- name: Stunts
+  external:
+    website: https://www.mobygames.com/game/329/stunts/
+    wikipedia: Stunts (video game)
+  platforms:
+  - Amiga
+  - DOS
+  - FM Towns
+  - PC-98
+  meta:
+    genres:
+    - Racing
+  names:
+  - 4D Sports Driving
+
+- name: Styx
+  external:
+    wikipedia: Styx (Spectrum video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Styx (Windmill)
+  external:
+    website: 'https://www.digger.org/styx/'
+    wikipedia: Styx (Windmill game)
+  platforms:
+  - DOS
+  - PC Booter
+  meta:
+    genres:
+    - Puzzle
+
+- name: Subway Surfers
+  external:
+    website: 'https://www.mobygames.com/game/56518/subway-surfers/'
+    wikipedia: Subway Surfers
+  platforms:
+  - Android
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Action
+
+- name: 'SunDog: Frozen Legacy'
+  external:
+    wikipedia: 'SunDog: Frozen Legacy'
+  meta:
+    genres:
+    - RPG
+    subgenres:
+    - Space Flight
+
+- name: Supaplex
+  external:
+    wikipedia: Supaplex
+  meta:
+    genres:
+    - Puzzle
+
+- name: Super 3D Noah's Ark
+  external:
+    website: >-
+      https://web.archive.org/web/20150630213724/http://www.wisdomtreegames.com/games/super3dnoahsark
+    wikipedia: Super 3D Noah's Ark
+  platforms:
+  - DOS
+  - Linux
+  - OSX
+  - SNES
+  - Windows
+  meta:
+    genres:
+    - FPS
+
+- name: Super Cars
+  external:
+    wikipedia: Super Cars
+  meta:
+    genres:
+    - Racing
+
+- name: Super Contra
+  names:
+  - Super C
+  external:
+    website: 'https://www.mobygames.com/game/7208/super-contra/'
+    wikipedia: Super Contra
+  platforms:
+  - 3DS
+  - Amiga
+  - Arcade
+  - DOS
+  - NES
+  - Wii
+  - Xbox 360
+  meta:
+    genres:
+    - Shooter
+    subgenres:
+    - Run and gun
+
+- name: Super Foul Egg
+  external:
+    wikipedia: Super Foul Egg
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+
+- name: Super Hexagon
+  external:
+    wikipedia: Super Hexagon
+  meta:
+    genres:
+    - Rhythm
+
+- name: Super Lemonade Factory
+  external:
+    website: >-
+      https://web.archive.org/web/20180416234514/http://superlemonadefactory.initialsgames.com/
+    wikipedia: Super Lemonade Factory
+  platforms:
+  - iOS
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+    - Platform
+
+- name: Super Lemonade Factory Part Two
+  external:
+    website: 'https://web.archive.org/web/20170721094114/https://slf2.initialsgames.com/'
+  platforms:
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Platform
+
+- name: Super Mario
+  external:
+    wikipedia: Super Mario (series)
+  meta:
+    genres:
+    - Platform
+
+- name: Super Mario Bros.
+  external:
+    website: 'https://www.nintendo.com/jp/famicom/software/smb1/index.html'
+    wikipedia: Super Mario Bros.
+  platforms:
+  - Arcade
+  - NES
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: 'Super Mario Bros.: The Lost Levels'
+  names:
+  - スーパーマリオブラザーズ2
+  external:
+    website: 'https://www.nintendo.com/jp/famicom/software/smb2/'
+    wikipedia: 'Super Mario Bros.: The Lost Levels'
+  platforms:
+  - DS
+  - Game Boy
+  - NES
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Super Mario Bros. 3
+  names:
+  - スーパーマリオブラザーズ3
+  external:
+    website: 'https://www.nintendo.com/jp/famicom/software/smb3/'
+    wikipedia: Super Mario Bros. 3
+  platforms:
+  - Arcade
+  - NES
+  meta:
+    genres:
+    - Platform
+
+- name: Super Mario 64
+  external:
+    website: https://www.nintendo.co.jp/n01/n64/software/nus_p_nsmj/index.html
+    wikipedia: Super Mario 64
+  platforms:
+  - N64
+  meta:
+    genres:
+    - Platform
+
+- name: Super Methane Brothers
+  external:
+    website: 'https://www.lemonamiga.com/games/details.php?id=1789'
+    wikipedia: Super Methane Bros.
+  platforms:
+  - Amiga
+  - iOS
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - Platform
+    - Arcade
+
+- name: Super Monkey Ball
+  external:
+    wikipedia: Super Monkey Ball
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Super Pang
+  names:
+  - Super Buster Bros.
+  - Super Buster Brothers
+  - スーパーパン
+  external:
+    website: 'https://www.mobygames.com/game/15411/super-buster-bros/'
+    wikipedia: Super Buster Bros.
+  platforms:
+  - Arcade
+  - SNES
+  meta:
+    genres:
+    - Action
+    - Platform
+    - Shooter
+
+- name: Super Puzzle Fighter II Turbo
+  external:
+    website: 'https://www.capcom-games.com/cfc/en-us/title/spf2x.html'
+    wikipedia: Super Puzzle Fighter II Turbo
+  platforms:
+  - Arcade
+  - Game Boy
+  - PlayStation
+  - PlayStation 3
+  - PlayStation Vita
+  - PSP
+  - Saturn
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: Super Silverbrothers
+  external:
+    website: 'https://www.mobygames.com/game/30517/super-silverbrothers/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Super Smash Bros.
+  external:
+    website: https://www.smashbros.com/
+    wikipedia: Super Smash Bros.
+  platforms:
+  - 3DS
+  - GameCube
+  - N64
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - Fighting
+
+- name: Super Star Trek
+  external:
+    website: 'https://www.mobygames.com/game/91227/super-star-trek/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Simulation
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: Supreme Commander
+  external:
+    wikipedia: Supreme Commander
+  platforms:
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Supernova
+  external:
+    website: 'https://www.mobygames.com/game/3312/supernova/'
+    wikipedia: 'List_of_minor_Apogee_Software_video_games#Supernova'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Sci-Fi
+
+- name: Survivor (1986)
+  external:
+    wikipedia: Survivor (video game)
+  meta:
+    genres:
+    - Puzzle
+
+- name: Swarm Assault
+  external:
+    website: https://www.mobygames.com/game/swarm-assault
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Swing
+  external:
+    wikipedia: Swing (video game)
+  meta:
+    genres:
+    - Puzzle
+    - Arcade
+
+- name: Sword of Fargoal
+  external:
+    website: 'https://fargoal.com/'
+    wikipedia: Sword of Fargoal
+  platforms:
+  - Commodore 64
+  - iOS
+  - Windows
+  meta:
+    genres:
+    - Adventure
+    - Roguelike
+    themes:
+    - Fantasy
+
+- name: Syberia
+  external:
+    website: https://www.mobygames.com/game/6828
+    wikipedia: Syberia (video game)
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Cyberpunk
+  platforms:
+  - Android
+  - DS
+  - OSX
+  - Nintendo Switch
+  - PlayStation 2
+  - PlayStation 3
+  - Windows
+  - Xbox
+  - Xbox 360
+
+- name: Syberia II
+  external:
+    website: https://www.mobygames.com/game/12892
+    wikipedia: Syberia II
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+    themes:
+    - Cyberpunk
+  platforms:
+  - Android
+  - OSX
+  - Nintendo Switch
+  - PlayStation 2
+  - PlayStation 3
+  - Windows
+  - Xbox
+  - Xbox 360
+
+- name: Syndicate
+  external:
+    wikipedia: Syndicate (video game)
+  meta:
+    genres:
+    - Real-Time Tactics
+    themes:
+    - Cyberpunk
+
+- name: Syndicate Wars
+  external:
+    wikipedia: Syndicate Wars
+  meta:
+    genres:
+    - Real-Time Tactics
+    themes:
+    - Cyberpunk
+
+- name: System Shock
+  external:
+    website: https://www.mobygames.com/game/681/system-shock/
+    wikipedia: System Shock
+  meta:
+    genres:
+    - RPG
+    - FPS
+  names:
+  - 'System Shock: Enhanced Edition'
+  platforms:
+  - DOS
+  - Windows
+  - Classic Mac OS
+  - PC-98
+
+- name: Super Metroid
+  external:
+    wikipedia: Super Metroid
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Super ZZT
+  external:
+    wikipedia: ZZT
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    - Adventure
+    - Puzzle
+
+- name: Surround
+  external:
+    website: 'https://www.mobygames.com/game/10934/surround/'
+    wikipedia: Surround (video game)
+  platforms:
+  - Atari
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Action
+
+- name: Swashbuckler
+  external:
+    website: 'https://www.mobygames.com/game/9322/swashbuckler/'
+    wikipedia: Swashbuckler (video game)
+  platforms:
+  - Apple II
+  - PC-98
+  meta:
+    genres:
+    - Fighting
+
+- name: Symbolica
+  external:
+    website: 'https://gb64.com/game.php?id=7709'
+  platforms:
+  - Commodore 64
+  meta:
+    genres:
+    - Puzzle

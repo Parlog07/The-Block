@@ -1,0 +1,1376 @@
+- name: The Daedalus Encounter
+  names:
+  - 'Daedalus Episode 1: Nanpasen no Alien'
+  external:
+    website: 'https://www.mobygames.com/game/3363/the-daedalus-encounter/'
+    wikipedia: The Daedalus Encounter
+  platforms:
+  - 3DO
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+
+- name: The Dagger of Amon Ra
+  names:
+  - 'Laura Bow 2: The Dagger of Amon Ra'
+  external:
+    website: https://www.mobygames.com/game/462
+    wikipedia: The Dagger of Amon Ra
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - DOS
+  - Windows
+
+- name: Daikatana
+  names:
+  - John Romero's Daikatana
+  - 大刀
+  external:
+    website: 'https://web.archive.org/web/20000621141139/http://www.daikatana.com/'
+    wikipedia: Daikatana
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+
+- name: Dance Dance Revolution
+  external:
+    wikipedia: Dance Dance Revolution
+  meta:
+    genres:
+    - Rhythm
+
+- name: Dandy
+  names:
+  - Dandy Dungeon
+  external:
+    website: https://www.mobygames.com/game/30189/dandy/
+    wikipedia: Dandy (video game)
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Arcade
+    themes:
+    - Fantasy
+
+- name: Dangerous Dave in the Haunted Mansion
+  names:
+  - Dangerous Dave 2
+  external:
+    wikipedia: Dangerous Dave in the Haunted Mansion
+  platforms:
+  - DOS
+  - Mobile
+  meta:
+    genres:
+    - Platform
+
+- name: Danny Sullivan's Indy Heat
+  external:
+    website: 'https://www.mobygames.com/game/14150/danny-sullivans-indy-heat/'
+    wikipedia: Danny Sullivan's Indy Heat
+  platforms:
+  - Amiga
+  - Arcade
+  - Atari
+  - Commodore 64
+  - NES
+  meta:
+    genres:
+    - Racing
+
+- name: Darby the Dragon
+  external:
+    website: https://www.mobygames.com/game/61847
+    wikipedia: Darby the Dragon
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Dark Chambers
+  external:
+    website: 'https://www.mobygames.com/game/9550/dark-chambers/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Shooter
+
+- name: The Dark Crystal
+  names:
+  - 'Hi-Res Adventure #6'
+  - 'Hi-Res Adventure #6: The Dark Crystal'
+  external:
+    website: https://www.mobygames.com/game/16877
+    wikipedia: The Dark Crystal (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Fantasy
+  platforms:
+  - Apple II
+  - Atari
+  - FM Towns
+  - iOS
+  - PC-98
+  - Web
+
+- name: Dark Forces
+  external:
+    wikipedia: Dark Forces
+  meta:
+    genres:
+    - FPS
+
+- name: 'Dark Reign: The Future of War'
+  external:
+    wikipedia: 'Dark Reign: The Future of War'
+  platforms:
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Dark Salvation
+  external:
+    website: 'http://www.mangledeye.com/games/darksalvation/'
+    wikipedia: Dark Salvation
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Adult
+    - Horror
+
+- name: DarkSpace
+  external:
+    website: 'http://www.darkspace.net/'
+    wikipedia: DarkSpace
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Real-Time Strategy
+
+- name: Day of the Tentacle
+  names:
+  - 'Maniac Mansion: Day of the Tentacle'
+  external:
+    website: https://www.mobygames.com/game/719
+    wikipedia: Day of the Tentacle
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+  platforms:
+  - Classic Mac OS
+  - DOS
+
+- name: Days of Thunder
+  external:
+    website: 'https://www.mobygames.com/game/1432/days-of-thunder/'
+    wikipedia: Days of Thunder (1990 video game)
+  platforms:
+  - Amiga
+  - Atari
+  - Commodore 64
+  - DOS
+  - Game Boy
+  - NES
+  - ZX Spectrum
+  meta:
+    genres:
+    - Racing
+    - Simulation
+
+- name: Dead City
+  names:
+  - The Dead City
+  external:
+    website: https://www.mobygames.com/game/17224
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Cyberpunk
+    - Horror
+  platforms:
+  - Windows
+
+- name: Deadly Rooms of Death
+  names:
+  - DROD
+  external:
+    website: 'https://caravelgames.com/Articles/Games.html'
+    wikipedia: Deadly Rooms of Death
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+
+- name: Deathchase
+  names:
+  - 3D Deathchase
+  external:
+    wikipedia: Deathchase
+  meta:
+    genres:
+    - Racing
+    subgenres:
+    - Vehicular Combat
+
+- name: Death Rally
+  external:
+    wikipedia: Death Rally
+  platforms:
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - Racing
+    subgenres:
+    - Vehicular Combat
+
+- name: Deathlord
+  external:
+    wikipedia: Deathlord
+  platforms:
+  - Apple II
+  - Commodore 64
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Deathmaze 5000
+  external:
+    website: 'https://www.mobygames.com/game/135020/deathmaze-5000/'
+    wikipedia: Deathmaze 5000
+  platforms:
+  - Apple II
+  meta:
+    genres:
+    - Adventure
+    - Puzzle
+
+- name: Decision in the Desert
+  external:
+    wikipedia: Decision in the Desert
+    website: https://www.mobygames.com/game/decision-in-the-desert
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+  meta:
+    genres:
+    - Strategy
+    themes:
+    - World War II
+
+- name: Decisions of the Elders
+  names:
+  - 'Decisions of the Elders: A Space Quest Prequel'
+  - 'Space Quest Minus 1: Decisions of the Elders'
+  external:
+    website: https://www.mobygames.com/game/146099
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Sci-Fi
+  platforms:
+  - Windows
+
+- name: DEFCON
+  external:
+    wikipedia: DEFCON_(video_game)
+  meta:
+    genres:
+    - Strategy
+    - Real-Time Strategy
+
+- name: Defender
+  external:
+    website: 'https://www.mobygames.com/game/140/defender/'
+    wikipedia: Defender (1981 video game)
+  platforms:
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - PC Booter
+  - Web
+  - Xbox 360
+  meta:
+    genres:
+    - Arcade
+    - Shooter
+    themes:
+    - Sci-Fi
+
+- name: Deflektor
+  external:
+    wikipedia: Deflektor
+  meta:
+    genres:
+    - Puzzle
+
+- name: Delver
+  external:
+    website: https://store.steampowered.com/app/249630/Delver/
+  meta:
+    genres:
+    - RPG
+    - Action
+
+- name: Descent
+  external:
+    website: https://web.archive.org/web/20180421175255/http://interplay.com/games/descent.php
+    wikipedia: Descent (video game)
+  platforms:
+  - DOS
+  - PC-98
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Shmup
+    themes:
+    - Sci-Fi
+
+- name: Descent II
+  external:
+    website: https://www.mobygames.com/game/694/descent-ii/
+    wikipedia: Descent II
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Shmup
+    themes:
+    - Sci-Fi
+
+- name: Descent 3
+  external:
+    wikipedia: Descent 3
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+  meta:
+    genres:
+    - FPS
+    - Shmup
+    themes:
+    - Sci-Fi
+
+- name: Desert Falcon
+  names:
+  - Sphinx
+  - Nile Flyer
+  external:
+    website: 'https://www.mobygames.com/game/10504/desert-falcon/'
+    wikipedia: Desert Falcon
+  platforms:
+  - Atari
+  - Windows
+  - Xbox 360
+  meta:
+    themes:
+    - Egyptian
+
+- name: 'DesertStrike: Return to the Gulf'
+  external:
+    wikipedia: Jungle Strike
+  meta:
+    genres:
+    - Shmup
+
+- name: Destruction Derby
+  external:
+    website: 'https://www.arcade-museum.com/Videogame/destruction-derby'
+    wikipedia: Destruction Derby (1975 video game)
+  platforms:
+  - Arcade
+  meta:
+    genres:
+    - Racing
+
+- name: 'Desperados: Wanted Dead or Alive'
+  external:
+    wikipedia: 'Desperados: Wanted Dead or Alive'
+  meta:
+    genres:
+    - Real-Time Tactics
+
+- name: Destructo
+  external:
+    website: http://www.mobygames.com/game/destructo
+  meta:
+    genres:
+    - Arcade
+  names:
+  - Island of Dr. Destructo
+  - The Island of Doctor Destructo
+
+- name: Deuteros
+  external:
+    wikipedia: Deuteros
+  meta:
+    genres:
+    - Strategy
+
+- name: Diablo
+  external:
+    wikipedia: Diablo (series)
+  meta:
+    genres:
+    - RPG
+    - Action
+    themes:
+    - Horror
+    - Fantasy
+    - Medieval
+
+- name: Diablo II
+  external:
+    wikipedia: Diablo II
+  meta:
+    genres:
+    - RPG
+    - Action
+    subgenres:
+    - Action RPG
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Windows
+
+- name: Diabolika 2
+  names:
+  - 'Diabolika 2: The Devil''s Last Stand'
+  external:
+    website: 'https://www.mobygames.com/game/diabolika-2-the-devils-last-stand'
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Fantasy
+
+- name: Diamonds
+  external:
+    wikipedia: Diamonds (video game)
+  platforms:
+  - Apple II
+  - Classic Mac OS
+  meta:
+    genres:
+    - Action
+
+- name: Diddy Kong Racing
+  external:
+    website: 'https://web.archive.org/web/19981203020725/http://www.dkr.com/'
+    wikipedia: Diddy Kong Racing
+  platforms:
+  - N64
+  meta:
+    genres:
+    - Racing
+
+- name: The Dig
+  external:
+    website: https://www.mobygames.com/game/354
+    wikipedia: The Dig (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Dig Dug
+  external:
+    website: 'https://www.mobygames.com/game/139/dig-dug/'
+    wikipedia: Dig Dug
+  platforms:
+  - 3DS
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - GBA
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PC Booter
+  - PC-98
+  - PlayStation 4
+  - Wii
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - Action
+    themes:
+    - Fantasy
+
+- name: Digger
+  external:
+    wikipedia: Digger (video game)
+  meta:
+    genres:
+    - Arcade
+
+- name: Diggers
+  external:
+    wikipedia: Diggers (video game)
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - DOS
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Sci-Fi
+
+- name: Digimon World
+  external:
+    wikipedia: Digimon World
+  meta:
+    genres:
+    - RPG
+
+- name: Digital Invaders
+  names:
+  - Number Invader
+  external:
+    website: 'http://mycalcdb.free.fr/main.php?l=0&id=6146'
+
+- name: Dink Smallwood
+  external:
+    wikipedia: Dink Smallwood
+  meta:
+    genres:
+    - RPG
+
+- name: Dino Run DX
+  external:
+    website: 'https://store.steampowered.com/app/248330/Dino_Run_DX/'
+  platforms:
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Action
+    - Racing
+    themes:
+    - Prehistoric
+
+- name: Dirty Split
+  external:
+    website: https://www.mobygames.com/game/34858
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - Windows
+
+- name: Discworld
+  external:
+    website: https://www.mobygames.com/game/184
+    wikipedia: Discworld (video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - PlayStation
+  - Saturn
+
+- name: Discworld II
+  names:
+  - 'Discworld II: Missing Presumed...!?'
+  - 'Discworld II: Mortality Bytes!'
+  - 'Mortality Bytes'
+  external:
+    website: https://www.mobygames.com/game/1370
+    wikipedia: 'Discworld II: Missing Presumed...!%3F'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - DOS
+  - PlayStation
+  - Saturn
+  - Windows
+
+- name: "Disney's Beauty and the Beast: A Board Game Adventure"
+  external:
+    website: >-
+      https://www.mobygames.com/game/36954/disneys-beauty-and-the-beast-a-board-game-adventure/
+    wikipedia: "Disney's Beauty and the Beast: A Board Game Adventure"
+  platforms:
+  - Game Boy
+  meta:
+    genres:
+    - Party
+    themes:
+    - Fantasy
+
+- name: Do The Same
+  external:
+    website: 'https://web.archive.org/web/20160307152033/http://dothesame.jagware.org/'
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Puzzle
+
+- name: Dodger
+  external:
+    website: http://www.mobygames.com/game/win3x/dodger
+  meta:
+    genres:
+    - Arcade
+
+- name: Dog Daze
+  external:
+    website: 'https://ataridogdaze.com/dog_daze_old/dog_daze_old.shtml'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+
+- name: Dog Daze Deluxe
+  external:
+    website: 'https://ataridogdaze.com/dog_daze_deluxe/dog_daze_deluxe.shtml'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Action
+
+- name: Dogs of War
+  external:
+    wikipedia: Dogs of War (1989 video game)
+  meta:
+    genres:
+    - Shmup
+
+- name: Dōkyūsei
+  names:
+  - 同級生
+  - 동급생
+  external:
+    wikipedia: Dōkyūsei (video game)
+  platforms:
+  - DOS
+  - FM Towns
+  - Nintendo Switch
+  - PC-98
+  - PlayStation 4
+  - Saturn
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Dōkyūsei 2
+  names:
+  - 同級生2
+  - 동급생 2
+  external:
+    wikipedia: Dōkyūsei 2
+  platforms:
+  - DOS
+  - FM Towns
+  - PC-98
+  - PlayStation
+  - Saturn
+  - Windows
+  meta:
+    subgenres:
+    - Visual Novel
+    themes:
+    - Adult
+    - Anime
+
+- name: Dominion
+  external:
+    website: http://web.archive.org/web/20120621194352/http://www.kamikazegames.com/dominion/
+  meta:
+    genres:
+    - Turn-Based Strategy
+    - Strategy
+    themes:
+    - Fantasy
+
+- name: Donald Duck's Playground
+  external:
+    website: https://www.mobygames.com/game/3491
+    wikipedia: Donald Duck%27s Playground
+  meta:
+    genres:
+    - Educational
+    themes: []
+  platforms:
+  - Amiga
+  - Atari
+  - Apple II
+
+- name: Donald Land
+  names:
+  - ドナルドランド
+  external:
+    website: 'https://www.mobygames.com/game/39964/donald-land/'
+    wikipedia: Donald Land
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Donkey
+  names:
+  - DONKEY.BAS
+  external:
+    website: 'https://www.igdb.com/games/donkey-dot-bas'
+    wikipedia: DONKEY.BAS
+  platforms:
+  - DOS
+
+- name: Donkey Kong
+  external:
+    website: 'https://www.arcade-museum.com/Videogame/donkey-kong'
+    wikipedia: Donkey Kong (1981 video game)
+  platforms:
+  - 3DS
+  - Amstrad CPC
+  - Apple II
+  - Arcade
+  - Atari
+  - Commodore 64
+  - Game Boy
+  - MSX
+  - NES
+  - Nintendo Switch
+  - PC Booter
+  - Wii
+  - ZX Spectrum
+  meta:
+    genres:
+    - Platform
+
+- name: Donkey Kong (Game & Watch)
+  external:
+    website: https://www.mobygames.com/game/88027/game-watch-multi-screen-donkey-kong/
+  meta:
+    genres:
+    - Arcade
+
+- name: Doom
+  names:
+  - Doom II
+  external:
+    wikipedia: Doom
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Doom 3
+  external:
+    website: 'https://web.archive.org/web/20080104193225/http://www.doom3.com/'
+    wikipedia: Doom 3
+  platforms:
+  - Windows
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Doom 64
+  external:
+    website: 'https://www.mobygames.com/game/5195/doom-64/'
+    wikipedia: Doom 64
+  platforms:
+  - N64
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+
+- name: Double Dragon
+  external:
+    wikipedia: Double_Dragon
+  meta:
+    genres:
+    - Action
+
+- name: 'Double Dragon II: The Revenge'
+  names:
+  - ダブルドラゴンⅡ ザ・リベンジ
+  external:
+    website: 'https://www.mobygames.com/game/1840/double-dragon-ii-the-revenge/'
+    wikipedia: 'Double Dragon II: The Revenge'
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Arcade
+  - Atari
+  - Commodore 64
+  - DOS
+  - Genesis
+  - MSX
+  - Nintendo Switch
+  - PlayStation 4
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+
+- name: Doubleback
+  external:
+    website: https://www.mobygames.com/game/49948/doubleback/
+  meta:
+    genres:
+    - Action
+    - Arcade
+
+- name: Dr. Mario
+  external:
+    website: 'https://www.nintendo.com/jp/famicom/software/hvc-vu/index.html'
+    wikipedia: Dr. Mario
+  platforms:
+  - Arcade
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Puzzle
+
+- name: Dr. Seuss's ABC
+  external:
+    website: https://www.mobygames.com/game/71855
+  meta:
+    genres:
+    - Educational
+  platforms:
+  - Classic Mac OS
+  - Windows
+
+- name: Dragon Age II
+  external:
+    wikipedia: Dragon Age II
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: 'Dragon Age: Origins'
+  external:
+    wikipedia: 'Dragon Age: Origins'
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Dragon Alpha
+  external:
+    website: https://archive.org/details/tucows_233608_Dragon_Alpha
+  platforms:
+  - Classic Mac OS
+  - OSX
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: 'Dragon Ball Z III: Ressen Jinzō Ningen'
+  external:
+    website: 'https://www.mobygames.com/game/13393/dragon-ball-z-iii-ressen-jinzo-ningen/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Fighting
+    - RPG
+    themes:
+    - Anime
+
+- name: 'Dragon Ball Z Side Story: Plan to Eradicate the Saiyans'
+  names:
+  - ドラゴンボールZ外伝 サイヤ人絶滅計画
+  external:
+    website: >-
+      https://www.mobygames.com/game/13369/dragon-ball-z-gaiden-saiyajin-zetsumetsu-keikaku/
+    wikipedia: 'Dragon Ball Z Side Story: Plan to Eradicate the Saiyans'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - RPG
+
+- name: 'Dragon Ball Z: Kyōshū! Saiyajin'
+  names:
+  - 'ドラゴンボールZ 強襲!サイヤ人'
+  external:
+    website: 'https://www.mobygames.com/game/13366/dragon-ball-z-kyoshu-saiyajin/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - RPG
+
+- name: Dragon History
+  names:
+  - Dračí Historie
+  external:
+    website: https://www.mobygames.com/game/44689
+    wikipedia: Dračí Historie
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - DOS
+
+- name: Dragon Quest
+  names:
+  - Dragon Warrior
+  - ドラゴンクエスト
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/dq/'
+    wikipedia: Dragon Quest (video game)
+  platforms:
+  - MSX
+  - NES
+  meta:
+    genres:
+    - RPG
+
+- name: Dragonfire
+  external:
+    website: 'https://www.mobygames.com/game/9358/dragonfire/'
+    wikipedia: Dragonfire (video game)
+  platforms:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+
+- name: 'Drakan: Order of the Flame'
+  external:
+    wikipedia: 'Drakan: Order of the Flame'
+  meta:
+    genres:
+    - Action
+    - Adventure
+    themes:
+    - Fantasy
+    - Medieval
+  platforms:
+  - Windows
+
+- name: 'Dráscula: The Vampire Strikes Back'
+  external:
+    website: https://www.mobygames.com/game/14108/drascula-the-vampire-strikes-back/
+    wikipedia: 'Dráscula: The Vampire Strikes Back'
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Comedy
+    - Fantasy
+  platforms:
+  - DOS
+  - Windows
+
+- name: DreamWeb
+  external:
+    website: https://www.mobygames.com/game/1905/dreamweb/
+    wikipedia: DreamWeb
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Cyberpunk
+  platforms:
+  - DOS
+
+- name: Driller
+  names:
+  - Space Station Oblivion
+  external:
+    wikipedia: Driller (video game)
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Atari
+  - Amstrad CPC
+  - DOS
+  - ZX Spectrum
+
+- name: 'Driver 2'
+  external:
+    wikipedia: 'Driver 2'
+  meta:
+    genres:
+    - Racing
+    - Action
+  platforms:
+  - PlayStation
+
+- name: Drugwars
+  external:
+    wikipedia: Drug Wars (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Strategy
+    - Turn-Based Strategy
+    themes:
+    - Crime
+
+- name: Dstroy
+  external:
+    website: 'http://les.bat.pages.free.fr/Pages/fun/jeux/dstroy/ds.html'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Arcade
+
+- name: Duck Game
+  external:
+    wikipedia: Duck Game
+  platforms:
+  - Windows
+  - PlayStation 4
+  - Nintendo Switch
+  meta:
+    genres:
+    - Action
+    - Arcade
+    - Platform
+
+- name: Duck Hunt
+  external:
+    wikipedia: Duck Hunt
+  meta:
+    genres:
+    - Arcade
+
+- name: 'Duckman: The Graphic Adventures of a Private Dick'
+  external:
+    website: https://www.mobygames.com/game/3506
+    wikipedia: 'Duckman: The Graphic Adventures of a Private Dick'
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - Windows
+
+- name: Duelyst
+  external:
+    website: 'https://web.archive.org/web/20200324040048/https://duelyst.com/'
+    wikipedia: Duelyst
+  platforms:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - Card Game
+    - Turn-Based Strategy
+
+- name: Duke Nukem
+  external:
+    wikipedia: Duke Nukem (video game)
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+    
+- name: Duke Nukem II
+  external:
+    wikipedia: Duke Nukem II
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Platform
+    themes:
+    - Sci-Fi
+
+- name: Duke Nukem 3D
+  external:
+    website: >-
+      https://web.archive.org/web/20220327061912/https://3drealms.com/catalog/duke-nukem-3d_27/
+    wikipedia: Duke Nukem 3D
+  platforms:
+  - Android
+  - DOS
+  - iOS
+  - Linux
+  - N64
+  - OSX
+  - PlayStation
+  - PlayStation 3
+  - PlayStation 4
+  - Saturn
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - FPS
+
+- name: Duke Nukem Forever
+  external:
+    website: >-
+      https://web.archive.org/web/20250326081126/http://www.dukenukemforever.com/full/us/
+    wikipedia: Duke Nukem Forever
+  platforms:
+  - OSX
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Adult
+    - Comedy
+    - Sci-Fi
+
+- name: 'Duke Nukem: Zero Hour'
+  external:
+    website: >-
+      https://web.archive.org/web/20071129214915/http://www.eurocom.co.uk/index.php/video-games/duke-nukem-zero-hour
+    wikipedia: 'Duke Nukem: Zero Hour'
+  platforms:
+  - N64
+  meta:
+    genres:
+    - TPS
+    themes:
+    - Sci-Fi
+
+- name: DuckTales
+  external:
+    website: 'https://www.mobygames.com/game/8606/disneys-ducktales/'
+    wikipedia: DuckTales (video game)
+  platforms:
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Action
+    - Platform
+
+- name: Dune
+  external:
+    wikipedia: Dune (video game)
+  platforms:
+  - Amiga
+  - DOS
+  - Sega CD
+  meta:
+    genres:
+    - Adventure
+    - Strategy
+    themes:
+    - Sci-Fi
+
+- name: Dune 2
+  external:
+    wikipedia: Dune 2
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Dune 2000
+  external:
+    wikipedia: Dune 2000
+  meta:
+    genres:
+    - Real-Time Strategy
+    themes:
+    - Sci-Fi
+
+- name: Dungeon Keeper
+  external:
+    wikipedia: Dungeon Keeper
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    themes:
+    - Horror
+    - Fantasy
+    - Comedy
+
+- name: Dungeon Keeper 2
+  external:
+    wikipedia: Dungeon Keeper 2
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+
+- name: Dungeon Master
+  names:
+  - Chaos Strikes Back
+  external:
+    wikipedia: Dungeon Master (video game)
+  meta:
+    genres:
+    - RPG
+    - Action
+    themes:
+    - Fantasy
+
+- name: 'Dungeon Master II: The Legend of Skullkeep'
+  external:
+    website: 'https://www.mobygames.com/game/914/dungeon-master-ii-skullkeep/'
+    wikipedia: 'Dungeon Master II: The Legend of Skullkeep'
+  platforms:
+  - Amiga
+  - Classic Mac OS
+  - DOS
+  - FM Towns
+  - PC-98
+  - Sega CD
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Dungeons of Daggorath
+  external:
+    website: 'http://iloveglory.freehostia.com/daggorath/index.html'
+    wikipedia: Dungeons of Daggorath
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: 'Dwarf Fortress'
+  external:
+    wikipedia: 'Dwarf Fortress'
+  meta:
+    genres:
+    - Strategy
+    - RPG
+    themes:
+    - Fantasy
+
+- name: DX-Ball
+  external:
+    wikipedia: DX-Ball
+  meta:
+    genres:
+    - Arcade

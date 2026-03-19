@@ -1,0 +1,940 @@
+- name: F-1 Spirit
+  external:
+    wikipedia: F-1 Spirit (series)
+  meta:
+    genres:
+    - Sports
+    - Racing
+    themes:
+    - Motorsports
+
+- name: The F.A. Premier League Stars
+  external:
+    website: 'https://www.mobygames.com/game/11402/the-fa-premier-league-stars/'
+    wikipedia: The F.A. Premier League Stars
+  platforms:
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - Sports
+    subgenres:
+    - Soccer
+
+- name: F.E.A.R.
+  external:
+    wikipedia: F.E.A.R. (video game)
+  platforms:
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Horror
+
+- name: F-Zero
+  external:
+    wikipedia: F-Zero
+  meta:
+    genres:
+    - Racing
+
+- name: Fade to Black
+  external:
+    wikipedia: Fade to Black (video game)
+  meta:
+    genres:
+    - Action
+    - Adventure
+
+- name: Factorio
+  external:
+    website: https://factorio.com/
+    wikipedia: Factorio
+  meta:
+    genres:
+    - Simulation
+
+- name: Falcon
+  external:
+    wikipedia: Falcon (video game series)
+  meta:
+    genres:
+    - Simulation
+
+- name: Fall Down
+  external:
+    website: http://www.mobygames.com/game/fall-down
+  meta:
+    genres:
+    - Arcade
+
+- name: Fallout
+  names:
+  - 'Fallout: A Post Nuclear Role Playing Game'
+  external:
+    wikipedia: Fallout (video game)
+  platforms:
+  - Classic Mac OS
+  - DOS
+  - OSX
+  - Windows
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Post-Apocalyptic
+
+- name: Fallout 2
+  external:
+    wikipedia: Fallout 2
+  meta:
+    genres:
+    - RPG
+
+- name: 'Fallout 3: Van Buren'
+  external:
+    wikipedia: Van Buren (video game)
+  meta:
+    genres:
+    - RPG
+
+- name: Fallout Online
+  external:
+    wikipedia: Fallout Online
+  meta:
+    genres:
+    - MMORPG
+
+- name: 'Fallout Tactics: Brotherhood of Steel'
+  external:
+    wikipedia: 'Fallout Tactics: Brotherhood of Steel'
+  meta:
+    genres:
+    - Real-Time Tactics
+
+- name: Fantastic Journey
+  external:
+    wikipedia: Fantastic Parodius - Pursue the Glory of the Past
+  meta:
+    genres:
+    - Shmup
+  names:
+  - "Gokuj\u014D Parodius!"
+  - Fantastic Parodius - Pursue the Glory of the Past
+
+- name: Fascination
+  external:
+    website: https://www.mobygames.com/game/9399
+    wikipedia: Fascination (video game)
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Adult
+    - Crime
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+
+- name: Fast Food
+  names:
+  - Fast Food Dizzy
+  external:
+    website: 'https://www.mobygames.com/game/8798/fast-food/'
+    wikipedia: Fast Food (1989 video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+  meta:
+    genres:
+    - Action
+
+- name: Fatty Bear's Birthday Surprise
+  external:
+    website: https://www.mobygames.com/game/8552
+    wikipedia: Fatty Bear%27s Birthday Surprise
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - 3DO
+  - DOS
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: Fatty Bear's FunPack
+  external:
+    website: https://www.mobygames.com/game/20950
+  meta:
+    genres:
+    - Educational
+    - Puzzle
+  platforms:
+  - 3DO
+  - DOS
+
+- name: Faxanadu
+  external:
+    website: 'https://www.mobygames.com/game/7331/faxanadu/'
+    wikipedia: Faxanadu
+  platforms:
+  - NES
+  - Wii
+  meta:
+    genres:
+    - Platform
+    - RPG
+    themes:
+    - Fantasy
+
+- name: The Feeble Files
+  external:
+    website: https://www.mobygames.com/game/2198
+    wikipedia: The Feeble Files
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Felix the Cat
+  external:
+    website: 'https://www.mobygames.com/game/22317/felix-the-cat/'
+    wikipedia: Felix the Cat (video game)
+  platforms:
+  - Game Boy
+  - NES
+  meta:
+    genres:
+    - Platform
+
+- name: Feud
+  external:
+    website: 'https://spectrumcomputing.co.uk/entry/0001744'
+    wikipedia: Feud (video game)
+  platforms:
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - MSX
+  - ZX Spectrum
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Fantasy
+
+- name: FIFA 2001
+  names:
+  - 'FIFA 2001: Major League Soccer'
+  - 'FIFA 2001: World Championship'
+  - FIFA2001 ワールドチャンピオンシップ
+  external:
+    wikipedia: FIFA 2001
+  platforms:
+  - PlayStation
+  - PlayStation 2
+  - Windows
+  meta:
+    genres:
+    - Sports
+    - Simulation
+    subgenres:
+    - Soccer
+
+- name: Fight for Life
+  external:
+    website: 'https://www.mobygames.com/game/6840/fight-for-life/'
+    wikipedia: Fight for Life (video game)
+  platforms:
+  - Jaguar
+  meta:
+    genres:
+    - Fighting
+
+- name: Fill 'Er Up
+  external:
+    website: 'https://www.mobygames.com/game/182701/fill-er-up/'
+  platforms:
+  - Atari
+  meta:
+    genres:
+    - Puzzle
+
+- name: Final Fantasy
+  external:
+    website: 'https://www.mobygames.com/game/7313/final-fantasy/'
+    wikipedia: Final Fantasy (video game)
+  platforms:
+  - 3DS
+  - MSX
+  - NES
+  - Wii
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy II
+  names:
+  - ファイナルファンタジーII
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/ff2/'
+    wikipedia: Final Fantasy II
+  platforms:
+  - NES
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy III
+  names:
+  - ファイナルファンタジーIII
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/ff3/'
+    wikipedia: Final Fantasy III
+  platforms:
+  - NES
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy IV
+  names:
+  - ファイナルファンタジーIV
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/ff4/'
+    wikipedia: Final Fantasy IV
+  platforms:
+  - SNES
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy IX
+  external:
+    wikipedia: Final Fantasy IX
+  platforms:
+  - Android
+  - iOS
+  - Nintendo Switch
+  - PlayStation
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy V
+  names:
+  - ファイナルファンタジーV
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/ff5/'
+    wikipedia: Final Fantasy V
+  platforms:
+  - SNES
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy VI
+  names:
+  - ファイナルファンタジーVI
+  external:
+    website: 'https://www.jp.square-enix.com/game/detail/ff6/'
+    wikipedia: Final Fantasy VI
+  platforms:
+  - SNES
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Final Fantasy VII
+  external:
+    wikipedia: Final Fantasy VII
+  meta:
+    genres:
+    - RPG
+
+- name: Final Fantasy VIII
+  external:
+    wikipedia: Final Fantasy VIII
+  meta:
+    genres:
+    - RPG
+
+- name: Final Fight
+  external:
+    wikipedia: Final_Fight
+  meta:
+    genres:
+    - Action
+
+- name: Fire Emblem Series
+  external:
+    website: 'https://www.nintendo.com/jp/fe/index.html'
+    wikipedia: Fire Emblem
+  platforms:
+  - 3DS
+  - Android
+  - Game Boy
+  - GameCube
+  - iOS
+  - Nintendo Switch
+  - Wii
+  meta:
+    genres:
+    - RPG
+    themes:
+    - Fantasy
+
+- name: Fire Power
+  external:
+    wikipedia: Fire Power
+  meta:
+    genres:
+    - Action
+  platforms:
+  - Amiga
+  - Commodore 64
+  - DOS
+
+- name: Fish!
+  external:
+    website: https://www.mobygames.com/game/2755
+    wikipedia: Fish!
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Text Adventure
+    themes:
+    - Aquatic
+    - Comedy
+  platforms:
+  - Acorn 32-bit
+  - Amiga
+  - Amstrad CPC
+  - Atari
+  - Commodore 64
+  - DOS
+  - ZX Spectrum
+
+- name: Fish Fillets
+  external:
+    wikipedia: Fish Fillets NG
+  meta:
+    genres:
+    - Puzzle
+    themes:
+    - Aquatic
+  platforms:
+  - Windows
+
+- name: Five Lethal Demons
+  names:
+  - 5LD
+  external:
+    website: https://www.mobygames.com/game/71571
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+  platforms:
+  - Windows
+
+- name: Five Magical Amulets
+  external:
+    website: https://www.mobygames.com/game/17091
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Android
+  - iOS
+  - Windows
+
+- name: Five Nights at Freddy's
+  names:
+  - FNaF
+  - FNAF
+  - Five Nights
+  external:
+    website: 'http://scottgames.com/'
+    wikipedia: Five Nights at Freddy's
+  platforms:
+  - Android
+  - iOS
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    subgenres:
+    - Point and click
+    - Survival
+    themes:
+    - Horror
+
+- name: Flag Catcher
+  external:
+    website: http://hol.abime.net/5578
+  meta:
+    genres:
+    - Puzzle
+
+- name: Flappy Bird
+  external:
+    wikipedia: Flappy Bird
+  meta:
+    genres:
+    - Arcade
+    - Platform
+
+- name: Flashback
+  external:
+    wikipedia: Flashback (1992 video game)
+  meta:
+    genres:
+    - Adventure
+    - Platform
+
+- name: Flight of the Amazon Queen
+  external:
+    wikipedia: Flight of the Amazon Queen
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Android
+  - DOS
+  - iOS
+
+- name: Flotilla
+  external:
+    website: 'https://blendogames.com/flotilla/'
+    wikipedia: Flotilla (video game)
+  platforms:
+  - Windows
+  - Xbox 360
+  meta:
+    genres:
+    - Turn-Based Strategy
+    subgenres:
+    - Space Flight
+    themes:
+    - Sci-Fi
+
+- name: flOw
+  external:
+    website: 'https://thatgamecompany.com/flow/'
+    wikipedia: Flow (video game)
+  platforms:
+  - PlayStation 3
+  - PlayStation 4
+  - PlayStation Vita
+  - Web
+  meta:
+    genres:
+    - Simulation
+
+- name: Fly8
+  external:
+    website: 'https://www.mobygames.com/game/80721/fly8/'
+  platforms:
+  - Amiga
+  - DOS
+  - Windows
+  meta:
+    genres:
+    - Flight
+    - Simulation
+
+- name: Flying Shark
+  external:
+    wikipedia: Flying Shark
+  meta:
+    genres:
+    - Shmup
+
+- name: Football Manager
+  external:
+    wikipedia: Football Manager (1982 series)
+  meta:
+    genres:
+    - Simulation
+    - Strategy
+    - Sports
+    subgenres:
+    - Soccer
+    themes:
+    - Management
+
+- name: 'Forgotten Realms: Unlimited Adventures'
+  external:
+    wikipedia: 'Forgotten Realms: Unlimited Adventures'
+  meta:
+    genres:
+    - RPG
+
+- name: Forsaken
+  external:
+    wikipedia: Forsaken (video game)
+  meta:
+    genres:
+    - FPS
+    themes:
+    - Sci-Fi
+    - Post-Apocalyptic
+
+- name: Fort Apocalypse
+  external:
+    website: 'https://www.c64-wiki.de/wiki/Fort_Apocalypse'
+    wikipedia: Fort Apocalypse
+  platforms:
+  - Atari
+  - Commodore 64
+  meta:
+    genres:
+    - Shooter
+
+- name: Freddi Fish and the Case of the Missing Kelp Seeds
+  external:
+    website: https://www.mobygames.com/game/1199
+    wikipedia: Freddi Fish and the Case of the Missing Kelp Seeds
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Wii
+  - Windows
+
+- name: 'Freddi Fish 2: The Case of the Haunted Schoolhouse'
+  external:
+    website: https://www.mobygames.com/game/5522
+    wikipedia: 'Freddi Fish 2: The Case of the Haunted Schoolhouse'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    - Puzzle
+    subgenres:
+    - Point and click
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: 'Freddi Fish 3: The Case of the Stolen Conch Shell'
+  external:
+    website: https://www.mobygames.com/game/5355
+    wikipedia: 'Freddi Fish 3: The Case of the Stolen Conch Shell'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    - Puzzle
+    subgenres:
+    - Point and click
+    themes:
+    - Fantasy
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Nintendo Switch
+  - PlayStation 4
+  - Windows
+
+- name: 'Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch'
+  external:
+    website: https://www.mobygames.com/game/5157
+    wikipedia: 'Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+    themes:
+    - Western
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: 'Freddi Fish 5: The Case of the Creature of Coral Cove'
+  external:
+    website: https://www.mobygames.com/game/5275
+    wikipedia: 'Freddi Fish 5: The Case of the Creature of Coral Cove'
+  meta:
+    genres:
+    - Adventure
+    - Educational
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Freddi Fish and Luther's Maze Madness
+  external:
+    website: https://www.mobygames.com/game/21062
+  meta:
+    genres:
+    - Action
+    - Arcade
+  platforms:
+  - Android
+  - Classic Mac OS
+  - iOS
+  - Linux
+  - Windows
+
+- name: Freddi Fish and Luther's Water Worries
+  external:
+    website: https://www.mobygames.com/game/20988
+  meta:
+    genres:
+    - Action
+    - Arcade
+  platforms:
+  - Classic Mac OS
+  - Linux
+  - Windows
+
+- name: 'Freddy Pharkas: Frontier Pharmacist'
+  external:
+    website: https://www.mobygames.com/game/1785
+    wikipedia: 'Freddy Pharkas: Frontier Pharmacist'
+  meta:
+    genres:
+    - Adventure
+    themes:
+    - Comedy
+    - Western
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Free Fall
+  external:
+    website: 'https://www.mobygames.com/game/195753/free-fall/'
+  meta:
+    genres:
+    - Action
+    themes:
+    - Sci-Fi
+
+- name: Free Fall (Color Dreams)
+  names:
+  - Fishfall
+  external:
+    website: 'https://www.romhacking.net/games/1587/'
+  platforms:
+  - NES
+  meta:
+    genres:
+    - Puzzle
+
+- name: Freelancer
+  external:
+    wikipedia: Freelancer (video game)
+  meta:
+    genres:
+    - Action
+    - Simulation
+    - TPS
+    themes:
+    - Sci-Fi
+
+- name: FreeSpace 2
+  external:
+    wikipedia: FreeSpace 2
+  meta:
+    genres:
+    - Action
+    - Simulation
+    themes:
+    - Sci-Fi
+
+- name: Frog!
+  external:
+    website: http://www.mobygames.com/game/frog
+  meta:
+    genres:
+    - Arcade
+  names:
+  - Back To Nature
+
+- name: Frogger
+  external:
+    website: https://www.mobygames.com/game/1540/frogger/
+    wikipedia: Frogger
+  meta:
+    genres:
+    - Arcade
+
+- name: Frogs and Flies
+  external:
+    wikipedia: Frogs and Flies
+  meta:
+    genres:
+    - Arcade
+  names:
+  - Frog Bog
+
+- name: Fruit Ninja
+  external:
+    wikipedia: Fruit Ninja
+  platforms:
+  - Android
+  - iOS
+  - Mobile
+  - PlayStation 4
+  - PlayStation Vita
+  - Windows
+  - Xbox 360
+  - Xbox One
+  meta:
+    genres:
+    - Arcade
+  
+- name: Full Metal Jacket
+  names:
+  - '풀 메탈 자켓: 그 겨울의 시작'
+  external:
+    website: 'https://www.mobygames.com/game/73676/full-metal-jacket/'
+  platforms:
+  - DOS
+  meta:
+    genres:
+    - Action
+    subgenres:
+    - Vehicular Combat
+    themes:
+    - Sci-Fi
+
+- name: Full Pipe
+  external:
+    website: https://www.mobygames.com/game/26283
+    wikipedia: Full Pipe
+  meta:
+    genres:
+    - Adventure
+  platforms:
+  - Android
+  - iOS
+  - Windows
+
+- name: Full Throttle
+  external:
+    website: https://www.mobygames.com/game/940
+    wikipedia: Full Throttle (1995 video game)
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Crime
+  platforms:
+  - DOS
+  - Classic Mac OS
+  - Windows
+
+- name: Full Tilt! Pinball
+  names:
+  - 3D Pinball for Windows - Space Cadet
+  external:
+    wikipedia: Full Tilt! Pinball
+  platforms:
+  - Classic Mac OS
+  - Windows
+  meta:
+    genres:
+    - Arcade
+    subgenres:
+    - Pinball
+
+- name: 'Future Cop: LAPD'
+  external:
+    wikipedia: 'Future Cop: LAPD'
+  platforms:
+  - OSX
+  - PlayStation
+  - Windows
+  meta:
+    genres:
+    - TPS
+
+- name: Future Wars
+  names:
+  - 'Future Wars: Adventures in Time'
+  - 'Time Travelers: The Menace'
+  external:
+    website: https://www.mobygames.com/game/2205
+    wikipedia: Future Wars
+  meta:
+    genres:
+    - Adventure
+    subgenres:
+    - Point and click
+    themes:
+    - Sci-Fi
+  platforms:
+  - Amiga
+  - Atari
+  - DOS
+  - PC-98
